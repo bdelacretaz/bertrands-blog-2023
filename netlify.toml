@@ -3,3 +3,9 @@
   to = "https://cranky-murdock.codeconsult.ch/:splat"
   status = 301
   force = true
+
+[[redirects]]
+  from = "https://cranky-murdock-7f37de.netlify.app/*"
+  to = "https://cranky-murdock.codeconsult.ch/:splat"
+  status = 301
+  force = true
