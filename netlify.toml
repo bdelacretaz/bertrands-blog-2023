@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://newblog.codeconsult.ch/"
-  to = "https://cranky-murdock.codeconsult.ch/"
+  from = "https://newblog.codeconsult.ch/*"
+  to = "https://cranky-murdock.codeconsult.ch/:splat"
   status = 301
   force = true
