@@ -1,6 +1,6 @@
 ---
 title: "Leaving my boss after 18 years..."
-date: 2007-03-31
+date: 2007-04-01
 tags: 
   - "milestones"
   - "post"
