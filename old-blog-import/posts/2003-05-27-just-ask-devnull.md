@@ -1,8 +1,10 @@
 ---
 title: "Just ask /dev/null"
-date: "2003-05-27"
-categories: 
+date: 2003-05-27
+tags: 
   - "thoughts"
+  - "post"
+slug: just-ask-devnull
 ---
 
 Revently I've had service-related questions for both HP and Sony. No problem, they have nice feedback/question forms on their web sites, so you just ask and get a response _within two business days_ or _as soon as possible_.

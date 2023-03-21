@@ -1,9 +1,11 @@
 ---
 title: "Good technology makes things easier than you think"
-date: "2008-10-03"
-categories: 
+date: 2008-10-03
+tags: 
   - "osgi"
   - "thoughts"
+  - "post"
+slug: good-technology-makes-things-easier-than-you-think
 ---
 
 Working on macosx, I often find that things are easier than I thought - just drop something where it makes sense, or do what you would naturally do, and things work as expected. Often, at least.

@@ -1,12 +1,14 @@
 ---
 title: "Sling at ApacheCon US 07"
-date: "2007-11-14"
-categories: 
+date: 2007-11-14
+tags: 
   - "apachecon"
   - "content"
+  - "post"
+slug: sling-at-apachecon-us-07
 ---
 
-[![sling-logo.png](images/sling-logo.png)](http://incubator.apache.org/sling)If you're here, don't miss the Sling and microsling action!
+[![sling-logo.png](http://codeconsult.ch/bertrand/archives/images/sling-logo.png)](http://incubator.apache.org/sling)If you're here, don't miss the Sling and microsling action!
 
 Tonight at 8:30 PM, [Sling BOF](http://wiki.apache.org/apachecon/BirdsOfaFeatherUs07) in the Atlanta A & B room.
 

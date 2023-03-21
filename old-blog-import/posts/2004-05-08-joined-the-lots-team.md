@@ -1,8 +1,10 @@
 ---
 title: "Joined the LOTS team"
-date: "2004-05-08"
-categories: 
+date: 2004-05-08
+tags: 
   - "open-source"
+  - "post"
+slug: joined-the-lots-team
 ---
 
 Thanks to the [LOTS](http://lots.ch/) team for inviting me aboard!

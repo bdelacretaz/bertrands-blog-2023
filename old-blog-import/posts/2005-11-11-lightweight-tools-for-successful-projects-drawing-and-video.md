@@ -1,12 +1,14 @@
 ---
 title: "Lightweight Tools for successful Projects: drawing and video"
-date: "2005-11-11"
-categories: 
+date: 2005-11-11
+tags: 
   - "open-source"
   - "thoughts"
+  - "post"
+slug: lightweight-tools-for-successful-projects-drawing-and-video
 ---
 
-[![lightweight-tools-w300.jpg](images/lightweight-tools-w300.jpg)](http://codeconsult.ch/bertrand/archives/images/lightweight-tools-fullsize.jpg)Found this drawing in my digital mess, and given the time that it took me to create it's probably worth putting here. You can click on the image for a full-size version.
+[![lightweight-tools-w300.jpg](http://codeconsult.ch/bertrand/archives/images/lightweight-tools-w300.jpg)](http://codeconsult.ch/bertrand/archives/images/lightweight-tools-fullsize.jpg)Found this drawing in my digital mess, and given the time that it took me to create it's probably worth putting here. You can click on the image for a full-size version.
 
 It's been two years now since I first gave this presentation at the [Cocoon GetTogether 2003](http://www.orixo.com/orixo/events/gt2003/sessions.html#bertrand), but it's still as valid as ever: projects (and not only software projects) can learn a lot from watching how Open Source organizations work.
 

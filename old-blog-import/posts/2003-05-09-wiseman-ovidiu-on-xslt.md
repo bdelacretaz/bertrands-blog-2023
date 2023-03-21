@@ -1,6 +1,9 @@
 ---
 title: "Wiseman Ovidiu on XSLT"
-date: "2003-05-09"
+date: 2003-05-09
+tags: 
+  - "post"
+slug: wiseman-ovidiu-on-xslt
 ---
 
 Great ideas like [this one](http://www.webweavertech.com/ovidiu/weblog/archives/000255.html) make me go _why didn't I think of this before_...

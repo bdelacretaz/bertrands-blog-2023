@@ -1,10 +1,12 @@
 ---
 title: "FOP 0.90 alpha 1 released, congratulations!"
-date: "2005-11-23"
-categories: 
+date: 2005-11-23
+tags: 
   - "open-source"
   - "tools"
   - "xml"
+  - "post"
+slug: fop-090-alpha-1-released-congratulations
 ---
 
 The [Apache FOP](http://xmlgraphics.apache.org/fop/) team just announced the availability of FOP 0.90 alpha 1, see the official announcement on the FOP mailing list.

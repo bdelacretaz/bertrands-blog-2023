@@ -1,11 +1,12 @@
 ---
 title: "Would you hire an open source developer?"
-date: "2018-01-03"
-categories: 
-  - "thoughts"
+date: 2018-01-03
 tags: 
   - "development"
   - "software"
+  - "thoughts"
+  - "post"
+slug: would-you-hire-an-open-source-developer
 ---
 
 _This blog post of mine was initially published by [Computerworld UK](https://www.computerworlduk.com/it-business/would-you-hire-an-open-source-developer-3570399/) in 2010_.

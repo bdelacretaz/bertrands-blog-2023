@@ -1,8 +1,10 @@
 ---
 title: "It's all in the action"
-date: "2004-02-20"
-categories: 
+date: 2004-02-20
+tags: 
   - "thoughts"
+  - "post"
+slug: its-all-in-the-action
 ---
 
 Berin Loritsch has [wise words](http://jroller.com/page/bloritsch/20040219#action_vs_planning) on action vs. planning, notably:

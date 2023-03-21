@@ -1,8 +1,10 @@
 ---
 title: "Boycotting Halloween"
-date: "2004-10-31"
-categories: 
+date: 2004-10-31
+tags: 
   - "thoughts"
+  - "post"
+slug: boycotting-halloween
 ---
 
 Like many people I like travelling, discovering countries and I think most of all discovering the different ways of living and thinking of their people.

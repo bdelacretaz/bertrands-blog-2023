@@ -1,8 +1,10 @@
 ---
 title: "Long live Lepido!"
-date: "2005-04-05"
-categories: 
+date: 2005-04-05
+tags: 
   - "cocoon"
+  - "post"
+slug: long-live-lepido
 ---
 
 Sylvain Wallez [announces](http://marc.theaimsgroup.com/?l=xml-cocoon-users&m=111272244631496&w=2) the [Eclipse Lepido](http://www.eclipse.org/proposals/eclipse-lepido/index.html) project, aimed at building open source IDE tools for [Apache Cocoon](http://cocoon.apache.org), based on the Eclipse platform.

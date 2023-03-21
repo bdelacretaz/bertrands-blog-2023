@@ -1,8 +1,10 @@
 ---
 title: "hexidec java wysiwyg editor"
-date: "2004-04-22"
-categories: 
+date: 2004-04-22
+tags: 
   - "tools"
+  - "post"
+slug: hexidec-java-wysiwyg-editor
 ---
 
 I'm working on lightweight CMS concepts for a (potential) new project these days, and have been looking at wysiwyg editors that work (meaning _work_) in a browser.

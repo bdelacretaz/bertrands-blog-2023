@@ -1,8 +1,10 @@
 ---
 title: "Don't miss the New Bubble!"
-date: "2007-12-06"
-categories: 
+date: 2007-12-06
+tags: 
   - "fun"
+  - "post"
+slug: dont-miss-the-new-bubble
 ---
 
 Me, I'm seriously thinking of investing in those Web two-oh friendship bracelets...

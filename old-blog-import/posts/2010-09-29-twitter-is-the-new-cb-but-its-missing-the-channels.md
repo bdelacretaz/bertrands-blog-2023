@@ -1,11 +1,12 @@
 ---
 title: "Twitter is the new CB...but it's missing the channels!"
-date: "2010-09-29"
-categories: 
-  - "collaboration"
-  - "the-web"
+date: 2010-09-29
 tags: 
   - "twitter"
+  - "collaboration"
+  - "the-web"
+  - "post"
+slug: twitter-is-the-new-cb-but-its-missing-the-channels
 ---
 
 When I was a kid, [Citizen Band Radio](http://en.wikipedia.org/wiki/Citizens'_band_radio) (aka "CB") was all the rage if you could afford it.

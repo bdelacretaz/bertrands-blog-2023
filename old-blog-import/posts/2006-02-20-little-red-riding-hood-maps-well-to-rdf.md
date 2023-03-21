@@ -1,8 +1,10 @@
 ---
 title: "Little Red Riding Hood maps well to RDF"
-date: "2006-02-20"
-categories: 
+date: 2006-02-20
+tags: 
   - "tools"
+  - "post"
+slug: little-red-riding-hood-maps-well-to-rdf
 ---
 
 Explaining the [basics of RDF](http://www.w3.org/TR/rdf-primer/) to students today, I used the first phrases of [Little Red Riding Hood](http://www.imagesjournal.com/issue06/features/texavery4.htm) to create a set of example triples based on a real world situation (well, _almost_ real).

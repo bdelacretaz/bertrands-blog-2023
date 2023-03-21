@@ -1,6 +1,9 @@
 ---
 title: "Application development using IBM programming models and tools is untenably complex"
-date: "2005-04-12"
+date: 2005-04-12
+tags: 
+  - "post"
+slug: application-development-using-ibm-programming-models-and-tools-is-untenably-complex
 ---
 
 So IBM is working on [Radical simplification of software development](http://domino.research.ibm.com/comm/wwwr_seminar.nsf/pages/sem_abstract_317.html).

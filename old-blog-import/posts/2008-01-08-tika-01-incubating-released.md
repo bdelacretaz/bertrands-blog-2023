@@ -1,8 +1,10 @@
 ---
 title: "Tika 0.1 (incubating) released!"
-date: "2008-01-08"
-categories: 
+date: 2008-01-08
+tags: 
   - "tools"
+  - "post"
+slug: tika-01-incubating-released
 ---
 
 Release 0.1 of [Tika](http://incubator.apache.org/tika/) is out, grab it while it's hot!

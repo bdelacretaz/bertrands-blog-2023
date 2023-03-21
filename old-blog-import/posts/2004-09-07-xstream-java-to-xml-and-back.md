@@ -1,8 +1,10 @@
 ---
 title: "XStream - Java to XML and back"
-date: "2004-09-07"
-categories: 
+date: 2004-09-07
+tags: 
   - "tools"
+  - "post"
+slug: xstream-java-to-xml-and-back
 ---
 
 [James Strachan](http://radio.weblogs.com/0112098/2004/09/07.html#a505) recommends [XStream](http://xstream.codehaus.org/), a _simple library to serialize objects to XML and back again_.

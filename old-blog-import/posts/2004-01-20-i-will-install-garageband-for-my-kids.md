@@ -1,8 +1,10 @@
 ---
 title: "I will install GarageBand (for my kids;-)"
-date: "2004-01-20"
-categories: 
+date: 2004-01-20
+tags: 
   - "thoughts"
+  - "post"
+slug: i-will-install-garageband-for-my-kids
 ---
 
 Despite Steven's [warning](http://blogs.cocoondev.org/stevenn/archives/001683.html), I _will_ buy and install GarageBand - for my kids (well that's the official version at least ;-).

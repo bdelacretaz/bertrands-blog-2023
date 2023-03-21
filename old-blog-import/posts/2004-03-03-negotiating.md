@@ -1,8 +1,10 @@
 ---
 title: "Negotiating"
-date: "2004-03-03"
-categories: 
+date: 2004-03-03
+tags: 
   - "thoughts"
+  - "post"
+slug: negotiating
 ---
 
 [Ben Hyde](http://enthusiasm.cozy.org/) publishes a very interesting [list](http://www.cozy.org/yes.html) of tools and strategies for _getting to yes_ (apparently summarized from a [book](http://www.colorado.edu/conflict/peace/example/fish7513.htm)).

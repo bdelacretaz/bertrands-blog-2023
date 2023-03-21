@@ -1,8 +1,10 @@
 ---
 title: "Moog - the movie"
-date: "2004-10-15"
-categories: 
+date: 2004-10-15
+tags: 
   - "fun"
+  - "post"
+slug: moog-the-movie
 ---
 
 For those readers who know what a Minimoog is (and love trying to keep it in tune when playing live ;-), you might want to see [the movie](http://www.zu33.com/moog/). I can't wait!

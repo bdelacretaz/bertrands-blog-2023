@@ -1,8 +1,10 @@
 ---
 title: "Incredibly Obvious Secrets"
-date: "2003-11-04"
-categories: 
+date: 2003-11-04
+tags: 
   - "tools"
+  - "post"
+slug: incredibly-obvious-secrets
 ---
 
 Here's a cool [presentation](http://conferences.oreillynet.com/cs/macosx2003/view/e_sess/4833) about _Incredibly Obvious Software Development Secrets_, by Steve Kalkwarf of Bare Bones Software.

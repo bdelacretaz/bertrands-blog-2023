@@ -1,8 +1,10 @@
 ---
 title: "HTML4 loose.dtd broken on w3c.org?"
-date: "2006-05-02"
-categories: 
+date: 2006-05-02
+tags: 
   - "tools"
+  - "post"
+slug: html4-loosedtd-broken-on-w3corg
 ---
 
 After getting weird HTML validation errors today we had a look at the [http://www.w3.org/TR/html4/loose.dtd](http://www.w3.org/TR/html4/loose.dtd) and it seems like it's _broken_!

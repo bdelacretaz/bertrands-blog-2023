@@ -1,9 +1,11 @@
 ---
 title: "Cliff Schmidt - Best Legal Eagle!"
-date: "2006-07-26"
-categories: 
+date: 2006-07-26
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: cliff-schmidt-best-legal-eagle
 ---
 
 Congratulations to [Cliff Schmidt](http://people.apache.org/~cliffs/), the [ASF](http://apache.org/foundation)'s V.P. of Legal Affairs!

@@ -1,8 +1,10 @@
 ---
 title: "Swiss bloggers, vote for the blogch tag!"
-date: "2006-03-08"
-categories: 
+date: 2006-03-08
+tags: 
   - "blogch"
+  - "post"
+slug: swiss-bloggers-vote-for-the-blogch-tag
 ---
 
 [Stephanie](http://climbtothestars.org/) suggests using the [blogch Technorati tag](http://technorati.com/tag/blogch) to mark posts related to the _Swiss blogosphere_ (whatever that is ;-)

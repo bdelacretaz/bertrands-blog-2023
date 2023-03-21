@@ -1,8 +1,10 @@
 ---
 title: "Evolvable systems"
-date: "2003-11-20"
-categories: 
+date: 2003-11-20
+tags: 
   - "thoughts"
+  - "post"
+slug: evolvable-systems
 ---
 
 Quoting [Clay Shirky](http://www.shirky.com/writings/evolve.html):

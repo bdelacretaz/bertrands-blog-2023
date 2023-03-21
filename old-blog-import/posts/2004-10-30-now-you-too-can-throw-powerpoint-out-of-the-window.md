@@ -1,8 +1,10 @@
 ---
 title: "Now you too can throw PowerPoint out of the window..."
-date: "2004-10-30"
-categories: 
+date: 2004-10-30
+tags: 
   - "tools"
+  - "post"
+slug: now-you-too-can-throw-powerpoint-out-of-the-window
 ---
 
 I'm sure you will after looking at Eric Meyer's [S5 Simple Standards-Based Slide Show System](http://www.meyerweb.com/eric/tools/s5/).

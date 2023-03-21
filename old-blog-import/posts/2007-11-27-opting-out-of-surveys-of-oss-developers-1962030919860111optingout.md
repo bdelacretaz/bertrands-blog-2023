@@ -1,8 +1,10 @@
 ---
 title: "Opting out of surveys of OSS developers (1962030919860111OptingOut)"
-date: "2007-11-27"
-categories: 
+date: 2007-11-27
+tags: 
   - "open-source"
+  - "post"
+slug: opting-out-of-surveys-of-oss-developers-1962030919860111optingout
 ---
 
 After receiving way too many emails asking me to fill out way too many survey forms about how open source projects work, I'm opting out of any such surveys.

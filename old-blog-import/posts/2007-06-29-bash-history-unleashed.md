@@ -1,8 +1,10 @@
 ---
 title: "bash history unleashed"
-date: "2007-06-29"
-categories: 
+date: 2007-06-29
+tags: 
   - "tools"
+  - "post"
+slug: bash-history-unleashed
 ---
 
 I'm a big fan of `set -o vi` in bash, and a also of multiple [tabbed](http://iterm.sourceforge.net/) terminal windows as a way to keep multiple programming/debugging/experimenting contexts active simultaneously.

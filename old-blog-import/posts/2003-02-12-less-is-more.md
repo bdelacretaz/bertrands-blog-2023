@@ -1,8 +1,10 @@
 ---
 title: "Less is more..."
-date: "2003-02-12"
-categories: 
+date: 2003-02-12
+tags: 
   - "thoughts"
+  - "post"
+slug: less-is-more
 ---
 
 Interesting exchange on cocoon-dev yesterday about various quotes from great people about simplicity.  

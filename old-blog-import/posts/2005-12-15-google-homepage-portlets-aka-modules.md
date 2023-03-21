@@ -1,9 +1,11 @@
 ---
 title: "Google homepage portlets, aka modules"
-date: "2005-12-15"
-categories: 
+date: 2005-12-15
+tags: 
   - "the-web"
   - "thoughts"
+  - "post"
+slug: google-homepage-portlets-aka-modules
 ---
 
 Via [Matthew](http://www.silentpenguin.com/archives/2005/12/portal_20_googl.html) - the Google personal homepage now allows integration of third-party [modules](http://www.google.com/apis/homepage/). Did anyone say _massively distributed reliable computing_?

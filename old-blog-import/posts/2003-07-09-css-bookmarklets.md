@@ -1,6 +1,9 @@
 ---
 title: "CSS bookmarklets"
-date: "2003-07-09"
+date: 2003-07-09
+tags: 
+  - "post"
+slug: css-bookmarklets
 ---
 
 Check this out: real-time editing of CSS styles from a browser using [CSS bookmarklets](http://simon.incutio.com/archive/2003/06/03/bookmarkletsAndCSS). Impressive!

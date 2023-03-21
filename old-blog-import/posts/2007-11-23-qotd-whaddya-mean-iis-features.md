@@ -1,8 +1,10 @@
 ---
 title: "QOTD: whaddya mean \"IIS features\"?"
-date: "2007-11-23"
-categories: 
+date: 2007-11-23
+tags: 
   - "fun"
+  - "post"
+slug: qotd-whaddya-mean-iis-features
 ---
 
 Stumbled on this quote from our very own [Ken Coar](http://ken.coar.org/), from an [IRC interview](http://www.linux.com/articles/34135?tid=132&tid=82&tid=90) that took place in February 2004:

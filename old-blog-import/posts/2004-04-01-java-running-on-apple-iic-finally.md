@@ -1,8 +1,10 @@
 ---
 title: "Java running on Apple IIc (finally)"
-date: "2004-04-01"
-categories: 
+date: 2004-04-01
+tags: 
   - "fun"
+  - "post"
+slug: java-running-on-apple-iic-finally
 ---
 
 Well, about this [port of Java to the Apple IIc](http://www.desnoix.com/apple2/) I don't really know.

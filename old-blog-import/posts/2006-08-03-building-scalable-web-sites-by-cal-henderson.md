@@ -1,9 +1,11 @@
 ---
 title: "\"Building scalable web sites\" by Cal Henderson"
-date: "2006-08-03"
-categories: 
+date: 2006-08-03
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: building-scalable-web-sites-by-cal-henderson
 ---
 
 I've just finished reading [building scalable web sites](http://www.amazon.com/exec/obidos/ASIN/0596102356/bertrandswebl-20/103-2277086-8331859?creative=327641&camp=14573&adid=13Q5DQAY8ST1XF0KEB7R&link_code=as1) by [Cal Henderson](http://www.iamcal.com/) the architect of [Flickr](http://flickr.com). And, if you're building web applications, I'd suggest that you do the same, it's a great and very useful read.

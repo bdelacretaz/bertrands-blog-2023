@@ -1,12 +1,14 @@
 ---
 title: "Google Summer Of Code 2009 - Real Soon Now!"
-date: "2009-03-06"
-categories: 
+date: 2009-03-06
+tags: 
   - "asf"
   - "content"
   - "gsoc"
   - "open-source"
   - "sling"
+  - "post"
+slug: google-summer-of-code-2009-real-soon-now
 ---
 
 The 2009 logo is fantastic, isn't it? Flower power is not dead apparently.

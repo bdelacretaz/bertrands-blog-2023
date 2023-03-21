@@ -1,8 +1,10 @@
 ---
 title: "Cross-platform collaborative editing over IRC?"
-date: "2003-10-10"
-categories: 
+date: 2003-10-10
+tags: 
   - "tools"
+  - "post"
+slug: cross-platform-collaborative-editing-over-irc
 ---
 
 After the eye-opening experience with [SubEthaEdit](http://www.codingmonkeys.de/subethaedit) at the GetTogether, the Cocoon team is looking for collaborative editing / whiteboard tools for the upcoming [First Fridays](http://wiki.cocoondev.org/Wiki.jsp?page=FirstFriday).

@@ -1,8 +1,10 @@
 ---
 title: "Swiss government publishes Open-Source strategy"
-date: "2004-03-09"
-categories: 
+date: 2004-03-09
+tags: 
   - "open-source"
+  - "post"
+slug: swiss-government-publishes-open-source-strategy
 ---
 
 Find it [here](http://www.isb.admin.ch/internet/strategien/00665/01491/index.html?lang=de&sub=) in German, there's a link for French (but no English I'm afraid).

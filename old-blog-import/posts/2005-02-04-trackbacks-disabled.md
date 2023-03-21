@@ -1,6 +1,9 @@
 ---
 title: "Trackbacks disabled"
-date: "2005-02-04"
+date: 2005-02-04
+tags: 
+  - "post"
+slug: trackbacks-disabled
 ---
 
 I've been hit by a [crapflood](http://en.wikipedia.org/wiki/Crapflood) of trackbacks and it's a bit of a pain to cleanup in Movable Type (as I'm running it on Berkeley DB), so the easiest was to temporarily remove the trackback info on my page templates.

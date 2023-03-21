@@ -1,8 +1,10 @@
 ---
 title: "Business logic in Cocoon - how?"
-date: "2004-02-20"
-categories: 
+date: 2004-02-20
+tags: 
   - "cocoon"
+  - "post"
+slug: business-logic-in-cocoon-how
 ---
 
 A question which often comes when starting with Cocoon is _how to implement my business layer_.

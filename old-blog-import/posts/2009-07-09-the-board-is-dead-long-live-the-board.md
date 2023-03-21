@@ -1,8 +1,10 @@
 ---
 title: "The Board is dead, long live the Board!"
-date: "2009-07-09"
-categories: 
+date: 2009-07-09
+tags: 
   - "asf"
+  - "post"
+slug: the-board-is-dead-long-live-the-board
 ---
 
 Well, not exactly dead, but today the [Apache Software Foundation](http://apache.org) elected a new [board of directors](http://apache.org/foundation/board/):

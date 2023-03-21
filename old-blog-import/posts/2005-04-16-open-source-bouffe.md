@@ -1,6 +1,9 @@
 ---
 title: "Open Source Bouffe"
-date: "2005-04-16"
+date: 2005-04-16
+tags: 
+  - "post"
+slug: open-source-bouffe
 ---
 
 Had a great time yesterday evening, eating with Ceki, Erik, Alexandre and Serge at a cool (but somewhat noisy) Mexican restaurant here in Lausanne.

@@ -1,9 +1,11 @@
 ---
 title: "You *have* to listen to feathercast"
-date: "2008-11-20"
-categories: 
+date: 2008-11-20
+tags: 
   - "asf"
   - "music"
+  - "post"
+slug: you-have-to-listen-to-feathercast
 ---
 
 I created this little jingle a while ago to try out GarageBand, with [FeatherCast](http://feathercast.org/) in mind.

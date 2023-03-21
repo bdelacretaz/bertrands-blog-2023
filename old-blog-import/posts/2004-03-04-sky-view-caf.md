@@ -1,8 +1,10 @@
 ---
 title: "sky view caf&#233;"
-date: "2004-03-04"
-categories: 
+date: 2004-03-04
+tags: 
   - "fun"
+  - "post"
+slug: sky-view-caf
 ---
 
 Just discovered the [sky view café](http://www.skyviewcafe.com) interactive planetarium, a fascinating window into space.

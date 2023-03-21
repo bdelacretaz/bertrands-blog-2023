@@ -1,6 +1,9 @@
 ---
 title: "It just doesn't matter"
-date: "2006-02-18"
+date: 2006-02-18
+tags: 
+  - "post"
+slug: it-just-doesnt-matter
 ---
 
 Here's the winner of my (newly created) Best Quote Of The Week Award:

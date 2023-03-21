@@ -1,8 +1,10 @@
 ---
 title: "And the worst content editor is..."
-date: "2004-02-11"
-categories: 
+date: 2004-02-11
+tags: 
   - "thoughts"
+  - "post"
+slug: and-the-worst-content-editor-is
 ---
 
 [Microsoft Word](http://www.microsoft.com/word).

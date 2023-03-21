@@ -1,6 +1,9 @@
 ---
 title: "Zoë, get the email please!"
-date: "2003-05-05"
+date: 2003-05-05
+tags: 
+  - "post"
+slug: zoe-get-the-email-please
 ---
 
 Found [this article](http://www.oreillynet.com/pub/a/network/2002/10/07/udell.html) about [Zoë](http://guests.evectors.it/zoe/) from Jon Udell.

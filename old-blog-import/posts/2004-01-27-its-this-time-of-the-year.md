@@ -1,8 +1,10 @@
 ---
 title: "It's this time of the year..."
-date: "2004-01-27"
-categories: 
+date: 2004-01-27
+tags: 
   - "thoughts"
+  - "post"
+slug: its-this-time-of-the-year
 ---
 
 Outside the window it's snowing like a blizzard. Looks cool, especially as I have don't have to drive anywhere today ;-)

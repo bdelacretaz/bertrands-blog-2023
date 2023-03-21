@@ -1,6 +1,9 @@
 ---
 title: "Big Bad Bug Labels from Jira - the recipe"
-date: "2006-10-02"
+date: 2006-10-02
+tags: 
+  - "post"
+slug: big-bad-bug-labels-from-jira-the-recipe
 ---
 
 We're printing big labels with the titles of the (too many) [open issues](https://issues.apache.org/jira/browse/COCOON) from the Cocoon bug tracking system (doesn't mean Cocoon as so many bugs, but we're doing a bad job at managing the issues in Jira, and many are obsolete or not relevant).

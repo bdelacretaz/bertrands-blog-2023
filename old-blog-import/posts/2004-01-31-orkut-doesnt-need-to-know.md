@@ -1,8 +1,10 @@
 ---
 title: "Orkut doesn't need to know"
-date: "2004-01-31"
-categories: 
+date: 2004-01-31
+tags: 
   - "the-web"
+  - "post"
+slug: orkut-doesnt-need-to-know
 ---
 
 Following recent discussions about the use of [orkut](http://www.orkut.com) and similar networks, I have removed from it all the information that is not relevant to my business activities.

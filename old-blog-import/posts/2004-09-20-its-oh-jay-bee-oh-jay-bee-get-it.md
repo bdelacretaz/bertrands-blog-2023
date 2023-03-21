@@ -1,8 +1,10 @@
 ---
 title: "It's OH-JAY-BEE. OH-JAY-BEE, get it?"
-date: "2004-09-20"
-categories: 
+date: 2004-09-20
+tags: 
   - "tools"
+  - "post"
+slug: its-oh-jay-bee-oh-jay-bee-get-it
 ---
 
 After writing **obj** instead for the millionth time I have to vent the steam somwhere. Maybe my fingers will learn after seeing this post ;-)

@@ -1,8 +1,10 @@
 ---
 title: "Eight years of technical leadership"
-date: "2004-05-12"
-categories: 
+date: 2004-05-12
+tags: 
   - "open-source"
+  - "post"
+slug: eight-years-of-technical-leadership
 ---
 
 Here's the [press release](http://nagoya.apache.org/eyebrowse/ReadMsg?listName=announce@apache.org&msgNo=119): the Apache HTTP server is definitely becoming the _dialtone of the Web_.

@@ -1,8 +1,10 @@
 ---
 title: "Open Source but Closed Data - pay at the gate, please..."
-date: "2004-12-07"
-categories: 
+date: 2004-12-07
+tags: 
   - "open-source"
+  - "post"
+slug: open-source-but-closed-data-pay-at-the-gate-please
 ---
 
 [Torsten](http://vafer.org/blog/tcurdt/archives/000164.html) reports on insecure.com's...mmmm....say _funny_ interpretation of what open source is. I'm not linking to them ,they don't deserve it.

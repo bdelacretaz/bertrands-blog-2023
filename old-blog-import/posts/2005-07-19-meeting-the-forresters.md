@@ -1,11 +1,13 @@
 ---
 title: "Meeting the Forresters"
-date: "2005-07-19"
-categories: 
+date: 2005-07-19
+tags: 
   - "cocoon"
+  - "post"
+slug: meeting-the-forresters
 ---
 
-![meeting-forrest.jpg](images/meeting-forrest.jpg)
+![meeting-forrest.jpg](http://codeconsult.ch/bertrand/archives/images/meeting-forrest.jpg)
 
 The great thing about being at ApacheCon is the opportunity for high-bandwidth talks _between_ projects, not only within our own cosy [community](http://cocoon.apache.org).
 

@@ -1,8 +1,10 @@
 ---
 title: "Javascript's toSource() is fun"
-date: "2006-10-18"
-categories: 
+date: 2006-10-18
+tags: 
   - "tools"
+  - "post"
+slug: javascripts-tosource-is-fun
 ---
 
 js> x = { "name" : 'Duck', "surname" : 'Donald' }

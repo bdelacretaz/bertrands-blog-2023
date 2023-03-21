@@ -1,8 +1,10 @@
 ---
 title: "Apt-Pinning"
-date: "2004-11-15"
-categories: 
+date: 2004-11-15
+tags: 
   - "tools"
+  - "post"
+slug: apt-pinning
 ---
 
 John H. Robinson's [Apt-Pinning for Beginners](http://jaqque.sbih.org/kplug/apt-pinning.html) shows a very simple way to mix stable and unstable stuff on a Debian system.

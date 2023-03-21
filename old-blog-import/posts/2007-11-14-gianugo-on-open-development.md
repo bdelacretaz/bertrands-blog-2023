@@ -1,9 +1,11 @@
 ---
 title: "Gianugo on Open Development"
-date: "2007-11-14"
-categories: 
+date: 2007-11-14
+tags: 
   - "apachecon"
   - "open-source"
+  - "post"
+slug: gianugo-on-open-development
 ---
 
 I'm sitting in Gianugo's talk on [Open Development](http://www.open-development.org/cgi-bin/twiki/view/Main/WebHome) and he's brilliant as usual - despite the jet lag.

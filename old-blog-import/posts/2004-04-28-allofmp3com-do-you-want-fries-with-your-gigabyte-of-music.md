@@ -1,8 +1,10 @@
 ---
 title: "allofmp3.com - do you want fries with your gigabyte of music?"
-date: "2004-04-28"
-categories: 
+date: 2004-04-28
+tags: 
   - "the-web"
+  - "post"
+slug: allofmp3com-do-you-want-fries-with-your-gigabyte-of-music
 ---
 
 [allofmp3.com](http://www.allofmp3.com) sells music by the gigabyte, at much lower prices than established web offerings (how about $66 for 4.7GB of MP3 music?).

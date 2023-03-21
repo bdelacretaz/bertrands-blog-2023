@@ -1,11 +1,13 @@
 ---
 title: "CMIS could be the MIDI interface of content management..."
-date: "2009-04-28"
-categories: 
+date: 2009-04-28
+tags: 
   - "cmis"
   - "content"
   - "day-software"
   - "jcr"
+  - "post"
+slug: cmis-could-be-the-midi-interface-of-content-management
 ---
 
 [MIDI](http://en.wikipedia.org/wiki/Midi) - the Musical Instrument Digital Interface - was created back in 1982 by a consortium of musical equipment manufacturers including, if I remember correctly, Roland, Yamaha, Sequential Circuits, Korg, Oberheim (I've got a Matrix 6 to sell BTW ;-), maybe Ensoniq (did they exist already?) and others. Companies that were fiercely competing in the market, individualistic industry leaders who agreed to get together to create a bigger market for their instruments and equipment.

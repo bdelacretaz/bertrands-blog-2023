@@ -1,6 +1,9 @@
 ---
 title: "Feature to Noise ratio"
-date: "2003-05-16"
+date: 2003-05-16
+tags: 
+  - "post"
+slug: feature-to-noise-ratio
 ---
 
 Someone [asks](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=105306727608109&w=2) what FS means on cocoon-dev (and no it's not _Full of Something_).

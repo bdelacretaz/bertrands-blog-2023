@@ -1,9 +1,11 @@
 ---
 title: "The Java Service Provider spec and sun.misc.Service"
-date: "2007-10-31"
-categories: 
+date: 2007-10-31
+tags: 
   - "java"
   - "tools"
+  - "post"
+slug: the-java-service-provider-spec-and-sunmiscservice
 ---
 
 Looking for a lightweight plugin mechanism for [microsling](https://issues.apache.org/jira/browse/SLING-47), I found the [jar service provider](http://java.sun.com/j2se/1.4.2/docs/guide/jar/jar.html#Service%20Provider) spec to be good enough.

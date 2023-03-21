@@ -1,8 +1,10 @@
 ---
 title: "dogfood indexing"
-date: "2005-04-29"
-categories: 
+date: 2005-04-29
+tags: 
   - "cocoon"
+  - "post"
+slug: dogfood-indexing
 ---
 
 In the "XML lab" class that I've been teaching this month, I had a group of students explore the following mechanism to create custom indexes of "web worlds", subsets of the web that interest a given group of people.

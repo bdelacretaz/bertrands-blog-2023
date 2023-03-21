@@ -1,6 +1,9 @@
 ---
 title: "GPLviolations.org"
-date: "2005-03-15"
+date: 2005-03-15
+tags: 
+  - "post"
+slug: gplviolationsorg
 ---
 
 Looks like [gpl-violations.org](http://gpl-violations.org/) is having some success enforcing the [GPL](http://www.gnu.org/copyleft/gpl.html).

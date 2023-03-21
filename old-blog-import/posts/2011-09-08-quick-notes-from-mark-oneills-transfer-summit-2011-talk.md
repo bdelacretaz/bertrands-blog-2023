@@ -1,10 +1,11 @@
 ---
 title: "Quick notes from Mark O'Neill's Transfer Summit 2011 talk"
-date: "2011-09-08"
-categories: 
-  - "conferences"
+date: 2011-09-08
 tags: 
   - "innovation-government"
+  - "conferences"
+  - "post"
+slug: quick-notes-from-mark-oneills-transfer-summit-2011-talk
 ---
 
 Here's my quick on-the-spot notes of [Mark O'Neill's](http://transfersummit.com/speaker/moneill) ([@marxculture](http://twitter.com/marxculture)) excellent [presentation](http://transfersummit.com/programme/1366), on how a government's IT can innovate.

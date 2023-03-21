@@ -1,6 +1,9 @@
 ---
 title: "Fun with the MySQL TIMESTAMP data type (not!)"
-date: "2006-01-21"
+date: 2006-01-21
+tags: 
+  - "post"
+slug: fun-with-the-mysql-timestamp-data-type-not
 ---
 
 We've been bitten by this twice in the last few days, so maybe it is useful to others: the way MySQL handles its TIMESTAMP fields is...funny.

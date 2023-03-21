@@ -1,10 +1,12 @@
 ---
 title: "Back from a great IKS project meeting"
-date: "2009-05-29"
-categories: 
+date: 2009-05-29
+tags: 
   - "conferences"
   - "content"
   - "iks-project"
+  - "post"
+slug: back-from-a-great-iks-project-meeting
 ---
 
 I'm on my way back from Salzburg where the [Salzburg Research](http://www.salzburgresearch.at) team organized a great meeting for the [IKS project](http://www.iks-project.eu/). Flawless organization as usual, thanks and congrats!

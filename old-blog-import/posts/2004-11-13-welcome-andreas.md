@@ -1,8 +1,10 @@
 ---
 title: "Welcome Andreas"
-date: "2004-11-13"
-categories: 
+date: 2004-11-13
+tags: 
   - "the-web"
+  - "post"
+slug: welcome-andreas
 ---
 
 Looks like Andreas started [blogging](http://blog.andreashalter.ch) - welcome!

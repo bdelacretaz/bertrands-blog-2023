@@ -1,9 +1,11 @@
 ---
 title: "My blog in french is alive!"
-date: "2006-03-25"
-categories: 
+date: 2006-03-25
+tags: 
   - "blogs"
   - "milestones"
+  - "post"
+slug: my-blog-in-french-is-alive
 ---
 
 If you read French you'll find it at [codeconsult.ch/blog](http://codeconsult.ch/blog/).

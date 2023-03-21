@@ -1,8 +1,10 @@
 ---
 title: "MacOSX Mail.App to GMail"
-date: "2006-04-22"
-categories: 
+date: 2006-04-22
+tags: 
   - "tools"
+  - "post"
+slug: macosx-mailapp-to-gmail
 ---
 
 I've been moving to [GMail](http://gmail.com) lately. The original reason was being out of the office fairly often these days, and a good webmail is very convenient. And GMail's search-based features rock!

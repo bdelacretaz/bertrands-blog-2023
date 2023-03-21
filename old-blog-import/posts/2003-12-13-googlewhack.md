@@ -1,8 +1,10 @@
 ---
 title: "GoogleWhack"
-date: "2003-12-13"
-categories: 
+date: 2003-12-13
+tags: 
   - "fun"
+  - "post"
+slug: googlewhack
 ---
 
 Looking for a [GoogleWhack](http://www.googlewhack.com) I find [neurologist clavinet](http://www.google.ch/search?q=neurologist+clavinet&hl=xx-bork&lr=&ie=UTF-8&output=search) after just two tries. Even better, the [single result](http://starling.rinet.ru/music/wonder.htm) is about someone that I like a lot!

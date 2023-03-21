@@ -1,12 +1,14 @@
 ---
 title: "Solr: indexing XML with Lucene and REST"
-date: "2006-08-10"
-categories: 
+date: 2006-08-10
+tags: 
   - "tools"
   - "xml"
+  - "post"
+slug: solr-indexing-xml-with-lucene-and-rest
 ---
 
-[![111-solr.gif](images/111-solr.gif)](http://www.xml.com/pub/a/2006/08/09/solr-indexing-xml-with-lucene-andrest.html)[xml.com](http://xml.com) just published my article, [Solr: indexing XML with Lucene and REST](http://www.xml.com/pub/a/2006/08/09/solr-indexing-xml-with-lucene-andrest.html), written after [evaluating](http://codeconsult.ch/bertrand/archives/000694.html) Solr in the last few weeks.
+[![111-solr.gif](http://codeconsult.ch/bertrand/archives/images/111-solr.gif)](http://www.xml.com/pub/a/2006/08/09/solr-indexing-xml-with-lucene-andrest.html)[xml.com](http://xml.com) just published my article, [Solr: indexing XML with Lucene and REST](http://www.xml.com/pub/a/2006/08/09/solr-indexing-xml-with-lucene-andrest.html), written after [evaluating](http://codeconsult.ch/bertrand/archives/000694.html) Solr in the last few weeks.
 
 You'll certainly perceive my enthusiasm for [Solr](http://incubator.apache.org/solr/) in the article: the "solid indexing component with a simple interface" philosophy of Solr fits my current projects perfectly, and it's a simple enough layer on top of [Lucene](http://lucene.apache.org/) to be easy to understand. On top of that, its [references](http://wiki.apache.org/solr/PublicServers) are quite solid already.
 

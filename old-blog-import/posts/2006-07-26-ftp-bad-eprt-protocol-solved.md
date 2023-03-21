@@ -1,8 +1,10 @@
 ---
 title: "FTP: \"Bad EPRT protocol\" solved"
-date: "2006-07-26"
-categories: 
+date: 2006-07-26
+tags: 
   - "tools"
+  - "post"
+slug: ftp-bad-eprt-protocol-solved
 ---
 
 Lost some time in this, so maybe it is useful to you: I kept getting "Bad EPRT protocol" errors trying to connect to some FTP servers with the macosx command-line client behind a NAT.

@@ -1,8 +1,10 @@
 ---
 title: "Cocoon Flow in Java?"
-date: "2003-05-12"
-categories: 
+date: 2003-05-12
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-flow-in-java
 ---
 
 Via [Ovidiu](http://www.webweavertech.com/ovidiu/weblog/archives/000256.html): [here](http://www.freeroller.net/page/alexkrut/20030511) is an implementation of the Cocoon Flow layer using java as the flow control language, written by Alex Krut _over the weekend_.

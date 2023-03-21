@@ -1,8 +1,10 @@
 ---
 title: "Friendship is now measured in Langhams!"
-date: "2004-02-06"
-categories: 
+date: 2004-02-06
+tags: 
   - "thoughts"
+  - "post"
+slug: friendship-is-now-measured-in-langhams
 ---
 
 [Matthew](http://www.silent-penguin.com/archives/001629.html) writes about what makes people friends or not.

@@ -1,13 +1,14 @@
 ---
 title: "RESTful services as intelligent websites"
-date: "2012-03-27"
-categories: 
-  - "the-web"
-  - "thoughts"
+date: 2012-03-27
 tags: 
   - "http"
   - "rest"
   - "services"
+  - "the-web"
+  - "thoughts"
+  - "post"
+slug: restful-services-as-intelligent-websites
 ---
 
 Thinking of RESTful services as _intelligent websites_ helps drive our architecture decisions towards simplicity, discoverability and maximum use of the HTTP protocol. That should help us design services that are easier to use, debug, evolve and maintain.

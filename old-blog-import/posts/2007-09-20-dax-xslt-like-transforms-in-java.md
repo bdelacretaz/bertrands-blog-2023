@@ -1,9 +1,11 @@
 ---
 title: "DAX: XSLT-like transforms in Java"
-date: "2007-09-20"
-categories: 
+date: 2007-09-20
+tags: 
   - "tools"
   - "xml"
+  - "post"
+slug: dax-xslt-like-transforms-in-java
 ---
 
 Intrigued by Lars Trieloff's _DAX - Where flowscript and XSLT meet_ talk title for the [Cocoon GT](http://www.cocoongt.org/PROGRAM.html), I did some research and I like what I see!

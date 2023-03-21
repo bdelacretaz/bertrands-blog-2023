@@ -1,6 +1,9 @@
 ---
 title: "Committers for hire"
-date: "2003-06-05"
+date: 2003-06-05
+tags: 
+  - "post"
+slug: committers-for-hire
 ---
 
 Via [Matthew](http://radio.weblogs.com/0103021/2003/06/04.html#a1101) and [Steven](http://blogs.cocoondev.org/stevenn/archives/000974.html): the [Core Developers Network](http://www.coredevelopers.net/) has been formed by mostly JBoss committers who have [left the JBoss Group](http://www.theinquirer.net/?article=9850)

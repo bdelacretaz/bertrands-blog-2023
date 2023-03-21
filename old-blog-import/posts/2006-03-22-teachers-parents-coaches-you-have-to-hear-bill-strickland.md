@@ -1,6 +1,9 @@
 ---
 title: "Teachers, parents, coaches: you *have* to hear Bill Strickland"
-date: "2006-03-22"
+date: 2006-03-22
+tags: 
+  - "post"
+slug: teachers-parents-coaches-you-have-to-hear-bill-strickland
 ---
 
 On the way back from my teaching duties (riding my [Flyer](http://codeconsult.ch/bertrand/archives/000589.html)), I listened to [Bill Strickland's IT conversations interview](http://www.itconversations.com/shows/detail992.html), and it's IMHO a must hear for the above categories of people. More about him at [http://www.bill-strickland.org/](http://www.bill-strickland.org/).

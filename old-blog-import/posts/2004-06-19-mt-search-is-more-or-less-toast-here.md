@@ -1,8 +1,10 @@
 ---
 title: "MT search is more or less toast here"
-date: "2004-06-19"
-categories: 
+date: 2004-06-19
+tags: 
   - "blogs"
+  - "post"
+slug: mt-search-is-more-or-less-toast-here
 ---
 
 For some reason the search function on this weblog does not work properly anymore: searching for "mozilla", for example, finds this entry, but not the [other one from way back](http://codeconsult.ch/bertrand/archives/000009.html). I've checked the _SearchCutoff_ parameter and I'm using the default value which should search everything.

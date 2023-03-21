@@ -1,8 +1,10 @@
 ---
 title: "New Korg keyboard powered by Linux"
-date: "2005-01-21"
-categories: 
+date: 2005-01-21
+tags: 
   - "open-source"
+  - "post"
+slug: new-korg-keyboard-powered-by-linux
 ---
 
 Wow. Have a look at Korg's new [OASYS](http://www.korg.com/gear/product_info.asp?A_PROD_NO=OASYS) synth, said to run _atop Linux underpinnings_. Chalk up another one for open source's ubiquity.

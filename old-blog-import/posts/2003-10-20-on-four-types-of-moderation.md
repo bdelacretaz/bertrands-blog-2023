@@ -1,8 +1,10 @@
 ---
 title: "On four types of moderation..."
-date: "2003-10-20"
-categories: 
+date: 2003-10-20
+tags: 
   - "tools"
+  - "post"
+slug: on-four-types-of-moderation
 ---
 
 Tom Coates' new weblog is about _creative ways to manage online communities and user-generated content_ - definitely one for my blogroll.

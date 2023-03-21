@@ -1,6 +1,9 @@
 ---
 title: "Water on Mars!"
-date: "2005-04-01"
+date: 2005-04-01
+tags: 
+  - "post"
+slug: water-on-mars
 ---
 
 We knew there was water on Mars but now there are [pictures](http://antwrp.gsfc.nasa.gov/apod/ap050401.html) to prove it.

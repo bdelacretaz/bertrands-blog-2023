@@ -1,8 +1,10 @@
 ---
 title: "Victory in the schema wars"
-date: "2006-12-05"
-categories: 
+date: 2006-12-05
+tags: 
   - "xml"
+  - "post"
+slug: victory-in-the-schema-wars
 ---
 
 From the ROFL department, [Rick Jelliffe's post](http://lists.xml.org/archives/xml-dev/200611/msg00220.html) about XML schema wars is a must read. Of course...the other is the Middle East.

@@ -1,8 +1,10 @@
 ---
 title: "LOAF is here. Finally."
-date: "2003-11-13"
-categories: 
+date: 2003-11-13
+tags: 
   - "fun"
+  - "post"
+slug: loaf-is-here-finally
 ---
 
 [Matthew](http://www.silent-penguin.com/archives/001430.html) notices a significant increase of activity regarding LOAF. It's about time.

@@ -1,6 +1,9 @@
 ---
 title: "From: virus@apache.org"
-date: "2003-06-02"
+date: 2003-06-02
+tags: 
+  - "post"
+slug: from-virusapacheorg
 ---
 
 Yesterday I received an email apparently from Stefano, most probably forged as it seems to contain a virus (and Stefano is [having fun offline](http://www.betaversion.org/~stefano/linotype/news/16/) anyway, lucky him).

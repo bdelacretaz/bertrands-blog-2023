@@ -1,9 +1,11 @@
 ---
 title: "The CMS vendor meme"
-date: "2009-03-18"
-categories: 
+date: 2009-03-18
+tags: 
   - "content"
   - "day-software"
+  - "post"
+slug: the-cms-vendor-meme
 ---
 
 Yesterday my colleague Michal Marth launched a cool [CMS vendor meme](http://dev.day.com/microsling/content/blogs/main/cmsvendormeme.html), challenging other vendors to self-evaluate their products according to the [we-get-it-checklist](http://www.cmswatch.com/Trends/1518-A-reality-checklist-for-vendors) suggested by [Kas Thomas](http://www.cmswatch.com/Analyst/23-Thomas).

@@ -1,6 +1,9 @@
 ---
 title: "My best (and worst) ApacheCon so far - thanks and random thoughts"
-date: "2008-11-08"
+date: 2008-11-08
+tags: 
+  - "post"
+slug: my-best-and-worst-apachecon-so-far-thanks-and-random-thoughts
 ---
 
 [US 2008](http://us.apachecon.com) in New Orleans has been my best ApacheCon so far! Brain dump ahead.

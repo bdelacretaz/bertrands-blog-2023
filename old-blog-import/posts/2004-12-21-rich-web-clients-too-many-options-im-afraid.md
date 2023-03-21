@@ -1,11 +1,13 @@
 ---
 title: "Rich web clients - too many options I'm afraid"
-date: "2004-12-21"
-categories: 
+date: 2004-12-21
+tags: 
   - "tools"
+  - "post"
+slug: rich-web-clients-too-many-options-im-afraid
 ---
 
-[![](images/0060005688.01._SCMZZZZZZZ_.jpg)](http://www.amazon.com/exec/obidos/ASIN/0060005688/bertrandswebl-20)I haven't posted about the _paradox of choice_ after reading it earlier this year, but I really enjoyed it: Barry Schwartz explains how having too many options makes our 21st century lives much more stressful and our choices much harder. Very true - I think being able to make hard choices and not regret them later is a very important skill in today's world.
+[![](http://codeconsult.ch/bertrand/archives/images/0060005688.01._SCMZZZZZZZ_.jpg)](http://www.amazon.com/exec/obidos/ASIN/0060005688/bertrandswebl-20)I haven't posted about the _paradox of choice_ after reading it earlier this year, but I really enjoyed it: Barry Schwartz explains how having too many options makes our 21st century lives much more stressful and our choices much harder. Very true - I think being able to make hard choices and not regret them later is a very important skill in today's world.
 
 It's not _that_ bad for me in this case, but I'm looking at rich web client options for a new project, and the choice is not easy. Have a look at my short list:
 

@@ -1,6 +1,9 @@
 ---
 title: "Serious security issue with non-IE browsers"
-date: "2005-02-07"
+date: 2005-02-07
+tags: 
+  - "post"
+slug: serious-security-issue-with-non-ie-browsers
 ---
 
 Ouch...for once IE is _not_ subject to this problem.

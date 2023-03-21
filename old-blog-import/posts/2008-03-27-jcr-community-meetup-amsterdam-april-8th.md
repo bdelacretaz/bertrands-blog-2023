@@ -1,11 +1,13 @@
 ---
 title: "JCR community meetup, Amsterdam, April 8th"
-date: "2008-03-27"
-categories: 
+date: 2008-03-27
+tags: 
   - "apachecon"
   - "content"
   - "jcr"
   - "sling"
+  - "post"
+slug: jcr-community-meetup-amsterdam-april-8th
 ---
 
 A JCR community meetup is being organized as a sidetrack of [ApacheCon Europe 2008](http://www.eu.apachecon.com/eu2008/).

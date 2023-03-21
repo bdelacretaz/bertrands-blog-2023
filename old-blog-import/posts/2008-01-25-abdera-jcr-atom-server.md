@@ -1,9 +1,11 @@
 ---
 title: "Abdera + JCR = Atom server?"
-date: "2008-01-25"
-categories: 
+date: 2008-01-25
+tags: 
   - "content"
   - "jcr"
+  - "post"
+slug: abdera-jcr-atom-server
 ---
 
 Like [several](http://www.symphonious.net/2008/01/18/how-atom-and-jcr-work-together/) [other](http://netzooid.com/blog/2008/01/15/jcr-and-atompub/) [people](http://dev.day.com/microsling/content/blogs/main/jcr-loves-atom.html) I think Atom and JCR are made to collaborate.

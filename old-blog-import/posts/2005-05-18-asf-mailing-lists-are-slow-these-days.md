@@ -1,6 +1,9 @@
 ---
 title: "ASF mailing lists are slow these days"
-date: "2005-05-18"
+date: 2005-05-18
+tags: 
+  - "post"
+slug: asf-mailing-lists-are-slow-these-days
 ---
 
 Seems like the ASF mailing lists are unsually slow, messages take a few hours to go through instead of a few seconds as usual. The mail servers are most probably busy /dev/nulling _some_ Sober virus mails.

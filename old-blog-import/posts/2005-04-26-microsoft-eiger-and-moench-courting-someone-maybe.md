@@ -1,6 +1,9 @@
 ---
 title: "Microsoft Eiger and Moench - courting someone, maybe?"
-date: "2005-04-26"
+date: 2005-04-26
+tags: 
+  - "post"
+slug: microsoft-eiger-and-moench-courting-someone-maybe
 ---
 
 Many [news sites](http://www.google.ch/search?q=microsoft+eiger+&hl=en&lr=&start=0&sa=N) are reporting on Microsoft developing two "Server Centric Computing Clients" codenamed _Eiger_ and _Moench_.

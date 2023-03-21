@@ -1,9 +1,11 @@
 ---
 title: "Congratulations Hippo!"
-date: "2006-03-29"
-categories: 
+date: 2006-03-29
+tags: 
   - "cocoon"
   - "open-source"
+  - "post"
+slug: congratulations-hippo
 ---
 
 Arjé Cahn [announces](http://blogs.hippo.nl/hippo/2006/03/opening.html) the first Open Source release of their [Cocoon](http://cocoon.apache.org)\-based [Hippo CMS](http://www.hippocms.org/).

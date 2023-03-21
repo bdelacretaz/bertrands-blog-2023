@@ -1,8 +1,10 @@
 ---
 title: "Not much blogging here these days..."
-date: "2005-01-10"
-categories: 
+date: 2005-01-10
+tags: 
   - "thoughts"
+  - "post"
+slug: not-much-blogging-here-these-days
 ---
 
 not much to say, too much to do ;-)

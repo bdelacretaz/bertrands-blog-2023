@@ -1,8 +1,10 @@
 ---
 title: "SkypeIn now available in Switzerland"
-date: "2005-11-30"
-categories: 
+date: 2005-11-30
+tags: 
   - "tools"
+  - "post"
+slug: skypein-now-available-in-switzerland
 ---
 
 Good news! Via [Chregu](http://blog.bitflux.ch/archive/2005/11/29/skypein-available-in-switzerland.html) and [namics weblog](http://blog.namics.com/2005/11/skypein_in_der.html), official info at [Skype](http://www.skype.com/products/skypein/).

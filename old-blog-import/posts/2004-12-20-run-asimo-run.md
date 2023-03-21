@@ -1,8 +1,10 @@
 ---
 title: "Run, Asimo, run!"
-date: "2004-12-20"
-categories: 
+date: 2004-12-20
+tags: 
   - "tools"
+  - "post"
+slug: run-asimo-run
 ---
 
 Honda posts a [video](http://www.world.honda.com/HDTV/ASIMO/200412-run/index.html) of their Asimo robot running. 3kph they say, but it's a start, and the "human" look of it is very impressive.

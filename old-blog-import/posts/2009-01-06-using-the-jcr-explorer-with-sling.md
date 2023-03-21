@@ -1,13 +1,15 @@
 ---
 title: "Using the JCR-Explorer with Sling"
-date: "2009-01-06"
-categories: 
+date: 2009-01-06
+tags: 
   - "content"
   - "jcr"
   - "sling"
+  - "post"
+slug: using-the-jcr-explorer-with-sling
 ---
 
-![jcr-explorer-with-sling-200.jpg](images/jcr-explorer-with-sling-200.jpg)Here's how to configure the [JCR-Explorer](http://www.jcr-explorer.org/) tool under Tomcat, to use it with Sling.
+![jcr-explorer-with-sling-200.jpg](http://bdelacretaz.files.wordpress.com/2009/01/jcr-explorer-with-sling-200.jpg)Here's how to configure the [JCR-Explorer](http://www.jcr-explorer.org/) tool under Tomcat, to use it with Sling.
 
 Tested with [Tomcat](http://tomcat.apache.org) 6.0.18, JDK 1.5 and the [Sling](http://incubator.apache.org/sling) launchpad/webapp from revision 731934.
 

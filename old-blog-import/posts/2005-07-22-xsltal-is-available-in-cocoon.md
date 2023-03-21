@@ -1,8 +1,10 @@
 ---
 title: "XSLTAL is available in Cocoon"
-date: "2005-07-22"
-categories: 
+date: 2005-07-22
+tags: 
   - "cocoon"
+  - "post"
+slug: xsltal-is-available-in-cocoon
 ---
 
 [Christian](http://blog.bitflux.ch/archive/2005/07/21/xsltal-gets-cocoon-support.html) gladly accepted to [contribute](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=112196402613727&w=2) his clever [XSLTAL](http://wiki.bitflux.org/Templates_TAL) templating system (based on the Zope [TAL](http://www.zope.org/Wikis/DevSite/Projects/ZPT/TAL%20Specification%201.4) presentation templating system) to [Cocoon](http://cocoon.apache.org).

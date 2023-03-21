@@ -1,8 +1,10 @@
 ---
 title: "Are you using an ebook reader?"
-date: "2008-03-31"
-categories: 
+date: 2008-03-31
+tags: 
   - "tools"
+  - "post"
+slug: are-you-using-an-ebook-reader
 ---
 
 A journalist called me regarding a post on my french-speaking blog about [getting an eBook reader for christmas](http://codeconsult.ch/blog/2006/09/27/cher-pre-nol-pour-moi-a-sera-un-ebook/).

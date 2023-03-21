@@ -1,9 +1,11 @@
 ---
 title: "Local database for Firefox, courtesy of Derby"
-date: "2005-12-14"
-categories: 
+date: 2005-12-14
+tags: 
   - "apachecon"
   - "the-web"
+  - "post"
+slug: local-database-for-firefox-courtesy-of-derby
 ---
 
 The more I read about [ApacheCon US 2005](http://apachecon.com/2005/US/index.html) the more I miss not being there...

@@ -1,8 +1,10 @@
 ---
 title: "MovableType goes after spam comments"
-date: "2004-01-16"
-categories: 
+date: 2004-01-16
+tags: 
   - "blogs"
+  - "post"
+slug: movabletype-goes-after-spam-comments
 ---
 
 Via [Oleg Tkachenko](http://www.tkachenko.com/blog/archives/000141.html): Movable Type [2.66](http://www.movabletype.org/news/2004_01.shtml#000882) has been released, including spam comments countermeasures.

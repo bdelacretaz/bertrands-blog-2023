@@ -1,6 +1,9 @@
 ---
 title: "Software patents are very good...for shameless people"
-date: "2006-03-11"
+date: 2006-03-11
+tags: 
+  - "post"
+slug: software-patents-are-very-goodfor-shameless-people
 ---
 
 Like someone who would have the bright idea of [patenting a filesystem from the dinousaur era](http://www.theregister.co.uk/2006/01/11/microsoft_wins_patent_case/print.html).

@@ -1,8 +1,10 @@
 ---
 title: "Carsten, I hear you!"
-date: "2004-05-24"
-categories: 
+date: 2004-05-24
+tags: 
   - "cocoon"
+  - "post"
+slug: carsten-i-hear-you
 ---
 
 Looks like Carsten has [released](http://www.osoco.net/weblogs/rael/archives/000270.html) Cocoon 2.1.5, which should get to the various mirrors soon.

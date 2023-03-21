@@ -1,6 +1,9 @@
 ---
 title: "Dear Boingo: geeks do use concurrent HTTP requests, you know?"
-date: "2007-11-21"
+date: 2007-11-21
+tags: 
+  - "post"
+slug: dear-boingo-geeks-do-use-concurrent-http-requests-you-know
 ---
 
 So I tried the Wi-Fi provided by [Boingo](http://www.boingo.com/) at the Atlanta airport the other day, and haven't been too successful with it.

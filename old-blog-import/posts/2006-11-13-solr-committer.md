@@ -1,8 +1,10 @@
 ---
 title: "Solr committer!"
-date: "2006-11-13"
-categories: 
+date: 2006-11-13
+tags: 
   - "tools"
+  - "post"
+slug: solr-committer
 ---
 
 Thanks to the [Solr](http://incubator.apache.org/solr) team for inviting me as a [committer](http://www.mail-archive.com/solr-dev@lucene.apache.org/msg01422.html)!

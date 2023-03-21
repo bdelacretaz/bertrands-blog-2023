@@ -1,9 +1,11 @@
 ---
 title: "Ten years of blogging!"
-date: "2012-11-09"
-categories: 
+date: 2012-11-09
+tags: 
   - "blogs"
   - "milestones"
+  - "post"
+slug: ten-years-of-blogging
 ---
 
 Although I had marked the date in my calendar, a great [ApacheCon](http://www.apachecon.eu/) kept me busy and I missed Tuesday's date for announcing that it's been ten years now since I started blogging.

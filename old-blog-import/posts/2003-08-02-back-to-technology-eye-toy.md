@@ -1,13 +1,15 @@
 ---
 title: "Back to technology: eye toy"
-date: "2003-08-02"
-categories: 
+date: 2003-08-02
+tags: 
   - "milestones"
+  - "post"
+slug: back-to-technology-eye-toy
 ---
 
 I'm glad to see that [Carsten](http://radio.weblogs.com/0107211/2003/07/28.html#a141) also enjoys _technical silence_. It was good to forget about everything (except good friends, great night skies and naps in the hammock) for some time!
 
-![nathan-eye-toy.jpg](images/nathan-eye-toy.jpg)
+![nathan-eye-toy.jpg](http://codeconsult.ch/bertrand/archives/images/nathan-eye-toy.jpg)
 
 But today technology is back with a vengeance with the [Playstation Eye Toy](http://www.thunderbolt.be/reviews/viewreview.php?rid=278) that my son bought this morning (after carefully saving his vacation allowance ;-)
 

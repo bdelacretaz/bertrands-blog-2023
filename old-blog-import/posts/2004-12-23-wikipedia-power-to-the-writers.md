@@ -1,8 +1,10 @@
 ---
 title: "Wikipedia - power to the writers"
-date: "2004-12-23"
-categories: 
+date: 2004-12-23
+tags: 
   - "open-source"
+  - "post"
+slug: wikipedia-power-to-the-writers
 ---
 
 [Simon Willison](http://simon.incutio.com/archive/2004/12/23/wikilove) reflects on the power of [Wikipedia](http://en.wikipedia.org/), including a nice list of related links. These guys _have_ been busy!

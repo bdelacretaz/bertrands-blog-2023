@@ -1,8 +1,10 @@
 ---
 title: "ApacheCon US December 2005 photos...no, more than that!"
-date: "2006-01-30"
-categories: 
+date: 2006-01-30
+tags: 
   - "apachecon"
+  - "post"
+slug: apachecon-us-december-2005-photosno-more-than-that
 ---
 
 Warning: this post will most probably eat your next half hour...

@@ -1,8 +1,10 @@
 ---
 title: "Internationalized domain names - really?"
-date: "2004-03-01"
-categories: 
+date: 2004-03-01
+tags: 
   - "the-web"
+  - "post"
+slug: internationalized-domain-names-really
 ---
 
 Starting today noon, one can register a [.ch domain name](http://www.switch.ch) containing accented characters.

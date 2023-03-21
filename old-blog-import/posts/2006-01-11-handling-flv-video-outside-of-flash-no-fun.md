@@ -1,8 +1,10 @@
 ---
 title: "Handling FLV video outside of Flash - no fun"
-date: "2006-01-11"
-categories: 
+date: 2006-01-11
+tags: 
   - "tools"
+  - "post"
+slug: handling-flv-video-outside-of-flash-no-fun
 ---
 
 Following up on the previous post: our Flash video-recording project is going forward nicely (it has to: the deadline is Real Soon Now), but converting the recorded video from FLV to open formats is no fun.

@@ -1,6 +1,9 @@
 ---
 title: "Not much blogging these days..."
-date: "2005-08-29"
+date: 2005-08-29
+tags: 
+  - "post"
+slug: not-much-blogging-these-days
 ---
 
 I know...but juggling about five projects does not leave much time for much more than surviving and spending bits of time with the family. Things should get better in about two weeks.

@@ -1,8 +1,10 @@
 ---
 title: "VMware on Intel-based Macs?"
-date: "2006-01-18"
-categories: 
+date: 2006-01-18
+tags: 
   - "tools"
+  - "post"
+slug: vmware-on-intel-based-macs
 ---
 
 Seems like it shouldn't be too hard for VMWare to run on Intel-based Macs. They already have Windows and Linux versions, so it's safe to assume that they know how to port their stuff.

@@ -1,11 +1,12 @@
 ---
 title: "+1! (tm) - a rosy financial future for the Apache Software Foundation"
-date: "2011-04-01"
-categories: 
-  - "asf"
-  - "open-source"
+date: 2011-04-01
 tags: 
   - "apache-asf-plusone"
+  - "asf"
+  - "open-source"
+  - "post"
+slug: 1-tm-a-rosy-financial-future-for-the-apache-software-foundation
 ---
 
 Google recently announced their [+1 button](http://www.google.com/+1/button/), which will without a doubt make the Internet a better place. What's not to like +1?

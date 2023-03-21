@@ -1,10 +1,12 @@
 ---
 title: "The single mailing list dream"
-date: "2009-06-13"
-categories: 
+date: 2009-06-13
+tags: 
   - "asf"
   - "collaboration"
   - "thoughts"
+  - "post"
+slug: the-single-mailing-list-dream
 ---
 
 The [ASF](http://apache.org) uses a (way too) large number of [mailing lists](http://apache.org/foundation/mailinglists.html) for all its internal and project communications.

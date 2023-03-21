@@ -1,8 +1,10 @@
 ---
 title: "FirstFirstFriday"
-date: "2003-11-07"
-categories: 
+date: 2003-11-07
+tags: 
   - "cocoon"
+  - "post"
+slug: firstfirstfriday
 ---
 
 Good news: today is the first [FirstFriday](http://wiki.cocoondev.org/Wiki.jsp?page=FirstFriday).

@@ -1,8 +1,10 @@
 ---
 title: "French OSGI user group meeting, Paris, October 10th"
-date: "2005-07-30"
-categories: 
+date: 2005-07-30
+tags: 
   - "osgi"
+  - "post"
+slug: french-osgi-user-group-meeting-paris-october-10th
 ---
 
 Didier Donsez sent me a note about this meeting, details can be found [here](http://www-adele.imag.fr/osgi/meeting3/message.txt).

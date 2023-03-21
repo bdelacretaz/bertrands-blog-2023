@@ -1,8 +1,10 @@
 ---
 title: "Erik Abele on Apache 2 Basics at LOTS"
-date: "2005-01-21"
-categories: 
+date: 2005-01-21
+tags: 
   - "open-source"
+  - "post"
+slug: erik-abele-on-apache-2-basics-at-lots
 ---
 
 We haven't made enough noise about this up to now I guess, so here's some: [Erik](http://www.codefaktor.de/weblog/) will be hosting a great (I'm sure) workshop on apache 2 basics at LOTS on February 17th in Bern, but up to now only one person signed up.

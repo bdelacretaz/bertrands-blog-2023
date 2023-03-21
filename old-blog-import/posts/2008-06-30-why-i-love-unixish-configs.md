@@ -1,10 +1,12 @@
 ---
 title: "Why I love unixish configs"
-date: "2008-06-30"
-categories: 
+date: 2008-06-30
+tags: 
   - "content"
   - "sling"
   - "thoughts"
+  - "post"
+slug: why-i-love-unixish-configs
 ---
 
 I wrote this today while discussing configuration mechanisms with my colleagues.

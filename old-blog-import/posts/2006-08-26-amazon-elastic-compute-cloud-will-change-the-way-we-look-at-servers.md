@@ -1,9 +1,11 @@
 ---
 title: "Amazon Elastic Compute Cloud will change the way we look at servers"
-date: "2006-08-26"
-categories: 
+date: 2006-08-26
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: amazon-elastic-compute-cloud-will-change-the-way-we-look-at-servers
 ---
 
 Upload your root Linux filesystem image to the [Amazon Elastic Compute Cloud](http://www.amazon.com/b/ref=sc_fe_l_2/?node=201590011&no=3435361), turn it on and hey presto - you've got a new, reliable, pay-as-you-go server on the Web, with solid connectivity I assume.

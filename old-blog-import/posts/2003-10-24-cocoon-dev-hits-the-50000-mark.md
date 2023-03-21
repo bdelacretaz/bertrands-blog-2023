@@ -1,8 +1,10 @@
 ---
 title: "cocoon-dev hits the 50'000 mark"
-date: "2003-10-24"
-categories: 
+date: 2003-10-24
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-dev-hits-the-50000-mark
 ---
 
 The cocoon-dev mailing list just got its [50'000th message](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=106698393428446&w=2). Wow.

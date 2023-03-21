@@ -1,8 +1,10 @@
 ---
 title: "BitTorrent + RSS: the morning media has arrived"
-date: "2004-03-16"
-categories: 
+date: 2004-03-16
+tags: 
   - "the-web"
+  - "post"
+slug: bittorrent-rss-the-morning-media-has-arrived
 ---
 
 How about a serving of your favorite band's new releases at breakfast?

@@ -1,6 +1,9 @@
 ---
 title: "Multi-Touch Interaction Research"
-date: "2006-02-15"
+date: 2006-02-15
+tags: 
+  - "post"
+slug: multi-touch-interaction-research
 ---
 
 Assuming [this](http://mrl.nyu.edu/~jhan/ftirtouch/) is not a hoax, **I want one!**.

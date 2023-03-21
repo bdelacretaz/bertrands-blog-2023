@@ -1,6 +1,9 @@
 ---
 title: "AOP = more than YALF hopefully"
-date: "2003-06-03"
+date: 2003-06-03
+tags: 
+  - "post"
+slug: aop-more-than-yalf-hopefully
 ---
 
 Most aspect-oriented programming examples I've seen show some form of logging being added to objects through AOP.

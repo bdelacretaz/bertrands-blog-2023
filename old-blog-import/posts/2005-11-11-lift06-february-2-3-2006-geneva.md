@@ -1,8 +1,10 @@
 ---
 title: "lift06 - February 2-3 2006, Geneva"
-date: "2005-11-11"
-categories: 
+date: 2005-11-11
+tags: 
   - "the-web"
+  - "post"
+slug: lift06-february-2-3-2006-geneva
 ---
 
 Just got news from [lift06](http://www.lift06.org/), a _a conference about new technologies and people_ in Geneva next February.

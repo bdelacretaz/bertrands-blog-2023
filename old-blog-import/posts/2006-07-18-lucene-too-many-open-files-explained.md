@@ -1,8 +1,10 @@
 ---
 title: "Lucene: \"too many open files\" explained"
-date: "2006-07-18"
-categories: 
+date: 2006-07-18
+tags: 
   - "tools"
+  - "post"
+slug: lucene-too-many-open-files-explained
 ---
 
 Been bitten by this once again during my [SOLR](http://incubator.apache.org/solr/) tests (after seeing it a few times in [Cocoon](http://cocoon.apache.org)), and found a good explanation by Yonik Seeley in [SOLR-4](http://issues.apache.org/jira/browse/SOLR-4#action_12370001).

@@ -1,12 +1,14 @@
 ---
 title: "Carsten Ziegeler on portals"
-date: "2005-07-21"
-categories: 
+date: 2005-07-21
+tags: 
   - "apachecon"
   - "cocoon"
+  - "post"
+slug: carsten-ziegeler-on-portals
 ---
 
-![carsten-ziegeler-on-portals.jpg](images/carsten-ziegeler-on-portals.jpg)Carsten is making the news on this weblog these days! I'm sitting in his packed _One Hour Portal_ session.
+![carsten-ziegeler-on-portals.jpg](http://codeconsult.ch/bertrand/archives/images/carsten-ziegeler-on-portals.jpg)Carsten is making the news on this weblog these days! I'm sitting in his packed _One Hour Portal_ session.
 
 Memorable quotes:
 

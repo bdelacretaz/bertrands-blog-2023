@@ -1,8 +1,10 @@
 ---
 title: "Meeting Jeremias IRL"
-date: "2004-02-19"
-categories: 
+date: 2004-02-19
+tags: 
   - "thoughts"
+  - "post"
+slug: meeting-jeremias-irl
 ---
 
 I had the pleasure of meeting Jeremias Maerki ([FOP](http://xml.apache.org/fop/) committer and author of [Krysalis Barcode](http://krysalis.org/barcode/)) at the [LOTS](http://www.lots.ch) conference yesterday.

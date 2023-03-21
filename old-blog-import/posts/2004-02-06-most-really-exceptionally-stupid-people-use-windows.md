@@ -1,8 +1,10 @@
 ---
 title: "Most really exceptionally stupid people use Windows..."
-date: "2004-02-06"
-categories: 
+date: 2004-02-06
+tags: 
   - "operating-systems"
+  - "post"
+slug: most-really-exceptionally-stupid-people-use-windows
 ---
 
 That's what Andrew C. Oliver says in his [modest proposal](http://linuxintegrators.com/blog/acoliver/essay/?permalink=0111.html), where he suggests banning Microsoft Windows users from the net.

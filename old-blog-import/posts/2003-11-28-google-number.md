@@ -1,8 +1,10 @@
 ---
 title: "Google Number"
-date: "2003-11-28"
-categories: 
+date: 2003-11-28
+tags: 
   - "the-web"
+  - "post"
+slug: google-number
 ---
 
 What's your [Google Number](http://www.hr.com/hrcom/general/pf.cfm?oID=5635CFB8-953A-4776-AAD8B1E1404DC46F)?

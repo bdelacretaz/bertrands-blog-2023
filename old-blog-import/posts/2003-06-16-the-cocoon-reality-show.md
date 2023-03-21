@@ -1,6 +1,9 @@
 ---
 title: "The Cocoon Reality Show"
-date: "2003-06-16"
+date: 2003-06-16
+tags: 
+  - "post"
+slug: the-cocoon-reality-show
 ---
 
 It's all becoming [crystal clear](http://blogs.cocoondev.org/stevenn/) now. Of course! [these](http://radio.weblogs.com/0103021/2003/06/12.html#a1122) [guys](http://blogs.cocoondev.org/gianugo/archives/000989.html) are preparing the release of the first Open-Source [reality show](http://blogs.cocoondev.org/stevenn/).

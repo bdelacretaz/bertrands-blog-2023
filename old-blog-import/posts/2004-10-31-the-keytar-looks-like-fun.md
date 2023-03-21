@@ -1,8 +1,10 @@
 ---
 title: "the Keytar - looks like fun"
-date: "2004-10-31"
-categories: 
+date: 2004-10-31
+tags: 
   - "fun"
+  - "post"
+slug: the-keytar-looks-like-fun
 ---
 
 (I promise - next week we'll have some really serious blogging here, about serious work-related things ;-)

@@ -1,8 +1,10 @@
 ---
 title: "Cocoon GT2006 Hackathon day one"
-date: "2006-10-02"
-categories: 
+date: 2006-10-02
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-gt2006-hackathon-day-one
 ---
 
 It's been a great day [here](http://www.cocoongt.org/), extra tables had to be added due to about fifty people showing up.

@@ -1,8 +1,10 @@
 ---
 title: "Found the AltGR key for Parallels on macosx"
-date: "2007-01-17"
-categories: 
+date: 2007-01-17
+tags: 
   - "tools"
+  - "post"
+slug: found-the-altgr-key-for-parallels-on-macosx
 ---
 
 I'm playing with a Knoppix LiveCD under [Parallels](http://www.parallels.com/), and the AltGr key (needed to get a pipe character when you have a swiss french keyboard layout) was missing.

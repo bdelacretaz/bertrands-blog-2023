@@ -1,9 +1,11 @@
 ---
 title: "Google should index linked metatada"
-date: "2005-11-21"
-categories: 
+date: 2005-11-21
+tags: 
   - "the-web"
   - "thoughts"
+  - "post"
+slug: google-should-index-linked-metatada
 ---
 
 I'm just starting to think about the avenues opened by [Google Base](http://base.google.com), but this brings a question: why doesn't Google "simply" index metadata attached to web pages?

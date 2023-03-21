@@ -1,8 +1,10 @@
 ---
 title: "Scripting bugzilla"
-date: "2004-06-15"
-categories: 
+date: 2004-06-15
+tags: 
   - "tools"
+  - "post"
+slug: scripting-bugzilla
 ---
 
 You know I'm a fan of bugzilla (and I know there are better tools but it _does the job_ here ;-)

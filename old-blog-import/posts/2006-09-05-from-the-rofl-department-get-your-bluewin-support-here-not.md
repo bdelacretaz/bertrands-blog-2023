@@ -1,8 +1,10 @@
 ---
 title: "From the ROFL department: get your Bluewin support here! (*NOT*)"
-date: "2006-09-05"
-categories: 
+date: 2006-09-05
+tags: 
   - "fun"
+  - "post"
+slug: from-the-rofl-department-get-your-bluewin-support-here-not
 ---
 
 Looks like Bluewin are having problems with their webmail, and as this blog is well indexed with an [old post](http://www.codeconsult.ch/bertrand/archives/000185.html) about email problems with Bluewin...guess where people turn?

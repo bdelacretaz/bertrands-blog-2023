@@ -1,10 +1,12 @@
 ---
 title: "IBM's 2007 UIMA Innovation Award"
-date: "2007-06-16"
-categories: 
+date: 2007-06-16
+tags: 
   - "asf"
   - "open-source"
   - "tools"
+  - "post"
+slug: ibms-2007-uima-innovation-award
 ---
 
 IBM just announced its [2007 UIMA Innovation Award](http://www-304.ibm.com/jct09002c/university/scholars/ur/awards/eclipse/uima_awards.html). to encourage college or university faculty members in working on this _Unstructured Information Management Architecture_.

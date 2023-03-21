@@ -1,9 +1,11 @@
 ---
 title: "Tim Bray on Atom"
-date: "2006-08-08"
-categories: 
+date: 2006-08-08
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: tim-bray-on-atom
 ---
 
 This morning while [flying](http://codeconsult.ch/bertrand/archives/000589.html) to work I listened to [Tim Bray's ETech 2006 presentation](http://itconversations.com/shows/detail1155.html) on [Atom](http://www.intertwingly.net/wiki/pie/FrontPage). Very interesting! Tim outlines several known problems with RSS, and how Atom avoids them.

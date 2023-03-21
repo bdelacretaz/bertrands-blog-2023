@@ -1,8 +1,10 @@
 ---
 title: "Go camping, become an ASF member!"
-date: "2004-05-24"
-categories: 
+date: 2004-05-24
+tags: 
   - "open-source"
+  - "post"
+slug: go-camping-become-an-asf-member
 ---
 
 Although I suspect there might no relationship between both things, coming back from a nice camping weekend I had the very pleasant surprise of finding news of my [election](http://ken.coar.org/burrow/index?entry=944) as a member of the [Apache Software Foundation](http://apache.org/foundation/), along with six other new members.

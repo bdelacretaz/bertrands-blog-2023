@@ -1,8 +1,10 @@
 ---
 title: "Email, email, tell me who's a nice drum store"
-date: "2008-07-05"
-categories: 
+date: 2008-07-05
+tags: 
   - "music"
+  - "post"
+slug: email-email-tell-me-whos-a-nice-drum-store
 ---
 
 I'll be staying in Sunnyvale next weekend after the [GHOP awards ceremony](http://code.google.com/opensource/ghop/2007-8/), and as I need a new drumset it might be a good opportunity to shop for that.

@@ -1,6 +1,9 @@
 ---
 title: "Exactly one choice: OpenDocument"
-date: "2005-05-27"
+date: 2005-05-27
+tags: 
+  - "post"
+slug: exactly-one-choice-opendocument
 ---
 
 [Tim Bray](http://www.tbray.org/ongoing/When/200x/2005/05/26/OpenDocument):

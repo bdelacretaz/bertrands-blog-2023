@@ -1,8 +1,10 @@
 ---
 title: "Moving - expect no disruption"
-date: "2003-05-27"
-categories: 
+date: 2003-05-27
+tags: 
   - "milestones"
+  - "post"
+slug: moving-expect-no-disruption
 ---
 
 I'm finally moving all of codeconsult.ch to my new server at [onsmart](http://onsmart.net).

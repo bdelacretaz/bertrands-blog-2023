@@ -1,8 +1,10 @@
 ---
 title: "The CocoonGT program is out"
-date: "2006-09-22"
-categories: 
+date: 2006-09-22
+tags: 
   - "cocoon"
+  - "post"
+slug: the-cocoongt-program-is-out
 ---
 
 The [program](http://www.cocoongt.org/PROGRAM.html) of the Cocoon GetTogether 2006 (Amsterdam, October 4th, [Hackathon](http://wiki.apache.org/cocoon/GT2006Hackaton) on 2nd and 3rd) is online, and there's some space left. With 71 signups as of today, and a packed program, we're looking forward to it!

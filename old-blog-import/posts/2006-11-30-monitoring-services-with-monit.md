@@ -1,8 +1,10 @@
 ---
 title: "Monitoring services with monit"
-date: "2006-11-30"
-categories: 
+date: 2006-11-30
+tags: 
   - "tools"
+  - "post"
+slug: monitoring-services-with-monit
 ---
 
 I'm testing monit for active monitoring of linux services, and it looks very useful.

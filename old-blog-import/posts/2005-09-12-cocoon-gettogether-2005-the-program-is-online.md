@@ -1,8 +1,10 @@
 ---
 title: "Cocoon GetTogether 2005 - the program is online"
-date: "2005-09-12"
-categories: 
+date: 2005-09-12
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-gettogether-2005-the-program-is-online
 ---
 
 Find it [here](http://www.cocoongt.org/Program.html) - an exciting program if you ask me, with talks about what Cocoon is today and quite a few ones about what it will be in the near future.

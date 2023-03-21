@@ -1,9 +1,11 @@
 ---
 title: "del.icio.us does RSS enclosures"
-date: "2005-11-23"
-categories: 
+date: 2005-11-23
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: delicious-does-rss-enclosures
 ---
 
 Just found out that del.icio.us [automatically tags](http://del.icio.us/help/mediafiletypes) certain file extensions with tags like _system:media:audio_ and generates RSS feeds with enclosures (like [http://del.icio.us/rss/tag/system:media:audio](http://del.icio.us/rss/tag/system:media:audio)).

@@ -1,8 +1,10 @@
 ---
 title: "DNS treasure chest"
-date: "2004-08-27"
-categories: 
+date: 2004-08-27
+tags: 
   - "tools"
+  - "post"
+slug: dns-treasure-chest
 ---
 
 [Steven](http://blogs.cocoondev.org/stevenn/archives/002071.html) shares very useful DNS-related info.

@@ -1,8 +1,10 @@
 ---
 title: "Hackathon"
-date: "2003-10-06"
-categories: 
+date: 2003-10-06
+tags: 
   - "cocoon"
+  - "post"
+slug: hackathon
 ---
 
 Sitting in the room in beautiful [Het Pand](http://www.orixo.com/events/gt2003/venue.html) with more than 20 Cocooners, ready to fire away...wifi **does** work - looks good.

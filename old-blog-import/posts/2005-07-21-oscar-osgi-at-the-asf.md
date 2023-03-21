@@ -1,10 +1,12 @@
 ---
 title: "Oscar OSGI at the ASF?"
-date: "2005-07-21"
-categories: 
+date: 2005-07-21
+tags: 
   - "cocoon"
   - "open-source"
   - "osgi"
+  - "post"
+slug: oscar-osgi-at-the-asf
 ---
 
 A recent [proposal](http://marc.theaimsgroup.com/?l=incubator-general&m=112138556805125&w=2) was made to bring the [Oscar](http://oscar.objectweb.org/) implementation of the [OSGI](http://www.osgi.org/) framework to the ASF incubator.

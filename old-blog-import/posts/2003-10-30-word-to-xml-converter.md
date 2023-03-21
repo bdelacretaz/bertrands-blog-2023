@@ -1,8 +1,10 @@
 ---
 title: "Word to XML converter"
-date: "2003-10-30"
-categories: 
+date: 2003-10-30
+tags: 
   - "tools"
+  - "post"
+slug: word-to-xml-converter
 ---
 
 From the lenya-dev mailing list: the [icoya WordXML](http://www.icoya.com/produkt/wordxml) plugin converts Word documents to XML on the fly.

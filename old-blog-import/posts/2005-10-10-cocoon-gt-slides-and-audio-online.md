@@ -1,8 +1,10 @@
 ---
 title: "Cocoon GT slides and audio online"
-date: "2005-10-10"
-categories: 
+date: 2005-10-10
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-gt-slides-and-audio-online
 ---
 
 PDF slides _and_ audio recordings of Friday's presentations are available at [cocoongt.org](http://www.cocoongt.org/Slides-and-recordings.html).

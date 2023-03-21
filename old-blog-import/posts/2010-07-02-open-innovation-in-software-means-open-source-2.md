@@ -1,12 +1,13 @@
 ---
 title: "Open innovation in software means open source"
-date: "2010-07-02"
-categories: 
-  - "open-source"
-  - "thoughts"
+date: 2010-07-02
 tags: 
   - "innovation"
   - "opensource"
+  - "open-source"
+  - "thoughts"
+  - "post"
+slug: open-innovation-in-software-means-open-source-2
 ---
 
 _Here's a "reprint" of an [article](http://www.h-online.com/open/features/TransferSummit-Open-innovation-in-software-means-Open-Source-1022212.html) that I wrote recently for [the H](http://www.h-online.com/), to introduce my [talk](http://www.transfersummit.com/programme/60) at [TransferSummit](http://www.transfersummit.com) last week._

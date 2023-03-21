@@ -1,6 +1,9 @@
 ---
 title: "yum provides"
-date: "2006-04-09"
+date: 2006-04-09
+tags: 
+  - "post"
+slug: yum-provides
 ---
 
 Trying to install [Kino](http://www.kinodv.org/) on a Fedora box for my son who'd like to play with video...but _gtk-config_ is missing, which _yum_ package do I have to install?

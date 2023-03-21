@@ -1,8 +1,10 @@
 ---
 title: "Do we care about innovation?"
-date: "2004-10-02"
-categories: 
+date: 2004-10-02
+tags: 
   - "open-source"
+  - "post"
+slug: do-we-care-about-innovation
 ---
 
 [Ugo](http://beblogging.com/blog/2004/09/30/155521)'s thoughts on innovation are starting to make some [waves](http://roger.kaywa.ch/p467.html) in our microcosm.

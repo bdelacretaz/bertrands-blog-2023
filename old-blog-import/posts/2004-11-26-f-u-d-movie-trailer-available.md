@@ -1,8 +1,10 @@
 ---
 title: "F U D movie trailer available"
-date: "2004-11-26"
-categories: 
+date: 2004-11-26
+tags: 
   - "cocoon"
+  - "post"
+slug: f-u-d-movie-trailer-available
 ---
 
 Michi Ramsay's F U D movie trailer (Wyona Pictures) is available online thanks to [chregu](http://blog.bitflux.ch/archive/f-u-d-trailer-available.html) and [Andreas](http://delicate.ch/). It's beautiful, with lots of energy. have a look!

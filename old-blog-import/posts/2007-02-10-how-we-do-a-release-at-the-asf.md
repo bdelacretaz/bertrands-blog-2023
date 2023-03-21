@@ -1,9 +1,11 @@
 ---
 title: "How we do a release at the ASF"
-date: "2007-02-10"
-categories: 
+date: 2007-02-10
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: how-we-do-a-release-at-the-asf
 ---
 
 As a mentor for the [Wicket](http://incubator.apache.org/projects/wicket.html) project, I've tried to explain how we do releases at the [ASF](http://apache.org).

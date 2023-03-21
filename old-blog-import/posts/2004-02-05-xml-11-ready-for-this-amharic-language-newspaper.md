@@ -1,8 +1,10 @@
 ---
 title: "XML 1.1 - ready for this Amharic-language newspaper!"
-date: "2004-02-05"
-categories: 
+date: 2004-02-05
+tags: 
   - "xml"
+  - "post"
+slug: xml-11-ready-for-this-amharic-language-newspaper
 ---
 
 W3C has issued the [XML 1.1 recommendation](http://www.w3.org/TR/2004/REC-xml11-20040204/), received with...mixed feelings by the XML community.

@@ -1,8 +1,10 @@
 ---
 title: "Jan Wildeboer on software patents in the EU"
-date: "2005-07-22"
-categories: 
+date: 2005-07-22
+tags: 
   - "apachecon"
+  - "post"
+slug: jan-wildeboer-on-software-patents-in-the-eu
 ---
 
 Jan Wildeboer is on stage now, I'm not going to blog a summary but just a link to the [Foundation for a Free Information Infrastructure](http://ffii.org/) of which he is a member. They have lots of information and links about software patents in the EU.

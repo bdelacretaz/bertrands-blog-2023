@@ -1,9 +1,11 @@
 ---
 title: "On the board"
-date: "2008-06-05"
-categories: 
+date: 2008-06-05
+tags: 
   - "asf"
   - "milestones"
+  - "post"
+slug: on-the-board
 ---
 
 The members meeting of the [Apache Software Foundation](http://www.apache.org/foundation) is over, and I've had the pleasant surprise of being elected as a member of the [board](http://www.apache.org/foundation/board/).

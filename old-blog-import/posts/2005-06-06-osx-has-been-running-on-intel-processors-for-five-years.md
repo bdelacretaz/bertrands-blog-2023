@@ -1,6 +1,9 @@
 ---
 title: "osx has been running on Intel processors for five years..."
-date: "2005-06-06"
+date: 2005-06-06
+tags: 
+  - "post"
+slug: osx-has-been-running-on-intel-processors-for-five-years
 ---
 
 It's official: Mac OSX will [run on Intel processors](http://www.apple.com/chfr/hotnews/press/0506/press_050606_intel.html) soon, because _Intel has the best processor roadmap by far_. [Ted Leung](http://www.sauria.com/blog/2005/06/06#1313) has more info and links.

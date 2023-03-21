@@ -1,6 +1,9 @@
 ---
 title: "More on slideware"
-date: "2003-06-05"
+date: 2003-06-05
+tags: 
+  - "post"
+slug: more-on-slideware
 ---
 
 [Tufte's booklet](http://codeconsult.ch/bertrand/archives/000053.html) on slideware arrived and it lives up to my expectations.

@@ -1,6 +1,9 @@
 ---
 title: "I should have invented the Wiki"
-date: "2003-07-09"
+date: 2003-07-09
+tags: 
+  - "post"
+slug: i-should-have-invented-the-wiki
 ---
 
 At least I'm happy to have convinced some people to use Wikis, which are showing up everywhere these days.

@@ -1,8 +1,10 @@
 ---
 title: "Software project document templates"
-date: "2004-02-13"
-categories: 
+date: 2004-02-13
+tags: 
   - "tools"
+  - "post"
+slug: software-project-document-templates
 ---
 
 [readyset.tigris.org](http://readyset.tigris.org/) publishes a well thought-out and evolving set of document templates for project artifacts (via [Lars Trieloff](http://trieloff.net/docbook/archive/000619.html)).

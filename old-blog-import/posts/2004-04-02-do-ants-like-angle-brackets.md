@@ -1,8 +1,10 @@
 ---
 title: "Do ants like angle brackets?"
-date: "2004-04-02"
-categories: 
+date: 2004-04-02
+tags: 
   - "xml"
+  - "post"
+slug: do-ants-like-angle-brackets
 ---
 
 [James Duncan Davidson](http://x180.net/), who created [Apache Ant](http://ant.apache.org/), [reflects](http://x180.net/Articles/Java/AntAndXML.html) on ant's use of XML to define builds.

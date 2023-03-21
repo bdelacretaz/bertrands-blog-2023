@@ -1,9 +1,11 @@
 ---
 title: "Open Source VC - in France!"
-date: "2004-12-06"
-categories: 
+date: 2004-12-06
+tags: 
   - "cocoon"
   - "open-source"
+  - "post"
+slug: open-source-vc-in-france
 ---
 
 Congratulations [Sylvain](http://www.anyware-tech.com/blogs/sylvain/archives/000150.html) - his [company](http://www.anyware-tech.com/) (which is betting the farm on Cocoon) just got 3 million euro funding from French VCs.

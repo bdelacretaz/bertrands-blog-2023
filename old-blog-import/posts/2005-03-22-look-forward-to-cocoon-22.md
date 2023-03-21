@@ -1,8 +1,10 @@
 ---
 title: "Look forward to Cocoon 2.2!"
-date: "2005-03-22"
-categories: 
+date: 2005-03-22
+tags: 
   - "cocoon"
+  - "post"
+slug: look-forward-to-cocoon-22
 ---
 
 As the 2.1.7 release is near, [Sylvain](http://www.anyware-tech.com/blogs/sylvain/) writes about the [Cocoon 2.2 goodies](http://www.anyware-tech.com/blogs/sylvain/archives/000171.html). Not _planned_ stuff, all this is already available in the code repository, even if not everything is tested or polished yet.

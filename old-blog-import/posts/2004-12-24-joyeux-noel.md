@@ -1,8 +1,10 @@
 ---
 title: "Joyeux Noel"
-date: "2004-12-24"
-categories: 
+date: 2004-12-24
+tags: 
   - "thoughts"
+  - "post"
+slug: joyeux-noel
 ---
 
 Merry Christmas to all my readers (yes, the two of you)!

@@ -1,9 +1,11 @@
 ---
 title: "Google Number - revisited"
-date: "2005-10-19"
-categories: 
+date: 2005-10-19
+tags: 
   - "fun"
   - "the-web"
+  - "post"
+slug: google-number-revisited
 ---
 
 Let's see how people's [Google Numbers](http://blogcritics.org/archives/2003/11/23/203120.php) have evolved since [last time](http://www.codeconsult.ch/bertrand/archives/000186.html)...

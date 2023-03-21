@@ -1,8 +1,10 @@
 ---
 title: "Blogging without knowing..."
-date: "2003-05-13"
-categories: 
+date: 2003-05-13
+tags: 
   - "blogs"
+  - "post"
+slug: blogging-without-knowing
 ---
 
 Today I needed to setup a blog without telling its users that it's a blog ;-)

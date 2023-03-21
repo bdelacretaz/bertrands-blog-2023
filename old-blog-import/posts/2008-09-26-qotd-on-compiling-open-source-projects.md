@@ -1,9 +1,11 @@
 ---
 title: "QOTD: on compiling open source projects"
-date: "2008-09-26"
-categories: 
+date: 2008-09-26
+tags: 
   - "open-source"
   - "thoughts"
+  - "post"
+slug: qotd-on-compiling-open-source-projects
 ---
 
 Rod Johnson, Spring founder, in the [TSS thread](http://www.theserverside.com/news/thread.tss?thread_id=50727) about the new [SpringSource maintenance policy](http://www.springsource.com/products/enterprise/maintenancepolicy/faq):

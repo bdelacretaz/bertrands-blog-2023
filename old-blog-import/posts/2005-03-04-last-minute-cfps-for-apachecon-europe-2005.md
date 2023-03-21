@@ -1,6 +1,9 @@
 ---
 title: "Last-minute CFPs for ApacheCon Europe 2005"
-date: "2005-03-04"
+date: 2005-03-04
+tags: 
+  - "post"
+slug: last-minute-cfps-for-apachecon-europe-2005
 ---
 
 If you want to speak at [ApacheCon Europe 2005](http://apachecon.com/2005/EU/), in July, today's the deadline for proposals. There are several variants of the exact deadline time on the site, but it mostly looks like it's today...

@@ -1,6 +1,9 @@
 ---
 title: "GT pictures"
-date: "2004-10-14"
+date: 2004-10-14
+tags: 
+  - "post"
+slug: gt-pictures
 ---
 
 If you missed it, pictures can be found [here](http://www.pbase.com/stevenn/gt2004) and [here](http://flickr.com/photos/tags/cocoongt2004/).

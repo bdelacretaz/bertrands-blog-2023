@@ -1,8 +1,10 @@
 ---
 title: "Dare to try any job"
-date: "2003-11-13"
-categories: 
+date: 2003-11-13
+tags: 
   - "thoughts"
+  - "post"
+slug: dare-to-try-any-job
 ---
 
 Today school kids around here can take the day off to go to work with their parents or someone else. The day is called "oser tous les métiers" in french, which about translates to this post's title.

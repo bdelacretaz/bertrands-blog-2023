@@ -1,8 +1,10 @@
 ---
 title: "Is tagtagger about to change the Web 2.0 world?"
-date: "2005-10-28"
-categories: 
+date: 2005-10-28
+tags: 
   - "the-web"
+  - "post"
+slug: is-tagtagger-about-to-change-the-web-20-world
 ---
 
 [Matthew](http://www.silentpenguin.com/archives/2005/10/cashing_in_on_w.html) wants to be part of the next Web 2.0 revolution with [tagtagger](http://www.tagtagger.com/).

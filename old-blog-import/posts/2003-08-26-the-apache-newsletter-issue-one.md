@@ -1,8 +1,10 @@
 ---
 title: "The Apache newsletter, issue one"
-date: "2003-08-26"
-categories: 
+date: 2003-08-26
+tags: 
   - "open-source"
+  - "post"
+slug: the-apache-newsletter-issue-one
 ---
 
 Get it [here](http://www.apache.org/newsletter/200307.html)!

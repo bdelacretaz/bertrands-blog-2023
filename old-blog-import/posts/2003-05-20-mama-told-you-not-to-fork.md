@@ -1,8 +1,10 @@
 ---
 title: "Mama told you not to fork..."
-date: "2003-05-20"
-categories: 
+date: 2003-05-20
+tags: 
   - "cocoon"
+  - "post"
+slug: mama-told-you-not-to-fork
 ---
 
 It is not easy to answer [questions](http://marc.theaimsgroup.com/?t=105341599300003&r=1&w=2) about the current weather when the [storm](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=104877211007088&w=2) is not completely over.

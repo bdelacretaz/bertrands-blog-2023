@@ -1,8 +1,10 @@
 ---
 title: "Cocoon 2.2 is starting to look really good, but I'm a bit lost!"
-date: "2006-01-11"
-categories: 
+date: 2006-01-11
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-22-is-starting-to-look-really-good-but-im-a-bit-lost
 ---
 
 Not working actively on Cocoon at the moment (busy with my Flash stuff, and a lot of teaching to do between now and April), I'm doing my best to follow what's happening.

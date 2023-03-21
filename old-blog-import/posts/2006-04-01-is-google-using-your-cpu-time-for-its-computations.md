@@ -1,8 +1,10 @@
 ---
 title: "Is Google using your CPU time for its computations?"
-date: "2006-04-01"
-categories: 
+date: 2006-04-01
+tags: 
   - "the-web"
+  - "post"
+slug: is-google-using-your-cpu-time-for-its-computations
 ---
 
 Just got news from an as yet unverified, but usually very reliable source, that a team of Russian scientists would have found Google guilty of using _your_ CPU to power its clusters!

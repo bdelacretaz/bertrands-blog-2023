@@ -1,8 +1,10 @@
 ---
 title: "Cocoon success stories!"
-date: "2004-10-12"
-categories: 
+date: 2004-10-12
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-success-stories
 ---
 
 Next up on the GT2004 stage are the Cocoon sucess stories. People, get ready to have your socks blown off ;-)

@@ -1,8 +1,10 @@
 ---
 title: "Depressed"
-date: "2004-11-04"
-categories: 
+date: 2004-11-04
+tags: 
   - "thoughts"
+  - "post"
+slug: depressed
 ---
 
 Even with optimism deeply implanted in your genes it's hard not to be depressed these days.

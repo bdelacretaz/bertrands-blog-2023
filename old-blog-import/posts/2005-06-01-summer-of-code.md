@@ -1,6 +1,9 @@
 ---
 title: "Summer of Code"
-date: "2005-06-01"
+date: 2005-06-01
+tags: 
+  - "post"
+slug: summer-of-code
 ---
 
 Yesterday Google announced the [Summer of Code](http://code.google.com/summerofcode.html) initiative, where students can receive a $4500 award for completing an open source project by the end of Summer.

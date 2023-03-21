@@ -1,8 +1,10 @@
 ---
 title: "C header files are the wave of the (IP) future"
-date: "2003-12-23"
-categories: 
+date: 2003-12-23
+tags: 
   - "open-source"
+  - "post"
+slug: c-header-files-are-the-wave-of-the-ip-future
 ---
 
 SCO finally [discloses](http://lwn.net/Articles/64052/) the super-secret rocket science Linux code that they think has been copied from their intellectual property.

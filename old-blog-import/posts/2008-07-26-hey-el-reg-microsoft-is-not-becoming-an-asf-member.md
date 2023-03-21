@@ -1,9 +1,11 @@
 ---
 title: "Hey, El Reg - Microsoft is *not* becoming an ASF member!"
-date: "2008-07-26"
-categories: 
+date: 2008-07-26
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: hey-el-reg-microsoft-is-not-becoming-an-asf-member
 ---
 
 Contrary to what [The Register](http://www.theregister.co.uk/2008/07/25/microsoft_gpl/) reports, Microsoft is not _paying $100,000 annual membership_ to the [Apache Software Foundation](http://www.apache.org).

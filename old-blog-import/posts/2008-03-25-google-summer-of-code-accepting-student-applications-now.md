@@ -1,9 +1,11 @@
 ---
 title: "Google Summer of Code: accepting student applications now"
-date: "2008-03-25"
-categories: 
+date: 2008-03-25
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: google-summer-of-code-accepting-student-applications-now
 ---
 
 See the [timeline](http://code.google.com/opensource/gsoc/2008/faqs.html#0.1_timeline), now is the time for students to talk to us (mentors) and to prepare and submit applications.

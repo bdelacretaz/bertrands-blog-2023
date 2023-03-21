@@ -1,9 +1,11 @@
 ---
 title: "Updated ASF Source Header and Copyright Notice Policy"
-date: "2006-07-17"
-categories: 
+date: 2006-07-17
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: updated-asf-source-header-and-copyright-notice-policy
 ---
 
 This is mostly of interest to committers of the [Apache Software Foundation](http://apache.org), but it might help clarify the ASF license and copyright policy for others: the updated [ASF Source Header and Copyright Notice Policy](http://www.apache.org/legal/src-headers.html) has just been published.

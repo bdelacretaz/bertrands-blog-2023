@@ -1,6 +1,9 @@
 ---
 title: "Going Solo - Lausanne, May 16th, 2008"
-date: "2008-01-22"
+date: 2008-01-22
+tags: 
+  - "post"
+slug: going-solo-lausanne-may-16th-2008
 ---
 
 (no I'm not going back to freelancing ;-)

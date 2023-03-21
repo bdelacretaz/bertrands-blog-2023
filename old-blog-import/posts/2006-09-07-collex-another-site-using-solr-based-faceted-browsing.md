@@ -1,8 +1,10 @@
 ---
 title: "collex: another site using Solr-based faceted browsing"
-date: "2006-09-07"
-categories: 
+date: 2006-09-07
+tags: 
   - "tools"
+  - "post"
+slug: collex-another-site-using-solr-based-faceted-browsing
 ---
 
 Erik Hatcher just added the [NINES collex](http://www.nines.org/collex) site to the [powered by Solr](http://wiki.apache.org/solr/PublicServers) page.

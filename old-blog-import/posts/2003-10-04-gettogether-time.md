@@ -1,8 +1,10 @@
 ---
 title: "GetTogether time"
-date: "2003-10-04"
-categories: 
+date: 2003-10-04
+tags: 
   - "cocoon"
+  - "post"
+slug: gettogether-time
 ---
 
 Everything is (hopefully) ready for the [Cocoon GetTogether](http://www.orixo.com/events/gt2003/). 129 people from 16 countries signed up, wow!

@@ -1,9 +1,12 @@
 ---
 title: "Apache Bikers - will they want me and my Flyer?"
-date: "2007-01-10"
+date: 2007-01-10
+tags: 
+  - "post"
+slug: apache-bikers-will-they-want-me-and-my-flyer
 ---
 
-![](images/biketec-flyer.jpg)There's talk [here](http://wooga.drbacchus.com/?p=1427), [here](http://www.andrewsavory.com/blog/archives/001235.html) and [here](http://www.1060.org/blogxter/entry?publicid=419121E1FA6E93F003444C53C1384154&token=) about forming a (virtual) Apache Bikers team. As in _bicycle_, not _Harley Davidson_ this time.
+![](http://codeconsult.ch/bertrand/archives/images/biketec-flyer.jpg)There's talk [here](http://wooga.drbacchus.com/?p=1427), [here](http://www.andrewsavory.com/blog/archives/001235.html) and [here](http://www.1060.org/blogxter/entry?publicid=419121E1FA6E93F003444C53C1384154&token=) about forming a (virtual) Apache Bikers team. As in _bicycle_, not _Harley Davidson_ this time.
 
 Hopefully my [Flyer](http://biketec.ch/) electric bike wouldn't disqualify me! Of course it uses less of _my_ power, but running it all year in any weather might compensate, based on the mental effort that this requires ;-)
 

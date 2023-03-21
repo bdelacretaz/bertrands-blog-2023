@@ -1,8 +1,10 @@
 ---
 title: "Let's open the source!"
-date: "2004-01-27"
-categories: 
+date: 2004-01-27
+tags: 
   - "cocoon"
+  - "post"
+slug: lets-open-the-source
 ---
 
 The [LOTS](http://www.lots.ch) Open-Source event will take place in Bern, Switzerland on February 18th.

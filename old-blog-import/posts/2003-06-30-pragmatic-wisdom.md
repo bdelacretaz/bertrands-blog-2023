@@ -1,6 +1,9 @@
 ---
 title: "Pragmatic wisdom"
-date: "2003-06-30"
+date: 2003-06-30
+tags: 
+  - "post"
+slug: pragmatic-wisdom
 ---
 
 Just finished [The Pragmatic Programmer](http://www.pragmaticprogrammer.com/ppbook/index.shtml), filled with wisdom about our work. Another must read, although you probably need some previous experience and failed projects to fully grasp it.

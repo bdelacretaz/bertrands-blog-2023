@@ -1,12 +1,13 @@
 ---
 title: "Simple startup profiling of OSGi applications"
-date: "2013-10-18"
-categories: 
-  - "java"
-  - "osgi"
+date: 2013-10-18
 tags: 
   - "felix"
   - "sling"
+  - "java"
+  - "osgi"
+  - "post"
+slug: simple-startup-profiling-of-osgi-applications
 ---
 
 Prompted by a colleague's question about profiling the startup time of [Apache Sling](http://sling.apache.org/) systems, I vaguely remembered writing something a while ago, but couldn't find it immediately.
@@ -25,4 +26,4 @@ Here's how you can use that webconsole plugin to get a simple timeline of an OSG
 
 This provides a simple graphical timeline, as shown on the screenshot below, that's especially useful in detecting outlier bundles or services that take a long time to start up.
 
-![Webconsole Events plugin screenshot](images/webconsole-events-716.jpg "webconsole-events-716.jpg")
+![Webconsole Events plugin screenshot](http://bdelacretaz.files.wordpress.com/2013/10/webconsole-events-716.jpg "webconsole-events-716.jpg")

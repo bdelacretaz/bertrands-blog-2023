@@ -1,9 +1,11 @@
 ---
 title: "Brian W. Fitzpatrick: success indicators for Open Source projects"
-date: "2006-06-28"
-categories: 
+date: 2006-06-28
+tags: 
   - "apachecon"
   - "open-source"
+  - "post"
+slug: brian-w-fitzpatrick-success-indicators-for-open-source-projects
 ---
 
 Here are Brian's success indicators for Open Source projects, from his [Apache: When the Code Just isn’t Enough](http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,8,nodeid,,_language,uk.html#session-bts2) ApacheCon session.

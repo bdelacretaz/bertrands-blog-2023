@@ -1,8 +1,10 @@
 ---
 title: "Exam day: rediscovering Linux"
-date: "2004-01-16"
-categories: 
+date: 2004-01-16
+tags: 
   - "thoughts"
+  - "post"
+slug: exam-day-rediscovering-linux
 ---
 
 Yesterday was the grand opening of the [exhibition](http://www.archimob.ch/) for which [we](http://www.archimob.ch/f/expo/impress.html) have built a Linux-based interactive movie theater system.

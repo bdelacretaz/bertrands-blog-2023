@@ -1,8 +1,10 @@
 ---
 title: "Clover, JUnit and more"
-date: "2004-04-13"
-categories: 
+date: 2004-04-13
+tags: 
   - "tools"
+  - "post"
+slug: clover-junit-and-more
 ---
 
 [Berin Loritsch](http://jroller.com/page/bloritsch/20040413#you_think_you_have_yourelf) mentions [Clover](http://www.thecortex.net/clover/index.html) (payware), a code coverage tool that looks very useful combined with [JUnit](http://junit.org).

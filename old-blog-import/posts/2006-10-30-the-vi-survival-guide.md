@@ -1,8 +1,10 @@
 ---
 title: "The vi survival guide"
-date: "2006-10-30"
-categories: 
+date: 2006-10-30
+tags: 
   - "tools"
+  - "post"
+slug: the-vi-survival-guide
 ---
 
 If, like mine, your colleagues are constantly moaning about vi when installing their machines, have them read this!

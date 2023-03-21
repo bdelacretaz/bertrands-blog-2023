@@ -1,8 +1,10 @@
 ---
 title: "OSCOM4: Erik Hatcher on Lucene"
-date: "2004-09-29"
-categories: 
+date: 2004-09-29
+tags: 
   - "tools"
+  - "post"
+slug: oscom4-erik-hatcher-on-lucene
 ---
 
 I didn't have an opportunity to use [Lucene](http://jakarta.apache.org/lucene/) for serious stuff yet, but I'm very impressed after hearing Erik's talk.

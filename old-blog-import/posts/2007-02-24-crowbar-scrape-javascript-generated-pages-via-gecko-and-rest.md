@@ -1,9 +1,11 @@
 ---
 title: "Crowbar: scrape javascript-generated pages via Gecko and REST!"
-date: "2007-02-24"
-categories: 
+date: 2007-02-24
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: crowbar-scrape-javascript-generated-pages-via-gecko-and-rest
 ---
 
 Careful with buzzwords on that one...from the _extremely clever hacks_ department, [Stefano](http://www.betaversion.org/~stefano/) strikes again with [crowbar](http://thread.gmane.org/gmane.comp.apache.labs.devel/78), a RESTish page-scraping component based on the Gecko rendering engine.

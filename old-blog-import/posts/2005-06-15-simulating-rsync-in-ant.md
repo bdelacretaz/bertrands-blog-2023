@@ -1,9 +1,11 @@
 ---
 title: "Simulating rsync in ant"
-date: "2005-06-15"
-categories: 
+date: 2005-06-15
+tags: 
   - "cocoon"
   - "tools"
+  - "post"
+slug: simulating-rsync-in-ant
 ---
 
 When writing Cocoon apps I often include an rsync setup in my ant build scripts, to keep the src and webapp directories synchronized during development.

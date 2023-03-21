@@ -1,8 +1,10 @@
 ---
 title: "GroovyMarkup in Cocoon"
-date: "2004-04-15"
-categories: 
+date: 2004-04-15
+tags: 
   - "cocoon"
+  - "post"
+slug: groovymarkup-in-cocoon
 ---
 
 With help from [James Strachan](http://radio.weblogs.com/0112098/), who very quickly corrected a problem with Groovy's SAXBuilder, [GroovyMarkup](http://groovy.codehaus.org/markup.html) now works in Cocoon via the ScriptGenerator (BSF block).

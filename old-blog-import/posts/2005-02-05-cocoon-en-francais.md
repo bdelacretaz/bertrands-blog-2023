@@ -1,6 +1,9 @@
 ---
 title: "Cocoon en francais"
-date: "2005-02-05"
+date: 2005-02-05
+tags: 
+  - "post"
+slug: cocoon-en-francais
 ---
 
 Shame on me, I have forgotten to make the required noise about the emergence of a french-speaking [Cocoon online community](http://cocoon.apache.org/fr/).

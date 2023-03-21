@@ -1,8 +1,10 @@
 ---
 title: "The Prince of PDF?"
-date: "2003-12-02"
-categories: 
+date: 2003-12-02
+tags: 
   - "tools"
+  - "post"
+slug: the-prince-of-pdf
 ---
 
 [YesLogic](http://yeslogic.com) has released [Prince](http://yeslogic.com/prince/), a batch formatter which converts XML + CSS to PDF (payware).

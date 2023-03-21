@@ -1,8 +1,10 @@
 ---
 title: "Venus Transit"
-date: "2004-06-07"
-categories: 
+date: 2004-06-07
+tags: 
   - "fun"
+  - "post"
+slug: venus-transit
 ---
 
 Altough it would make a cool name, _Venus Transit_ is not (AFAIK) a new heavy metal band: tomorrow, the planet Venus is going to pass in front of the Sun, as seen from here.

@@ -1,9 +1,11 @@
 ---
 title: "Sling RESTful scripting elevator pitch"
-date: "2009-01-31"
-categories: 
+date: 2009-01-31
+tags: 
   - "content"
   - "sling"
+  - "post"
+slug: sling-restful-scripting-elevator-pitch
 ---
 
 Just sent the explanation below to the newly created [Server-side Javascript discussion group](http://groups.google.com/group/serverjs) (thanks [Lars](http://weblogs.goshaky.com/weblogs/lars/) for the ping).

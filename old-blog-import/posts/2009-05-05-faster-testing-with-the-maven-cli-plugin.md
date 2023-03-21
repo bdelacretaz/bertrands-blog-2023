@@ -1,9 +1,11 @@
 ---
 title: "Faster testing with the Maven CLI plugin"
-date: "2009-05-05"
-categories: 
+date: 2009-05-05
+tags: 
   - "maven"
   - "tools"
+  - "post"
+slug: faster-testing-with-the-maven-cli-plugin
 ---
 
 Although it's not [that new](http://markmail.org/message/dpejtchtyeg6ve6k), I discovered Don Brown's [Maven CLI plugin](http://wiki.github.com/mrdon/maven-cli-plugin) only this morning, and played with [mojavelinux](http://www.mojavelinux.com/blog/archives/2009/05/a_gamechanging_maven_2_plugin_you_absolutely_must_use/index.php)' s enhanced version which supports -D parameters and profiles, among other things.

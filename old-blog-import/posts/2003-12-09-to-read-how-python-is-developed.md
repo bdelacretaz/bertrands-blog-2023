@@ -1,8 +1,10 @@
 ---
 title: "To read: how Python is developed"
-date: "2003-12-09"
-categories: 
+date: 2003-12-09
+tags: 
   - "tools"
+  - "post"
+slug: to-read-how-python-is-developed
 ---
 
 With (too) many projects competing for my time currently, I find myself spending a lot of time in [bugzilla](http://www.bugzilla.org/) to coordinate people and keep them busy (as in _doing useful work_, not _reinventing hot air_).

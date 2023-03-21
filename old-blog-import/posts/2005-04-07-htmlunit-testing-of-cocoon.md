@@ -1,8 +1,10 @@
 ---
 title: "HtmlUnit testing of Cocoon"
-date: "2005-04-07"
-categories: 
+date: 2005-04-07
+tags: 
   - "cocoon"
+  - "post"
+slug: htmlunit-testing-of-cocoon
 ---
 
 I've just applied to Cocoon 2.1.x the [patch](http://issues.apache.org/bugzilla/show_bug.cgi?id=34294) supplied by Alfred Nathaniel (swiss Cocoonistas rulez;-) which adds a framework for [HtmlUnit](http://htmlunit.sourceforge.net/)\-based testing of Cocoon.

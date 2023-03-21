@@ -1,8 +1,10 @@
 ---
 title: "Embedding Flickr slideshows..."
-date: "2007-02-24"
-categories: 
+date: 2007-02-24
+tags: 
   - "tools"
+  - "post"
+slug: embedding-flickr-slideshows
 ---
 
 Is very easy if you accept <iframe> on your pages:

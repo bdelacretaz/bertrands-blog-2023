@@ -1,8 +1,10 @@
 ---
 title: "On dingo kidneys"
-date: "2003-10-28"
-categories: 
+date: 2003-10-28
+tags: 
   - "xml"
+  - "post"
+slug: on-dingo-kidneys
 ---
 
 According to [Ugo Cei](http://www.beblogging.com/blog/) on the [cocoon-users](http://marc.theaimsgroup.com/?l=xml-cocoon-users&m=106729455927629&w=2) mailing list, _XML isn't worth "a pile of fetid dingo kidney" (TM) as a scripting language_.

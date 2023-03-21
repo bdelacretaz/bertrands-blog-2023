@@ -1,6 +1,9 @@
 ---
 title: "java dot net dot fud?"
-date: "2003-06-11"
+date: 2003-06-11
+tags: 
+  - "post"
+slug: java-dot-net-dot-fud
 ---
 
 It might be a good idea for Sun to launch what looks like a [better SourceForge](http://java.net/index.html). They integrated a wiki, which makes my coolness meter jump up instantly!

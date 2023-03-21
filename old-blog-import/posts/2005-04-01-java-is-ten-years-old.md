@@ -1,6 +1,9 @@
 ---
 title: "Java is ten years old"
-date: "2005-04-01"
+date: 2005-04-01
+tags: 
+  - "post"
+slug: java-is-ten-years-old
 ---
 
 In an interesting parallel with the previous post, the Java language and platform is [turning 10](http://www.sys-con.com/story/print.cfm?storyid=48538) this year. See the [timeline](http://java.sun.com/features/2000/06/time-line.html).

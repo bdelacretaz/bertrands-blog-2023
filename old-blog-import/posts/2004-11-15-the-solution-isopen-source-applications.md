@@ -1,8 +1,10 @@
 ---
 title: "The solution is...open source applications"
-date: "2004-11-15"
-categories: 
+date: 2004-11-15
+tags: 
   - "open-source"
+  - "post"
+slug: the-solution-isopen-source-applications
 ---
 
 [Simon Phipps](http://www.webmink.net/2004/11/new-trinity.htm) is very right: _the solution to spyware, virus infection and overpriced upgrades is...Firefox, Thunderbird and OpenOffice_.

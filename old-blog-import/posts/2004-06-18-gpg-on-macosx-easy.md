@@ -1,8 +1,10 @@
 ---
 title: "gpg on macosx - easy"
-date: "2004-06-18"
-categories: 
+date: 2004-06-18
+tags: 
   - "tools"
+  - "post"
+slug: gpg-on-macosx-easy
 ---
 
 Preparing for the big trip I have finally created a [PGP key](http://pgp.mit.edu:11371/pks/lookup?search=bdelacretaz&op=index) for myself, which should help expand the ASF's web of trust [overseas](http://indexgeo.com.au/apache/).

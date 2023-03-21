@@ -1,11 +1,12 @@
 ---
 title: "Rules For Revolutionaries (2000 edition)"
-date: "2020-04-07"
-categories: 
-  - "collaboration"
-  - "open-source"
+date: 2020-04-07
 tags: 
   - "opensource"
+  - "collaboration"
+  - "open-source"
+  - "post"
+slug: rules-for-revolutionaries-2000-edition
 ---
 
 The below message is from 2000 but I think it still applies to open source collaboration in the 21st century.

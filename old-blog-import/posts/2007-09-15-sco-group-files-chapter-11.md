@@ -1,8 +1,10 @@
 ---
 title: "SCO Group files Chapter 11"
-date: "2007-09-15"
-categories: 
+date: 2007-09-15
+tags: 
   - "open-source"
+  - "post"
+slug: sco-group-files-chapter-11
 ---
 
 Hey SCO, how come nobody told you that attacking the Linux world with junk claims was [not a good idea](http://biz.yahoo.com/prnews/070914/laf040.html?.v=101)? Or maybe you weren't listening?

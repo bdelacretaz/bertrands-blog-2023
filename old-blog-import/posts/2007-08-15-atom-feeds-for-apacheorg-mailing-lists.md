@@ -1,8 +1,10 @@
 ---
 title: "Atom feeds for apache.org mailing lists"
-date: "2007-08-15"
-categories: 
+date: 2007-08-15
+tags: 
   - "asf"
+  - "post"
+slug: atom-feeds-for-apacheorg-mailing-lists
 ---
 
 To keep in touch with all things Apache, feel free to subscribe to the Atom feeds provided by the [ASF mail archives](http://mail-archives.apache.org/mod_mbox/).

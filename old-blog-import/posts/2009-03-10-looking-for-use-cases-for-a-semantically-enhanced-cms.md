@@ -1,13 +1,15 @@
 ---
 title: "Looking for use cases for a semantically enhanced CMS"
-date: "2009-03-10"
-categories: 
+date: 2009-03-10
+tags: 
   - "content"
   - "day-software"
   - "iks-project"
+  - "post"
+slug: looking-for-use-cases-for-a-semantically-enhanced-cms
 ---
 
-[![iks-logo.jpg](images/iks-logo.jpg)](http://www.iks-project.eu/)[Day](http://www.day.com) is participating as an industrial partner in the [Interactive Knowledge](http://www.iks-project.eu/) project, which aims to _provide an open source technology platform for semantically enhanced content management systems_.
+[![iks-logo.jpg](http://bdelacretaz.files.wordpress.com/2009/03/iks-logo.jpg)](http://www.iks-project.eu/)[Day](http://www.day.com) is participating as an industrial partner in the [Interactive Knowledge](http://www.iks-project.eu/) project, which aims to _provide an open source technology platform for semantically enhanced content management systems_.
 
 We are starting to collect use cases for a semantically enhanced CMS - although I'm not 100% sure what _semantically enhanced_ means (and I assume that means different things to different people), I have started with use cases like the following:
 

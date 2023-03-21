@@ -1,8 +1,10 @@
 ---
 title: "GT2004 Hackathon starts"
-date: "2004-10-11"
-categories: 
+date: 2004-10-11
+tags: 
   - "cocoon"
+  - "post"
+slug: gt2004-hackathon-starts
 ---
 
 I didn't bring my camera but others are [posting photos](http://www.flickr.com/photos/tags/cocoongt2004) already.

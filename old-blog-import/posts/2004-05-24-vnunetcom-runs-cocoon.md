@@ -1,8 +1,10 @@
 ---
 title: "vnunet.com runs Cocoon"
-date: "2004-05-24"
-categories: 
+date: 2004-05-24
+tags: 
   - "cocoon"
+  - "post"
+slug: vnunetcom-runs-cocoon
 ---
 
 Pier Fumagalli [announces](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=108515696009033&w=2) his first "real" live Cocoon site, [vnunet.com](http://www.vnunet.com/). And real it is!

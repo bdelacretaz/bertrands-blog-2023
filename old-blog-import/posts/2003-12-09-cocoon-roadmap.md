@@ -1,8 +1,10 @@
 ---
 title: "Cocoon Roadmap"
-date: "2003-12-09"
-categories: 
+date: 2003-12-09
+tags: 
   - "tools"
+  - "post"
+slug: cocoon-roadmap
 ---
 
 Bugzilla strikes again: Reinhard Poetz has been setting up a nice [Cocoon Roadmap](http://nagoya.apache.org/bugzilla/showdependencytree.cgi?id=25320) based on bugzilla dependencies. Cocoonistas should make this their homepage, for sure ;-)

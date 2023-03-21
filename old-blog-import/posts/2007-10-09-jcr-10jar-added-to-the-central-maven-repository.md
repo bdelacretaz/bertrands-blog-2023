@@ -1,9 +1,11 @@
 ---
 title: "jcr-1.0.jar added to the central Maven repository"
-date: "2007-10-09"
-categories: 
+date: 2007-10-09
+tags: 
   - "content"
   - "jcr"
+  - "post"
+slug: jcr-10jar-added-to-the-central-maven-repository
 ---
 
 After some [license clarifications](http://jira.codehaus.org/browse/MAVENUPLOAD-1733), the jcr-1.0.jar is finally available in the central Maven repository.

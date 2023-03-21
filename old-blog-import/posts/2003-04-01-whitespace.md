@@ -1,8 +1,10 @@
 ---
 title: "Whitespace.."
-date: "2003-04-01"
-categories: 
+date: 2003-04-01
+tags: 
   - "thoughts"
+  - "post"
+slug: whitespace
 ---
 
 [Whitespace](http://compsoc.dur.ac.uk/whitespace/index.php) looks like a promising new language, very well suited to literate programming.  

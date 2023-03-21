@@ -1,8 +1,10 @@
 ---
 title: "On persuading people"
-date: "2004-04-22"
-categories: 
+date: 2004-04-22
+tags: 
   - "thoughts"
+  - "post"
+slug: on-persuading-people
 ---
 
 Scoble's [essay](http://radio.weblogs.com/0001011/2004/04/17.html#a7223) on persuading is right on. I'm persuaded.

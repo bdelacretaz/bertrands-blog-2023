@@ -1,10 +1,12 @@
 ---
 title: "Sling at openexpo.ch, that's tomorrow!"
-date: "2008-09-24"
-categories: 
+date: 2008-09-24
+tags: 
   - "conferences"
   - "content"
   - "sling"
+  - "post"
+slug: sling-at-openexpoch-thats-tomorrow
 ---
 
 We're talking about [Sling](http://incubator.apache.org/sling) at [openexpo.ch](http://openexpo.org/en) tomorrow, together with Michael Marth, Day's technology evangelist.

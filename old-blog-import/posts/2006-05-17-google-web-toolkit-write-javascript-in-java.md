@@ -1,9 +1,11 @@
 ---
 title: "Google Web Toolkit - write javascript in java!"
-date: "2006-05-17"
-categories: 
+date: 2006-05-17
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: google-web-toolkit-write-javascript-in-java
 ---
 
 Woohooo - [Google Web Toolkit](http://code.google.com/webtoolkit/) allows you to write cool Ajaxified apps in...Java!

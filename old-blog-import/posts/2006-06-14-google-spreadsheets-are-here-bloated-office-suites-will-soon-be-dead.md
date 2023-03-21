@@ -1,12 +1,14 @@
 ---
 title: "Google spreadsheets are here, bloated office suites will soon be dead!"
-date: "2006-06-14"
-categories: 
+date: 2006-06-14
+tags: 
   - "the-web"
   - "tools"
+  - "post"
+slug: google-spreadsheets-are-here-bloated-office-suites-will-soon-be-dead
 ---
 
-![google-spreadsheets-test.jpg](images/google-spreadsheets-test.jpg)A few weeks ago it was the [calendar](http://codeconsult.ch/bertrand/archives/000660.html), and now Google introduces [browser-based spreadsheets](http://spreadsheets.google.com) that actually work.
+![google-spreadsheets-test.jpg](http://codeconsult.ch/bertrand/archives/images/google-spreadsheets-test.jpg)A few weeks ago it was the [calendar](http://codeconsult.ch/bertrand/archives/000660.html), and now Google introduces [browser-based spreadsheets](http://spreadsheets.google.com) that actually work.
 
 Dead-easy realtime collaboration (as in "grandma would get it") is included, and I think this is going to be the killer feature of such connected applications, the one that will prompt people to switch.
 

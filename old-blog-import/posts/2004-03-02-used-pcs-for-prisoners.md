@@ -1,6 +1,9 @@
 ---
 title: "Used PCs for prisoners"
-date: "2004-03-02"
+date: 2004-03-02
+tags: 
+  - "post"
+slug: used-pcs-for-prisoners
 ---
 
 A friend of a friend (both non-virtual ;-) is collecting up to 300 used PCs, to use in a computer technology training program in Russian prisons.

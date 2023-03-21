@@ -1,8 +1,10 @@
 ---
 title: "Storytelling power to the people"
-date: "2004-02-26"
-categories: 
+date: 2004-02-26
+tags: 
   - "thoughts"
+  - "post"
+slug: storytelling-power-to-the-people
 ---
 
 The Andy Hertzfeld interview (previous post) also lead me to [folklore.org](http://www.folklore.org/), a web site devoted to _collective historical storytelling_.

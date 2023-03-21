@@ -1,8 +1,10 @@
 ---
 title: "Tufte on slideware"
-date: "2003-05-26"
-categories: 
+date: 2003-05-26
+tags: 
   - "thoughts"
+  - "post"
+slug: tufte-on-slideware
 ---
 
 I've seen so many bad slides-based presentations in my life (who hasn't?) that it took me about 14 seconds to order [The Cognitive Style of Powerpoint](http://www.edwardtufte.com/1472288704/tufte/books_pp) after seeing Aaron Swartz's cool [remix](http://www.aaronsw.com/weblog/000931).

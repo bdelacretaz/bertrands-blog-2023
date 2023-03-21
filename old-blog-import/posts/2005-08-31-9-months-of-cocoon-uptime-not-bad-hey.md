@@ -1,8 +1,10 @@
 ---
 title: "9 months of Cocoon uptime, not bad hey?"
-date: "2005-08-31"
-categories: 
+date: 2005-08-31
+tags: 
   - "cocoon"
+  - "post"
+slug: 9-months-of-cocoon-uptime-not-bad-hey
 ---
 
 I've just finished upgrading [nouvo.ch](http://www.nouvo.ch) to a new version of the nouvoCMS software that runs it. There aren't that many visible changes, but quite a lot of small things have changed inside.

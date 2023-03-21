@@ -1,8 +1,10 @@
 ---
 title: "Looking for ASF people who understand Lithuanian, Russian and Ukrainian"
-date: "2007-12-03"
-categories: 
+date: 2007-12-03
+tags: 
   - "asf"
+  - "post"
+slug: looking-for-asf-people-who-understand-lithuanian-russian-and-ukrainian
 ---
 
 As part of [GHOP](http://code.google.com/opensource/ghop/2007-8/), a student is preparing a presentation of the ASF in Lithuanian.

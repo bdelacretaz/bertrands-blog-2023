@@ -1,8 +1,10 @@
 ---
 title: "Bertrand's (tentative) Rules for Maintainable Documentation"
-date: "2008-02-19"
-categories: 
+date: 2008-02-19
+tags: 
   - "developer-usability"
+  - "post"
+slug: bertrands-tentative-rules-for-maintainable-documentation
 ---
 
 On second thought, I'll post my (tentative) recommendations for creating maintainable docs here, excerpted from my [post to sling-dev](http://markmail.org/message/jlyjbu6o63pobtuy).

@@ -1,6 +1,9 @@
 ---
 title: "Comments might be in limbo for now.."
-date: "2005-04-03"
+date: 2005-04-03
+tags: 
+  - "post"
+slug: comments-might-be-in-limbo-for-now
 ---
 
 I made the mistake of having different hostnames for the "view" and "input comments" parts of this weblog, so if you're writing comments they might go to the old server while DNS updates are propagating ,and not be visible. I'll fix this tomorrow once all the DNS stuff has gone through.

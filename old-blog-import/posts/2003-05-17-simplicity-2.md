@@ -1,8 +1,10 @@
 ---
 title: "Simplicity..."
-date: "2003-05-17"
-categories: 
+date: 2003-05-17
+tags: 
   - "thoughts"
+  - "post"
+slug: simplicity-2
 ---
 
 Simplicity is always beautiful. [this](http://www.melly-bike.com/moto.htm) is the most beautiful and simple motorbike design I've seen in a long time.

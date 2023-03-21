@@ -1,8 +1,10 @@
 ---
 title: "My ApacheCon EU talk is alive!"
-date: "2006-04-28"
-categories: 
+date: 2006-04-28
+tags: 
   - "apachecon"
+  - "post"
+slug: my-apachecon-eu-talk-is-alive
 ---
 
 In the last few days my "Open Source tools and corporate projects" talk has been moving in very funny ways on the [ApacheCon EU](http://www.eu.apachecon.com) program. This thing is alive, I'm sure.

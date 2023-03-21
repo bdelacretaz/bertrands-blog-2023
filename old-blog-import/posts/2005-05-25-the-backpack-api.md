@@ -1,6 +1,9 @@
 ---
 title: "The Backpack API"
-date: "2005-05-25"
+date: 2005-05-25
+tags: 
+  - "post"
+slug: the-backpack-api
 ---
 
 The [Backpack API](http://www.backpackit.com/api/) is a good example of the power of HTTP/XML interfaces - simple, stateless protocol, self-explanatory. We'll hear more about it, I'm sure.

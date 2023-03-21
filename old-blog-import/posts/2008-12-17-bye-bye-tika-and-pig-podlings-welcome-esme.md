@@ -1,8 +1,10 @@
 ---
 title: "Bye bye Tika and Pig podlings, welcome ESME"
-date: "2008-12-17"
-categories: 
+date: 2008-12-17
+tags: 
   - "asf"
+  - "post"
+slug: bye-bye-tika-and-pig-podlings-welcome-esme
 ---
 
 The [Apache Tika](http://lucene.apache.org/tika/) and [Apache Pig](http://hadoop.apache.org/pig/) podlings where I was mentor, have graduated a few weeks ago, both in the "galaxy" of [Lucene](http://lucene.apache.org)\-related projects. Congrats and good luck!

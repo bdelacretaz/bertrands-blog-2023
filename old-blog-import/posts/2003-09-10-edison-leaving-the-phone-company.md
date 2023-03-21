@@ -1,8 +1,10 @@
 ---
 title: "Edison leaving the phone company?"
-date: "2003-09-10"
-categories: 
+date: 2003-09-10
+tags: 
   - "thoughts"
+  - "post"
+slug: edison-leaving-the-phone-company
 ---
 
 From the _slightly scary_ desk: Bill Joy (the "Edison of the Internet" according to Fortune mag) is [leaving](http://www.itworld.com/Tech/4535/030909joy/) [Sun](http://www.ktvu.com/technology/2466595/detail.html).

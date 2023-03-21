@@ -1,11 +1,13 @@
 ---
 title: "It's postage stamp pictures time again"
-date: "2005-10-05"
-categories: 
+date: 2005-10-05
+tags: 
   - "cocoon"
+  - "post"
+slug: its-postage-stamp-pictures-time-again
 ---
 
-![gt2005-starts.jpg](images/gt2005-starts.jpg)The [Cocoon GetTogether 2005](http://www.cocoongt.org/) has officially started with the [Hackathon](http://wiki.apache.org/cocoon/GT2005Hackaton).
+![gt2005-starts.jpg](http://codeconsult.ch/bertrand/archives/images/gt2005-starts.jpg)The [Cocoon GetTogether 2005](http://www.cocoongt.org/) has officially started with the [Hackathon](http://wiki.apache.org/cocoon/GT2005Hackaton).
 
 It's good to meet all these people again, including quite a few new ones (hi Paul!).
 

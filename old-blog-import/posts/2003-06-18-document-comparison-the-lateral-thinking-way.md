@@ -1,8 +1,10 @@
 ---
 title: "Document comparison - the lateral thinking way"
-date: "2003-06-18"
-categories: 
+date: 2003-06-18
+tags: 
   - "fun"
+  - "post"
+slug: document-comparison-the-lateral-thinking-way
 ---
 
 Today we needed to compare PDF documents generated with two different software versions for identity. Not too many pages, about 60 maybe.

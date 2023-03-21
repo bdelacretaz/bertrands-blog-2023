@@ -1,8 +1,10 @@
 ---
 title: "XMLHttpRequest and ActiveMQ Streamlets"
-date: "2004-05-27"
-categories: 
+date: 2004-05-27
+tags: 
   - "tools"
+  - "post"
+slug: xmlhttprequest-and-activemq-streamlets
 ---
 
 _(hopefully there are less than three words that you don't understand in the title of this post;-)_

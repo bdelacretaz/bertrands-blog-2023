@@ -1,9 +1,11 @@
 ---
 title: "It's pretty quiet here these days..."
-date: "2020-01-07"
-categories: 
+date: 2020-01-07
+tags: 
   - "conferences"
   - "thoughts"
+  - "post"
+slug: its-pretty-quiet-here-these-days
 ---
 
 I haven't published here in a while, but I've been writing and presenting elsewhere:

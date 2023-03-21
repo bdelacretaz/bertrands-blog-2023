@@ -1,8 +1,10 @@
 ---
 title: "Skype outage? The fix is soo easy!"
-date: "2007-08-17"
-categories: 
+date: 2007-08-17
+tags: 
   - "fun"
+  - "post"
+slug: skype-outage-the-fix-is-soo-easy
 ---
 
 Just read the comments [here](http://share.skype.com/sites/en/2007/08/the_latest_on_the_skype_signon.html) for some invaluable advice.

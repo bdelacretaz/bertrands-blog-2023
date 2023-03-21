@@ -1,11 +1,12 @@
 ---
 title: "Becoming an Apache project is a process, not just a decision"
-date: "2011-06-01"
-categories: 
-  - "asf"
-  - "open-source"
+date: 2011-06-01
 tags: 
   - "apache-opensource"
+  - "asf"
+  - "open-source"
+  - "post"
+slug: becoming-an-apache-project-is-a-process-not-just-a-decision
 ---
 
 Zdnet.com is talking about [the ASF accepting or rejecting a new project](http://www.zdnet.com/blog/open-source/what-the-heck-is-happening-with-openoffice-update/9025) - let me mention that this is not exactly how things work.

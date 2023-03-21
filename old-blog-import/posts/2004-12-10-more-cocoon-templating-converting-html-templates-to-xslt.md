@@ -1,8 +1,10 @@
 ---
 title: "More Cocoon templating: converting HTML templates to XSLT"
-date: "2004-12-10"
-categories: 
+date: 2004-12-10
+tags: 
   - "cocoon"
+  - "post"
+slug: more-cocoon-templating-converting-html-templates-to-xslt
 ---
 
 I've been playing with this today: using XSLT to generate XSLT transforms based on simple HTML templates, to make it easier for people to create presentation pipelines for Cocoon.

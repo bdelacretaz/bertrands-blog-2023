@@ -1,8 +1,10 @@
 ---
 title: "Blogroll is gone"
-date: "2004-04-26"
-categories: 
+date: 2004-04-26
+tags: 
   - "thoughts"
+  - "post"
+slug: blogroll-is-gone
 ---
 
 I started updating my blogroll from my NetNewsWire subscriptions file, but it's more work than I thought: some feeds are not meant to be shown here, being either irrelevant or private. Manually filtering them is no fun and error-prone.

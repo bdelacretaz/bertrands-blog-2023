@@ -1,6 +1,9 @@
 ---
 title: "Late night hacking pays (sometimes): I got Xen working!"
-date: "2006-02-03"
+date: 2006-02-03
+tags: 
+  - "post"
+slug: late-night-hacking-pays-sometimes-i-got-xen-working
 ---
 
 After several unsuccessful tries on various pre-existing configurations, I finally got [Xen](http://www.cl.cam.ac.uk/Research/SRG/netos/xen/) working, and it's _awesome_. To me virtual machines are fascinating anyway, but Xen feels (and really is I think) like another level up.

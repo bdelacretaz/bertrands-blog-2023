@@ -1,8 +1,10 @@
 ---
 title: "Tim Bray is looking for a gig"
-date: "2004-01-01"
-categories: 
+date: 2004-01-01
+tags: 
   - "the-web"
+  - "post"
+slug: tim-bray-is-looking-for-a-gig
 ---
 
 Combine the power of weblogs with the clout of someone like Tim Bray and you get [this](http://www.tbray.org/ongoing/When/200x/2004/01/01/WhatNext): _hey world, I'm looking for a job and here's why such-and-such should hire me_.

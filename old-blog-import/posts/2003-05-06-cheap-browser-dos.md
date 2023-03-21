@@ -1,8 +1,10 @@
 ---
 title: "Cheap browser DOS"
-date: "2003-05-06"
-categories: 
+date: 2003-05-06
+tags: 
   - "fun"
+  - "post"
+slug: cheap-browser-dos
 ---
 
 I mean Denial Of Service, not Disk Operating System ;-)
@@ -17,6 +19,11 @@ So, either you're running solid code and you have nothing to fear, or you want t
 
 Here's the code - but after serious testing by [Sylvain](http://www.anyware-tech.com/blogs/sylvain/) it looks like it won't crash your browser anyway - it doesn't work if simply embedded in the <body> of a page.
 
-`<html>   <form>   <input type crash>   </form>   </html>   `
+`<html>  
+<form>  
+<input type crash>  
+</form>  
+</html>  
+`
 
 It is slightly more complicated than I thought, looks like this code has to be put in a specific element of the HTML page. I'm not telling which one but Google and the cocoon-dev mailing list know...

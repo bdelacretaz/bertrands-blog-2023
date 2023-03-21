@@ -1,9 +1,11 @@
 ---
 title: "ASF incubator stats"
-date: "2006-06-30"
-categories: 
+date: 2006-06-30
+tags: 
   - "apachecon"
   - "asf"
+  - "post"
+slug: asf-incubator-stats
 ---
 
 I'm sitting in the _state of the ASF_ session at ApacheCon, and Noel Bergman is giving us the facts about the [ASF incubator](http://incubator.apache.org/).

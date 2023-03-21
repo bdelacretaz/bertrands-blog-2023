@@ -1,8 +1,10 @@
 ---
 title: "Web disservices"
-date: "2003-09-25"
-categories: 
+date: 2003-09-25
+tags: 
   - "the-web"
+  - "post"
+slug: web-disservices
 ---
 
 Interesting [article](http://www.xml.com/pub/a/2003/09/24/dive.html) by [Mark Pilgrim](http://diveintomark.org) at xml.com, about how to simplify too-complex Web Services (namely, the new [Microsoft.com Web Services](http://msdn.microsoft.com/webservices/building/livewebservices/mscomservices/default.aspx)).

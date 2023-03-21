@@ -1,8 +1,10 @@
 ---
 title: "Why software projects fail"
-date: "2004-05-05"
-categories: 
+date: 2004-05-05
+tags: 
   - "thoughts"
+  - "post"
+slug: why-software-projects-fail
 ---
 
 You all know why, don't you? And you all agree with [this](http://www.silent-penguin.com/archives/001762.html) and [this](http://blogs.cocoondev.org/stevenn/archives/001898.html), don't you?

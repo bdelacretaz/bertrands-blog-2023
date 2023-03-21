@@ -1,9 +1,11 @@
 ---
 title: "JCR in 15 minutes"
-date: "2009-11-03"
-categories: 
+date: 2009-11-03
+tags: 
   - "content"
   - "jcr"
+  - "post"
+slug: jcr-in-15-minutes
 ---
 
 We had a great [NoSQL meeting](http://www.nosqloakland.org/) yesterday evening colocated with [ApacheCon](http://us.apachecon.com). Thanks Jukka for organizing!

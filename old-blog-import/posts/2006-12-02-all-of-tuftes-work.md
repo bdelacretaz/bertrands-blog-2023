@@ -1,8 +1,10 @@
 ---
 title: "All of Tufte's work!"
-date: "2006-12-02"
-categories: 
+date: 2006-12-02
+tags: 
   - "tools"
+  - "post"
+slug: all-of-tuftes-work
 ---
 
 Gregor gets [all of Tufte's work](http://greg.abstrakt.ch/archives/2006/11/gifts.html) as gift, lucky man!

@@ -1,6 +1,9 @@
 ---
 title: "Torsten Schlabach on non-latin charsets"
-date: "2004-10-12"
+date: 2004-10-12
+tags: 
+  - "post"
+slug: torsten-schlabach-on-non-latin-charsets
 ---
 
 [Torsten Schlabach](http://orixo.com/events/gt2004/bios.html#torsten), who's [active](http://www.paiwastoon.com/) in Afghanistan (and indicates that yes they have electricity there, even Internet cafés) is on the GT stage to talk about Cocoon and non-latin character sets.

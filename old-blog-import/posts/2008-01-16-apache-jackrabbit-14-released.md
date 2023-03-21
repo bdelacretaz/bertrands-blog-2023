@@ -1,10 +1,12 @@
 ---
 title: "Apache Jackrabbit 1.4 released"
-date: "2008-01-16"
-categories: 
+date: 2008-01-16
+tags: 
   - "asf"
   - "content"
   - "jcr"
+  - "post"
+slug: apache-jackrabbit-14-released
 ---
 
 Congratulations to the [Jackrabbit](http://jackrabbit.apache.org) team for their [1.4 release](http://jackrabbit.apache.org/downloads.cgi#Apache%20Jackrabbit%201.4).

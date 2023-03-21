@@ -1,8 +1,10 @@
 ---
 title: "log4j and Chainsaw"
-date: "2004-09-10"
-categories: 
+date: 2004-09-10
+tags: 
   - "tools"
+  - "post"
+slug: log4j-and-chainsaw
 ---
 
 In the _verrrrry useful stuff_ category, today I configured log4j's Chainsaw log exploration tool for my project and it's just great!

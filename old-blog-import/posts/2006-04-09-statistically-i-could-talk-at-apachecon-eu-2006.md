@@ -1,8 +1,10 @@
 ---
 title: "Statistically, I could talk at ApacheCon EU 2006"
-date: "2006-04-09"
-categories: 
+date: 2006-04-09
+tags: 
   - "apachecon"
+  - "post"
+slug: statistically-i-could-talk-at-apachecon-eu-2006
 ---
 
 According to [Rich Bowen](http://wooga.drbacchus.com/wordpress/?p=1204), the conference organizers have selected 72 out of about 210 talk proposals. That's about one out of three.

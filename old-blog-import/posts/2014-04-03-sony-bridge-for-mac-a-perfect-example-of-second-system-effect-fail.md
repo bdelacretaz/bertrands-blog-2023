@@ -1,8 +1,10 @@
 ---
 title: "Sony Bridge for Mac, a perfect example of second-system effect #fail!"
-date: "2014-04-03"
-categories: 
+date: 2014-04-03
+tags: 
   - "thoughts"
+  - "post"
+slug: sony-bridge-for-mac-a-perfect-example-of-second-system-effect-fail
 ---
 
 I'm sorry to be ranting here instead of writing about more creative things, but here's a perfect example of the "second-system effect" - replacing simple software that works perfectly well with something supposedly more powerful...that doesn't work.

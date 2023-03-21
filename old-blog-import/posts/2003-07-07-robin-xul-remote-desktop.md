@@ -1,6 +1,9 @@
 ---
 title: "Robin - XUL remote desktop"
-date: "2003-07-07"
+date: 2003-07-07
+tags: 
+  - "post"
+slug: robin-xul-remote-desktop
 ---
 
 Just tried [Robin](http://robin.sourceforge.net) with my Firebird browser. Amazing. Not sure how far this goes but I'd like to find some time to open the hood and see how it works.

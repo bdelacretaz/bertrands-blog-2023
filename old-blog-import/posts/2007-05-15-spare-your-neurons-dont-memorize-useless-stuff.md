@@ -1,8 +1,10 @@
 ---
 title: "spare your neurons: don't memorize useless stuff"
-date: "2007-05-15"
-categories: 
+date: 2007-05-15
+tags: 
   - "tools"
+  - "post"
+slug: spare-your-neurons-dont-memorize-useless-stuff
 ---
 
 Jim Jagielski probably forgot to turn on comments on his [post about not memorizing stuff](http://www.jimjag.com/imo/index.php?/archives/147-Personal-break-Boss.html), so here's my comment:

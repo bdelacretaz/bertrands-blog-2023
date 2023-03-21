@@ -1,8 +1,10 @@
 ---
 title: "Groovy JSR"
-date: "2004-03-16"
-categories: 
+date: 2004-03-16
+tags: 
   - "java"
+  - "post"
+slug: groovy-jsr
 ---
 
 Congatulations to the [Groovy](http://groovy.codehaus.org/) team on their [JSR 241](http://www.jcp.org/en/jsr/detail?id=241) submission!

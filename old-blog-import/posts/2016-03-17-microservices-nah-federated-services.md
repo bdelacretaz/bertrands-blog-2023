@@ -1,9 +1,11 @@
 ---
 title: "Microservices? Nah...Federated Services!"
-date: "2016-03-17"
-categories: 
+date: 2016-03-17
+tags: 
   - "milestones"
   - "thoughts"
+  - "post"
+slug: microservices-nah-federated-services
 ---
 
 As much as I like the microservices concept (\*) the name does not really make sense to me.

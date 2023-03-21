@@ -1,8 +1,10 @@
 ---
 title: "HP Volksputer"
-date: "2003-05-12"
-categories: 
+date: 2003-05-12
+tags: 
   - "open-source"
+  - "post"
+slug: hp-volksputer
 ---
 
 According to [this](http://news.zdnet.co.uk/story/0,,t269-s2134514,00.html), custom-made HP laptops and desktops are sold in Thailand for 19'500 and 10'900 Baht (about 400 and 225 euro) respectively.

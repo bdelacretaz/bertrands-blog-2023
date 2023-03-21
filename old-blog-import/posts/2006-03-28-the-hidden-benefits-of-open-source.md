@@ -1,8 +1,10 @@
 ---
 title: "The hidden benefits of Open Source"
-date: "2006-03-28"
-categories: 
+date: 2006-03-28
+tags: 
   - "open-source"
+  - "post"
+slug: the-hidden-benefits-of-open-source
 ---
 
 I'm preparing a talk on _the costs of free software_ for a local IT professional's association (the text will be on my [french-speaking blog](http://codeconsult.ch/blog/2006/03/23/le-cout-des-logiciels-libres/) as the talk will be in that language), and one thing that came to mind is that Open Source has **hidden benefits** - things that don't necessarily come to mind in a cold financial-only evaluation, but appear when you actually start using Open Source software and making it a strategic part of your infrastructure.

@@ -1,8 +1,10 @@
 ---
 title: "Cocoon bricks-cms example application, available online"
-date: "2005-09-28"
-categories: 
+date: 2005-09-28
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-bricks-cms-example-application-available-online
 ---
 
 I've just posted the following [message](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=112789717522940&w=2) to the Cocoon mailing lists, testers are most welcome, see the [BricksCms wiki page](http://wiki.apache.org/cocoon/BricksCms) for up-to-date information!

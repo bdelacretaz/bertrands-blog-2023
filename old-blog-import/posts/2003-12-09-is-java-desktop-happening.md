@@ -1,8 +1,10 @@
 ---
 title: "Is Java Desktop happening?"
-date: "2003-12-09"
-categories: 
+date: 2003-12-09
+tags: 
   - "open-source"
+  - "post"
+slug: is-java-desktop-happening
 ---
 
 Simon Phipps [notes](http://www.webmink.net/2003_12_07_oldblog.htm#107090600088250120) several news items about governments or large companies switching to (or about to switch to) Sun's [Java Desktop](http://wwws.sun.com/software/javadesktopsystem/).

@@ -1,12 +1,13 @@
 ---
 title: "How to fix your project collaboration model?"
-date: "2011-08-05"
-categories: 
+date: 2011-08-05
+tags: 
+  - "apache"
   - "asf"
   - "collaboration"
   - "open-source"
-tags: 
-  - "apache"
+  - "post"
+slug: how-to-fix-your-project-collaboration-model
 ---
 
 I've been studying the collaboration processes of the [Apache Software Foundation](http://apache.org) (ASF) for a while \[1\], by observing and practicing the successful collaboration model that we use in ASF projects.
@@ -84,7 +85,7 @@ No need for big literary statements, but instead of sending an email to the dev 
 
 I'm also a big fan of using issue dependencies to organize issues in trees that can be used to keep track of what needs to be done to reach the project's goals (aka "planning", but in a more organic form).
 
-[![Cygwin dependency tree](images/cygwin-dependency-tree.jpg "cygwin-dependency-tree.jpg")](http://www.cygwin.org/bugzilla/showdependencytree.cgi?id=3383&hide_resolved=1)As an example, here's the [dependency tree for bug 3383](http://www.cygwin.org/bugzilla/showdependencytree.cgi?id=3383&hide_resolved=1) of the cygwin project. That's not an ASF project, which shows that we're not the only ones to use this technique.
+[![Cygwin dependency tree](http://bdelacretaz.files.wordpress.com/2011/08/cygwin-dependency-tree.jpg "cygwin-dependency-tree.jpg")](http://www.cygwin.org/bugzilla/showdependencytree.cgi?id=3383&hide_resolved=1)As an example, here's the [dependency tree for bug 3383](http://www.cygwin.org/bugzilla/showdependencytree.cgi?id=3383&hide_resolved=1) of the cygwin project. That's not an ASF project, which shows that we're not the only ones to use this technique.
 
 That tree starts with "the FRYSK project" as an umbrella issue, which is broken down into issues that represent the different project areas, and so on util it reaches the actual things that need to be implemented or fixed. Combined with a tracker's reporting functions, such a tree helps tremendously in answering the "where do we stand?" question, and in reshuffling priorities quickly in a crisis. You can also create umbrella issues for sprints or releases, to express what needs to be done to get there.
 

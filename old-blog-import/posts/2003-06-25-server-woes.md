@@ -1,6 +1,9 @@
 ---
 title: "Server woes"
-date: "2003-06-25"
+date: 2003-06-25
+tags: 
+  - "post"
+slug: server-woes
 ---
 
 Looks like this server has been down since yesterday about 3PM UTC. Sorry for the inconvenience, I'm talking to [my provider](http://onsmart.com) as this is the second time in less than a month that I have to restart it for mysterious reasons.

@@ -1,8 +1,10 @@
 ---
 title: "Software machines"
-date: "2003-10-28"
-categories: 
+date: 2003-10-28
+tags: 
   - "thoughts"
+  - "post"
+slug: software-machines
 ---
 
 Just found out that the great [Bertrand Meyer](http://www.inf.ethz.ch/~meyer) teaches (almost) next door, at ETH Zürich. Didn't know that, lucky students there!

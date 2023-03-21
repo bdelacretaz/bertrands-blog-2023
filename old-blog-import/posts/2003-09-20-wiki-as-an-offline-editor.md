@@ -1,6 +1,9 @@
 ---
 title: "Wiki as an offline editor"
-date: "2003-09-20"
+date: 2003-09-20
+tags: 
+  - "post"
+slug: wiki-as-an-offline-editor
 ---
 
 Interesting experiment today with [JSPWiki](http://www.jspwiki.org/): by configuring it to store files in a CVS sandbox, it is easy to work offline on a local version of the content, and synchronize the content with a central CVS repository when back online.

@@ -1,8 +1,10 @@
 ---
 title: "XML books are no more"
-date: "2003-10-30"
-categories: 
+date: 2003-10-30
+tags: 
   - "thoughts"
+  - "post"
+slug: xml-books-are-no-more
 ---
 
 I might be fast-forwarding a bit here, but [this article](http://www.xml.com/pub/a/2003/10/29/deviant.html) paints a rather grim picture of the XML book business, an in my opinion many conclusions extend to other types of books on modern/complex/online technologies.

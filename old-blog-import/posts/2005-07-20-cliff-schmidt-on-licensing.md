@@ -1,6 +1,9 @@
 ---
 title: "Cliff Schmidt on licensing"
-date: "2005-07-20"
+date: 2005-07-20
+tags: 
+  - "post"
+slug: cliff-schmidt-on-licensing
 ---
 
 Cliff Schmidt, the ASF's new VP of Legal Affairs, talks about what every ASF committer contributor should now about licensing.

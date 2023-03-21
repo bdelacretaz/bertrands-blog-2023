@@ -1,6 +1,9 @@
 ---
 title: "What you need to know..."
-date: "2005-02-16"
+date: 2005-02-16
+tags: 
+  - "post"
+slug: what-you-need-to-know
 ---
 
 The material for my [LOTS 2005 presentation](http://www.lots.ch/2005/Referate.html?id=045) entitled _what you need to know about Apache Cocoon - a path through the jungle_ is now online at [http://codeconsult.ch/lots/](http://codeconsult.ch/lots/).

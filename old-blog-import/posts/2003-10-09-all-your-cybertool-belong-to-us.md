@@ -1,8 +1,10 @@
 ---
 title: "All your cybertool belong to us"
-date: "2003-10-09"
-categories: 
+date: 2003-10-09
+tags: 
   - "fun"
+  - "post"
+slug: all-your-cybertool-belong-to-us
 ---
 
 Yesterday Brussels Airport Security wouldn't let me bring my [Cybertool](http://www.the-gadgeteer.com/swissarmy-cybertool-review.html) on board. Forgot to put it in my luggage at check-in, it was in my backpack just in case. _booh-hoooh..._

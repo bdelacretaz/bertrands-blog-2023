@@ -1,14 +1,16 @@
 ---
 title: "Ready for ApacheCon Europe 2009"
-date: "2009-03-21"
-categories: 
+date: 2009-03-21
+tags: 
   - "apachecon"
   - "conferences"
   - "content"
   - "iks-project"
+  - "post"
+slug: ready-for-apachecon-europe-2009
 ---
 
-[![](images/234x60_basic.gif)](http://eu.apachecon.com/c/aceu2009/) I'll be giving [three talks](http://eu.apachecon.com/c/aceu2009/speakers/26) next week at [ApacheCon](http://eu.apachecon.com/c/aceu2009/), on OSGi, Apache Sling and Open Source collaboration tools.
+[![](http://eu.apachecon.com/page_attachments/0000/0121/234x60_basic.gif)](http://eu.apachecon.com/c/aceu2009/) I'll be giving [three talks](http://eu.apachecon.com/c/aceu2009/speakers/26) next week at [ApacheCon](http://eu.apachecon.com/c/aceu2009/), on OSGi, Apache Sling and Open Source collaboration tools.
 
 [Ruwan Linton](http://eu.apachecon.com/c/aceu2009/speakers/211)'s OSGi talk, which is scheduled after mine on Wednesday, also presents practical experiences with OSGi. I'm looking forward to comparing our experiences, and people should probably attend both talks to get the whole picture.
 

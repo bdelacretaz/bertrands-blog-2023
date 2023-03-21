@@ -1,8 +1,10 @@
 ---
 title: "Switch between JDKs at the command-line"
-date: "2006-03-13"
-categories: 
+date: 2006-03-13
+tags: 
   - "tools"
+  - "post"
+slug: switch-between-jdks-at-the-command-line
 ---
 
 Here's the script that I use on macosx to switch JDKs in consoles. It can easily be adapted for any unixish system.

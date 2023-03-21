@@ -1,8 +1,10 @@
 ---
 title: "Open-source java profilers"
-date: "2003-12-13"
-categories: 
+date: 2003-12-13
+tags: 
   - "tools"
+  - "post"
+slug: open-source-java-profilers
 ---
 
 Yesterday, I did some (successful) experiments with [HAT](http://java.sun.com/developer/onlineTraining/Programming/JDCBook/perf3.html), a simple yet efficient heap analysis tool for java. It doesn't work with JDK 1.4 though, apparently due to a [bug](http://performance.netbeans.org/articles/hat-howto/) in the JVM. Still very useful and simple to use.

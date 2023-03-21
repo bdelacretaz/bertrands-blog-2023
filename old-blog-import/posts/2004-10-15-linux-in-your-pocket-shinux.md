@@ -1,8 +1,10 @@
 ---
 title: "Linux in your pocket: Shinux"
-date: "2004-10-15"
-categories: 
+date: 2004-10-15
+tags: 
   - "tools"
+  - "post"
+slug: linux-in-your-pocket-shinux
 ---
 
 Continuing on the nomadic theme: [Shinux](http://www.shinux.org/) (in french) is a Linux distribution meant to be embedded in an USB storage device. Except the website with the awful integrated scroll bar, this looks great!

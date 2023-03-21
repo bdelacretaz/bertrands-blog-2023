@@ -1,8 +1,10 @@
 ---
 title: "svn one-liner: when did bob commit stuff here?"
-date: "2009-01-14"
-categories: 
+date: 2009-01-14
+tags: 
   - "tools"
+  - "post"
+slug: svn-one-liner-when-did-bob-commit-stuff-here
 ---
 
 From the _blogging this to remember next time_ department:

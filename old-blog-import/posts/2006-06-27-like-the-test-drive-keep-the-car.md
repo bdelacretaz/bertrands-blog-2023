@@ -1,9 +1,11 @@
 ---
 title: "Like the test drive? keep the car!"
-date: "2006-06-27"
-categories: 
+date: 2006-06-27
+tags: 
   - "fun"
   - "open-source"
+  - "post"
+slug: like-the-test-drive-keep-the-car
 ---
 
 Microsoft just announced a [test drive](http://www.microsoft.com/office/preview/beta/testdrive.mspx?showIntro=n) program for Office 2007. So that people can kick the virtual tires of this bloated pile of bits software.

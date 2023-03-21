@@ -1,8 +1,10 @@
 ---
 title: "Mine is longer than yours..."
-date: "2003-05-24"
-categories: 
+date: 2003-05-24
+tags: 
   - "xml"
+  - "post"
+slug: mine-is-longer-than-yours
 ---
 
 but it's much more readable I think. [Steven](http://blogs.cocoondev.org/stevenn/archives/000947.html) helps [Tom](http://blogs.cocoondev.org/tomk/archives/000946.html) with some XSLT, counting the number of lines that are needed to do the job.

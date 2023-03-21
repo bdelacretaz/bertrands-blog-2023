@@ -1,8 +1,10 @@
 ---
 title: "More Apache brand abuse ahead"
-date: "2008-11-25"
-categories: 
+date: 2008-11-25
+tags: 
   - "asf"
+  - "post"
+slug: more-apache-brand-abuse-ahead
 ---
 
 I usually do my best to look at the positive facets of people and things, even when mistakes happen. Today, however, seeing a press release that tries to associate the [ASF](http://apache.org) with [preferences for PCs over Macs and M$ Office over OpenOffice](http://www.businesswire.com/portal/site/home/permalink/?ndmViewId=news_view&newsId=20081118006113&newsLang=en) makes me really angry.

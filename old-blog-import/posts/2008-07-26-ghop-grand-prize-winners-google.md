@@ -1,8 +1,10 @@
 ---
 title: "GHOP Grand Prize Winners @google"
-date: "2008-07-26"
-categories: 
+date: 2008-07-26
+tags: 
   - "open-source"
+  - "post"
+slug: ghop-grand-prize-winners-google
 ---
 
 Two weeks ago I was at Google headquarters to represent the [ASF](http://www.apache.org) for the [GHOP Awards Ceremony](http://google-opensource.blogspot.com/2008/07/grand-prize-winners-visit-googleplex.html).

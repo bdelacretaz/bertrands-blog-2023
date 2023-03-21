@@ -1,8 +1,10 @@
 ---
 title: "Sample this!"
-date: "2003-05-08"
-categories: 
+date: 2003-05-08
+tags: 
   - "cocoon"
+  - "post"
+slug: sample-this
 ---
 
 Joint work from several people (myself included - it's good to have some time available for once) has greatly improved the quality of the [Cocoon 2.1](http://wiki.cocoondev.org/Wiki.jsp?page=LatestRelease) samples in the last few days. They look better, work better or are simply back from CVS oblivion...

@@ -1,9 +1,11 @@
 ---
 title: "Carsten Ziegeler on Maven"
-date: "2005-07-20"
-categories: 
+date: 2005-07-20
+tags: 
   - "apachecon"
   - "tools"
+  - "post"
+slug: carsten-ziegeler-on-maven
 ---
 
 I won't treat you to another crappy timestamp, but our own [Carsten](http://www.osoco.org/weblogs/rael/) is talking about [Maven](http://maven.apache.org/) now.

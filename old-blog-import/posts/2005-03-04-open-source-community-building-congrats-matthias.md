@@ -1,6 +1,9 @@
 ---
 title: "Open Source Community Building - congrats Matthias!"
-date: "2005-03-04"
+date: 2005-03-04
+tags: 
+  - "post"
+slug: open-source-community-building-congrats-matthias
 ---
 
 LOTS committee member [Matthias Stuermer](http://stuermer.ch/) has just published his [dissertation](http://stuermer.ch/Licenciate.html) on Open Source Community building, including interviews from members of the Plone, Magnolia, Cocoon (that's me), Kupu, Lenya, TYPO3, eZ publish and Xaraya communities. The website is mostly in german but the document is in english.

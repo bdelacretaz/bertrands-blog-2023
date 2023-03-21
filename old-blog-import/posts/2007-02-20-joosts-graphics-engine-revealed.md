@@ -1,11 +1,13 @@
 ---
 title: "Joost's graphics engine revealed"
-date: "2007-02-20"
-categories: 
+date: 2007-02-20
+tags: 
   - "fun"
+  - "post"
+slug: joosts-graphics-engine-revealed
 ---
 
-![twin-engine.gif](images/twin-engine.gif)It's hard to say if it's on purpose, but the [Joost](http://www.joost.com) people have just revealed one of their secrets: turns out that (at least on the Mac platform) the graphics engine is a _two-cylinder one_.
+![twin-engine.gif](http://codeconsult.ch/bertrand/archives/images/twin-engine.gif)It's hard to say if it's on purpose, but the [Joost](http://www.joost.com) people have just revealed one of their secrets: turns out that (at least on the Mac platform) the graphics engine is a _two-cylinder one_.
 
 /me likes twins!
 

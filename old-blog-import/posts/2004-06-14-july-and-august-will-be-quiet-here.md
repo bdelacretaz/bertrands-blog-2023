@@ -1,8 +1,10 @@
 ---
 title: "July and August will be quiet here"
-date: "2004-06-14"
-categories: 
+date: 2004-06-14
+tags: 
   - "fun"
+  - "post"
+slug: july-and-august-will-be-quiet-here
 ---
 
 I'll be travelling on the other side of the world (Australia) with my family from June 28th to August 20th, so you won't hear me much during this time.

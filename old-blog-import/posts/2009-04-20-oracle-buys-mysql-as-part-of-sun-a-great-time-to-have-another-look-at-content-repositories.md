@@ -1,9 +1,11 @@
 ---
 title: "Oracle buys MySQL (as part of Sun) - a great time to have another look at content repositories!"
-date: "2009-04-20"
-categories: 
+date: 2009-04-20
+tags: 
   - "content"
   - "jcr"
+  - "post"
+slug: oracle-buys-mysql-as-part-of-sun-a-great-time-to-have-another-look-at-content-repositories
 ---
 
 Lots of [noise](http://search.twitter.com/search?q=Oracle) (and some gems) about the [acquisition of Sun by Oracle](http://www.oracle.com/sun/index.html) on Twitter today. But contrary to Oracle's [content servers](http://www.cmswatch.com/Trends/1574-Oracle-content-management-woes), Twitter seems to be holding up quite well.

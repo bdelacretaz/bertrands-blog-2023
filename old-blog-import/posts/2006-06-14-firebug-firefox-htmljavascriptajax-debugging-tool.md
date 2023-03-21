@@ -1,8 +1,10 @@
 ---
 title: "FireBug - firefox HTML/Javascript/Ajax debugging tool"
-date: "2006-06-14"
-categories: 
+date: 2006-06-14
+tags: 
   - "tools"
+  - "post"
+slug: firebug-firefox-htmljavascriptajax-debugging-tool
 ---
 
 It looks like [FireBug](https://addons.mozilla.org/firefox/1843/) is going to be my new Firefox extension of choice for web page debugging.

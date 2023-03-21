@@ -1,10 +1,12 @@
 ---
 title: "WW2D - Open Source Earth imagery explorer"
-date: "2005-11-02"
-categories: 
+date: 2005-11-02
+tags: 
   - "fun"
   - "open-source"
   - "tools"
+  - "post"
+slug: ww2d-open-source-earth-imagery-explorer
 ---
 
 Tried [WW2D](http://ww2d.berlios.de) yesterday evening (via [Urs](http://www.circle.ch/blog/p1780.html)) - it's the first time a Java client program feels that good, the scrolling and fluid movements are really well done.

@@ -1,11 +1,13 @@
 ---
 title: "Performance in a typical Cocoon application"
-date: "2006-06-30"
-categories: 
+date: 2006-06-30
+tags: 
   - "cocoon"
+  - "post"
+slug: performance-in-a-typical-cocoon-application
 ---
 
-[![cocoon-app-200607-small.jpg](images/cocoon-app-200607-small.jpg)](http://codeconsult.ch/bertrand/archives/images/gt2004-bertrand-part-one.pdf)How do you get good performance out of a [Cocoon](http://cocoon.apache.org)\-based application? Generating each page on the fly is often costly, especially when pages are built from an aggregate of different data sources, which is a common case.
+[![cocoon-app-200607-small.jpg](http://codeconsult.ch/bertrand/archives/images/cocoon-app-200607-small.jpg)](http://codeconsult.ch/bertrand/archives/images/gt2004-bertrand-part-one.pdf)How do you get good performance out of a [Cocoon](http://cocoon.apache.org)\-based application? Generating each page on the fly is often costly, especially when pages are built from an aggregate of different data sources, which is a common case.
 
 The drawing at the right (full-size version [here](http://codeconsult.ch/bertrand/archives/images/gt2004-bertrand-part-one.pdf)) shows the structure of a typical Cocoon application. It comes from my [what you _need_ to know about Cocoon](http://www.orixo.com/orixo/events/gt2004/sessions.html#bertrand) presentation at the [Cocoon GetTogether 2004](http://www.orixo.com/orixo/events/gt2004/). Not cutting-edge stuff then, but it's still valid as ever.
 

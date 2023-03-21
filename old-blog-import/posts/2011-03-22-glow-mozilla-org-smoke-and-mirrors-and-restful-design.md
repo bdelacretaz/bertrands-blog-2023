@@ -1,12 +1,14 @@
 ---
 title: "glow.mozilla.org: smoke and mirrors, and RESTful design"
-date: "2011-03-22"
-categories: 
+date: 2011-03-22
+tags: 
   - "mozilla"
   - "the-web"
+  - "post"
+slug: glow-mozilla-org-smoke-and-mirrors-and-restful-design
 ---
 
-[![Glow shot](images/glow-shot1.jpg "glow-shot.jpg")](http://glow.mozilla.org/)When I was a kid, my aunt gave me a book called _the art of engineering_. The title sounded weird to me at first - isn't engineering the opposite of art?
+[![Glow shot](http://bdelacretaz.files.wordpress.com/2011/03/glow-shot1.jpg "glow-shot.jpg")](http://glow.mozilla.org/)When I was a kid, my aunt gave me a book called _the art of engineering_. The title sounded weird to me at first - isn't engineering the opposite of art?
 
 It's not - artful design can be visible in the best pieces of software, and not only at the user interface level. I find the realtime display of Firefox 4 downloads by [glow.mozilla.org](http://glow.mozilla.org/) fascinating, and being my curious self I wondered how the data is transferred.
 

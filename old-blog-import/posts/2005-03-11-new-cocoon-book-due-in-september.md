@@ -1,6 +1,9 @@
 ---
 title: "New Cocoon book due in September"
-date: "2005-03-11"
+date: 2005-03-11
+tags: 
+  - "post"
+slug: new-cocoon-book-due-in-september
 ---
 
 Reinhard Poetz [announces](http://www.poetz.cc/weblog/4) his new [Cocoon](http://cocoon.apache.org) book (together with [Alexander Schatten](http://www.schatten.info/index.html)), due in September.

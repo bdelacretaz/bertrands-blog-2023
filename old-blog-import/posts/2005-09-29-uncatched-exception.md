@@ -1,9 +1,11 @@
 ---
 title: "Uncatched Exception"
-date: "2005-09-29"
-categories: 
+date: 2005-09-29
+tags: 
   - "fun"
   - "java"
+  - "post"
+slug: uncatched-exception
 ---
 
 > I think an "uncatched exception" deserves three bug reports: one for the exception, one for not catching it, and one for abuse of the English language.

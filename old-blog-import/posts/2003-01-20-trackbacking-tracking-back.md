@@ -1,8 +1,10 @@
 ---
 title: "Trackbacking? Tracking back?"
-date: "2003-01-20"
-categories: 
+date: 2003-01-20
+tags: 
   - "blogs"
+  - "post"
+slug: trackbacking-tracking-back
 ---
 
 Exploring trackback... Steven, I hope you won't mind me [tracking back](http://blogs.cocoondev.org/stevenn/archives/000679.html) to your "ping pong" article.  

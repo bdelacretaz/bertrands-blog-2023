@@ -1,8 +1,10 @@
 ---
 title: "LOTS 2005 - call for participation"
-date: "2004-09-17"
-categories: 
+date: 2004-09-17
+tags: 
   - "open-source"
+  - "post"
+slug: lots-2005-call-for-participation
 ---
 
 The call for participation is now open at [http://www.lots.ch](http://www.lots.ch).

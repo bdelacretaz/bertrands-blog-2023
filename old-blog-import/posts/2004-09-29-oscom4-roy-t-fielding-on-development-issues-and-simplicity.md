@@ -1,8 +1,10 @@
 ---
 title: "OSCOM4: Roy T. Fielding on development issues - and simplicity"
-date: "2004-09-29"
-categories: 
+date: 2004-09-29
+tags: 
   - "the-web"
+  - "post"
+slug: oscom4-roy-t-fielding-on-development-issues-and-simplicity
 ---
 
 Very insightful keynote by someone who...well someone who is hard to categorize in a few words as he's done so much for the web at large. Have a look at his [homepage](http://roy.gbiv.com/) if you don't know who Roy is. Here are just a few random notes.

@@ -1,9 +1,11 @@
 ---
 title: "Subvertive: your classloader will never be the same"
-date: "2005-07-23"
-categories: 
+date: 2005-07-23
+tags: 
   - "apachecon"
   - "tools"
+  - "post"
+slug: subvertive-your-classloader-will-never-be-the-same
 ---
 
 Following the thundering success of his [joint proposal](http://flickr.com/photos/93787850@N00/27763375/in/photostream/) with Santiago Gala at ApacheCon, Upayavira has posted a [project proposal](http://marc.theaimsgroup.com/?l=incubator-general&m=112204944709374&w=2) for Subvertive, a _dynamic SVN-based compiling classloader with an extended Google-based dynamic code locator, integrated with IM for quicker response time when fixing bugs_.

@@ -1,8 +1,10 @@
 ---
 title: "Comment spammers, go away"
-date: "2006-10-10"
-categories: 
+date: 2006-10-10
+tags: 
   - "blogs"
+  - "post"
+slug: comment-spammers-go-away
 ---
 
 `update mt_entry set entry_allow_comments=0 where entry_id < NNN;`

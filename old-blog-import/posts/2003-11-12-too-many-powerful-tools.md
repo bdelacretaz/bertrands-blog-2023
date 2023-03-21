@@ -1,8 +1,10 @@
 ---
 title: "Too many powerful tools"
-date: "2003-11-12"
-categories: 
+date: 2003-11-12
+tags: 
   - "blogs"
+  - "post"
+slug: too-many-powerful-tools
 ---
 
 Imagine this scenario:

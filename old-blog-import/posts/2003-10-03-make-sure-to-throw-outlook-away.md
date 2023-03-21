@@ -1,8 +1,10 @@
 ---
 title: "Make sure to throw Outlook away..."
-date: "2003-10-03"
-categories: 
+date: 2003-10-03
+tags: 
   - "operating-systems"
+  - "post"
+slug: make-sure-to-throw-outlook-away
 ---
 
 Another [scary report](http://simon.incutio.com/archive/2003/10/03/outlookNotSoGood) of serious damage caused by the web's main _virus pump_.

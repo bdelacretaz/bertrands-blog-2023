@@ -1,8 +1,10 @@
 ---
 title: "Indexing: SOLR vs. the Google Mini search appliance?"
-date: "2006-07-17"
-categories: 
+date: 2006-07-17
+tags: 
   - "tools"
+  - "post"
+slug: indexing-solr-vs-the-google-mini-search-appliance
 ---
 
 I'm evaluating indexers for a (potentially as always) important project, played with [SOLR](http://incubator.apache.org/solr/) quite a bit in the last few days and I like what I see _a lot_.

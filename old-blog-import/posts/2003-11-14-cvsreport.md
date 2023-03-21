@@ -1,8 +1,10 @@
 ---
 title: "CVSreport"
-date: "2003-11-14"
-categories: 
+date: 2003-11-14
+tags: 
   - "tools"
+  - "post"
+slug: cvsreport
 ---
 
 [CVSreport](http://www.nongnu.org/cvsreport/) generates cool HTML reports of CVS activity, including the ability to report on _changesets_ as a whole. Won't be able to try it now but it looks interesting.

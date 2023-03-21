@@ -1,6 +1,9 @@
 ---
 title: "The Russians used a pencil"
-date: "2003-07-15"
+date: 2003-07-15
+tags: 
+  - "post"
+slug: the-russians-used-a-pencil
 ---
 
 I don't know West Wing but I like [the quote](http://www.smalla.net/infofeed/2003/07/15/tidbit_of_the_day.shtml) a lot. Don't build space-age pens, use pencils!

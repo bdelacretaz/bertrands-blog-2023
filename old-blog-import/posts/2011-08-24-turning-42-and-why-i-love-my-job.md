@@ -1,9 +1,11 @@
 ---
 title: "Turning 42, and why I love my job"
-date: "2011-08-24"
-categories: 
+date: 2011-08-24
+tags: 
   - "milestones"
   - "thoughts"
+  - "post"
+slug: turning-42-and-why-i-love-my-job
 ---
 
 I'll be turning 42 in a few months (counting in base 12 of course) and it feels like a good time to reflect on what it is that makes my job enjoyable. My father was a carpenter, and both my brothers started with that as their first job, so I'm kind of the disruptive element of the family (I didn't say _black sheep_, ok?).

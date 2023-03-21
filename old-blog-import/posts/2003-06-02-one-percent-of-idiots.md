@@ -1,8 +1,10 @@
 ---
 title: "One percent of idiots"
-date: "2003-06-02"
-categories: 
+date: 2003-06-02
+tags: 
   - "thoughts"
+  - "post"
+slug: one-percent-of-idiots
 ---
 
 The main G8-related demonstrations [went ok](http://swissinfo.ch/sen/swissinfo.html?siteSect=105&sid=3894151) in Geneva and Lausanne this week-end.

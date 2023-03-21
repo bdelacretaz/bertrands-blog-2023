@@ -1,8 +1,10 @@
 ---
 title: "The Russians used a pencil..."
-date: "2004-09-07"
-categories: 
+date: 2004-09-07
+tags: 
   - "tools"
+  - "post"
+slug: the-russians-used-a-pencil-2
 ---
 
 Remember [this one](http://www.truthorfiction.com/rumors/s/spacepen.htm)? (Well, they say it's fiction anyway).

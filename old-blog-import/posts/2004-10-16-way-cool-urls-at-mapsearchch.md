@@ -1,8 +1,10 @@
 ---
 title: "Way cool URLs at map.search.ch"
-date: "2004-10-16"
-categories: 
+date: 2004-10-16
+tags: 
   - "tools"
+  - "post"
+slug: way-cool-urls-at-mapsearchch
 ---
 
 So even if [map.search.ch](http://map.search.ch) maps are not really [up to date](http://codeconsult.ch/bertrand/archives/000382.html), I had missed their way cool URLs. Thanks [Urs](http://circle.ch/blog/p1534.html).

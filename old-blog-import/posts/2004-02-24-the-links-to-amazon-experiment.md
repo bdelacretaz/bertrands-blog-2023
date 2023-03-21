@@ -1,8 +1,10 @@
 ---
 title: "The links-to-amazon experiment"
-date: "2004-02-24"
-categories: 
+date: 2004-02-24
+tags: 
   - "thoughts"
+  - "post"
+slug: the-links-to-amazon-experiment
 ---
 
 As I sometimes give book references here, I'm going to use try the Amazon _associates_ system and put links to amazon.com from the book covers. You can see an example in the [previous post](http://codeconsult.ch/bertrand/archives/000245.html).

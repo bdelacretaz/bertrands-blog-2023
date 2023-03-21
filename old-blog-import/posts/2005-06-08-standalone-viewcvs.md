@@ -1,8 +1,10 @@
 ---
 title: "Standalone ViewCVS"
-date: "2005-06-08"
-categories: 
+date: 2005-06-08
+tags: 
   - "tools"
+  - "post"
+slug: standalone-viewcvs
 ---
 
 Found out today that [ViewCVS](http://viewcvs.sourceforge.net/) has a standalone mode, including a mini-web server, started like

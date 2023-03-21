@@ -1,9 +1,11 @@
 ---
 title: "Behind the scenes of the ASF zones server"
-date: "2006-03-08"
-categories: 
+date: 2006-03-08
+tags: 
   - "asf"
   - "cocoon"
+  - "post"
+slug: behind-the-scenes-of-the-asf-zones-server
 ---
 
 [Mads Toftum](http://www.toftum.dk/) was recently [interviewed](http://www.tbray.org/ongoing/When/200x/2006/03/06/Apache-Server) by Tim Bray about the ASF zones server, and gives some insights about its administration.

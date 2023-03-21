@@ -1,6 +1,9 @@
 ---
 title: "It's a six-pack! (of companies)"
-date: "2003-06-16"
+date: 2003-06-16
+tags: 
+  - "post"
+slug: its-a-six-pack-of-companies
 ---
 
 Looks like my [predictions](http://codeconsult.ch/bertrand/archives/000078.html) were slightly off-target, but for once real life is [better than fiction](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=105575905918084&w=2)

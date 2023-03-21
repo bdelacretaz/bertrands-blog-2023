@@ -1,6 +1,9 @@
 ---
 title: "EU software patents directive back to the drawing board."
-date: "2005-02-05"
+date: 2005-02-05
+tags: 
+  - "post"
+slug: eu-software-patents-directive-back-to-the-drawing-board
 ---
 
 [This](http://news.zdnet.co.uk/business/legal/0,39020651,39186538,00.htm) is good news: the EU software patents directive (_Computer Implemented Inventions Directive (CIID)_) will have to be rewritten!

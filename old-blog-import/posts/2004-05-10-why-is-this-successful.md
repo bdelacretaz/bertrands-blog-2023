@@ -1,8 +1,10 @@
 ---
 title: "Why is #{this} successful?"
-date: "2004-05-10"
-categories: 
+date: 2004-05-10
+tags: 
   - "thoughts"
+  - "post"
+slug: why-is-this-successful
 ---
 
 Interesting [list](http://www.hibernate.org/38.html) of project success factors over at the [hibernate](http://www.hibernate.org) site.

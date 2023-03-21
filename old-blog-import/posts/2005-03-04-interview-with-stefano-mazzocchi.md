@@ -1,6 +1,9 @@
 ---
 title: "Interview with Stefano Mazzocchi"
-date: "2005-03-04"
+date: 2005-03-04
+tags: 
+  - "post"
+slug: interview-with-stefano-mazzocchi
 ---
 
 Bern's _Berner Zeitung_ publishes an interview with [Stefano Mazzocchi](http://www.espace.ch/artikel_67731.html) done during an open source conference which took place in Bern recently (writing [LOTS](http://www.lots.ch) would of course be easier but I'm trying to avoid boring my readers with it. Does it work?).

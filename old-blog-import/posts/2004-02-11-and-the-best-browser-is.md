@@ -1,8 +1,10 @@
 ---
 title: "And the best browser is..."
-date: "2004-02-11"
-categories: 
+date: 2004-02-11
+tags: 
   - "thoughts"
+  - "post"
+slug: and-the-best-browser-is
 ---
 
 [Firefox](http://www.mozilla.org/products/firefox/), aka _a breath of fresh air_.

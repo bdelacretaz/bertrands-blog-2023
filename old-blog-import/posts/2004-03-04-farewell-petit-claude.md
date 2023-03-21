@@ -1,8 +1,10 @@
 ---
 title: "Farewell \"Petit Claude\""
-date: "2004-03-04"
-categories: 
+date: 2004-03-04
+tags: 
   - "thoughts"
+  - "post"
+slug: farewell-petit-claude
 ---
 
 French _words and groove master_ [Claude Nougaro](http://www.nougaro.com/) died today. [swissinfo](http://www.swissinfo.org) has some video excerpts about him, in French (search for "Nougaro"). Just hearing him speak makes me want to tap my feet ;-)

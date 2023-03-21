@@ -1,8 +1,10 @@
 ---
 title: "Open Sound World - too many toys I'm afraid..."
-date: "2004-10-30"
-categories: 
+date: 2004-10-30
+tags: 
   - "fun"
+  - "post"
+slug: open-sound-world-too-many-toys-im-afraid
 ---
 
 Aaaaaaaaarrrrrrrghhh - [Open Sound World](http://osw.sourceforge.net/) looks like another sound tool that I'd like to install and play with for hours. I tried a demo of [Max/MSP](http://www.cycling74.com/products/maxmsp.html) earlier this week and I was instantly hooked - I just love playing with sound.

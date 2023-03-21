@@ -1,6 +1,9 @@
 ---
 title: "This is Open Source. Here are your options."
-date: "2003-06-05"
+date: 2003-06-05
+tags: 
+  - "post"
+slug: this-is-open-source-here-are-your-options
 ---
 
 Quoting [Jeremias Maerki](http://nagoya.apache.org/wiki/apachewiki.cgi?JeremiasMaerki) on the [fop-user](http://marc.theaimsgroup.com/?l=fop-user&m=105479608232655&w=2) mailing list, talking about some problem in FOP:

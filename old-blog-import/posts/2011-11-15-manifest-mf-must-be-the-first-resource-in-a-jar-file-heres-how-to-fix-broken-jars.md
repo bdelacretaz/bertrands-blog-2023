@@ -1,13 +1,14 @@
 ---
 title: "MANIFEST.MF must be the first resource in a jar file - here's how to fix broken jars"
-date: "2011-11-15"
-categories: 
-  - "java"
-  - "osgi"
+date: 2011-11-15
 tags: 
   - "jar"
   - "java"
   - "manifest"
+  - "java"
+  - "osgi"
+  - "post"
+slug: manifest-mf-must-be-the-first-resource-in-a-jar-file-heres-how-to-fix-broken-jars
 ---
 
 Some tools, like the [Sling OSGi Installer](http://sling.apache.org/site/osgi-installer.html), require the `MANIFEST.MF` to be the first file in a jar file, or they won't find it.

@@ -1,8 +1,10 @@
 ---
 title: "Learning by writing tests"
-date: "2004-06-17"
-categories: 
+date: 2004-06-17
+tags: 
   - "thoughts"
+  - "post"
+slug: learning-by-writing-tests
 ---
 
 I spent the whole day writing JUnit tests for the infrastructure of a CMSish Cocoon-based application that I'm working on.

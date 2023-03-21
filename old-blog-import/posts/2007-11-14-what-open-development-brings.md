@@ -1,9 +1,11 @@
 ---
 title: "What Open Development brings"
-date: "2007-11-14"
-categories: 
+date: 2007-11-14
+tags: 
   - "apachecon"
   - "open-source"
+  - "post"
+slug: what-open-development-brings
 ---
 
 I think [Gianugo](http://codeconsult.ch/bertrand/archives/000821.html) is very right here.

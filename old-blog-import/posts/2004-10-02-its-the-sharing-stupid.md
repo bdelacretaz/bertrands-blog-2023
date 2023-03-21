@@ -1,8 +1,10 @@
 ---
 title: "It's the sharing, stupid!"
-date: "2004-10-02"
-categories: 
+date: 2004-10-02
+tags: 
   - "open-source"
+  - "post"
+slug: its-the-sharing-stupid
 ---
 
 According to Kevin Bedell's [Tip of the Iceberg](http://www.linuxworld.com/story/46473_p.htm) article, Microsoft is worried about companies adopting the _noncommercial software model_ doing business _..without having to bear the full costs of research and development for the open source software_.

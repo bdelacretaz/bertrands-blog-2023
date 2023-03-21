@@ -1,6 +1,9 @@
 ---
 title: "Faceted browsing"
-date: "2005-03-22"
+date: 2005-03-22
+tags: 
+  - "post"
+slug: faceted-browsing
 ---
 
 Intersting faceted browsing [demo](http://facetmap.com/browse) at facetmap.com. The concept of applying "facet filters" to structured data looks similar to the [Simile](http://simile.mit.edu) Longwell browser's _restrictions_.

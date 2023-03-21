@@ -1,6 +1,9 @@
 ---
 title: "But where's the lots.ch website?"
-date: "2006-02-01"
+date: 2006-02-01
+tags: 
+  - "post"
+slug: but-wheres-the-lotsch-website
 ---
 
 As [others](http://sandro.groganz.com/weblog/lots_ch_got_kidnapped_and_misused_to_advertise_a_company) have [noticed](http://blog.bitflux.ch/archive/2005/12/05/lots-ch-is-dead.html), the lots.ch website now points to a company website, the archives of this historical event are not available anymore.

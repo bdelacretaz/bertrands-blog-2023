@@ -1,6 +1,9 @@
 ---
 title: "Ray Nagin interview online"
-date: "2005-09-04"
+date: 2005-09-04
+tags: 
+  - "post"
+slug: ray-nagin-interview-online
 ---
 
 I don't know New Orleans' Mayor [Ray Nagin](http://en.wikipedia.org/wiki/Ray_Nagin)'s voice so let's hope this is not a fake - this [mp3 interview](http://static2.podcatch.com/blogs/gems/snedit/WWLAMInterviewNagin.mp3) (also at at [binarybonsai.com](http://binarybonsai.com/files/nomayorinterview.mp3)) gives me shivers.

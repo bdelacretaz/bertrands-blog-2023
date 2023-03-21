@@ -1,8 +1,10 @@
 ---
 title: "Bending the rules"
-date: "2003-09-12"
-categories: 
+date: 2003-09-12
+tags: 
   - "open-source"
+  - "post"
+slug: bending-the-rules
 ---
 
 I love these communities - yesterday I made a slightly rule-bending [proposal](http://marc.theaimsgroup.com/?l=fop-dev&m=106327328212235&w=2) to the FOP project, which triggered a rather harsh [response](http://marc.theaimsgroup.com/?l=fop-dev&m=106328403023006&w=2).

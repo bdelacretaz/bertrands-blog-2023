@@ -1,8 +1,10 @@
 ---
 title: "Yes, the GPL and ASL licenses go together."
-date: "2004-05-26"
-categories: 
+date: 2004-05-26
+tags: 
   - "open-source"
+  - "post"
+slug: yes-the-gpl-and-asl-licenses-go-together
 ---
 
 [This post](http://kasparov.skife.org/blog/2004/05/25#asl-gpl-silly) from Brian McCallister comes at the right time, as I was discussing this yesterday with someone: can you distribute ASL (Apache Software License) licensed code as part of a GPL product?

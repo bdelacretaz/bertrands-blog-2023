@@ -1,8 +1,10 @@
 ---
 title: "The latest meme: 10 things about me"
-date: "2009-04-16"
-categories: 
+date: 2009-04-16
+tags: 
   - "fun"
+  - "post"
+slug: the-latest-meme-10-things-about-me
 ---
 
 Ok...so I got tagged by [Irina Guseva](http://irinaguseva.wordpress.com/2009/04/14/10-things-about-me/) on this one, started by [Kas Thomas](http://asserttrue.blogspot.com/2009/04/10-things-about-me.html).

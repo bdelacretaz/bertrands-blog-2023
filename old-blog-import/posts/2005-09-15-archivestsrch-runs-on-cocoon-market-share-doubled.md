@@ -1,11 +1,13 @@
 ---
 title: "archives.tsr.ch runs on Cocoon, market share doubled"
-date: "2005-09-15"
-categories: 
+date: 2005-09-15
+tags: 
   - "cocoon"
+  - "post"
+slug: archivestsrch-runs-on-cocoon-market-share-doubled
 ---
 
-[![archives.tsr.ch.jpg](images/archives.tsr.ch.jpg)](http://archives.tsr.ch)The market share of [Cocoon](http://cocoon.apache.org) at [tsr.ch](http://www.tsr.ch) has just doubled with the launch of their new [archives.tsr.ch](http://archives.tsr.ch) website (in french) last Tuesday.
+[![archives.tsr.ch.jpg](http://codeconsult.ch/bertrand/archives/images/archives.tsr.ch.jpg)](http://archives.tsr.ch)The market share of [Cocoon](http://cocoon.apache.org) at [tsr.ch](http://www.tsr.ch) has just doubled with the launch of their new [archives.tsr.ch](http://archives.tsr.ch) website (in french) last Tuesday.
 
 I've been assisting their internal team in building the site based on the CMS that me and a small team developed [last year](http://codeconsult.ch/bertrand/archives/000370.html) for [nouvo.ch](http://nouvo.ch) (and which runs [very well](http://codeconsult.ch/bertrand/archives/000566.html), thanks!).
 

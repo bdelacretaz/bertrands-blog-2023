@@ -1,8 +1,10 @@
 ---
 title: "Geronimo talks"
-date: "2003-08-06"
-categories: 
+date: 2003-08-06
+tags: 
   - "open-source"
+  - "post"
+slug: geronimo-talks
 ---
 
 Yesterday's [proposal](http://incubator.apache.org/mail/general/200308) (scroll down to _Proposal for an Apache J2EE server project_) causes lots of talk on the general@incubator.apache.org list. From "I want to be in it, pliiiize!" to "how about you guys eat JBoss while you're at it", but in any case this seems to be a hot subject.

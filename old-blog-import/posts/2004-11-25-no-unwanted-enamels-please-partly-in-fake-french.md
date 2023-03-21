@@ -1,8 +1,10 @@
 ---
 title: "No unwanted enamels please (partly in fake French)"
-date: "2004-11-25"
-categories: 
+date: 2004-11-25
+tags: 
   - "fun"
+  - "post"
+slug: no-unwanted-enamels-please-partly-in-fake-french
 ---
 
 Sorry if you don't read French, but for those who do this is worth its weight in bits. English translation (automatic of course;-) follows...

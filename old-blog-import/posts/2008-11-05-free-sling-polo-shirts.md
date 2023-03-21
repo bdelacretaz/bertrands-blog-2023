@@ -1,10 +1,12 @@
 ---
 title: "Free Sling polo shirts! (NOT)"
-date: "2008-11-05"
-categories: 
+date: 2008-11-05
+tags: 
   - "apachecon"
   - "content"
   - "sling"
+  - "post"
+slug: free-sling-polo-shirts
 ---
 
 We'll be giving away nice Sling polo shirts at the end of my [talk](http://www.us.apachecon.com/c/acus2008/sessions/16) today, be there!

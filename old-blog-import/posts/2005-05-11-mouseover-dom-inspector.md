@@ -1,6 +1,9 @@
 ---
 title: "Mouseover DOM Inspector"
-date: "2005-05-11"
+date: 2005-05-11
+tags: 
+  - "post"
+slug: mouseover-dom-inspector
 ---
 
 In the _way cool tools_ departement: the [Mouseover DOM Inspector](http://slayeroffice.com/tools/modi/v2.0/modi_help.html) lets you view and manipulate the DOM a web page, by simply mousing around the document.

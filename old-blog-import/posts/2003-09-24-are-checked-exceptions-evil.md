@@ -1,8 +1,10 @@
 ---
 title: "Are checked exceptions evil?"
-date: "2003-09-24"
-categories: 
+date: 2003-09-24
+tags: 
   - "java"
+  - "post"
+slug: are-checked-exceptions-evil
 ---
 
 Bill Venner's [artima](http://www.artima.com/) web site is becoming a gold mine of interviews with influent technologists and language gurus.

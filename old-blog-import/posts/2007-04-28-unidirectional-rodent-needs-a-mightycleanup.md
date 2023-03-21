@@ -1,8 +1,10 @@
 ---
 title: "Unidirectional rodent needs a MightyCleanup"
-date: "2007-04-28"
-categories: 
+date: 2007-04-28
+tags: 
   - "tools"
+  - "post"
+slug: unidirectional-rodent-needs-a-mightycleanup
 ---
 
 Since a few days my MightyMouse's scroll ball didn't scroll down anymore, only up. Small objects can be big annoyances sometimes.

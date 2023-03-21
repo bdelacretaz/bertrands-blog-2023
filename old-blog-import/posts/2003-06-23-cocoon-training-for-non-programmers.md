@@ -1,6 +1,9 @@
 ---
 title: "Cocoon training for non-programmers"
-date: "2003-06-23"
+date: 2003-06-23
+tags: 
+  - "post"
+slug: cocoon-training-for-non-programmers
 ---
 
 Today I'm finishing the handouts for our annual XML course at a local engineering school.

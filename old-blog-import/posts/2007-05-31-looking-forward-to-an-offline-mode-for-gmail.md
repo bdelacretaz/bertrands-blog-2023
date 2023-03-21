@@ -1,8 +1,10 @@
 ---
 title: "Looking forward to an offline mode for GMail"
-date: "2007-05-31"
-categories: 
+date: 2007-05-31
+tags: 
   - "tools"
+  - "post"
+slug: looking-forward-to-an-offline-mode-for-gmail
 ---
 
 Based on [Google Gears](http://code.google.com/apis/gears/), of course.

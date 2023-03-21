@@ -1,9 +1,11 @@
 ---
 title: "Large Mailing Lists Survival Guide"
-date: "2017-11-10"
-categories: 
+date: 2017-11-10
+tags: 
   - "adobe"
   - "collaboration"
+  - "post"
+slug: large-mailing-lists-survival-guide
 ---
 
 _I initially published this blog post on the Adobe Open Development blog at http://blogs.adobe.com/ but that's been archived so I'm re-publishing it here for convenience. Thanks to Adobe for allowing me to spend a portion on my time reflecting on such topics!_

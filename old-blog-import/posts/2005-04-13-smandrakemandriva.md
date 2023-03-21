@@ -1,6 +1,9 @@
 ---
 title: "s/Mandrake/Mandriva"
-date: "2005-04-13"
+date: 2005-04-13
+tags: 
+  - "post"
+slug: smandrakemandriva
 ---
 
 Got an email from Mandriva which looked suspiciously like the stuff Mandrake was sending before, and my suspicion was right: [Mandriva](http://www.mandrivalinux.com/) is the new name for the-linux-distro-formerly-known-as-mandrake.

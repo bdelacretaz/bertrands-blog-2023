@@ -1,8 +1,10 @@
 ---
 title: "Blogging or not blogging"
-date: "2003-03-19"
-categories: 
+date: 2003-03-19
+tags: 
   - "thoughts"
+  - "post"
+slug: blogging-or-not-blogging
 ---
 
 Although blogging is supposed to be meant to express yourself, sometimes other people are so much better than this self at expressing things that I give up...  

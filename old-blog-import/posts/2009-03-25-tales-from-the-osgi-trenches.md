@@ -1,10 +1,12 @@
 ---
 title: "Tales from the OSGi trenches"
-date: "2009-03-25"
-categories: 
+date: 2009-03-25
+tags: 
   - "apachecon"
   - "content"
   - "osgi"
+  - "post"
+slug: tales-from-the-osgi-trenches
 ---
 
 My [Tales from the OSGi trenches](http://www.eu.apachecon.com/c/aceu2009/sessions/189) presentation today at [ApacheCon](http://eu.apachecon.com) went well, timing was surprisingly good given that I gave this talk for the first time.

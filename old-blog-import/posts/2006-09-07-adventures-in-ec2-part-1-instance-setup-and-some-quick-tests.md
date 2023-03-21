@@ -1,8 +1,10 @@
 ---
 title: "Adventures in EC2, part 1: instance setup and some quick tests"
-date: "2006-09-07"
-categories: 
+date: 2006-09-07
+tags: 
   - "tools"
+  - "post"
+slug: adventures-in-ec2-part-1-instance-setup-and-some-quick-tests
 ---
 
 Got an email yesterday telling me that I could get a beta slot for [Amazon EC2](http://codeconsult.ch/bertrand/archives/000707.html), jumped in and got my fresh new virtual virtual machine.

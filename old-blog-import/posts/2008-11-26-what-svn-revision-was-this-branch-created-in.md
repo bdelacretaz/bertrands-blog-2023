@@ -1,8 +1,10 @@
 ---
 title: "What svn revision was this branch created in?"
-date: "2008-11-26"
-categories: 
+date: 2008-11-26
+tags: 
   - "tools"
+  - "post"
+slug: what-svn-revision-was-this-branch-created-in
 ---
 
 Let's talk about non-controversial subjects for a change: how do I find out in which svn revision a branch was created?

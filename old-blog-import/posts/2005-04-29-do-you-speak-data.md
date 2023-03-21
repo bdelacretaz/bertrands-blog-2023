@@ -1,6 +1,9 @@
 ---
 title: "Do you speak data: ?"
-date: "2005-04-29"
+date: 2005-04-29
+tags: 
+  - "post"
+slug: do-you-speak-data
 ---
 
 If you're running a decent browser you should be able to display this [secret message](text/html;base64,Q29uZ3JhdHVsYXRpb25zLCB5b3UndmUgZm91bmQgdGhlIDxlbT5zZWNyZXQ8L2VtPiBkYXRhOiBtZXNzYWdlIQ==).

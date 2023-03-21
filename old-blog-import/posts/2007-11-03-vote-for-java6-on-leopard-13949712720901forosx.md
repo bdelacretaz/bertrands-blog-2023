@@ -1,8 +1,10 @@
 ---
 title: "Vote for Java6 on Leopard - 13949712720901ForOSX"
-date: "2007-11-03"
-categories: 
+date: 2007-11-03
+tags: 
   - "tools"
+  - "post"
+slug: vote-for-java6-on-leopard-13949712720901forosx
 ---
 
 It'd be cool to have an official Java 6 VM for macosx Leopard soon, so: [13949712720901ForOSX](http://blogs.sun.com/bblfish/entry/vote_for_java6_on_leopard).

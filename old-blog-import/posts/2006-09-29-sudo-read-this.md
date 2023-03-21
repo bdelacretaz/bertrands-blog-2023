@@ -1,8 +1,10 @@
 ---
 title: "sudo read this"
-date: "2006-09-29"
-categories: 
+date: 2006-09-29
+tags: 
   - "fun"
+  - "post"
+slug: sudo-read-this
 ---
 
-[![](images/sandwich.png)](http://xkcd.com/c149.html) By [xkcd.com](http://xkcd.com/).
+[![](http://imgs.xkcd.com/comics/sandwich.png)](http://xkcd.com/c149.html) By [xkcd.com](http://xkcd.com/).

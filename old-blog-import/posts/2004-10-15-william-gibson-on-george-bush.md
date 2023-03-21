@@ -1,8 +1,10 @@
 ---
 title: "William Gibson on George Bush"
-date: "2004-10-15"
-categories: 
+date: 2004-10-15
+tags: 
   - "thoughts"
+  - "post"
+slug: william-gibson-on-george-bush
 ---
 
 One of my favorites authors is [back](http://www.williamgibsonbooks.com/blog/2004_10_01_archive.asp#109772777429831769) to weblogging, because _as the Spanish philospher Unamuno said, "At times, to be silent is to lie."_

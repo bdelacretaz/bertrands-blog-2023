@@ -1,6 +1,9 @@
 ---
 title: "Linux in Munich - the Berlin wall?"
-date: "2003-07-16"
+date: 2003-07-16
+tags: 
+  - "post"
+slug: linux-in-munich-the-berlin-wall
 ---
 
 Interesting [article](http://www.usatoday.com/usatonline/20030714/5320229s.htm) in USA today about the fight between Microsoft and Suse for the desktops of Munich.

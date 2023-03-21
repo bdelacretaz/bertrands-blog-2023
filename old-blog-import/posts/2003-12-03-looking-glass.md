@@ -1,8 +1,10 @@
 ---
 title: "Looking Glass"
-date: "2003-12-03"
-categories: 
+date: 2003-12-03
+tags: 
   - "operating-systems"
+  - "post"
+slug: looking-glass
 ---
 
 Sun's [Looking Glass](http://wwws.sun.com/software/looking_glass/demo.html) demo looks cool (the interesting part starts about 2:30 into the video).

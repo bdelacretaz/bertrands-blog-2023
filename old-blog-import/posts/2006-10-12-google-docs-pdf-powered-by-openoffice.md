@@ -1,8 +1,10 @@
 ---
 title: "Google Docs PDF - powered by OpenOffice"
-date: "2006-10-12"
-categories: 
+date: 2006-10-12
+tags: 
   - "the-web"
+  - "post"
+slug: google-docs-pdf-powered-by-openoffice
 ---
 
 Funny...a PDF exported from [Google Docs](http://docs.google.com) says

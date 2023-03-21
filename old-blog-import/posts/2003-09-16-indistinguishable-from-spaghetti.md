@@ -1,6 +1,9 @@
 ---
 title: "Indistinguishable from spaghetti."
-date: "2003-09-16"
+date: 2003-09-16
+tags: 
+  - "post"
+slug: indistinguishable-from-spaghetti
 ---
 
 [Rick Jelliffe](http://lists.xml.org/archives/xml-dev/200309/msg00157.html) says: _any sufficiently monolithic technology is indistinguishable from spaghetti_ - boy is he right!

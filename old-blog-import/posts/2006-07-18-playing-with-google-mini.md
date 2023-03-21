@@ -1,6 +1,9 @@
 ---
 title: "Playing with Google Mini"
-date: "2006-07-18"
+date: 2006-07-18
+tags: 
+  - "post"
+slug: playing-with-google-mini
 ---
 
 Thanks to [Colm](http://codeconsult.ch/bertrand/archives/000694.html) (who's finally published the much expected [but-how-do-you-pronounce-your-name](http://www.stdlib.net/~colmmacc/2006/07/17/how-to-say-my-name/) post) I got to play a bit with their [Google Mini](http://www.google.com/enterprise/mini/).

@@ -1,9 +1,11 @@
 ---
 title: "Open Innovation in Software means Open Source"
-date: "2009-12-07"
-categories: 
+date: 2009-12-07
+tags: 
   - "conferences"
   - "open-source"
+  - "post"
+slug: open-innovation-in-software-means-open-source
 ---
 
 I'm giving a talk today at the [Open Source, Open Development, Open Innovation workshop](http://www.oss-watch.ac.uk/events/2009-12-07_business/programme.xml) in Oxford:

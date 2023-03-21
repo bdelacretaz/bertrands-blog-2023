@@ -1,8 +1,10 @@
 ---
 title: "Java, Flash and BeanShell: winning team!"
-date: "2003-11-21"
-categories: 
+date: 2003-11-21
+tags: 
   - "thoughts"
+  - "post"
+slug: java-flash-and-beanshell-winning-team
 ---
 
 I've been working on a control system for an [exhibition](http://www.archimob.ch/) lately, designing and writing software for an interactive movie theater.

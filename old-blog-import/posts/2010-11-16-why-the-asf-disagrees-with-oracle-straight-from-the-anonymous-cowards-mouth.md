@@ -1,10 +1,12 @@
 ---
 title: "Why the ASF disagrees with Oracle, straight from the Anonymous Coward's mouth"
-date: "2010-11-16"
-categories: 
+date: 2010-11-16
+tags: 
   - "asf"
   - "open-source"
   - "oracle"
+  - "post"
+slug: why-the-asf-disagrees-with-oracle-straight-from-the-anonymous-cowards-mouth
 ---
 
 An _Anonymous Coward_ (as they call them) on [Slashdot](http://slashdot.org) provides the clearest explanation I've seen so far.

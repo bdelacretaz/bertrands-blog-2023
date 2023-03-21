@@ -1,9 +1,11 @@
 ---
 title: "Swiss Blog Awards - 5.5.06, Bienne"
-date: "2006-02-23"
-categories: 
+date: 2006-02-23
+tags: 
   - "blogs"
   - "the-web"
+  - "post"
+slug: swiss-blog-awards-5506-bienne
 ---
 
 The [Swiss Blog Awards](http://swissblogawards.ch/award/) are in the pipeline, and I've joined the team to be their official (what me official something?) correspondent for this (French-speaking) part of the country.

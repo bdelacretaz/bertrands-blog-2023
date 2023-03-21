@@ -1,8 +1,10 @@
 ---
 title: "No mouse? Go dock with the Russians!"
-date: "2003-02-20"
-categories: 
+date: 2003-02-20
+tags: 
   - "fun"
+  - "post"
+slug: no-mouse-go-dock-with-the-russians
 ---
 
 I don't know how reliable [this](http://lwn.net/1998/0212/a/shuttle.html) NASA channel transcript is but I like it. Sounds so real.  

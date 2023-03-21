@@ -1,8 +1,10 @@
 ---
 title: "Open vs.licensed software"
-date: "2002-11-07"
-categories: 
+date: 2002-11-07
+tags: 
   - "open-source"
+  - "post"
+slug: open-vslicensed-software
 ---
 
 In [this article](http://www.linuxworld.com/site-stories/2002/1018.cocoon.html) Paul Murphy tackles the problem from interesting angles. He doesn't talk much about Cocoon in detail, but what I found interesting is his view on how using software that does not require licences eases development.  

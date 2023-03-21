@@ -1,8 +1,10 @@
 ---
 title: "Banned by bluewin.ch"
-date: "2003-11-27"
-categories: 
+date: 2003-11-27
+tags: 
   - "the-web"
+  - "post"
+slug: banned-by-bluewinch
 ---
 
 Since Tuesday evening I cannot send mail to bluewin.ch (one of the leading providers here) from codeconsult.ch anymore, apparently they blocked my server for some (probably spam-related) reason.

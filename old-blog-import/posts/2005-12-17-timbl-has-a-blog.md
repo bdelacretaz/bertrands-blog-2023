@@ -1,8 +1,10 @@
 ---
 title: "timbl has a blog!"
-date: "2005-12-17"
-categories: 
+date: 2005-12-17
+tags: 
   - "the-web"
+  - "post"
+slug: timbl-has-a-blog
 ---
 
 Find it at [http://dig.csail.mit.edu/breadcrumbs/blog/4](http://dig.csail.mit.edu/breadcrumbs/blog/4). Subscribed. Of course.

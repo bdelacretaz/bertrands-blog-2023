@@ -1,8 +1,10 @@
 ---
 title: "ApacheCon keynotes videos"
-date: "2004-11-15"
-categories: 
+date: 2004-11-15
+tags: 
   - "open-source"
+  - "post"
+slug: apachecon-keynotes-videos
 ---
 
 Looks like videos will be available at [Linux Public Broadcasting Network](http://apachecon.lpbn.org/) .

@@ -1,8 +1,10 @@
 ---
 title: "Free gigabyte, for real!"
-date: "2004-04-02"
-categories: 
+date: 2004-04-02
+tags: 
   - "the-web"
+  - "post"
+slug: free-gigabyte-for-real
 ---
 
 [Numerous](http://www.wired.com/news/business/0,1367,62897,00.html) [reports](http://www.internetnews.com/ent-news/article.php/3334221), along with the Google's publishing of an easy to spot [April's fools](http://www.google.com/jobs/lunar_job.html) announcement, seem to indicate that [GMail](http://gmail.google.com) is real. And they even have a sign in box now!

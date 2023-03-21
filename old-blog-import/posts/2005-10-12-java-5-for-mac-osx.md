@@ -1,8 +1,10 @@
 ---
 title: "Java 5 for Mac OSX"
-date: "2005-10-12"
-categories: 
+date: 2005-10-12
+tags: 
   - "java"
+  - "post"
+slug: java-5-for-mac-osx
 ---
 
 Via [Pier](http://www.betaversion.org/~pier/2005/10/new-java-for-mac-os-x.html): Apple have just made their _J2SE 5.0 Release 3 Developer Preview 2_ available on their [Apple Developer Connection](http://developer.apple.com/) website.

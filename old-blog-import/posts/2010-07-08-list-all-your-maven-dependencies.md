@@ -1,8 +1,10 @@
 ---
 title: "List all your Maven dependencies"
-date: "2010-07-08"
-categories: 
+date: 2010-07-08
+tags: 
   - "tools"
+  - "post"
+slug: list-all-your-maven-dependencies
 ---
 
 Here's a one-liner (well, two) that neatly lists all the Maven dependencies from your project. Useful to check their licenses, for example.

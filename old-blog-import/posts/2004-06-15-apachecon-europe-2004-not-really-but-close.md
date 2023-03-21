@@ -1,8 +1,10 @@
 ---
 title: "ApacheCon Europe 2004 - not really, but close..."
-date: "2004-06-15"
-categories: 
+date: 2004-06-15
+tags: 
   - "open-source"
+  - "post"
+slug: apachecon-europe-2004-not-really-but-close
 ---
 
 We've been talking about an ApacheCon Europe some time ago with Apache folks, but I couldn't offer serious help due to the [big trip](http://codeconsult.ch/bertrand/archives/000338.html).

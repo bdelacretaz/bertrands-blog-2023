@@ -1,8 +1,10 @@
 ---
 title: "Reuters RSS feeds"
-date: "2004-05-08"
-categories: 
+date: 2004-05-08
+tags: 
   - "the-web"
+  - "post"
+slug: reuters-rss-feeds
 ---
 
 It's not hard to predict a huge increase in the use of RSS feeds once Aunt Tillie finds out about the ease of use and benefits of a good RSS client.

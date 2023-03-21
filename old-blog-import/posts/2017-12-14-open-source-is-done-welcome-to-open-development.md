@@ -1,9 +1,11 @@
 ---
 title: "Open source is done. Welcome to Open Development!"
-date: "2017-12-14"
-categories: 
+date: 2017-12-14
+tags: 
   - "collaboration"
   - "open-source"
+  - "post"
+slug: open-source-is-done-welcome-to-open-development
 ---
 
 I originally published this article on SD Times, republishing it to keep it around for posterity...

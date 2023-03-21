@@ -1,8 +1,10 @@
 ---
 title: "XmlHttpRequest rocks"
-date: "2004-05-18"
-categories: 
+date: 2004-05-18
+tags: 
   - "tools"
+  - "post"
+slug: xmlhttprequest-rocks
 ---
 
 I've been using the [XmlHttpRequest](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/xmlsdk30/htm/xmobjxmlhttprequest.asp) mechanism to communicate directly between client-side javascript and a server application.

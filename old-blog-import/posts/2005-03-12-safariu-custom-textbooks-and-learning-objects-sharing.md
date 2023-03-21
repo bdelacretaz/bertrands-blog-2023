@@ -1,6 +1,9 @@
 ---
 title: "SafariU - custom textbooks and learning objects sharing"
-date: "2005-03-12"
+date: 2005-03-12
+tags: 
+  - "post"
+slug: safariu-custom-textbooks-and-learning-objects-sharing
 ---
 
 O'Reilly announces [SafariU](http://safariu.oreilly.com/), where teachers can build customized textbooks by taking parts of contents from many existing books (and adding _your name on the cover_ as they stress it in the video).

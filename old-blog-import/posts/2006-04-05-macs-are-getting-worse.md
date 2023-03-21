@@ -1,8 +1,10 @@
 ---
 title: "Macs are getting worse..."
-date: "2006-04-05"
-categories: 
+date: 2006-04-05
+tags: 
   - "operating-systems"
+  - "post"
+slug: macs-are-getting-worse
 ---
 
 Because you'll soon be able to [officially run Windows on them](http://www.apple.com/macosx/bootcamp/). Argh. Poor thing.

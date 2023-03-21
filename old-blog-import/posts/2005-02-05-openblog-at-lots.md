@@ -1,6 +1,9 @@
 ---
 title: "OpenBlog at LOTS"
-date: "2005-02-05"
+date: 2005-02-05
+tags: 
+  - "post"
+slug: openblog-at-lots
 ---
 
 Thanks to [bitflux](http://blog.bitflux.ch/archive/lots-bitflux-ch-openblog-during-lots.html) and our own [delicate](http://delicate.ch/), we're going to try an [open blog](http://lots.bitflux.ch/) during [LOTS 2005](http://www.lots.ch/).

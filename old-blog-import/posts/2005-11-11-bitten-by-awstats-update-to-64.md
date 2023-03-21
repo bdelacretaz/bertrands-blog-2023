@@ -1,8 +1,10 @@
 ---
 title: "Bitten by awstats - update to 6.4!"
-date: "2005-11-11"
-categories: 
+date: 2005-11-11
+tags: 
   - "tools"
+  - "post"
+slug: bitten-by-awstats-update-to-64
 ---
 
 This morning one of my servers was attacked via awstats, which in versions before 6.4 has several [known vulnerabilities](http://seclists.org/lists/bugtraq/2005/Feb/0219.html).

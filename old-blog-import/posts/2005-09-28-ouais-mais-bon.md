@@ -1,8 +1,10 @@
 ---
 title: "ouais mais bon"
-date: "2005-09-28"
-categories: 
+date: 2005-09-28
+tags: 
   - "fun"
+  - "post"
+slug: ouais-mais-bon
 ---
 
 [ouaismaisbon.ch](http://www.ouaismaisbon.ch/) is a creation of one of my colleagues from [lab7.ch](http://www.lab7.ch).

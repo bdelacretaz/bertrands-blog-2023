@@ -1,6 +1,9 @@
 ---
 title: "SCO vs. everybody"
-date: "2003-06-20"
+date: 2003-06-20
+tags: 
+  - "post"
+slug: sco-vs-everybody
 ---
 
 I try to avoid following news about the _SCO vs. everybody_ saga as I find it to be mostly a waste of time between arguments, counterarguments, smoke and mirrors.

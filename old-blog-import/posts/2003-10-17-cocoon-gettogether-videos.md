@@ -1,8 +1,10 @@
 ---
 title: "Cocoon GetTogether videos"
-date: "2003-10-17"
-categories: 
+date: 2003-10-17
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-gettogether-videos
 ---
 
 Thanks to [Stefano](http://www.betaversion.org/~stefano/linotype/) (with the help of faithful _[merlino](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=106622290509062&w=2)_), videos are available from the [Apache mirrors](http://www.apache.org/mirrors/). To download, select the closest mirror and then navigate to cocoon/events/gt2003/.

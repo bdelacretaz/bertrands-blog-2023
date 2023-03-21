@@ -1,8 +1,10 @@
 ---
 title: "A much more healthy computer industry?"
-date: "2004-02-26"
-categories: 
+date: 2004-02-26
+tags: 
   - "open-source"
+  - "post"
+slug: a-much-more-healthy-computer-industry
 ---
 
 In an [interview](http://www.macminute.com/2004/02/25/hertzfeld) with MacMinute, Andy Hertzfeld sees the _Windows monopoly disintegrating over the next five years_.

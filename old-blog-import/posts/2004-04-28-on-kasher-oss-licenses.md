@@ -1,8 +1,10 @@
 ---
 title: "On kasher OSS licenses"
-date: "2004-04-28"
-categories: 
+date: 2004-04-28
+tags: 
   - "open-source"
+  - "post"
+slug: on-kasher-oss-licenses
 ---
 
 There have been lots of discussions about licenses among the Cocoon team recently, and I've been confronted with the same problematic with a new customer doing business in legally sensitive areas.

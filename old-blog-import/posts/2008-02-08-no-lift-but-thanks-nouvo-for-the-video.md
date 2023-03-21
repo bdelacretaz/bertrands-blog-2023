@@ -1,6 +1,9 @@
 ---
 title: "No LIFT - but thanks nouvo for the video"
-date: "2008-02-08"
+date: 2008-02-08
+tags: 
+  - "post"
+slug: no-lift-but-thanks-nouvo-for-the-video
 ---
 
 No [LIFT](http://www.liftconference.com) for me once again this year, due to a timing collision with The Important Phase of That Project.

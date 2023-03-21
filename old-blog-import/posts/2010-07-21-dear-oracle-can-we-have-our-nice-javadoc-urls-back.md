@@ -1,9 +1,11 @@
 ---
 title: "Dear Oracle, can we have our nice javadoc URLs back?"
-date: "2010-07-21"
-categories: 
+date: 2010-07-21
+tags: 
   - "java"
   - "the-web"
+  - "post"
+slug: dear-oracle-can-we-have-our-nice-javadoc-urls-back
 ---
 
 _If you support this request, please vote for it in the comments below and/or on twitter using the **[#E17476](https://www.google.com/search?q=%23E17476)** hashtag!_

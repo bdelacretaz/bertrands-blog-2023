@@ -1,9 +1,11 @@
 ---
 title: "Pragmatic validation metrics for third-party software components"
-date: "2010-10-22"
-categories: 
+date: 2010-10-22
+tags: 
   - "open-source"
   - "thoughts"
+  - "post"
+slug: pragmatic-validation-metrics-for-third-party-software-components
 ---
 
 Earlier this week at the [IKS](http://iks-project.eu/) general assembly I was asked to present a set of industrial validation metrics for the open source software components that IKS is producing.

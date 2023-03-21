@@ -1,8 +1,10 @@
 ---
 title: "What is source code, anyway?"
-date: "2005-01-28"
-categories: 
+date: 2005-01-28
+tags: 
   - "the-web"
+  - "post"
+slug: what-is-source-code-anyway
 ---
 
 I'm preparing a talk on Open Source for a group of project managers, and my contact mentioned that being clear about what _source code_ actually is would help.

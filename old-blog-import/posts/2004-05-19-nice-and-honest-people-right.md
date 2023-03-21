@@ -1,8 +1,10 @@
 ---
 title: "Nice and honest people, right?"
-date: "2004-05-19"
-categories: 
+date: 2004-05-19
+tags: 
   - "open-source"
+  - "post"
+slug: nice-and-honest-people-right
 ---
 
 With Open Source being all about openness and collaboration, you'd expect to find only nice and honest people around, right?

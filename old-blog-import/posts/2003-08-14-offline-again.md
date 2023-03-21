@@ -1,8 +1,10 @@
 ---
 title: "Offline again"
-date: "2003-08-14"
-categories: 
+date: 2003-08-14
+tags: 
   - "fun"
+  - "post"
+slug: offline-again
 ---
 
 Vacation, two weeks work, vacation again. Sounds like a nice routine ;-)

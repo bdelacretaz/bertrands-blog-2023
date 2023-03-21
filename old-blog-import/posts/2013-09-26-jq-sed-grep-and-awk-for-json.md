@@ -1,10 +1,11 @@
 ---
 title: "jq : sed, grep and awk for json"
-date: "2013-09-26"
-categories: 
-  - "tools"
+date: 2013-09-26
 tags: 
   - "json"
+  - "tools"
+  - "post"
+slug: jq-sed-grep-and-awk-for-json
 ---
 
 From the _very useful tools_ department: today I stumbled on [jq](http://stedolan.github.io/jq/), via Jeroen Janssen's [7 command-line tools for data science](http://jeroenjanssens.com/2013/09/19/seven-command-line-tools-for-data-science.html) blog post.

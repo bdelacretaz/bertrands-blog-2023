@@ -1,8 +1,10 @@
 ---
 title: "Bubblets are in"
-date: "2004-04-26"
-categories: 
+date: 2004-04-26
+tags: 
   - "blogs"
+  - "post"
+slug: bubblets-are-in
 ---
 
 I've (shamelessly) lifted Tim Bray's [bubblets](http://www.tbray.org/ongoing/When/200x/2004/04/21/CosmoBubbles) idea and added them here.

@@ -1,8 +1,10 @@
 ---
 title: "Mailing lists netiquette"
-date: "2002-11-26"
-categories: 
+date: 2002-11-26
+tags: 
   - "the-web"
+  - "post"
+slug: mailing-lists-netiquette
 ---
 
 Looking for a good explanation of why people should use "reply to" to avoid breaking mailing lists threads when replying.  

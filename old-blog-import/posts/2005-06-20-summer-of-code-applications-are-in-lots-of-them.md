@@ -1,8 +1,10 @@
 ---
 title: "Summer of Code applications are in - lots of them!"
-date: "2005-06-20"
-categories: 
+date: 2005-06-20
+tags: 
   - "open-source"
+  - "post"
+slug: summer-of-code-applications-are-in-lots-of-them
 ---
 
 Google's [Summer Of Code](http://code.google.com/summerofcode.html) program has been expanded (wow - thanks Google) to support [400 students](http://code.google.com/index.html), double what was initially planned. Of course, with 8'700 applications, there are some choices to make...

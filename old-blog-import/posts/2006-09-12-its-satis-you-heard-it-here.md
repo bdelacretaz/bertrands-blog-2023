@@ -1,8 +1,10 @@
 ---
 title: "It's SATIS! You heard it here!"
-date: "2006-09-12"
-categories: 
+date: 2006-09-12
+tags: 
   - "fun"
+  - "post"
+slug: its-satis-you-heard-it-here
 ---
 
 I'm not quite sure what SATIS, the [Studentische Arbeitsgruppe gegen Tiermissbrauch im Studium](http://www.satis.tierrechte.de/satis/ags.htm) (student's workgroup against animal abuse in studies) has to do with this blog, but something tells me that I'll find out soon.

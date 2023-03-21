@@ -1,8 +1,10 @@
 ---
 title: "Is GMail on holidays?"
-date: "2006-07-26"
-categories: 
+date: 2006-07-26
+tags: 
   - "tools"
+  - "post"
+slug: is-gmail-on-holidays
 ---
 
 I'm getting _lots_ of [70x errors](http://codeconsult.ch/bertrand/archives/000670.html) on [GMail](https://mail.google.com) today.

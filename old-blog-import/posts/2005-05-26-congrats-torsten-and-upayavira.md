@@ -1,6 +1,9 @@
 ---
 title: "Congrats Torsten and Upayavira!"
-date: "2005-05-26"
+date: 2005-05-26
+tags: 
+  - "post"
+slug: congrats-torsten-and-upayavira
 ---
 
 And to [all others](http://ken.coar.org/burrow/index.html?entry=1484;comments=true) who've been elected as members of the [Apache Software Foundation](http://apache.org/foundation) during today's members meeting.

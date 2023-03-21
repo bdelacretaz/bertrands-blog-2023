@@ -1,8 +1,10 @@
 ---
 title: "Eclipse Rich Client Platform"
-date: "2004-04-29"
-categories: 
+date: 2004-04-29
+tags: 
   - "java"
+  - "post"
+slug: eclipse-rich-client-platform
 ---
 
 Eclipse's [Rich Client Platform](http://dev.eclipse.org/viewcvs/index.cgi/~checkout~/platform-ui-home/rcp-proposal/rich_client_platform_facilities.html) aims to provide a way to reuse Eclipse components in standalone applications, not only in the IDE.

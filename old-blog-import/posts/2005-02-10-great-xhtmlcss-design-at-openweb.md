@@ -1,6 +1,9 @@
 ---
 title: "great XHTML/CSS design at openweb"
-date: "2005-02-10"
+date: 2005-02-10
+tags: 
+  - "post"
+slug: great-xhtmlcss-design-at-openweb
 ---
 
 [openweb.eu.org](http://openweb.eu.org/) has the best XHTML/CSS design that I've seen in a long time, including accessibility and style switching. It's in French but this shouldn't prevent you from enjoying the design.

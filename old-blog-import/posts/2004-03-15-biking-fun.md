@@ -1,8 +1,10 @@
 ---
 title: "Biking fun"
-date: "2004-03-15"
-categories: 
+date: 2004-03-15
+tags: 
   - "fun"
+  - "post"
+slug: biking-fun
 ---
 
 Last week I had the pleasure to attend a one-day motorcycle [sliding class](http://www.cornu-moto.ch/f/cours/B1.htm) directed by our motorcycle hero [Jacques Cornu](http://www.cornu-moto.ch/f/default.htm) (links to pages in french).

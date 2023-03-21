@@ -1,8 +1,10 @@
 ---
 title: "My Samsung SGH-E720 works as a Bluetooth GPRS modem"
-date: "2006-05-08"
-categories: 
+date: 2006-05-08
+tags: 
   - "tools"
+  - "post"
+slug: my-samsung-sgh-e720-works-as-a-bluetooth-gprs-modem
 ---
 
 It took me a while to get this working (and I should have done it a long time ago): the trick to use my E720 as a Bluetooth GPRS "modem" for MacOSX was to use the Vodafone VC710SI modem script, and \*99# as the GPRS CID number (after setting the correct GPRS config as the default on the phone).

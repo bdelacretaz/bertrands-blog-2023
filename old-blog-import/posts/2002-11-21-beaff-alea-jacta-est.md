@@ -1,8 +1,10 @@
 ---
 title: "BEAFF - Alea Jacta Est"
-date: "2002-11-21"
-categories: 
+date: 2002-11-21
+tags: 
   - "cocoon"
+  - "post"
+slug: beaff-alea-jacta-est
 ---
 
 Wrote my proposal for a Cocoon BEans And Forms Framework, that should make it much easier to write webapps with Cocoon.  

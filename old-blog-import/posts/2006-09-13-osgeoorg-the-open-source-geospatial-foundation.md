@@ -1,6 +1,9 @@
 ---
 title: "osgeo.org - the  Open Source Geospatial Foundation"
-date: "2006-09-13"
+date: 2006-09-13
+tags: 
+  - "post"
+slug: osgeoorg-the-open-source-geospatial-foundation
 ---
 
 Exploring the world of [Open Source GIS](http://www.foss4g2006.org/), one cannot miss the [Open Source Geospatial Foundation](https://www.osgeo.org/), which is in many ways [similar](https://www.osgeo.org/content/faq/foundation_faq.html) to the [Apache Software Foundation](http://apache.org/), but focuses on GIS-related projects.

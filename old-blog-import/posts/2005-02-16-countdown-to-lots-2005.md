@@ -1,6 +1,9 @@
 ---
 title: "countdown to LOTS 2005"
-date: "2005-02-16"
+date: 2005-02-16
+tags: 
+  - "post"
+slug: countdown-to-lots-2005
 ---
 
 Don't worry, I'll stop bothering you with these LOTS of posts in a few days. Or maybe not.

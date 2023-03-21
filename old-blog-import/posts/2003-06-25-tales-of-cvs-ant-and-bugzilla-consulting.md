@@ -1,6 +1,9 @@
 ---
 title: "Tales of CVS, ant and bugzilla consulting"
-date: "2003-06-25"
+date: 2003-06-25
+tags: 
+  - "post"
+slug: tales-of-cvs-ant-and-bugzilla-consulting
 ---
 
 Yesterday I was consulting with a new customer about how to best use [CVS](http://www.cvshome.org/) and [ant](http://ant.apache.org/) in their build and testing process.

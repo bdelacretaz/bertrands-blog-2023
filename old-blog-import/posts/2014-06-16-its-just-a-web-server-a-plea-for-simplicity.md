@@ -1,9 +1,11 @@
 ---
 title: "It's just a Web server - a plea for simplicity"
-date: "2014-06-16"
-categories: 
+date: 2014-06-16
+tags: 
   - "conferences"
   - "thoughts"
+  - "post"
+slug: its-just-a-web-server-a-plea-for-simplicity
 ---
 
 I’m currently working on my keynote for next week’s [Connect - Web Experience 2014](http://www.connectcon.ch/ "Connect - Web Experience") conference in Basel and very much looking forward to it! Last year’s conference was excellent, and this year’s schedule looks very exciting.

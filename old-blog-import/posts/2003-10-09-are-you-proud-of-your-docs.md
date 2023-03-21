@@ -1,8 +1,10 @@
 ---
 title: "Are you proud of your docs?"
-date: "2003-10-09"
-categories: 
+date: 2003-10-09
+tags: 
   - "thoughts"
+  - "post"
+slug: are-you-proud-of-your-docs
 ---
 
 Gavin King [talks](http://www.theserverside.com/home/thread.jsp?thread_id=21678) about the (well deserved) success of [Hibernate](http://hibernate.org/). Getting to the interview text is much harder than it should on that website but you can do it ;-)

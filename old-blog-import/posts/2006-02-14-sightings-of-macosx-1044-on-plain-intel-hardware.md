@@ -1,6 +1,9 @@
 ---
 title: "Sightings of macosx 10.4.4 on plain Intel hardware"
-date: "2006-02-14"
+date: 2006-02-14
+tags: 
+  - "post"
+slug: sightings-of-macosx-1044-on-plain-intel-hardware
 ---
 
 [Maxxuss](http://maxxuss.hotbox.ru/) has released a first set of patches which apparently allow macosx to run on a generic x86 computer (but SSE2 is required).

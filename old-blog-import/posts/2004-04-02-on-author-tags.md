@@ -1,8 +1,10 @@
 ---
 title: "On @author tags"
-date: "2004-04-02"
-categories: 
+date: 2004-04-02
+tags: 
   - "cocoon"
+  - "post"
+slug: on-author-tags
 ---
 
 Very interesting discussions this morning (it's [FirstFriday](http://wiki.cocoondev.org/Wiki.jsp?page=FirstFriday)) on the #cocoon IRC channel, about the removal of @author tags in Cocoon's source files.

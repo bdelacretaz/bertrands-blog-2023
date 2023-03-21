@@ -1,8 +1,10 @@
 ---
 title: "No Leopard upgrade for me"
-date: "2007-10-31"
-categories: 
+date: 2007-10-31
+tags: 
   - "tools"
+  - "post"
+slug: no-leopard-upgrade-for-me
 ---
 
 At least not until they [fix their Java support](http://www.javalobby.org/java/forums/t102936.html).

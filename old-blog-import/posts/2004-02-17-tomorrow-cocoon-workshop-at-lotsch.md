@@ -1,8 +1,10 @@
 ---
 title: "Tomorrow, Cocoon workshop at lots.ch"
-date: "2004-02-17"
-categories: 
+date: 2004-02-17
+tags: 
   - "cocoon"
+  - "post"
+slug: tomorrow-cocoon-workshop-at-lotsch
 ---
 
 There's still space for more participants at my [workshop](http://lots.ch/Supersonic_Tour_of_Apache_Cocoon.html) tomorrow at [lots.ch](http://lots.ch/).

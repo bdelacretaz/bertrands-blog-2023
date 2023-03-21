@@ -1,8 +1,10 @@
 ---
 title: "Suggestion to podcast interviewers: record both sides!"
-date: "2008-02-22"
-categories: 
+date: 2008-02-22
+tags: 
   - "thoughts"
+  - "post"
+slug: suggestion-to-podcast-interviewers-record-both-sides
 ---
 
 I've been listening to a few podcasts recently, which were obviously recorded using Skpye or another VoIP technology. Probably Skype, judging from the bad voice quality - my SIP phone sounds much better than that, but of course SIP is not always practical.

@@ -1,9 +1,11 @@
 ---
 title: "The ApacheCon sessions program is out"
-date: "2006-04-18"
-categories: 
+date: 2006-04-18
+tags: 
   - "apachecon"
   - "open-source"
+  - "post"
+slug: the-apachecon-sessions-program-is-out
 ---
 
 Thanks Jeremias for the heads-up: the [ApacheCon](http://www.eu.apachecon.com/) sessions program silently appeared on the conference website. Click on the _Timetable_ icon to see it.

@@ -1,8 +1,10 @@
 ---
 title: "Is Cocoon obsolete?"
-date: "2005-10-03"
-categories: 
+date: 2005-10-03
+tags: 
   - "cocoon"
+  - "post"
+slug: is-cocoon-obsolete
 ---
 
 That is the [question](http://marc.theaimsgroup.com/?t=112811752100002&r=1&w=2) on our lists today.

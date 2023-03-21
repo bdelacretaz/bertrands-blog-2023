@@ -1,8 +1,10 @@
 ---
 title: "Mail from Cocoon is fun and easy"
-date: "2005-09-15"
-categories: 
+date: 2005-09-15
+tags: 
   - "cocoon"
+  - "post"
+slug: mail-from-cocoon-is-fun-and-easy
 ---
 
 Believe it or not, today is the first time that I used the Cocoon mail block, to create an example for a customer.

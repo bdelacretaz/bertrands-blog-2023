@@ -1,8 +1,10 @@
 ---
 title: "Polishing the crystal ball"
-date: "2003-04-29"
-categories: 
+date: 2003-04-29
+tags: 
   - "cocoon"
+  - "post"
+slug: polishing-the-crystal-ball
 ---
 
 [Marc](http://radio.weblogs.com/0116284/2003/04/28.html#a107) finds this incredibly faithful rendition of me with my [Cocoon Crystal ball](http://www.mediaweb.hu/sybilla/kepek/Crystal-Ball.gif). I didn't know _they_ were watching me ;-)

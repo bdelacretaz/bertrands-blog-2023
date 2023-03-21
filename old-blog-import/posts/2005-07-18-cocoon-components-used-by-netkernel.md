@@ -1,8 +1,10 @@
 ---
 title: "Cocoon components used by NetKernel"
-date: "2005-07-18"
-categories: 
+date: 2005-07-18
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-components-used-by-netkernel
 ---
 
 Sylvain just sees this [notice](http://c2nak.sourceforge.net/book/c2nk/doc_cocoon_guide.html) notice about how to use Cocoon components in [1060 NetKernel](http://www.1060.org/).

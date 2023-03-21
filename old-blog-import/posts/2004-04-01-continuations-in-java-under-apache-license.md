@@ -1,8 +1,10 @@
 ---
 title: "Continuations in Java, under Apache License!"
-date: "2004-04-01"
-categories: 
+date: 2004-04-01
+tags: 
   - "java"
+  - "post"
+slug: continuations-in-java-under-apache-license
 ---
 
 Congratulations to [Torsten](http://vafer.org/blog/tcurdt/archives/000094.html) and [Stephan](http://wiki.cocoondev.org/Wiki.jsp?page=StephanMichels) for their implementation of continuations for java!

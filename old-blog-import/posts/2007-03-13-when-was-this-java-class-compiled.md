@@ -1,8 +1,10 @@
 ---
 title: "When was this Java class compiled?"
-date: "2007-03-13"
-categories: 
+date: 2007-03-13
+tags: 
   - "tools"
+  - "post"
+slug: when-was-this-java-class-compiled
 ---
 
 Credits to Dmitry Beransky on the [advanced-java@discuss.develop.com](http://discuss.develop.com/advanced-java.html) list.

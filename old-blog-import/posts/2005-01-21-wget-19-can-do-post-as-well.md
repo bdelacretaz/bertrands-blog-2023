@@ -1,8 +1,10 @@
 ---
 title: "wget 1.9 can do POST as well"
-date: "2005-01-21"
-categories: 
+date: 2005-01-21
+tags: 
   - "tools"
+  - "post"
+slug: wget-19-can-do-post-as-well
 ---
 
 The swiss army knife of command-line HTTP requests gets even better:

@@ -1,9 +1,11 @@
 ---
 title: "Open Source Collaboration Tools - at OpenExpo, Bern, April 2nd"
-date: "2009-02-26"
-categories: 
+date: 2009-02-26
+tags: 
   - "conferences"
   - "open-source"
+  - "post"
+slug: open-source-collaboration-tools-at-openexpo-bern-april-2nd
 ---
 
 The [program](http://www.openexpo.ch/openexpo-2009-bern/konferenzprogramm/) for OpenExpo 2009 Bern is just out, I'll be giving my [Open Source Collaboration Tools are Good For You!](http://www.openexpo.ch/openexpo-2009-bern/konferenzprogramm/technology-track/#r04) talk on April 2nd.

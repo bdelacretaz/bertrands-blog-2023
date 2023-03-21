@@ -1,6 +1,9 @@
 ---
 title: "Fortysomething Unix Hackers love MacOSX"
-date: "2005-04-04"
+date: 2005-04-04
+tags: 
+  - "post"
+slug: fortysomething-unix-hackers-love-macosx
 ---
 
 But _who_ are [these guys](http://daringfireball.net/2005/04/point_counterpoint) talking about? Forty_what_?

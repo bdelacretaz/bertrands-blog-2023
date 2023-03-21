@@ -1,8 +1,10 @@
 ---
 title: "Lightweight EJB"
-date: "2003-11-18"
-categories: 
+date: 2003-11-18
+tags: 
   - "tools"
+  - "post"
+slug: lightweight-ejb
 ---
 
 Altough the title sounds like a joke it is not: [OpenEJB](http://openejb.sourceforge.net/) can for example be easily [embedded](http://openejb.sourceforge.net/embedded.html) in your app, even in applets.

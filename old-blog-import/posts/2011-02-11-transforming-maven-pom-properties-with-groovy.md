@@ -1,12 +1,13 @@
 ---
 title: "Transforming Maven POM properties with Groovy"
-date: "2011-02-11"
-categories: 
+date: 2011-02-11
+tags: 
+  - "maven-osgi-groovy"
   - "java"
   - "maven"
   - "osgi"
-tags: 
-  - "maven-osgi-groovy"
+  - "post"
+slug: transforming-maven-pom-properties-with-groovy
 ---
 
 We're moving to [fragment bundles](http://osgi.mjahn.net/2008/03/13/half-bundle-half-jar-%E2%80%93-the-nature-of-fragment-a-blessing-or-a-curse/) in [Sling](http://sling.apache.org) instead of using system properties, for example to export packages from the JVM's classpath.

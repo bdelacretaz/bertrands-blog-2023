@@ -1,10 +1,12 @@
 ---
 title: "Open Source Collaboration Tools are Good For You! (really)"
-date: "2008-04-10"
-categories: 
+date: 2008-04-10
+tags: 
   - "apachecon"
   - "collaboration"
   - "tools"
+  - "post"
+slug: open-source-collaboration-tools-are-good-for-you-really
 ---
 
 Really? Well my [talk](http://eu.apachecon.com/eu2008/program/talk/2481) at ApacheCon is done and went well, so that's real at least.

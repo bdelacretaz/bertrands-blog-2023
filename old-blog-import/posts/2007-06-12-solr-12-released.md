@@ -1,8 +1,10 @@
 ---
 title: "Solr 1.2 released!"
-date: "2007-06-12"
-categories: 
+date: 2007-06-12
+tags: 
   - "tools"
+  - "post"
+slug: solr-12-released
 ---
 
 Congrats to the [Solr](http://lucene.apache.org/solr) team for the 1.2 release!

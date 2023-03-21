@@ -1,8 +1,10 @@
 ---
 title: "It's nouvo and it runs on Cocoon"
-date: "2004-09-25"
-categories: 
+date: 2004-09-25
+tags: 
   - "cocoon"
+  - "post"
+slug: its-nouvo-and-it-runs-on-cocoon
 ---
 
 Pheeew...after what was probably the craziest month on my life, [www.nouvo.ch](http://www.nouvo.ch) just went live (it's all in French over there) . This...let's say _multimedia content management system_ is built for a new TV show of our [national broadcaster](http://www.tsr.ch).

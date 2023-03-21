@@ -1,6 +1,9 @@
 ---
 title: "Jazz evening"
-date: "2003-09-13"
+date: 2003-09-13
+tags: 
+  - "post"
+slug: jazz-evening
 ---
 
 Spent yesterday evening in a [nice village](http://www.jazzphone.ch/evenements/2003_ollon/2003_ollon.htm) listening to some great jazz - its been a long time since I went to a pure jazz concert (last concert was [Maceo](http://maceo.com/) who is just incredible on stage).

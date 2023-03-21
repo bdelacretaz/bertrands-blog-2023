@@ -1,6 +1,9 @@
 ---
 title: "Reusable knowledge"
-date: "2005-03-05"
+date: 2005-03-05
+tags: 
+  - "post"
+slug: reusable-knowledge
 ---
 
 Preparing a "Linux basics" course for next week, I find myself reusing material that I wrote in.. 1996!

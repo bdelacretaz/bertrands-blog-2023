@@ -1,11 +1,13 @@
 ---
 title: "Developer Usability"
-date: "2008-02-19"
-categories: 
+date: 2008-02-19
+tags: 
   - "thoughts"
+  - "post"
+slug: developer-usability
 ---
 
-![dials.jpg](images/imagesdials.jpg)Reflecting on my activities in the last few months (especially around [Sling](http://incubator.apache.org/sling) and how [we](http://www.day.com) use it), I notice that _Developer Usability_ is often my concern.
+![dials.jpg](http://bdelacretaz.files.wordpress.com/2008/02/imagesdials.jpg)Reflecting on my activities in the last few months (especially around [Sling](http://incubator.apache.org/sling) and how [we](http://www.day.com) use it), I notice that _Developer Usability_ is often my concern.
 
 How do we make our software more understandable, transparent, efficient and generally usable by developers? Good designs should be self-explaining, but in a complex system that's easier said than done.
 

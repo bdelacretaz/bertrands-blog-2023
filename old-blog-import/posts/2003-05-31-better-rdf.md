@@ -1,6 +1,9 @@
 ---
 title: "Better RDF"
-date: "2003-05-31"
+date: 2003-05-31
+tags: 
+  - "post"
+slug: better-rdf
 ---
 
 Thanks [Ovidiu](http://www.webweavertech.com/ovidiu/weblog/) for the tip - I have added

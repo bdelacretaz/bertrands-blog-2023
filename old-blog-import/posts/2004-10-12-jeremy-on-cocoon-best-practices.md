@@ -1,8 +1,10 @@
 ---
 title: "Jeremy on Cocoon best practices"
-date: "2004-10-12"
-categories: 
+date: 2004-10-12
+tags: 
   - "cocoon"
+  - "post"
+slug: jeremy-on-cocoon-best-practices
 ---
 
 Well, I'm bit tired now but you can read about it over at [Andrew's](http://www.andrewsavory.com/blog/archives/000398.html).

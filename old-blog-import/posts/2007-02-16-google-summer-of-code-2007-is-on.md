@@ -1,8 +1,10 @@
 ---
 title: "Google Summer Of Code 2007 is on!"
-date: "2007-02-16"
-categories: 
+date: 2007-02-16
+tags: 
   - "open-source"
+  - "post"
+slug: google-summer-of-code-2007-is-on
 ---
 
 See the [Google Code Blog](http://google-code-updates.blogspot.com/2007/02/speaking-of-summer.html), it looks like students will be having (constructive) fun with open source projets once again this year!

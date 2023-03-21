@@ -1,8 +1,10 @@
 ---
 title: "Hibernate sellout"
-date: "2003-09-18"
-categories: 
+date: 2003-09-18
+tags: 
   - "open-source"
+  - "post"
+slug: hibernate-sellout
 ---
 
 The coolish Hibernate persistence framework has [joined JBoss](http://hibernate.org/136.html): Gavin King (Hibernate's main developer) has been hired by JBoss to work full-time on Hibernate (no it's not _work full-time on hibernating_ ;-)

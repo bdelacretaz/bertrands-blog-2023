@@ -1,6 +1,9 @@
 ---
 title: "Dog gets blog"
-date: "2003-05-08"
+date: 2003-05-08
+tags: 
+  - "post"
+slug: dog-gets-blog
 ---
 
 Family experiments...

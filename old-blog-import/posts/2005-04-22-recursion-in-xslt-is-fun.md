@@ -1,8 +1,10 @@
 ---
 title: "Recursion in XSLT is fun"
-date: "2005-04-22"
-categories: 
+date: 2005-04-22
+tags: 
   - "cocoon"
+  - "post"
+slug: recursion-in-xslt-is-fun
 ---
 
 Well, recursion is always fun and powerful, isn't it?

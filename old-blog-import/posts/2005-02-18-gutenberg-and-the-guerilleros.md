@@ -1,6 +1,9 @@
 ---
 title: "Gutenberg and the Guerilleros"
-date: "2005-02-18"
+date: 2005-02-18
+tags: 
+  - "post"
+slug: gutenberg-and-the-guerilleros
 ---
 
 I'm following [Tristan Nitot's](http://www.nitot.com/) very interesting presentation entitled [Gutenberg and the Guerilleros](http://lots.ch/2005/Referate.html?id=115) at...you know where don't you?

@@ -1,8 +1,10 @@
 ---
 title: "Missing the boat?"
-date: "2003-05-28"
-categories: 
+date: 2003-05-28
+tags: 
   - "open-source"
+  - "post"
+slug: missing-the-boat
 ---
 
 While Matthew Langham sees companies running to [get onboard](http://www.oreillynet.com/pub/wlg/3234) the Open-Source boat, it is sad to see Sun trying to [fight JBoss](http://www.shiftat.com/blog/page/werner/20030527#sun_reaffirms_no_jboss_at) with whatever silly weapon they can find (via [Steven](http://blogs.cocoondev.org/stevenn/archives/000957.html)).

@@ -1,8 +1,10 @@
 ---
 title: "Google Docs -  a browser is all you need"
-date: "2006-10-12"
-categories: 
+date: 2006-10-12
+tags: 
   - "the-web"
+  - "post"
+slug: google-docs-a-browser-is-all-you-need
 ---
 
 [Google Docs](http://docs.google.com/) combines text documents and spreadsheets in a unified interface, with PDF export for decent printable versions.

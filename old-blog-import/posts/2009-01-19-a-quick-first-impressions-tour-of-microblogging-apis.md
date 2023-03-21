@@ -1,10 +1,12 @@
 ---
 title: "A quick \"first impressions\" tour of microblogging APIs"
-date: "2009-01-19"
-categories: 
+date: 2009-01-19
+tags: 
   - "content"
   - "esme"
   - "microblogging"
+  - "post"
+slug: a-quick-first-impressions-tour-of-microblogging-apis
 ---
 
 I had a look at a few [microblogging](http://en.wikipedia.org/wiki/Micro-blogging) APIs, hoping to find one that's extensible and RESTful.

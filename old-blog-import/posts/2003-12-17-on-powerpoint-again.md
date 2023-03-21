@@ -1,8 +1,10 @@
 ---
 title: "On Powerpoint again"
-date: "2003-12-17"
-categories: 
+date: 2003-12-17
+tags: 
   - "tools"
+  - "post"
+slug: on-powerpoint-again
 ---
 
 [Andrew](http://www.andrewsavory.com/blog/archives/000156.html) notes that the very best speakers use slides [and](http://www.orixo.com/events/gt2003/sessions.html#david) a piano. Hmm, maybe I should do my next presentation on drums. It might have more impact (at least if you're sitting inside the bass drum ;-)

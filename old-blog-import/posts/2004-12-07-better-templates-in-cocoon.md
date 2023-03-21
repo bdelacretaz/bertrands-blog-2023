@@ -1,8 +1,10 @@
 ---
 title: "Better templates in Cocoon?"
-date: "2004-12-07"
-categories: 
+date: 2004-12-07
+tags: 
   - "cocoon"
+  - "post"
+slug: better-templates-in-cocoon
 ---
 
 There have been lots of discussions about templating systems in Cocoon lately.

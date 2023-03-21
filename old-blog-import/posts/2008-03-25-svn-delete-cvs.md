@@ -1,8 +1,10 @@
 ---
 title: "svn delete CVS ??"
-date: "2008-03-25"
-categories: 
+date: 2008-03-25
+tags: 
   - "fun"
+  - "post"
+slug: svn-delete-cvs
 ---
 
 Geek trivia question: when do you need _svn delete CVS_?

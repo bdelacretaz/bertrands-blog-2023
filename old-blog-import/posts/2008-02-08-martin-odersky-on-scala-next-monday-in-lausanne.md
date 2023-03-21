@@ -1,11 +1,12 @@
 ---
 title: "Martin Odersky on Scala, next Monday in Lausanne"
-date: "2008-02-08"
-categories: 
-  - "open-source"
-  - "scala"
+date: 2008-02-08
 tags: 
   - "epfl"
+  - "open-source"
+  - "scala"
+  - "post"
+slug: martin-odersky-on-scala-next-monday-in-lausanne
 ---
 
 I hope to make it to Martin Odersky's [The Scala Experience](http://www.epfl.ch/cgi-bin/memento/memento/view/pretty/submem=IC?entry=C405687015) talk, next Monday at EPFL Lausanne.

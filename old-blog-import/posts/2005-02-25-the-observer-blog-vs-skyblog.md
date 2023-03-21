@@ -1,6 +1,9 @@
 ---
 title: "The Observer Blog vs. Skyblog"
-date: "2005-02-25"
+date: 2005-02-25
+tags: 
+  - "post"
+slug: the-observer-blog-vs-skyblog
 ---
 
 [Ben Hammersley](http://www.benhammersley.com/weblog/2005/02/22/the_observer_blog.html) introduces [The Observer Blog](http://blogs.guardian.co.uk/observer/index.html), and my (easy) guess is that we're going to see more and more professional press people going in this direction. Via [Matthew](http://www.silentpenguin.com/archives/2005/02/building_the_ne.html).

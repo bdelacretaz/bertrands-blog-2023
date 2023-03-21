@@ -1,6 +1,9 @@
 ---
 title: "Back from LOTS"
-date: "2005-02-22"
+date: 2005-02-22
+tags: 
+  - "post"
+slug: back-from-lots
 ---
 
 I hope to find time for a longer report later, but right now I'd like to say big THANKS to all who contributed to make [this](http://www.lots.ch) a great event.

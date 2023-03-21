@@ -1,8 +1,10 @@
 ---
 title: "macosx 10.3.6 update fails here"
-date: "2004-11-06"
-categories: 
+date: 2004-11-06
+tags: 
   - "tools"
+  - "post"
+slug: macosx-1036-update-fails-here
 ---
 
 Very unusual - my powerbook is misbehaving after trying to install the latest 10.3.6 update.

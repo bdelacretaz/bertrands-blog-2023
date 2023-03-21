@@ -1,6 +1,9 @@
 ---
 title: "YAML Ain't Markup Language"
-date: "2004-03-01"
+date: 2004-03-01
+tags: 
+  - "post"
+slug: yaml-aint-markup-language
 ---
 
 [YAML](http://www.yaml.org) looks like a very good [structured text format](http://www.yaml.org/start.html), easily readable and writable by humans as well as machines. The [spec](http://www.yaml.org/spec/) looks good.

@@ -1,6 +1,9 @@
 ---
 title: "Cocoon is slow (not!)"
-date: "2003-11-27"
+date: 2003-11-27
+tags: 
+  - "post"
+slug: cocoon-is-slow-not
 ---
 
 _Cocoon is slow_ says customer: the generation of their list of persons takes several minutes, which makes it unusable for data verification by office personnel.

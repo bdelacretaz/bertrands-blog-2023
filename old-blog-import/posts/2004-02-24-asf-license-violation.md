@@ -1,8 +1,10 @@
 ---
 title: "ASF license violation"
-date: "2004-02-24"
-categories: 
+date: 2004-02-24
+tags: 
   - "open-source"
+  - "post"
+slug: asf-license-violation
 ---
 
 I found out that my county is publicly distributing tax software which includes ASF software (FOP, xalan, xerces, logj4).

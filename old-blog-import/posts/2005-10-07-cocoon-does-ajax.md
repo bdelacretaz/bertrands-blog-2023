@@ -1,6 +1,9 @@
 ---
 title: "Cocoon does Ajax!"
-date: "2005-10-07"
+date: 2005-10-07
+tags: 
+  - "post"
+slug: cocoon-does-ajax
 ---
 
 Sylvain is now on stage at the GT delivering his [Cocoon does Ajax](http://www.cocoongt.org/speakers/sylvain-wallez-and-max-pfingsthorn.html) message. Brilliant stuff! And it _works_ very well already, considering how new it is.

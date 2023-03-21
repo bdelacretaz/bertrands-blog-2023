@@ -1,8 +1,10 @@
 ---
 title: "Why do I blog?"
-date: "2006-06-20"
-categories: 
+date: 2006-06-20
+tags: 
   - "blogs"
+  - "post"
+slug: why-do-i-blog
 ---
 
 Thinking about it, the main reason for me is clearly _networking_.

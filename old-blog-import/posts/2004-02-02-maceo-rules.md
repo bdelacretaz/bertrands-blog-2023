@@ -1,8 +1,10 @@
 ---
 title: "Maceo rules"
-date: "2004-02-02"
-categories: 
+date: 2004-02-02
+tags: 
   - "thoughts"
+  - "post"
+slug: maceo-rules
 ---
 
 Living at 700 meters altitude means I have to drive a car (instead of my bike) in such wintery times. The (almost only) good point is the sound system, makes rides more enjoyable.

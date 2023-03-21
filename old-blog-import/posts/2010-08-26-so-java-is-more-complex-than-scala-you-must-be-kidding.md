@@ -1,12 +1,13 @@
 ---
 title: "So Java is more complex than Scala? You must be kidding"
-date: "2010-08-26"
-categories: 
-  - "java"
+date: 2010-08-26
 tags: 
   - "java"
   - "programming"
   - "scala"
+  - "java"
+  - "post"
+slug: so-java-is-more-complex-than-scala-you-must-be-kidding
 ---
 
 My esteemed colleague Michael Duerig posts about [Scala code being simpler than java](http://michid.wordpress.com/2010/08/24/so-scala-is-too-complex/).

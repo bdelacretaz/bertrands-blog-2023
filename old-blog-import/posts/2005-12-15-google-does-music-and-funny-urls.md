@@ -1,8 +1,10 @@
 ---
 title: "Google does music - and funny URLs"
-date: "2005-12-15"
-categories: 
+date: 2005-12-15
+tags: 
   - "fun"
+  - "post"
+slug: google-does-music-and-funny-urls
 ---
 
 From the _don't be evil yet still take over the world_ department, the new Google [musicsearch](http://www.google.com/musicsearch) attempts to organize our musical world. The official announcement is on the [Google Blog](http://googleblog.blogspot.com/2005/12/searching-for-music.html).

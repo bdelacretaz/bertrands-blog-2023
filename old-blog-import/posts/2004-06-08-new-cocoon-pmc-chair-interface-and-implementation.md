@@ -1,8 +1,10 @@
 ---
 title: "New Cocoon PMC chair - interface and implementation"
-date: "2004-06-08"
-categories: 
+date: 2004-06-08
+tags: 
   - "cocoon"
+  - "post"
+slug: new-cocoon-pmc-chair-interface-and-implementation
 ---
 
 Congratulations [Sylvain](http://www.anyware-tech.com/blogs/sylvain/archives/000123.html) on your election, and above all many thanks for accepting the job.

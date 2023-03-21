@@ -1,8 +1,10 @@
 ---
 title: "European Commission and Linux"
-date: "2002-11-07"
-categories: 
+date: 2002-11-07
+tags: 
   - "open-source"
+  - "post"
+slug: european-commission-and-linux
 ---
 
 [vnunet.com](http://www.vnunet.com/News/1136433) (and many others) report on the European Commission examining deployment of open source software in government departments.  

@@ -1,8 +1,10 @@
 ---
 title: "del.ico.us is incredibly powerful"
-date: "2004-12-10"
-categories: 
+date: 2004-12-10
+tags: 
   - "tools"
+  - "post"
+slug: delicous-is-incredibly-powerful
 ---
 
 Why did I wait so long?

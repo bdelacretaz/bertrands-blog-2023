@@ -1,6 +1,9 @@
 ---
 title: "Look ma, I'm on TV"
-date: "2005-04-02"
+date: 2005-04-02
+tags: 
+  - "post"
+slug: look-ma-im-on-tv
 ---
 
 I'm in [nouvo](http://www.nouvo.ch/74-2) (in french) for a subject on open source. They talk about [OsiriX](http://homepage.mac.com/rossetantoine/osirix/), an open source medical images viewer, and asked me a few questions about the commercial aspects of open source.

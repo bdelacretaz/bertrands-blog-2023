@@ -1,8 +1,10 @@
 ---
 title: "EU's Open Source Observatory"
-date: "2005-01-14"
-categories: 
+date: 2005-01-14
+tags: 
   - "open-source"
+  - "post"
+slug: eus-open-source-observatory
 ---
 
 The European Commission's [Open Source Observatory](http://europa.eu.int/ida/oso/) aims to encourage and spread the use of open source best practices in Europe.

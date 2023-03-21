@@ -1,6 +1,9 @@
 ---
 title: "Aluminium beats Titanium"
-date: "2004-03-23"
+date: 2004-03-23
+tags: 
+  - "post"
+slug: aluminium-beats-titanium
 ---
 
 Hands down. I got my new Aluminium Powerbook (15 inch, 1.25GHz G4, 5400 rpm drive) and it's way faster than the "old" 1GHz TIbook. A real pleasure to work with, and the mechanical design is just great.

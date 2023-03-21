@@ -1,8 +1,10 @@
 ---
 title: "Leaving my boss after 18 years..."
-date: "2007-03-31"
-categories: 
+date: 2007-03-31
+tags: 
   - "milestones"
+  - "post"
+slug: leaving-my-boss-after-18-years
 ---
 
 As we all know, [today](http://codeconsult.ch/bertrand/archives/000283.html) is the perfect day for important announcements.

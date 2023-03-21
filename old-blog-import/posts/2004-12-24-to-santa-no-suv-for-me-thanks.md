@@ -1,8 +1,10 @@
 ---
 title: "To Santa: no SUV for me, thanks"
-date: "2004-12-24"
-categories: 
+date: 2004-12-24
+tags: 
   - "thoughts"
+  - "post"
+slug: to-santa-no-suv-for-me-thanks
 ---
 
 As Europe slowly but surely picks up on the SUV rage (or 4x4 as we like to call them here), Malcolm Gladwell's [Big and Bad](http://www.gladwell.com/2004/2004_01_12_a_suv.html) article gives insight into what these vehicles actually are and what they often mean to people. It could be a bit funny, but when you think about the environmental and safety consequences it's not.

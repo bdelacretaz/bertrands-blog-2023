@@ -1,8 +1,10 @@
 ---
 title: "I'm not on AIM anymore"
-date: "2007-06-20"
-categories: 
+date: 2007-06-20
+tags: 
   - "tools"
+  - "post"
+slug: im-not-on-aim-anymore
 ---
 
 With [Adium](http://www.adiumx.com/) it's easy to be connected to all sorts of IM systems, and I had this old [AIM](http://www.aim.com/) account that I almost never used.

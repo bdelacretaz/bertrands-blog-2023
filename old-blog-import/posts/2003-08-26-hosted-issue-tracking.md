@@ -1,6 +1,9 @@
 ---
 title: "Hosted issue tracking?"
-date: "2003-08-26"
+date: 2003-08-26
+tags: 
+  - "post"
+slug: hosted-issue-tracking
 ---
 
 Looking for hosted bugzilla, jira or similar services, for a colleague who has trouble getting over the corporate dictators to install issue tracking software at his shop.

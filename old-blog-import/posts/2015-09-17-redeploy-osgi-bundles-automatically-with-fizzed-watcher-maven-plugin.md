@@ -1,10 +1,12 @@
 ---
 title: "Redeploy OSGi bundles automatically with fizzed-watcher-maven-plugin"
-date: "2015-09-17"
-categories: 
+date: 2015-09-17
+tags: 
   - "maven"
   - "osgi"
   - "tools"
+  - "post"
+slug: redeploy-osgi-bundles-automatically-with-fizzed-watcher-maven-plugin
 ---
 
 Being able to redeploy your OSGi bundles automatically when you make changes to their source code is very useful when developing [Apache Sling](http://sling.apache.org/) applications, for example.

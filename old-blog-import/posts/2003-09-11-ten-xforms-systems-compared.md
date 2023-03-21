@@ -1,6 +1,9 @@
 ---
 title: "Ten XForms systems compared"
-date: "2003-09-11"
+date: 2003-09-11
+tags: 
+  - "post"
+slug: ten-xforms-systems-compared
 ---
 
 Read the [article](http://www.xml.com/lpt/a/2003/09/10/xforms.html) at xml.com.

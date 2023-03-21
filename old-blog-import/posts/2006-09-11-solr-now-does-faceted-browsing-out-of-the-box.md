@@ -1,8 +1,10 @@
 ---
 title: "Solr now does faceted browsing out of the box"
-date: "2006-09-11"
-categories: 
+date: 2006-09-11
+tags: 
   - "tools"
+  - "post"
+slug: solr-now-does-faceted-browsing-out-of-the-box
 ---
 
 Whereas earlier versions required custom code, a recent [addition](https://issues.apache.org/jira/browse/SOLR-44) to [Solr](http://incubator.apache.org/solr/) enables faceted browsing [out of the box](http://wiki.apache.org/solr/SimpleFacetParameters).

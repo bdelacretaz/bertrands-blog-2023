@@ -1,9 +1,11 @@
 ---
 title: "On hippos and daysies...the Amsterdam plot slowly unfolds"
-date: "2006-03-11"
-categories: 
+date: 2006-03-11
+tags: 
   - "open-source"
   - "thoughts"
+  - "post"
+slug: on-hippos-and-daysiesthe-amsterdam-plot-slowly-unfolds
 ---
 
 Interesting thoughts and insights from [Steven](http://blog.outerthought.org/articles/2006/03/10/daisy-press-sighting-the-heat-is-on) about how their ([Cocoon](http://cocoon.apache.org)\-based) [Daisy CMS](http://cocoondev.org/daisy) is quietly becoming an important part of the CMS (notice I'm not saying _open-source CMS_) landscape.

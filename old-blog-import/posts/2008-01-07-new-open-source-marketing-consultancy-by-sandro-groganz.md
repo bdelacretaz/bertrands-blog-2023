@@ -1,8 +1,10 @@
 ---
 title: "New Open Source Marketing Consultancy by Sandro Groganz"
-date: "2008-01-07"
-categories: 
+date: 2008-01-07
+tags: 
   - "open-source"
+  - "post"
+slug: new-open-source-marketing-consultancy-by-sandro-groganz
 ---
 
 I know Sandro back from the [LOTS](http://lots.openexpo.ch/2005/) days, and few people combine such a dedication to Open Source with field-proven marketing skills.

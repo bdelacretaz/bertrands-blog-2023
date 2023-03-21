@@ -1,8 +1,10 @@
 ---
 title: "mv SUNW JAVA"
-date: "2007-08-24"
-categories: 
+date: 2007-08-24
+tags: 
   - "java"
+  - "post"
+slug: mv-sunw-java
 ---
 
 So, according to Jonathan Schwartz (who should know), [Sun](http://www.sun.com) has decided to [change its stock ticker symbol](http://blogs.sun.com/jonathan/entry/java_is_everywhere) from SUNW to JAVA.

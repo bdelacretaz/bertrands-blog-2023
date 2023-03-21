@@ -1,6 +1,9 @@
 ---
 title: "Generating hard to guess content URLs in Sling"
-date: "2010-10-27"
+date: 2010-10-27
+tags: 
+  - "post"
+slug: generating-hard-to-guess-content-urls-in-sling
 ---
 
 In RESTful apps, it is often useful to create hard to guess URLs, as a simple privacy device.

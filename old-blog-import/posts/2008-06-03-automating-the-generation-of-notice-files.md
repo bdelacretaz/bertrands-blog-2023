@@ -1,9 +1,11 @@
 ---
 title: "Automating the generation of NOTICE files"
-date: "2008-06-03"
-categories: 
+date: 2008-06-03
+tags: 
   - "maven"
   - "tools"
+  - "post"
+slug: automating-the-generation-of-notice-files
 ---
 
 [](http://incubator.apache.org/sling)[ASF](http://www.apache.org) projects need to include the correct attributions for the dependencies that they redistribute, in [NOTICE](http://www.apache.org/legal/src-headers.html) files (see the [http example](http://www.apache.org/licenses/example-NOTICE.txt)).

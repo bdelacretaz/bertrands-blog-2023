@@ -1,8 +1,10 @@
 ---
 title: "Different New Year's eve"
-date: "2004-01-01"
-categories: 
+date: 2004-01-01
+tags: 
   - "fun"
+  - "post"
+slug: different-new-years-eve
 ---
 
 We didn't feel like fancy restaurants or stay-at-home-and-watch-a-movie this time, and settled for bonfire and sausages in the snow!

@@ -1,8 +1,10 @@
 ---
 title: "Native XML scripting"
-date: "2003-04-01"
-categories: 
+date: 2003-04-01
+tags: 
   - "xml"
+  - "post"
+slug: native-xml-scripting
 ---
 
 How about a scripting language that manipulates XML natively, allowing a document's structure to be navigated, queried and modified using a familiar ECMAscript-like syntax?

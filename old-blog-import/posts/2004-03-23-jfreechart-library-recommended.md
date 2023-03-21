@@ -1,6 +1,9 @@
 ---
 title: "JFreeChart library, recommended!"
-date: "2004-03-23"
+date: 2004-03-23
+tags: 
+  - "post"
+slug: jfreechart-library-recommended
 ---
 
 I'm finishing a small project using [JFreeChart](http://jfree.org/jfreechart/index.html) and this (LGPL) thing rocks!

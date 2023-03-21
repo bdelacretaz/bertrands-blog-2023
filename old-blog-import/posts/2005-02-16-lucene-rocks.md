@@ -1,6 +1,9 @@
 ---
 title: "Lucene rocks"
-date: "2005-02-16"
+date: 2005-02-16
+tags: 
+  - "post"
+slug: lucene-rocks
 ---
 
 I've been testing Lucene to index a corpus of one million XML files (relatively small, about 1700 bytes each), the code is dead simple and the performance is good to great.

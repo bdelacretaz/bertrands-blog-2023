@@ -1,9 +1,11 @@
 ---
 title: "The ASF has grown"
-date: "2005-07-20"
-categories: 
+date: 2005-07-20
+tags: 
   - "apachecon"
   - "open-source"
+  - "post"
+slug: the-asf-has-grown
 ---
 
 In 1999 the ASF was established with 21 members and 2 projects.

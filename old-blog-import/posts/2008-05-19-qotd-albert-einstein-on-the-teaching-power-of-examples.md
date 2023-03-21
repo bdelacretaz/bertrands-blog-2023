@@ -1,8 +1,10 @@
 ---
 title: "QOTD: Albert Einstein on the teaching power of examples"
-date: "2008-05-19"
-categories: 
+date: 2008-05-19
+tags: 
   - "thoughts"
+  - "post"
+slug: qotd-albert-einstein-on-the-teaching-power-of-examples
 ---
 
 > Example isn't another way to teach, it is the only way to teach (_Albert Einstein_).

@@ -1,8 +1,10 @@
 ---
 title: "Back from Cocoon Ghent GetTogether"
-date: "2002-11-20"
-categories: 
+date: 2002-11-20
+tags: 
   - "cocoon"
+  - "post"
+slug: back-from-cocoon-ghent-gettogether
 ---
 
 Great time! great people! great organization!  

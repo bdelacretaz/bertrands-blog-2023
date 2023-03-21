@@ -1,8 +1,10 @@
 ---
 title: "Build your own Segway"
-date: "2003-09-29"
-categories: 
+date: 2003-09-29
+tags: 
   - "tools"
+  - "post"
+slug: build-your-own-segway
 ---
 
 Trevor Blackwell [did it](http://www.tlb.org/scooter.html)!

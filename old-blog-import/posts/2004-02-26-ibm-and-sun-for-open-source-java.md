@@ -1,8 +1,10 @@
 ---
 title: "IBM and Sun for Open-Source java?"
-date: "2004-02-26"
-categories: 
+date: 2004-02-26
+tags: 
   - "java"
+  - "post"
+slug: ibm-and-sun-for-open-source-java
 ---
 
 [Tom](http://blogs.cocoondev.org/tomk/archives/001743.html) didn't agree with what I wrote [earlier](http://codeconsult.ch/bertrand/archives/000237.html). He might be right about forking, that's a serious risk. And with java currently under (FUD) attack from the Dark Side, any move must be well planned.

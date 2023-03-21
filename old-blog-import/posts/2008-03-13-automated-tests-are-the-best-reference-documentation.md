@@ -1,9 +1,11 @@
 ---
 title: "Automated tests == reference documentation"
-date: "2008-03-13"
-categories: 
+date: 2008-03-13
+tags: 
   - "testing"
   - "thoughts"
+  - "post"
+slug: automated-tests-are-the-best-reference-documentation
 ---
 
 Someone was asking about ujax:redirect in [Sling](http://incubator.apache.org/sling). We have no docs on that yet, but how about some (readable) [automated test code](http://svn.apache.org/repos/asf/incubator/sling/trunk/launchpad/webapp/src/test/java/org/apache/sling/launchpad/webapp/integrationtest/PostRedirectTest.java)?

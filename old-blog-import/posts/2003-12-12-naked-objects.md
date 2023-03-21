@@ -1,8 +1,10 @@
 ---
 title: "Naked Objects"
-date: "2003-12-12"
-categories: 
+date: 2003-12-12
+tags: 
   - "tools"
+  - "post"
+slug: naked-objects
 ---
 
 Very interesting [concept](http://www.nakedobjects.org/), for prototyping and maybe more.

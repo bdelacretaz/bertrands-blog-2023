@@ -1,9 +1,12 @@
 ---
 title: "Remote whiteboarding with Reinhard and Torsten"
-date: "2005-04-09"
+date: 2005-04-09
+tags: 
+  - "post"
+slug: remote-whiteboarding-with-reinhard-and-torsten
 ---
 
-![whiteboard-with-reinhard.jpg](images/whiteboard-with-reinhard.jpg)We've just be testing [Coccinella](http://hem.fyristorg.com/matben/) with Reinhard and Torsten, and the results are promising. As a test, we tried to collaborate to reproduce a picture that we all know and love...
+![whiteboard-with-reinhard.jpg](http://codeconsult.ch/bertrand/archives/images/whiteboard-with-reinhard.jpg)We've just be testing [Coccinella](http://hem.fyristorg.com/matben/) with Reinhard and Torsten, and the results are promising. As a test, we tried to collaborate to reproduce a picture that we all know and love...
 
 Using public chatrooms at jabber.org or swissjabber.ch, we kept losing drawing messages with the three of us working on the same drawing simultaneously. This means losing parts of the drawing, which is then out of sync between the participants. Unusable.
 

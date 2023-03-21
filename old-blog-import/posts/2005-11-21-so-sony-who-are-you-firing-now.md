@@ -1,9 +1,11 @@
 ---
 title: "So, Sony, who are you firing now?"
-date: "2005-11-21"
-categories: 
+date: 2005-11-21
+tags: 
   - "the-web"
   - "thoughts"
+  - "post"
+slug: so-sony-who-are-you-firing-now
 ---
 
 Picture this: you buy a (perfectly legal) machine M, buy some (perfectly legal) content C, and insert C in M for the purpose of playing it.

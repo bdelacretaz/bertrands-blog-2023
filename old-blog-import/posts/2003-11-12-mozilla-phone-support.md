@@ -1,8 +1,10 @@
 ---
 title: "Mozilla phone support"
-date: "2003-11-12"
-categories: 
+date: 2003-11-12
+tags: 
   - "open-source"
+  - "post"
+slug: mozilla-phone-support
 ---
 
 DecisionOne is offering pay-per-incident [Mozilla Phone Support](http://support.decisionone.com/mozilla/mozilla_help_main.htm). It will be interesting to see if this takes off.

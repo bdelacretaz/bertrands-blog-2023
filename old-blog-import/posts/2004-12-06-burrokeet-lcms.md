@@ -1,8 +1,10 @@
 ---
 title: "Burrokeet LCMS"
-date: "2004-12-06"
-categories: 
+date: 2004-12-06
+tags: 
   - "cocoon"
+  - "post"
+slug: burrokeet-lcms
 ---
 
 Among the Cocoon team we had some talks about Learning Objects last year - the [Burrokeet](http://www.burrokeet.org/) projects aims to create an integrated system to manage Learning Content, combining documents, movies and interactive mini-applications into shareable units.

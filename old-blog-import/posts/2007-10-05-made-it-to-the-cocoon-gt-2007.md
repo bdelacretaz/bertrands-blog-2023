@@ -1,9 +1,12 @@
 ---
 title: "Made it to the Cocoon GT 2007"
-date: "2007-10-05"
+date: 2007-10-05
+tags: 
+  - "post"
+slug: made-it-to-the-cocoon-gt-2007
 ---
 
-[![entering-cocoon-gt.jpg](images/entering-cocoon-gt.jpg)](http://www.cocoongt.org)Feels like spring in [Rome](http://www.cocoongt.org), the location is great and the vibe excellent!
+[![entering-cocoon-gt.jpg](http://codeconsult.ch/bertrand/archives/images/entering-cocoon-gt.jpg)](http://www.cocoongt.org)Feels like spring in [Rome](http://www.cocoongt.org), the location is great and the vibe excellent!
 
 Many thanks to Gianugo, Arje and team, 2007 will be a great edition!
 

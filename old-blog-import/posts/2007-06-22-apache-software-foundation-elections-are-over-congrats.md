@@ -1,8 +1,10 @@
 ---
 title: "Apache Software Foundation elections are over, congrats!"
-date: "2007-06-22"
-categories: 
+date: 2007-06-22
+tags: 
   - "asf"
+  - "post"
+slug: apache-software-foundation-elections-are-over-congrats
 ---
 
 Congratulations to the recently elected [board](http://apache.org/foundation/board)!

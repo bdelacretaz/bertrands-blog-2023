@@ -1,8 +1,10 @@
 ---
 title: "Streaming Flash video without the Flash Media Server"
-date: "2006-07-11"
-categories: 
+date: 2006-07-11
+tags: 
   - "tools"
+  - "post"
+slug: streaming-flash-video-without-the-flash-media-server
 ---
 
 [Paul Querna](http://journal.paul.querna.org/articles/2006/07/11/mod_flvx) has written [mod\_flvx](http://people.apache.org/~pquerna/modules/mod_flvx.c), an [Apache HTTP server](http://httpd.apache.org/) module which enables FLV streaming.

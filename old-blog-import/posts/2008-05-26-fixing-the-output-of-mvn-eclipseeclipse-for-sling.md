@@ -1,8 +1,10 @@
 ---
 title: "Fixing the output of mvn eclipse:eclipse for Sling"
-date: "2008-05-26"
-categories: 
+date: 2008-05-26
+tags: 
   - "tools"
+  - "post"
+slug: fixing-the-output-of-mvn-eclipseeclipse-for-sling
 ---
 
 I tend to use Eclipse only for editing/navigating code and for remote debugging, leaving the heavy lifting of building and executing stuff to the old trusted command line.

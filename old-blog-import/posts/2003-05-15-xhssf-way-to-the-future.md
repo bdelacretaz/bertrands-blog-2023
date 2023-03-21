@@ -1,8 +1,10 @@
 ---
 title: "XHSSF - way to the future"
-date: "2003-05-15"
-categories: 
+date: 2003-05-15
+tags: 
   - "fun"
+  - "post"
+slug: xhssf-way-to-the-future
 ---
 
 [Andrew C.Oliver](http://linuxintegrators.com/hl30/blog/) writes about [XHSSF](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=105295851310533&w=2) which according to [this](http://jakarta.apache.org/poi/) could be translated to _eXtremely Horrible SpreadSheet Format_.

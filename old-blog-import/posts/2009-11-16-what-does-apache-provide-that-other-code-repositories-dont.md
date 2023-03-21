@@ -1,9 +1,11 @@
 ---
 title: "What does Apache provide that other code repositories don't?"
-date: "2009-11-16"
-categories: 
+date: 2009-11-16
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: what-does-apache-provide-that-other-code-repositories-dont
 ---
 
 People thinking about creating an open source project might rightly consider hosting on one of the various hosting services available: Google Code, SourceForge, kenai, bitbucket and github come to mind. Quick and easy, create a repository or request some resources and you're in business.

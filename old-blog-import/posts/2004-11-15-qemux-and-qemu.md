@@ -1,8 +1,10 @@
 ---
 title: "QemuX and Qemu"
-date: "2004-11-15"
-categories: 
+date: 2004-11-15
+tags: 
   - "tools"
+  - "post"
+slug: qemux-and-qemu
 ---
 
 [Urs](http://circle.ch/blog/p1574.html) mentions [QemuX](http://cordney.com/QemuX/index.php), a GUI for configuring the [QEMU](http://fabrice.bellard.free.fr/qemu/) CPU emulator.

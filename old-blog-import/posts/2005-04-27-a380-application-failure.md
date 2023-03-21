@@ -1,9 +1,12 @@
 ---
 title: "A380 application failure"
-date: "2005-04-27"
+date: 2005-04-27
+tags: 
+  - "post"
+slug: a380-application-failure
 ---
 
-![a380-error.jpg](images/a380-error.jpg)...but luckily it's only the [website](http://www.airbus.com/A380/seeing/indexminisite.aspx), see the screenshot.
+![a380-error.jpg](http://codeconsult.ch/bertrand/archives/images/a380-error.jpg)...but luckily it's only the [website](http://www.airbus.com/A380/seeing/indexminisite.aspx), see the screenshot.
 
 It says _Seeing is believing_ in big letters though ;-)
 

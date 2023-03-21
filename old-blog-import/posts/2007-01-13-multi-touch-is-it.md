@@ -1,8 +1,10 @@
 ---
 title: "Multi-touch is it"
-date: "2007-01-13"
-categories: 
+date: 2007-01-13
+tags: 
   - "tools"
+  - "post"
+slug: multi-touch-is-it
 ---
 
 The big thing about the iPhone is obviously the multi-touch interface, and we're going to see more of that in the future, for sure!

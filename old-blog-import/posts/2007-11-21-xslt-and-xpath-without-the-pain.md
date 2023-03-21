@@ -1,10 +1,12 @@
 ---
 title: "XSLT and XPath, without the pain!"
-date: "2007-11-21"
-categories: 
+date: 2007-11-21
+tags: 
   - "apachecon"
   - "xml"
   - "xslt"
+  - "post"
+slug: xslt-and-xpath-without-the-pain
 ---
 
 Here are my slides from last week's [ApacheCon](http://www.us.apachecon.com). That's mostly an excuse to play with the cool [slideshare](http://www.slideshare.net/bdelacretaz/xslt-without-the-pain) embedding widget, as the slides aren't really standalone: you might need me to make sense of them ;-)

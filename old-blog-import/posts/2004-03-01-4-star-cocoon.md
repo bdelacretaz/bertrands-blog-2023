@@ -1,8 +1,10 @@
 ---
 title: "4-Star Cocoon"
-date: "2004-03-01"
-categories: 
+date: 2004-03-01
+tags: 
   - "cocoon"
+  - "post"
+slug: 4-star-cocoon
 ---
 
 This month's Software Development magazine publishes an [article about Cocoon](http://www.sdmagazine.com/documents/s=9058/sdm0403f/sdm0403f.html) (registration required). It's a good overview in my opinion.

@@ -1,8 +1,10 @@
 ---
 title: "Thanks for a great Cocoon GetTogether 2006"
-date: "2006-10-06"
-categories: 
+date: 2006-10-06
+tags: 
   - "cocoon"
+  - "post"
+slug: thanks-for-a-great-cocoon-gettogether-2006
 ---
 
 Congratulations [Arjé](http://www.flickr.com/photos/savs/261839826/) and [team](http://hippocms.org) for a flawless organization, everything worked very well and we had a great time! Let's have a big hand for them, feel free to clap in front of your display!

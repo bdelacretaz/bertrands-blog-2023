@@ -1,8 +1,10 @@
 ---
 title: "Free gigabyte! Hurry!"
-date: "2004-04-01"
-categories: 
+date: 2004-04-01
+tags: 
   - "fun"
+  - "post"
+slug: free-gigabyte-hurry
 ---
 
 Today's the day for Google's unexpected [Gmail](http://www.google.com/press/pressrel/gmail.html) announcement: free email service, including one gigabyte of storage.

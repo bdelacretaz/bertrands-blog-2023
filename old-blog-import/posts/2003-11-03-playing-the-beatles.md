@@ -1,8 +1,10 @@
 ---
 title: "Playing the Beatles"
-date: "2003-11-03"
-categories: 
+date: 2003-11-03
+tags: 
   - "fun"
+  - "post"
+slug: playing-the-beatles
 ---
 
 This week I'm playing drums in the evenings for a [Village Players](http://www.villageplayers.ch/Beatles.html) show about the Fab Four, called _the Beatles...from me to you_.

@@ -1,9 +1,11 @@
 ---
 title: "GSoC: three days left to sign up!"
-date: "2006-05-05"
-categories: 
+date: 2006-05-05
+tags: 
   - "asf"
   - "open-source"
+  - "post"
+slug: gsoc-three-days-left-to-sign-up
 ---
 
 Students applications for the [Google Summer Of Code](http://code.google.com/summerofcode.html) have to be in before May 8th 13:00 PDT.

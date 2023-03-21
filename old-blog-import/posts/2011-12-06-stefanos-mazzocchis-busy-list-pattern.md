@@ -1,10 +1,11 @@
 ---
 title: "Stefano's Mazzocchi's Busy List Pattern"
-date: "2011-12-06"
-categories: 
-  - "collaboration"
+date: 2011-12-06
 tags: 
   - "opensource"
+  - "collaboration"
+  - "post"
+slug: stefanos-mazzocchis-busy-list-pattern
 ---
 
 Since being part of a larger company, I'm hearing people saying _"we need a new mailing list for that"_ way too often.

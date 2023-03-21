@@ -1,8 +1,10 @@
 ---
 title: "Mozilla 1.2 - cool new features!"
-date: "2002-11-27"
-categories: 
+date: 2002-11-27
+tags: 
   - "mozilla"
+  - "post"
+slug: mozilla-12-cool-new-features
 ---
 
 Mozilla 1.2 is out with two new features that I like a lot: [Type Ahead Find](http://www.mozilla.org/projects/ui/accessibility/typeaheadfind.html) and XML prettyprinting.

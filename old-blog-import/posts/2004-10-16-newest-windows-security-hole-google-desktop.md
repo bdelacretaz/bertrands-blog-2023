@@ -1,8 +1,10 @@
 ---
 title: "Newest Windows security hole: Google Desktop"
-date: "2004-10-16"
-categories: 
+date: 2004-10-16
+tags: 
   - "tools"
+  - "post"
+slug: newest-windows-security-hole-google-desktop
 ---
 
 According to [Tom Spring](http://blogs.pcworld.com/staffblog/archives/000264.html), [Google Desktop](http://www.desktop.google.com/) allows one to access _all_ files on the PC where it runs, including those belonging to other users.

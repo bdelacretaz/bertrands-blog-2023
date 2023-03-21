@@ -1,6 +1,9 @@
 ---
 title: "ITunes music store opens (yes this post is from today)"
-date: "2005-05-10"
+date: 2005-05-10
+tags: 
+  - "post"
+slug: itunes-music-store-opens-yes-this-post-is-from-today
 ---
 
 One of the...hum..._benefits_ of not being in the European Community is that us swiss had to wait until today for the ITunes music store. But it's finally open.

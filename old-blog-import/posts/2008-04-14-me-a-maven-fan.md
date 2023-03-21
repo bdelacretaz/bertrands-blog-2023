@@ -1,8 +1,10 @@
 ---
 title: "Me, a Maven fan?"
-date: "2008-04-14"
-categories: 
+date: 2008-04-14
+tags: 
   - "tools"
+  - "post"
+slug: me-a-maven-fan
 ---
 
 $ history | awk {'print $2'} | sort | uniq -c | sort -k1 -rn | head

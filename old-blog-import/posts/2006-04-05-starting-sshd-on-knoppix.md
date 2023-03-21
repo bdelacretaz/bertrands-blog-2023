@@ -1,8 +1,10 @@
 ---
 title: "starting sshd on knoppix"
-date: "2006-04-05"
-categories: 
+date: 2006-04-05
+tags: 
   - "tools"
+  - "post"
+slug: starting-sshd-on-knoppix
 ---
 
 I'm using Knoppix to teach Linux basics these days, and it took me a while (say, 5 minutes ;-) to find out how to start sshd.

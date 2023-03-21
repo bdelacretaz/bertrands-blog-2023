@@ -1,9 +1,11 @@
 ---
 title: "iPhone demo by Phil Schiller"
-date: "2007-01-11"
-categories: 
+date: 2007-01-11
+tags: 
   - "milestones"
   - "tools"
+  - "post"
+slug: iphone-demo-by-phil-schiller
 ---
 
 CBS has published on [YouTube](http://www.youtube.com/watch?v=YgW7or1TuFk) the excellent [iPhone](http://www.apple.com/iphone/) demo that Phil Schiller did for them, here it is:

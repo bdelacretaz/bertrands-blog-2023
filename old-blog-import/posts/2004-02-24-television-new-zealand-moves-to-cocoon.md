@@ -1,8 +1,10 @@
 ---
 title: "Television New Zealand moves to Cocoon"
-date: "2004-02-24"
-categories: 
+date: 2004-02-24
+tags: 
   - "cocoon"
+  - "post"
+slug: television-new-zealand-moves-to-cocoon
 ---
 
 According to [this](http://www.nzherald.co.nz/business/businessstorydisplay.cfm?storyID=3550878), TNZ is replacing a Vignette system by [Cocoon](http://cocoon.apache.org).

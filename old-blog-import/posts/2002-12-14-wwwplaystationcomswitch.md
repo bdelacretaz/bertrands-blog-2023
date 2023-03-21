@@ -1,8 +1,10 @@
 ---
 title: "www.playstation.com/switch?"
-date: "2002-12-14"
-categories: 
+date: 2002-12-14
+tags: 
   - "operating-systems"
+  - "post"
+slug: wwwplaystationcomswitch
 ---
 
 Don't look there, this address doesn't exist yet, but maybe it should..  

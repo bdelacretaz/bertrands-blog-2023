@@ -1,8 +1,10 @@
 ---
 title: "Why I hate press releases and polls"
-date: "2008-11-26"
-categories: 
+date: 2008-11-26
+tags: 
   - "thoughts"
+  - "post"
+slug: why-i-hate-press-releases-and-polls
 ---
 
 It's about the filters.

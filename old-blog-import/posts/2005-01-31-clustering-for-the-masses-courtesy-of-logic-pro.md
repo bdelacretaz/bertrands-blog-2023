@@ -1,8 +1,10 @@
 ---
 title: "Clustering for the masses, courtesy of Logic Pro"
-date: "2005-01-31"
-categories: 
+date: 2005-01-31
+tags: 
   - "tools"
+  - "post"
+slug: clustering-for-the-masses-courtesy-of-logic-pro
 ---
 
 With so much networked CPU power available in many homes and most offices today, it's not hard to predict that clustering computers will become mainstream soon.

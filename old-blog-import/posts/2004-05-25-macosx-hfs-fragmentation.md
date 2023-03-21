@@ -1,8 +1,10 @@
 ---
 title: "macosx hfs+ fragmentation"
-date: "2004-05-25"
-categories: 
+date: 2004-05-25
+tags: 
   - "tools"
+  - "post"
+slug: macosx-hfs-fragmentation
 ---
 
 I've always been wondering about filesystems which pretend to be immune to fragmentation - sounds like hairy algorithms at work.

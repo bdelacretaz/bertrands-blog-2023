@@ -1,8 +1,10 @@
 ---
 title: "I won't dance on SCO's grave"
-date: "2004-06-10"
-categories: 
+date: 2004-06-10
+tags: 
   - "open-source"
+  - "post"
+slug: i-wont-dance-on-scos-grave
 ---
 
 Seems like SCO is slowly but surely [sinking into oblivion](http://biz.yahoo.com/fool/040610/1086881820_2.html). What else do they deserve anyway?

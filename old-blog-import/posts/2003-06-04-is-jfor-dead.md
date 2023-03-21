@@ -1,6 +1,9 @@
 ---
 title: "is jfor dead?"
-date: "2003-06-04"
+date: 2003-06-04
+tags: 
+  - "post"
+slug: is-jfor-dead
 ---
 
 Someone rightly asks if the [jfor](http://www.jfor.org) project is dead. No releases, no answers on the mailing lists, nothing happening.

@@ -1,8 +1,10 @@
 ---
 title: "Who's who at ApacheCon (that's next week)"
-date: "2008-03-31"
-categories: 
+date: 2008-03-31
+tags: 
   - "apachecon"
+  - "post"
+slug: whos-who-at-apachecon-thats-next-week
 ---
 
 The ApacheCon's [Crowdwine](http://apacheconeu2008.crowdvine.com/) site allows you to find out which contributors to a given project are attending the conference (assuming they provide that info, of course).

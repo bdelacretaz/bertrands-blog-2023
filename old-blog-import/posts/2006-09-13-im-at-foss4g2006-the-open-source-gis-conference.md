@@ -1,11 +1,13 @@
 ---
 title: "I'm at foss4g2006, the Open Source GIS conference"
-date: "2006-09-13"
-categories: 
+date: 2006-09-13
+tags: 
   - "open-source"
+  - "post"
+slug: im-at-foss4g2006-the-open-source-gis-conference
 ---
 
-![SP_A0191.jpg](images/SP_A0191.jpg)I'm sitting in the [Amphimax](http://www.unil.ch/central/page3032_fr.html) at the University of Lausanne, for the keynotes of the [foss4g2006](http://www.foss4g2006.org/) conference, which is about _Free and Open Source Software for Geoinformatics_.
+![SP_A0191.jpg](http://codeconsult.ch/bertrand/archives/images/SP_A0191.jpg)I'm sitting in the [Amphimax](http://www.unil.ch/central/page3032_fr.html) at the University of Lausanne, for the keynotes of the [foss4g2006](http://www.foss4g2006.org/) conference, which is about _Free and Open Source Software for Geoinformatics_.
 
 I have nothing to do with GIS, but as it's so close to my office, and I know some of the guys behind the conference, it's a great opportunity to get to know this community.
 

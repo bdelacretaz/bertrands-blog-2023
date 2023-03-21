@@ -1,8 +1,10 @@
 ---
 title: "Cocoon \"jungle talk\" gets attention"
-date: "2004-09-30"
-categories: 
+date: 2004-09-30
+tags: 
   - "cocoon"
+  - "post"
+slug: cocoon-jungle-talk-gets-attention
 ---
 
 It was a pleasure yesterday to see about half of the (smaller than I expected) OSCOM audience turn up for my [talk](http://www.oscom.org/events/oscom4/proposals/supersonic). Looks like the promise of a _path through the jungle_ of Cocoon rings some bells..

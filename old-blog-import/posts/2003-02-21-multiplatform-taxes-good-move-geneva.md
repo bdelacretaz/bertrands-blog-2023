@@ -1,8 +1,10 @@
 ---
 title: "Multiplatform taxes - good move Geneva!"
-date: "2003-02-21"
-categories: 
+date: 2003-02-21
+tags: 
   - "open-source"
+  - "post"
+slug: multiplatform-taxes-good-move-geneva
 ---
 
 The canton of Geneva is sending all its taxpayers a CDROM with its free multiplatform [GEtax software](http://www.getax.ch).  

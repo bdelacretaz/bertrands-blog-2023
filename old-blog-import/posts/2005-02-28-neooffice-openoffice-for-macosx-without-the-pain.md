@@ -1,6 +1,9 @@
 ---
 title: "NeoOffice: OpenOffice for macosx, without the pain"
-date: "2005-02-28"
+date: 2005-02-28
+tags: 
+  - "post"
+slug: neooffice-openoffice-for-macosx-without-the-pain
 ---
 
 I just tested [NeoOffice](http://www.neooffice.org/) for macosx, which [Urs](http://www.circle.ch) showed me last week, and my first impressions are very positive.

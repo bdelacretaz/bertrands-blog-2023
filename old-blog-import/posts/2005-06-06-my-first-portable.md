@@ -1,8 +1,10 @@
 ---
 title: "My first portable..."
-date: "2005-06-06"
-categories: 
+date: 2005-06-06
+tags: 
   - "milestones"
+  - "post"
+slug: my-first-portable
 ---
 
 By the way, my first portable computer was an [IBM Portable PC](http://www.bolo.ch/?list=2&obj=184), aka _sewing machine_.

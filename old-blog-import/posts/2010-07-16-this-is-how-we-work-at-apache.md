@@ -1,12 +1,13 @@
 ---
 title: "This is how we work at Apache"
-date: "2010-07-16"
-categories: 
+date: 2010-07-16
+tags: 
+  - "opensource"
   - "asf"
   - "collaboration"
   - "open-source"
-tags: 
-  - "opensource"
+  - "post"
+slug: this-is-how-we-work-at-apache
 ---
 
 I just had to (re-)explain how the [Apache](http://apache.org) way of working makes a difference by enabling a continuous flow of information between developers.

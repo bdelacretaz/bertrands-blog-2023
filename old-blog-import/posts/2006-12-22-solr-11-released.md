@@ -1,8 +1,10 @@
 ---
 title: "Solr 1.1 released"
-date: "2006-12-22"
-categories: 
+date: 2006-12-22
+tags: 
   - "tools"
+  - "post"
+slug: solr-11-released
 ---
 
 [Solr 1.1](http://people.apache.org/dist/incubator/solr/1.1/) is the first release of this [Lucene](http://lucene.apache.org/)\-based [search server](http://incubator.apache.org/solr/).

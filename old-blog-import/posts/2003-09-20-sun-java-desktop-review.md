@@ -1,8 +1,10 @@
 ---
 title: "Sun Java Desktop review"
-date: "2003-09-20"
-categories: 
+date: 2003-09-20
+tags: 
   - "operating-systems"
+  - "post"
+slug: sun-java-desktop-review
 ---
 
 Although I'm [not sure](http://codeconsult.ch/bertrand/archives/000129.html) about the name, according to [this review](http://newsforge.com/newsforge/03/09/18/003212.shtml?tid=23) Sun has indeed created a very usable Linux distribution for office workers.

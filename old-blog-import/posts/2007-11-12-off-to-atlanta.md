@@ -1,8 +1,10 @@
 ---
 title: "Off to Atlanta"
-date: "2007-11-12"
-categories: 
+date: 2007-11-12
+tags: 
   - "apachecon"
+  - "post"
+slug: off-to-atlanta
 ---
 
 I'm off to [ApacheCon US 2007](http://us.apachecon.com/), joining some [Day folks](http://www.day.com) in Frankfurt and then onwards across the pond.

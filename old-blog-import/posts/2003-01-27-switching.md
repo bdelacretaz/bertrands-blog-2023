@@ -1,8 +1,10 @@
 ---
 title: "Switching..."
-date: "2003-01-27"
-categories: 
+date: 2003-01-27
+tags: 
   - "operating-systems"
+  - "post"
+slug: switching
 ---
 
 My 15-inch G4 Powerbook arrived last Thursday, I'm now moving all my development and office environment to it (from Linux).  

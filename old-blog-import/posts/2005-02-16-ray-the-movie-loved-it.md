@@ -1,6 +1,9 @@
 ---
 title: "Ray the Movie - loved it!"
-date: "2005-02-16"
+date: 2005-02-16
+tags: 
+  - "post"
+slug: ray-the-movie-loved-it
 ---
 
 Thanks to an invitation from Cyril we went to see [Ray the Movie](http://www.raymovie.com) as an avant-premiere yesterday evening.

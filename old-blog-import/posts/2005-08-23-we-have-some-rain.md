@@ -1,6 +1,9 @@
 ---
 title: "We have some rain"
-date: "2005-08-23"
+date: 2005-08-23
+tags: 
+  - "post"
+slug: we-have-some-rain
 ---
 
 After a week in the dry south of France (like the showers switched off most of the day), I'm back to find quite a lot of rain around here.

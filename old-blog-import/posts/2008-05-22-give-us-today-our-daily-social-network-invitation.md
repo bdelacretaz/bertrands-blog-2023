@@ -1,9 +1,11 @@
 ---
 title: "Give us today our daily social network invitation"
-date: "2008-05-22"
-categories: 
+date: 2008-05-22
+tags: 
   - "thoughts"
   - "tools"
+  - "post"
+slug: give-us-today-our-daily-social-network-invitation
 ---
 
 I've been getting at least one, if not several invitations for new social networks every day lately.

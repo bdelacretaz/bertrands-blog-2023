@@ -1,8 +1,10 @@
 ---
 title: "One deadweight less"
-date: "2003-12-09"
-categories: 
+date: 2003-12-09
+tags: 
   - "thoughts"
+  - "post"
+slug: one-deadweight-less
 ---
 
 I just got back from my last minutes of military service (aka _trashcan party_), where we returned all our equipment, with thanks for having served the country. Mind you, we didn't have a choice and for me there was a lot of wasted time and energy in this thing. But thanks for the thanks ;-)

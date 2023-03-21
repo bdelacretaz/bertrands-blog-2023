@@ -1,9 +1,11 @@
 ---
 title: "Continous Deployment with Apache Sling"
-date: "2014-09-02"
-categories: 
+date: 2014-09-02
+tags: 
   - "adobe"
   - "sling"
+  - "post"
+slug: continous-deployment-with-apache-sling
 ---
 
 Today I had the pleasure to attend the Master's thesis defense of our intern Artyom Stetsenko, titled _Continous Deployment of Apache Sling Applications_.

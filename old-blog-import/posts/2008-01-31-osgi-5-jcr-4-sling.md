@@ -1,12 +1,14 @@
 ---
 title: "OSGi (#5) + JCR (#4) = Sling"
-date: "2008-01-31"
-categories: 
+date: 2008-01-31
+tags: 
   - "content"
   - "jcr"
   - "osgi"
   - "sling"
   - "tools"
+  - "post"
+slug: osgi-5-jcr-4-sling
 ---
 
 Carlos Perez puts OSGI and JCR number 5 and 4 in his list of [top Java-based technologies](http://www.manageability.org/blog/stuff/five-java-technologies-to-learn-in-2008) to learn in 2008.

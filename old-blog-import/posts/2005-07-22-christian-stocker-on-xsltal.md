@@ -1,11 +1,13 @@
 ---
 title: "Christian Stocker on XSLTAL"
-date: "2005-07-22"
-categories: 
+date: 2005-07-22
+tags: 
   - "apachecon"
+  - "post"
+slug: christian-stocker-on-xsltal
 ---
 
-![apachecon-christian-stocker.jpg](images/apachecon-christian-stocker.jpg)Here are my usual random notes for this session.
+![apachecon-christian-stocker.jpg](http://codeconsult.ch/bertrand/archives/images/apachecon-christian-stocker.jpg)Here are my usual random notes for this session.
 
 The motivation for XSLTAL is to make it easier for people to write presentation templates, by simply creating (usually with a web editing tool) XHTML templates.
 

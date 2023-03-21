@@ -1,6 +1,9 @@
 ---
 title: "Shared neurons and the Shadok's First Law of Failure"
-date: "2017-01-30"
+date: 2017-01-30
+tags: 
+  - "post"
+slug: shared-neurons-and-the-shadoks-first-law-of-failure
 ---
 
 This blog post of mine was originally published by [Computerworld UK in 2010](http://www.computerworlduk.com/it-business/shared-neurons-and-the-shadoks-first-law-of-failure-3570396/).

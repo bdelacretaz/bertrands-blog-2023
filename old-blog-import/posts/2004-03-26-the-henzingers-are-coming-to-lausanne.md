@@ -1,8 +1,10 @@
 ---
 title: "The Henzingers are coming to Lausanne"
-date: "2004-03-26"
-categories: 
+date: 2004-03-26
+tags: 
   - "milestones"
+  - "post"
+slug: the-henzingers-are-coming-to-lausanne
 ---
 
 A while ago I noticed that Google's [Monika Henzinger](http://www.henzinger.com/monika/) was giving a [talk](http://ic.epfl.ch/page6879.html) at the nearby [Swiss Federal institute of Technology](http://www.epfl.ch), but didn't think about the possible implications of her visit.

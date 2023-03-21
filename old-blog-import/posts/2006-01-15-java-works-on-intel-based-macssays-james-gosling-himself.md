@@ -1,6 +1,9 @@
 ---
 title: "Java works on Intel-based Macs...says James Gosling himself"
-date: "2006-01-15"
+date: 2006-01-15
+tags: 
+  - "post"
+slug: java-works-on-intel-based-macssays-james-gosling-himself
 ---
 
 Now that the Intel-based Macs are out, James Gosling is allowed to [tell us](http://blogs.sun.com/roller/page/jag?entry=the_new_macintoshes) that Java works and that the transition was "boring, as it should".

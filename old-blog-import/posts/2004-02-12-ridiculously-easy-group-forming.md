@@ -1,8 +1,10 @@
 ---
 title: "Ridiculously Easy Group Forming"
-date: "2004-02-12"
-categories: 
+date: 2004-02-12
+tags: 
   - "open-source"
+  - "post"
+slug: ridiculously-easy-group-forming
 ---
 
 Are you going to [LOTS](http://www.lots.ch)?

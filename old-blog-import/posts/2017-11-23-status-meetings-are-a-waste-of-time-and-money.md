@@ -1,11 +1,12 @@
 ---
 title: "Status meetings are a waste of time and money"
-date: "2017-11-23"
-categories: 
-  - "collaboration"
+date: 2017-11-23
 tags: 
   - "meetings"
   - "opendevelopment"
+  - "collaboration"
+  - "post"
+slug: status-meetings-are-a-waste-of-time-and-money
 ---
 
 Last Monday I presented on [Asynchronous Decision Making](https://www.slideshare.net/bdelacretaz/asynchronous-decision-making-foss-backstage-2017) at the (excellent) [FOSS Backstage](https://foss-backstage.de/) Micro Summit in Berlin and there were some questions about me saying that status meetings are a waste of time.

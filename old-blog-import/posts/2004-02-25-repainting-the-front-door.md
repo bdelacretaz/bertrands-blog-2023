@@ -1,8 +1,10 @@
 ---
 title: "Repainting the front door"
-date: "2004-02-25"
-categories: 
+date: 2004-02-25
+tags: 
   - "milestones"
+  - "post"
+slug: repainting-the-front-door
 ---
 
 For days weeks months the shame about my website has been increasing, as it was...hum...not _really_ up to date.

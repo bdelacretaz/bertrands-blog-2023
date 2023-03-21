@@ -1,6 +1,9 @@
 ---
 title: "Lift06 is over, and it looks like I missed something"
-date: "2006-02-07"
+date: 2006-02-07
+tags: 
+  - "post"
+slug: lift06-is-over-and-it-looks-like-i-missed-something
 ---
 
 Way too many deadlines forced me to give up on attending [lift06](http://www.lift06.org/), and from what I hear I really missed something.

@@ -1,6 +1,9 @@
 ---
 title: "GetTogether again!"
-date: "2003-09-04"
+date: 2003-09-04
+tags: 
+  - "post"
+slug: gettogether-again
 ---
 
 The registration for the [Cocoon GetTogether 2003](http://orixo.com/events/gt2003/) is now open, reserve your seat while there is some space left!

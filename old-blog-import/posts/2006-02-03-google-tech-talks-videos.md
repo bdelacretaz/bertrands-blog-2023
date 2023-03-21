@@ -1,6 +1,9 @@
 ---
 title: "Google Tech Talks videos"
-date: "2006-02-03"
+date: 2006-02-03
+tags: 
+  - "post"
+slug: google-tech-talks-videos
 ---
 
 Videos of some Google Tech Talks are available...guess where? at [Google Video](http://video.google.com/videosearch?q=Google+techtalks).

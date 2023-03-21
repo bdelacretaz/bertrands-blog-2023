@@ -1,8 +1,10 @@
 ---
 title: "Rollable displays are coming"
-date: "2004-01-30"
-categories: 
+date: 2004-01-30
+tags: 
   - "tools"
+  - "post"
+slug: rollable-displays-are-coming
 ---
 
 [Philips](http://deviceforge.com/news/NS2766949986.html) makes significant progress towards commercializing [rollable displays](http://polymervision.nl/).

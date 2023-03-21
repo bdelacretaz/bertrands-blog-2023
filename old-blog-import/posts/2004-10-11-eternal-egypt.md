@@ -1,8 +1,10 @@
 ---
 title: "Eternal Egypt"
-date: "2004-10-11"
-categories: 
+date: 2004-10-11
+tags: 
   - "tools"
+  - "post"
+slug: eternal-egypt
 ---
 
 Sandor just showed me the [Eternal Egypt](http://www.eternalegypt.org/) website - a great showcase of the different ways of accessing data.

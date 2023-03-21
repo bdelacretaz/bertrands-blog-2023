@@ -1,8 +1,10 @@
 ---
 title: "Ask the right questions"
-date: "2003-08-04"
-categories: 
+date: 2003-08-04
+tags: 
   - "thoughts"
+  - "post"
+slug: ask-the-right-questions
 ---
 
 Nice exchange with [Marc](http://radio.weblogs.com/0116284/) before my holiday, about what the "Open Source Way" can bring to computer projects of all sizes and types. Actually most of the questions below apply to non-computer projects as well.

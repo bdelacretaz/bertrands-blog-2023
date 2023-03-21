@@ -1,15 +1,16 @@
 ---
 title: "Adobe, Day and Open Source: a dream and a nightmare"
-date: "2010-07-30"
-categories: 
-  - "adobe"
-  - "day-software"
-  - "open-source"
-  - "thoughts"
+date: 2010-07-30
 tags: 
   - "adobe"
   - "day"
   - "opensource"
+  - "adobe"
+  - "day-software"
+  - "open-source"
+  - "thoughts"
+  - "post"
+slug: adobe-day-and-open-source-a-dream-and-a-nightmare
 ---
 
 What does [the acquisition of Day by Adobe](http://www.day.com/day/en/company/adobefaq.html) mean for Day's open source activities? Some people are disappointed by the lack of comments about this in the official announcements to date.

@@ -1,8 +1,10 @@
 ---
 title: "R.I.P. Randy Pausch"
-date: "2008-07-26"
-categories: 
+date: 2008-07-26
+tags: 
   - "people"
+  - "post"
+slug: rip-randy-pausch
 ---
 
 In French we say "the best often leave first". I'm not teaching in schools anymore these days, but if I was I would watch the _last lecture_ with my students.

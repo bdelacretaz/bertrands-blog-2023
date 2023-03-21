@@ -1,8 +1,10 @@
 ---
 title: "About to move this blog..."
-date: "2008-02-13"
-categories: 
+date: 2008-02-13
+tags: 
   - "milestones"
+  - "post"
+slug: about-to-move-this-blog
 ---
 
 I'm preparing to move this to a hosted wordpress blog - hosting your own sounded like fun a few years ago, but I have more fun things to do now!

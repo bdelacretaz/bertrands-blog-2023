@@ -1,8 +1,10 @@
 ---
 title: "Clickatell bulk SMS gateway"
-date: "2004-10-14"
-categories: 
+date: 2004-10-14
+tags: 
   - "tools"
+  - "post"
+slug: clickatell-bulk-sms-gateway
 ---
 
 My colleague Roberto is experimenting with [Clickatell](http://www.clickatell.com/) to send SMS messages from applications, with very good results. This looks like another "It Just Works" service.

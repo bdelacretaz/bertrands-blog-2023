@@ -1,8 +1,10 @@
 ---
 title: "Open Groupware - wow!"
-date: "2004-02-05"
-categories: 
+date: 2004-02-05
+tags: 
   - "tools"
+  - "post"
+slug: open-groupware-wow
 ---
 
 Knowing my interest for group collaboration tools, [Sylvain](http://www.anyware-tech.com/blogs/sylvain/) recently pointed me to [OpenGroupware.org](http://opengroupware.org/).

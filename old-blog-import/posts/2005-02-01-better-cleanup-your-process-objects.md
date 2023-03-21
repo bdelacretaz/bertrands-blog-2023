@@ -1,6 +1,9 @@
 ---
 title: "Better cleanup your Process objects"
-date: "2005-02-01"
+date: 2005-02-01
+tags: 
+  - "post"
+slug: better-cleanup-your-process-objects
 ---
 
 Today we discovered that the java Process class does not close its three standard file handles when the Process terminates. Me, I didn't find anything in the [docs](http://java.sun.com/j2se/1.5.0/docs/api/java/lang/Process.html) about this.

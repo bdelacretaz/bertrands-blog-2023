@@ -1,8 +1,10 @@
 ---
 title: "newsisfree"
-date: "2002-12-20"
-categories: 
+date: 2002-12-20
+tags: 
   - "blogs"
+  - "post"
+slug: newsisfree
 ---
 
 I'm using [newsisfree](http://www.newsisfree.com) as my RSS aggregator, I like it a lot!

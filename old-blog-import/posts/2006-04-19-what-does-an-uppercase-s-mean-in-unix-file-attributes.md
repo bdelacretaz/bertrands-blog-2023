@@ -1,8 +1,10 @@
 ---
 title: "What does an uppercase S mean in unix file attributes?"
-date: "2006-04-19"
-categories: 
+date: 2006-04-19
+tags: 
   - "tools"
+  - "post"
+slug: what-does-an-uppercase-s-mean-in-unix-file-attributes
 ---
 
 I wasted an hour this morning on this one, so maybe it is useful to somebody.

@@ -1,6 +1,9 @@
 ---
 title: "Firewall settings for iChat AV"
-date: "2005-04-16"
+date: 2005-04-16
+tags: 
+  - "post"
+slug: firewall-settings-for-ichat-av
 ---
 
 [Sylvain](http://www.anyware-tech.com/blogs/sylvain/), who helped my find a good excuse to buy an ISight camera, explains the firewall settings required to use IChat AV.

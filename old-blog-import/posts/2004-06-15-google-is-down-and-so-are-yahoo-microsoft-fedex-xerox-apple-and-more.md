@@ -1,8 +1,10 @@
 ---
 title: "Google is down, and so are Yahoo,  Microsoft, Fedex, Xerox, Apple and more"
-date: "2004-06-15"
-categories: 
+date: 2004-06-15
+tags: 
   - "the-web"
+  - "post"
+slug: google-is-down-and-so-are-yahoo-microsoft-fedex-xerox-apple-and-more
 ---
 
 We did notice this (GMT) afternoon that Google was apparently down for a few minutes, and interestingly it was only the name resolution that wasn't working.

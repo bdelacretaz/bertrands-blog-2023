@@ -1,8 +1,10 @@
 ---
 title: "Enabling Web Services"
-date: "2003-10-29"
-categories: 
+date: 2003-10-29
+tags: 
   - "the-web"
+  - "post"
+slug: enabling-web-services
 ---
 
 Very interesting [paper](http://www.windley.com/docs/EnablingWebServices.pdf) by [Phil Windley](http://www.windley.com/) (via [Gregor Rothfuss](http://greg.abstrakt.ch/archives/001438.html)).

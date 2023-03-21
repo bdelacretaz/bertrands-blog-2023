@@ -1,6 +1,9 @@
 ---
 title: "Shall we burn our PowerPoint CDROMs?"
-date: "2003-06-12"
+date: 2003-06-12
+tags: 
+  - "post"
+slug: shall-we-burn-our-powerpoint-cdroms
 ---
 
 Steven sounds [a bit confused](http://blogs.cocoondev.org/stevenn/archives/000983.html) after buying the Tufte booklet on [my recommendation](http://codeconsult.ch/bertrand/archives/000071.html).

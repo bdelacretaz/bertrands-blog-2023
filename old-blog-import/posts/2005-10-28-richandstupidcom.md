@@ -1,8 +1,10 @@
 ---
 title: "richandstupid.com"
-date: "2005-10-28"
-categories: 
+date: 2005-10-28
+tags: 
   - "fun"
+  - "post"
+slug: richandstupidcom
 ---
 
 The previous post reminds me of a business idea that we had with my wife a while ago.

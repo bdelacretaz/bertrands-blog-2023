@@ -1,8 +1,10 @@
 ---
 title: "Open Source: the tipping point is near"
-date: "2004-05-08"
-categories: 
+date: 2004-05-08
+tags: 
   - "open-source"
+  - "post"
+slug: open-source-the-tipping-point-is-near
 ---
 
 As [this article](http://www.vnunet.com/Analysis/1155002) says, the tipping point for Open Source is near.

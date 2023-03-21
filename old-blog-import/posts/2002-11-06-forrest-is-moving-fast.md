@@ -1,8 +1,10 @@
 ---
 title: "Forrest is moving fast!"
-date: "2002-11-06"
-categories: 
+date: 2002-11-06
+tags: 
   - "forrest"
+  - "post"
+slug: forrest-is-moving-fast
 ---
 
 There is a lot of excitement and action these days around the [Forrest](http://xml.apache.org/forrest) project. We might have a really cool XML-based documentation system soon!

@@ -1,8 +1,10 @@
 ---
 title: "Sorry, planetapache readers"
-date: "2008-02-18"
-categories: 
+date: 2008-02-18
+tags: 
   - "blogs"
+  - "post"
+slug: sorry-planetapache-readers
 ---
 
 If you read this on [planetapache.org](http://planetapache.org/), the post title most probably says "Bertrand".

@@ -1,6 +1,9 @@
 ---
 title: "JDBC spy/profiler"
-date: "2003-06-17"
+date: 2003-06-17
+tags: 
+  - "post"
+slug: jdbc-spyprofiler
 ---
 
 [P6Spy](http://www.p6spy.com/) is an Open-Source framework to intercept JDBC database statements, which apparently works as a wrapper around your real JDBC driver. Cool!

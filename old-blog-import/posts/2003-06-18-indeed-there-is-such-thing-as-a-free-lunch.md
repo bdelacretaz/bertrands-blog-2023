@@ -1,6 +1,9 @@
 ---
 title: "Indeed, there is such thing as a free lunch"
-date: "2003-06-18"
+date: 2003-06-18
+tags: 
+  - "post"
+slug: indeed-there-is-such-thing-as-a-free-lunch
 ---
 
 If you can't beat them, invent the [free lunch](http://conferences.oreillynet.com/pub/w/23/events.html) (scroll down the page to Wednesday, July 9).

@@ -1,8 +1,10 @@
 ---
 title: "Switching hosts"
-date: "2003-05-14"
-categories: 
+date: 2003-05-14
+tags: 
   - "milestones"
+  - "post"
+slug: switching-hosts
 ---
 
 [Torsten](http://blog.vafer.org/index.php?itemid=21) is looking for a new .org home.

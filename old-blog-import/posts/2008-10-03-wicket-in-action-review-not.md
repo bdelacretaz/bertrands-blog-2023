@@ -1,9 +1,11 @@
 ---
 title: "Wicket In Action Review - not!"
-date: "2008-10-03"
-categories: 
+date: 2008-10-03
+tags: 
   - "books"
   - "tools"
+  - "post"
+slug: wicket-in-action-review-not
 ---
 
 _This is not a review_: apologies to the Wicket In Action people for not reviewing the book yet, my review copy has been sitting on my desk for weeks, just read a few pages here and there and I like what I see! I reviewed an early version of the book almost two years ago, and it was good already, so I'm very confident.

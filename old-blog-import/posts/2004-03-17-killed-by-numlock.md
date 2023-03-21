@@ -1,8 +1,10 @@
 ---
 title: "Killed by numlock"
-date: "2004-03-17"
-categories: 
+date: 2004-03-17
+tags: 
   - "tools"
+  - "post"
+slug: killed-by-numlock
 ---
 
 Powerbook users beware: it's very easy to accidentally hit the numlock key while the screen saver is active, and the numlock light is not very visible.

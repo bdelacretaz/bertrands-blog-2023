@@ -1,8 +1,10 @@
 ---
 title: "Java one-liner: XML text escapes"
-date: "2007-05-15"
-categories: 
+date: 2007-05-15
+tags: 
   - "java"
+  - "post"
+slug: java-one-liner-xml-text-escapes
 ---
 
 It never occured to me before today but

@@ -1,9 +1,11 @@
 ---
 title: "Open Source Communites are like gardens, says Leslie Hawthorn"
-date: "2012-06-04"
-categories: 
+date: 2012-06-04
+tags: 
   - "collaboration"
   - "open-source"
+  - "post"
+slug: open-source-communites-are-like-gardens-says-leslie-hawhthorn
 ---
 
 Great keynote by [Leslie Hawthorn](https://twitter.com/lhawthorn) at [Berlin Buzzwords](http://berlinbuzzwords.de/) today - here are my quick notes.

@@ -1,8 +1,10 @@
 ---
 title: "GetTogether - day two"
-date: "2003-10-07"
-categories: 
+date: 2003-10-07
+tags: 
   - "cocoon"
+  - "post"
+slug: gettogether-day-two
 ---
 
 Sitting in another beautiful room in [Het Pand](http://www.orixo.com/events/gt2003/venue.html), which is filling up quickly.

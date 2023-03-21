@@ -1,9 +1,11 @@
 ---
 title: "Swiss Blog Awards: nominations have started!"
-date: "2006-03-23"
-categories: 
+date: 2006-03-23
+tags: 
   - "blogs"
   - "sbaw"
+  - "post"
+slug: swiss-blog-awards-nominations-have-started
 ---
 
 The [nominations](http://nominations2006.swissblogawards.ch/) for the [Swiss Blog Awards](http://swissblogawards.ch/) have started and will be open until April 23rd.

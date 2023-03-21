@@ -1,8 +1,10 @@
 ---
 title: "So you want to talk at this conference?"
-date: "2014-08-21"
-categories: 
+date: 2014-08-21
+tags: 
   - "conferences"
+  - "post"
+slug: so-you-want-to-talk-at-this-conference
 ---
 
 I regularly review talk submissions for tech conferences, and here's a list of what I'm mostly looking for when deciding to accept or reject a talk.

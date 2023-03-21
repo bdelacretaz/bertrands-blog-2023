@@ -1,8 +1,10 @@
 ---
 title: "Rich Bowen on URL mapping (in httpd)"
-date: "2005-07-20"
-categories: 
+date: 2005-07-20
+tags: 
   - "apachecon"
+  - "post"
+slug: rich-bowen-on-url-mapping-in-httpd
 ---
 
 Some random notes on that session, which is mostly about the Alias, Redirect, ScriptAlias, Location and related directives - _not_ about mod\_rewrite which is discussed in two other sessions. Rich himself is working on a mod\_rewrite book currently, but that's another topic.

@@ -1,9 +1,11 @@
 ---
 title: "Wicket moves to Apache"
-date: "2006-10-17"
-categories: 
+date: 2006-10-17
+tags: 
   - "asf"
   - "tools"
+  - "post"
+slug: wicket-moves-to-apache
 ---
 
 The [Wicket](http://wicket.sourceforge.net/) project has moved to the [Apache Incubator](http://incubator.apache.org/projects/wicket), and given that it already fulfills many criteria for exiting incubation, everybody hopes to see it graduate soon.

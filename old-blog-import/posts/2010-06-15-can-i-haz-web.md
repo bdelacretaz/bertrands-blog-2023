@@ -1,9 +1,11 @@
 ---
 title: "Can I haz web?"
-date: "2010-06-15"
-categories: 
+date: 2010-06-15
+tags: 
   - "collaboration"
   - "the-web"
+  - "post"
+slug: can-i-haz-web
 ---
 
 How many people today still think information is only valid or "serious" when represented on an A4 piece of paper?

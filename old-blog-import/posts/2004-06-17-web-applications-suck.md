@@ -1,8 +1,10 @@
 ---
 title: "Web applications suck..."
-date: "2004-06-17"
-categories: 
+date: 2004-06-17
+tags: 
   - "thoughts"
+  - "post"
+slug: web-applications-suck
 ---
 
 ...but much less than the Windows API, which Joel Spolsky believes to be [dead](http://www.joelonsoftware.com/articles/APIWar.html).

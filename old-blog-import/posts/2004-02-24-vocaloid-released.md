@@ -1,11 +1,13 @@
 ---
 title: "Vocaloid released"
-date: "2004-02-24"
-categories: 
+date: 2004-02-24
+tags: 
   - "fun"
+  - "post"
+slug: vocaloid-released
 ---
 
- ![cover](images/0140282025.01.MZZZZZZZ.jpg)A while ago I wrote about the [Vocaloid](http://codeconsult.ch/bertrand/archives/000183.html) technology from Yamaha.
+ ![cover](http://codeconsult.ch/bertrand/archives/images/0140282025.01.MZZZZZZZ.jpg) A while ago I wrote about the [Vocaloid](http://codeconsult.ch/bertrand/archives/000183.html) technology from Yamaha.
 
 Software packages have now been [released](http://www.zero-g.co.uk/) by Zero-G.
 

@@ -1,8 +1,10 @@
 ---
 title: "The Cocoon Supersonic Tour  - now live"
-date: "2005-06-04"
-categories: 
+date: 2005-06-04
+tags: 
   - "cocoon"
+  - "post"
+slug: the-cocoon-supersonic-tour-now-live
 ---
 
 If you've been waiting for sooo long to try the _Cocoon Supersonic Tour_ interactive tutorial, it's now live on the [Cocoon Zone](http://cocoon.zones.apache.org/).

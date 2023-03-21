@@ -1,6 +1,9 @@
 ---
 title: "Journey through customer service"
-date: "2003-07-07"
+date: 2003-07-07
+tags: 
+  - "post"
+slug: journey-through-customer-service
 ---
 
 Sony's service is a running joke among my colleagues who had to have their Vaio portables repaired, and I'm starting to experiment it firsthand. I have this nice 21-inch Trinitron monitor which needs some adjustments, and fortunately it is still under bring-in warranty. But where to bring it in?

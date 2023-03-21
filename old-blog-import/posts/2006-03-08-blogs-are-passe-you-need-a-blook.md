@@ -1,8 +1,10 @@
 ---
 title: "Blogs are passe, you need a blook"
-date: "2006-03-08"
-categories: 
+date: 2006-03-08
+tags: 
   - "blogs"
+  - "post"
+slug: blogs-are-passe-you-need-a-blook
 ---
 
 The [Lulu Blooker Prize](http://www.lulublookerprize.com/) is said to be the _world's first literary prize for [blooks](http://lulublookerprize.typepad.com/lulu_blooker_blog/what_is_a_blook/index.html)_: books created out of blog content.

@@ -1,8 +1,10 @@
 ---
 title: "subversion client for macosx"
-date: "2004-08-24"
-categories: 
+date: 2004-08-24
+tags: 
   - "tools"
+  - "post"
+slug: subversion-client-for-macosx
 ---
 
 Very convenient self-installers can be found at [metissian.com](http://metissian.com/projects/macosx/subversion/) - I started with fink but it needed to download about 10243 additional packages, this is much easier.

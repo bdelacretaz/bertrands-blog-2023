@@ -1,8 +1,10 @@
 ---
 title: "XSLT syntax still sucks"
-date: "2003-12-02"
-categories: 
+date: 2003-12-02
+tags: 
   - "xml"
+  - "post"
+slug: xslt-syntax-still-sucks
 ---
 
 This hasn't changed since [last time](http://codeconsult.ch/bertrand/archives/000157.html) but it is being discussed [again](http://marc.theaimsgroup.com/?l=xml-cocoon-users&m=107035742731713&w=2) on the Cocoon users mailing list, so I collected some more links:

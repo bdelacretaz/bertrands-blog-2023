@@ -1,9 +1,11 @@
 ---
 title: "Paloose - Cocoon sitemaps in PHP"
-date: "2006-08-04"
-categories: 
+date: 2006-08-04
+tags: 
   - "cocoon"
   - "xml"
+  - "post"
+slug: paloose-cocoon-sitemaps-in-php
 ---
 
 Synchronicity I guess...yesterday talking to a colleague we came to the conclusion that _Cocoon pipelines are here to stay_ and today comes an [announcement](http://marc.theaimsgroup.com/?l=xml-cocoon-users&m=115463611105743&w=2) for [Paloose](http://www.paloose.org), an implementation of Cocoon sitemaps, including many of our standard components apparently, in PHP5.

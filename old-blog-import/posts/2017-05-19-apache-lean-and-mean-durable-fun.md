@@ -1,6 +1,9 @@
 ---
 title: "Apache: lean and mean, durable, fun!"
-date: "2017-05-19"
+date: 2017-05-19
+tags: 
+  - "post"
+slug: apache-lean-and-mean-durable-fun
 ---
 
 _Here's another blog post of mine that was initially published by [Computerworld UK](http://www.computerworlduk.com/it-business/apache-lean-and-mean-durable-fun--3570408/)._

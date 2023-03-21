@@ -1,8 +1,10 @@
 ---
 title: "Five things you didn't know about me (and didn't care either ;-)"
-date: "2006-12-19"
-categories: 
+date: 2006-12-19
+tags: 
   - "fun"
+  - "post"
+slug: five-things-you-didnt-know-about-me-and-didnt-care-either
 ---
 
 I knew it was going to happen...[Sylvain](http://bluxte.net/) tagged me, so here we go:

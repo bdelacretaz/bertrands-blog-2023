@@ -1,9 +1,11 @@
 ---
 title: "javadocs.org"
-date: "2004-05-13"
-categories: 
+date: 2004-05-13
+tags: 
   - "java"
   - "the-web"
+  - "post"
+slug: javadocsorg
 ---
 
 All of Sun's javadocs are now [available online](http://javadocs.org) from a central place, and can be easily searched using URLs like [http://javadocs.org/socket](http://javadocs.org/socket). Empty result sets are redirected to Google, how's that for a useful web service?

@@ -1,8 +1,10 @@
 ---
 title: "ApacheCon US 2007 call for papers - hurry!"
-date: "2007-04-23"
-categories: 
+date: 2007-04-23
+tags: 
   - "apachecon"
+  - "post"
+slug: apachecon-us-2007-call-for-papers-hurry
 ---
 
 The call for papers for [ApacheCon US 2007](http://www.us.apachecon.com/) (Atlanta, GA, 14, 15 & 16 November, 2007) opened a few days ago and will close on _Monday, April 30th_ already (despite the website saying April 23rd, it's a typo apparently).

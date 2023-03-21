@@ -1,8 +1,10 @@
 ---
 title: "Earthquake"
-date: "2004-02-23"
-categories: 
+date: 2004-02-23
+tags: 
   - "thoughts"
+  - "post"
+slug: earthquake
 ---
 
 Nothing serious, but this is very rare in this area: we just felt an earthquake here in Lausanne, and folks 10 km away felt it as well. Just one pulse, but definitely here.

@@ -1,6 +1,9 @@
 ---
 title: "JavaWorld is (more or less) back"
-date: "2004-03-23"
+date: 2004-03-23
+tags: 
+  - "post"
+slug: javaworld-is-more-or-less-back
 ---
 
 I didn't notice that [JavaWorld](http://www.javaworld.com/) was away but they're back with weblogs.

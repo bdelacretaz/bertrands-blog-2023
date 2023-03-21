@@ -1,8 +1,10 @@
 ---
 title: "More PGP key fun: GPGMail"
-date: "2004-06-19"
-categories: 
+date: 2004-06-19
+tags: 
   - "tools"
+  - "post"
+slug: more-pgp-key-fun-gpgmail
 ---
 
 I'm testing [GPGMail](http://www.sente.ch/software/GPGMail/) (from almost-neighbours sen:te) to sign and optionally encrypt messages with my newly created PGP key, using the standard macosx mail client.

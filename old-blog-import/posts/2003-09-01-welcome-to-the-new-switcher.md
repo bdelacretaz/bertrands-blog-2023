@@ -1,6 +1,9 @@
 ---
 title: "Welcome to the new switcher"
-date: "2003-09-01"
+date: 2003-09-01
+tags: 
+  - "post"
+slug: welcome-to-the-new-switcher
 ---
 
 Steven has [switched](http://blogs.cocoondev.org/stevenn/archives/001112.html) - congratulations!

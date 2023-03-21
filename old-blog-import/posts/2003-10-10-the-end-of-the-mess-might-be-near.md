@@ -1,8 +1,10 @@
 ---
 title: "The end of the mess might be near..."
-date: "2003-10-10"
-categories: 
+date: 2003-10-10
+tags: 
   - "open-source"
+  - "post"
+slug: the-end-of-the-mess-might-be-near
 ---
 
 Quoting [GROKLAW](http://www.groklaw.net/article.php?story=20031009042543818):

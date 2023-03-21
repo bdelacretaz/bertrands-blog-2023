@@ -1,6 +1,9 @@
 ---
 title: "G8 demonstration in Lausanne"
-date: "2003-05-31"
+date: 2003-05-31
+tags: 
+  - "post"
+slug: g8-demonstration-in-lausanne
 ---
 
 More pictures [here](http://www.vaccum.ch/photo/g8/manif_lsne/) (not from me, I stayed home, busy photographing the [puppies](http://chienchien.bestiole.ch)).

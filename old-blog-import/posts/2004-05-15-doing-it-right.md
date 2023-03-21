@@ -1,8 +1,10 @@
 ---
 title: "Doing it right"
-date: "2004-05-15"
-categories: 
+date: 2004-05-15
+tags: 
   - "thoughts"
+  - "post"
+slug: doing-it-right
 ---
 
 [Lauren Wood](http://www.laurenwood.org/anyway/index.php?p=20) mentions four things that [WordPress](http://wordpress.org/) is doing right.

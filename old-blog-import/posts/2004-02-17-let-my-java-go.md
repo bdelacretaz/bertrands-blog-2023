@@ -1,8 +1,10 @@
 ---
 title: "Let my Java Go"
-date: "2004-02-17"
-categories: 
+date: 2004-02-17
+tags: 
   - "open-source"
+  - "post"
+slug: let-my-java-go
 ---
 
 ...or else it might well _cede the field (and probably the future) to scripting-language competitors like Python and Perl_.

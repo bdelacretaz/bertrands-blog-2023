@@ -1,13 +1,15 @@
 ---
 title: "Yonik's Law of Half Baked Patches"
-date: "2007-04-28"
-categories: 
+date: 2007-04-28
+tags: 
   - "asf"
   - "open-source"
   - "thoughts"
+  - "post"
+slug: yoniks-law-of-half-baked-patches
 ---
 
-[![NOT the official Solr logo](images/12353535_solr-nick.gif)](http://lucene.apache.org/solr)Yesterday an interesting [discussion](http://www.nabble.com/Do-we-agree-on-our-RTC-way-of-working--%28was%3A-Welcome-Ryan-McKinley%21%29-tf3656234.html) started among [Solr](http://lucene.apache.org/solr) community members, about when to commit stuff, [RTC](http://www.apache.org/foundation/glossary.html#ReviewThenCommit) vs. [CTR](http://www.apache.org/foundation/glossary.html#CommitThenReview), and trust between committers.
+[![NOT the official Solr logo](https://issues.apache.org/jira/secure/attachment/12353535/12353535_solr-nick.gif)](http://lucene.apache.org/solr)Yesterday an interesting [discussion](http://www.nabble.com/Do-we-agree-on-our-RTC-way-of-working--%28was%3A-Welcome-Ryan-McKinley%21%29-tf3656234.html) started among [Solr](http://lucene.apache.org/solr) community members, about when to commit stuff, [RTC](http://www.apache.org/foundation/glossary.html#ReviewThenCommit) vs. [CTR](http://www.apache.org/foundation/glossary.html#CommitThenReview), and trust between committers.
 
 In less than 24 hours, with each of us spending a few minutes expressing themselves (and a bit more for Hoss to write stuff down, thanks!), the [Solr commit guidelines](http://wiki.apache.org/solr/CommitPolicy) are out. Is this efficient or what?
 

@@ -37,3 +37,7 @@ The theme is https://github.com/mattdecamp/eleventonia
 * [post 3](https://grep.codeconsult.ch/2018/01/03/would-you-hire-an-open-source-developer/)
 * [post 4](https://grep.codeconsult.ch/2009/10/30/life-in-open-source-communities-live-at-apachecon/)
 
+## Conversion steps
+
+- Export from wordpress.com, provides an XML file for the content and a tar file for images
+- Use https://github.com/lonekorean/wordpress-export-to-markdown to convert to Markdown. This required some changes to get the right front matter, including a `slug` to keep the original URLs

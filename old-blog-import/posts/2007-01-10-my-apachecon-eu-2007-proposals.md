@@ -1,8 +1,10 @@
 ---
 title: "My ApacheCon EU 2007 proposals"
-date: "2007-01-10"
-categories: 
+date: 2007-01-10
+tags: 
   - "apachecon"
+  - "post"
+slug: my-apachecon-eu-2007-proposals
 ---
 
 This might inspire you for some last-minute [proposals](http://codeconsult.ch/bertrand/archives/000749.html). And later allow you to find out which ones were not accepted ;-)
