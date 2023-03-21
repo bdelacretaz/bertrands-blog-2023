@@ -6,29 +6,11 @@ to [11ty](https://www.11ty.dev/).
 
 The theme is https://github.com/mattdecamp/eleventonia
 
-## Building the site
+## How to build the site
 
     npm install
     npm run 11ty:dev
     npm run 11ty:prod
-
-## Import TODO
-
-### Wordpress conversion
-- Fix front matter: fix dates, add "post" tag, add slug (from <link> in xml)
-- Move categories to tags in front matter
-- Redirect images to `/assets`
-- Fix http://codeconsult.ch/bertrand/ images links
-
-### Blog
-
-- Do not require the "post" tag??
-- Missing images?
-
-## Import DONE
-
-- Remove .html extensions
-- Put tags at the top of posts
 
 ## Links that should still work after conversion
 
@@ -41,4 +23,4 @@ The theme is https://github.com/mattdecamp/eleventonia
 ## Conversion steps
 
 - Export from wordpress.com, provides an XML file for the content and a tar file for images
-- Use https://github.com/lonekorean/wordpress-export-to-markdown to convert to Markdown. This required some changes to get the right front matter, including a `slug` to keep the original URLs
+- Use https://github.com/lonekorean/wordpress-export-to-markdown to convert to Markdown. This required some changes to get the right front matter, including a `slug` to keep the original URLs, patch saved under `old-blog-import` .
