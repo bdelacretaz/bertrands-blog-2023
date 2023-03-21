@@ -1,4 +1,5 @@
-blog-grep
-=========
+bertrands-blog-2023
+---
 
-Port of my grep.codeconsult.ch blog to Jekyll (work in progress)
+Porting my [grep.codeconsult.ch blog](https://grep.codeconsult.ch/)
+to [11ty](https://www.11ty.dev/).
