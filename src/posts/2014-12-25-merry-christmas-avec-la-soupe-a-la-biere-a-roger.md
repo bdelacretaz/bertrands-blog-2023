@@ -3,11 +3,17 @@ title: "Merry Christmas avec la Soupe a la Bière a Roger!"
 date: 2014-12-25
 tags: 
   - "fun"
+  - recipe
   - "post"
 slug: merry-christmas-avec-la-soupe-a-la-biere-a-roger
 ---
 
-\[caption id="attachment\_1573" align="alignright" width="190"\][![Recyclez votre stock de bière à deux balles pour une bonne cause!](https://bdelacretaz.files.wordpress.com/2014/12/labiere.jpg)](https://bdelacretaz.files.wordpress.com/2014/12/labiere.jpg) La soupe est bonne même avec de la bière à deux balles.\[/caption\]While waiting for the soup to be ready and for the guests to arrive, let me wish all of my readership (yes, both of you guys) a Merry Christmas!
+While waiting for the soup to be ready and for the guests to arrive, let me wish all of my readership (yes, both of you guys) a Merry Christmas!
+
+<!-- excerpt -->
+
+[![Recyclez votre stock de bière à deux balles pour une bonne cause!](/assets/images/labiere.jpg)](/assets/images/labiere.jpg) 
+
 
 And if you allow me un post en français pour une fois, voici la recette de la dite soupe! Si vous connaissez Roger vous savez qu’on peut lui faire confiance pour ce genre de trucs.
 

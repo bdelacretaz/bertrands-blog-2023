@@ -8,7 +8,7 @@ tags:
 slug: city-of-zurich-goes-live-with-cq5
 ---
 
-[![stadt-zuerich.jpg](http://bdelacretaz.files.wordpress.com/2008/12/stadt-zuerich.jpg)](http://www.stadt-zuerich.ch)[Stadt-zuerich.ch](http://www.stadt-zuerich.ch) is the first public website to run on [Day's new CQ5 Web Content Management System](http://www.day.com/content/day/en/products/web_content_management.html) (aka _The Big Release_). That's apart from [Day's own website](http://www.day.com), of course, which our CTO happily updated on the very evening of the general availability release, in eat-your-own-dogfood mode.
+[![stadt-zuerich.jpg](/assets/images/stadt-zuerich.jpg)](http://www.stadt-zuerich.ch)[Stadt-zuerich.ch](http://www.stadt-zuerich.ch) is the first public website to run on [Day's new CQ5 Web Content Management System](http://www.day.com/content/day/en/products/web_content_management.html) (aka _The Big Release_). That's apart from [Day's own website](http://www.day.com), of course, which our CTO happily updated on the very evening of the general availability release, in eat-your-own-dogfood mode.
 
 Apart from the fact that it runs on stuff that I helped create, I think the website is very well done, with efficient navigation and search features - congrats to the project team!
 

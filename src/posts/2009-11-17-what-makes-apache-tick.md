@@ -8,7 +8,7 @@ tags:
 slug: what-makes-apache-tick
 ---
 
-![apachecon_us_09_twleung.jpg](http://bdelacretaz.files.wordpress.com/2009/11/apachecon_us_09_twleung.jpg)Looking at the diversity of [Apache Software Foundation](http://apache.org) communities, one can see a recipe for failure: people from different cultural backgrounds, different mother tongues, different employers, different timezones...all working together to create some of the best software on the planet? You must be kidding.
+![apachecon_us_09_twleung.jpg](/assets/images/apachecon_us_09_twleung.jpg)Looking at the diversity of [Apache Software Foundation](http://apache.org) communities, one can see a recipe for failure: people from different cultural backgrounds, different mother tongues, different employers, different timezones...all working together to create some of the best software on the planet? You must be kidding.
 
 How can this very loose collage of disparate people pump out dozens of high-quality releases every year, often working better than more structured corporate teams? This "mystery" has been on my mind for a while, and I have identified four drivers that influence the way we use collaboration tools that play a major part in our success.
 

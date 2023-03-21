@@ -10,7 +10,7 @@ tags:
 slug: my-new-flyer-ebike-fast-and-fun
 ---
 
-![flyer-t8hs.jpg](http://bdelacretaz.files.wordpress.com/2010/07/flyer-t8hs.jpg "flyer-t8hs.jpg")I recently bought a new [Flyer](http://flyer.ch/) electric bike, got a faster T8 HS ex-demo for a good price.
+![flyer-t8hs.jpg](/assets/images/flyer-t8hs.jpg "flyer-t8hs.jpg")I recently bought a new [Flyer](http://flyer.ch/) electric bike, got a faster T8 HS ex-demo for a good price.
 
 I sold the previous C8+ to my nephew, happy that it's staying in the family! In about 15'000km all year in any weather (including snow and accompanying salt on the road) over 4 1/2 years, I have had exactly zero problems with the C8, which says a lot about the build quality and maturity of those bikes. It needed just the usual bike maintenance, and an expected change of battery after about 600 charging cycles, but zero maintenance related to the electronics or motor. Not to mention only two punctures in 15'000km, thanks to the Schwalbe Marathon puncture-proof tires. Over time, those tires get full of small superficial holes which are mostly punctures that didn't happen, very cool!
 

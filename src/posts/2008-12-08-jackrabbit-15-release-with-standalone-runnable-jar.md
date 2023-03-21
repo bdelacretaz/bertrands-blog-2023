@@ -9,7 +9,7 @@ tags:
 slug: jackrabbit-15-release-with-standalone-runnable-jar
 ---
 
-[![jackrabbit-1-5-webapp.jpg](http://bdelacretaz.files.wordpress.com/2008/12/jackrabbit-1-5-webapp.jpg)](http://jackrabbit.apache.org/)Congrats to the [Jackrabbit](http://jackrabbit.apache.org/) team on their [1.5 release](http://markmail.org/message/hvzjypmb6m6npscq)!
+[![jackrabbit-1-5-webapp.jpg](/assets/images/jackrabbit-1-5-webapp.jpg)](http://jackrabbit.apache.org/)Congrats to the [Jackrabbit](http://jackrabbit.apache.org/) team on their [1.5 release](http://markmail.org/message/hvzjypmb6m6npscq)!
 
 One of the nice things in this release is the [standalone server jar](http://www.apache.org/dyn/closer.cgi/jackrabbit/binaries/jackrabbit-standalone-1.5.0.jar):
 

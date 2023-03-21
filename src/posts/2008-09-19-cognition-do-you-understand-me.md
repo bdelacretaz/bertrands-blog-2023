@@ -12,4 +12,4 @@ Searching for [Robert Moog invented it](http://wikipedia.cognition.com/?num=10&f
 
 Via [nouvo.ch](http://www.nouvo.ch/n-1390).
 
-[![cognition-moog.jpg](http://bdelacretaz.files.wordpress.com/2008/09/cognition-moog.jpg)](http://wikipedia.cognition.com/?num=10&from_val=1&to_val=10&f=simple&sf=130&win=0&fld=-1&search=Robert+Moog+invented+it&Submit=&window=0&positional=1&select=select&d=wikipedia1&d=wikipedia2&d=wikipedia3&d=wikipedia4&d=wikipedia5&d=wikipedia6&d=wikipedia7&d=wikipedia8)
+[![cognition-moog.jpg](/assets/images/cognition-moog.jpg)](http://wikipedia.cognition.com/?num=10&from_val=1&to_val=10&f=simple&sf=130&win=0&fld=-1&search=Robert+Moog+invented+it&Submit=&window=0&positional=1&select=select&d=wikipedia1&d=wikipedia2&d=wikipedia3&d=wikipedia4&d=wikipedia5&d=wikipedia6&d=wikipedia7&d=wikipedia8)

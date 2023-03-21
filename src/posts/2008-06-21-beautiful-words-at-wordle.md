@@ -8,6 +8,6 @@ tags:
 slug: beautiful-words-at-wordle
 ---
 
-[![wordle-bd.250.jpg](http://bdelacretaz.files.wordpress.com/2008/06/wordle-bd2501.jpg)](http://wordle.net)[Wordle](http://wordle.net) creates beautiful _word clouds_ from text that you supply.
+[![wordle-bd.250.jpg](/assets/images/wordle-bd2501.jpg)](http://wordle.net)[Wordle](http://wordle.net) creates beautiful _word clouds_ from text that you supply.
 
 Via [Bruno Giussani](http://www.lunchoverip.com/2008/06/word-clouds.html) who's got more examples.

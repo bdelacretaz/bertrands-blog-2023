@@ -9,7 +9,7 @@ tags:
 slug: the-asf-is-the-switzerland-of-open-source
 ---
 
-![matterhorn-bahn.jpg](http://bdelacretaz.files.wordpress.com/2009/03/matterhorn-bahn.jpg)By popular demand (two people - that's about 100% of my readership!), here's an essay similar to my lightning talk of last week at [ApacheCon](http://eu.apachecon.com): _The Apache Software Foundation is the Switzerland of Open Source_.
+![matterhorn-bahn.jpg](/assets/images/matterhorn-bahn.jpg)By popular demand (two people - that's about 100% of my readership!), here's an essay similar to my lightning talk of last week at [ApacheCon](http://eu.apachecon.com): _The Apache Software Foundation is the Switzerland of Open Source_.
 
 This is based on my rough notes and failing memory, so that won't be exactly the same thing. Did you know that I am an _ASF analyst_? I didn't know either, found out last week at [James Governor](http://www.redmonk.com/jgovernor/)'s great [keynote](http://twitter.com/bdelacretaz/status/1395520137). You had to be there ;-)
 

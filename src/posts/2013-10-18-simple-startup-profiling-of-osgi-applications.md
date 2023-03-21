@@ -26,4 +26,4 @@ Here's how you can use that webconsole plugin to get a simple timeline of an OSG
 
 This provides a simple graphical timeline, as shown on the screenshot below, that's especially useful in detecting outlier bundles or services that take a long time to start up.
 
-![Webconsole Events plugin screenshot](http://bdelacretaz.files.wordpress.com/2013/10/webconsole-events-716.jpg "webconsole-events-716.jpg")
+![Webconsole Events plugin screenshot](/assets/images/webconsole-events-716.jpg "webconsole-events-716.jpg")

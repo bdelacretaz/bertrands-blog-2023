@@ -29,8 +29,6 @@ And time passes.
 
 Fourty-seven minutes now. 47 MINUTES and exactly nothing else happens. No feedback. No progress. No error messages. Did you guys take UX 101 in school? I guess not.
 
-\[caption id="attachment\_1533" align="alignnone" width="300"\][![Sony Bridge #fail screenshot](http://bdelacretaz.files.wordpress.com/2014/04/sony-bridge.jpg?w=300)](http://bdelacretaz.files.wordpress.com/2014/04/sony-bridge.jpg) Forget the Cancel button...it doesn't work.\[/caption\]
-
 I tried twice. Had to delete some secret cache files in between both attemps, as on the second time the tool was telling me that my phone is up to date, but it's not, as the phone itself tells me.
 
 The result of this brilliant software evolution? I am unable to upgrade my phone. That will make it useless soon, I guess, and I didn't pay a sizeable amount of money to have a non-upgradeable phone.

@@ -9,4 +9,4 @@ slug: dont-miss-the-new-bubble
 
 Me, I'm seriously thinking of investing in those Web two-oh friendship bracelets...
 
-\[youtube=http://www.youtube.com/watch?v=fi4fzvQ6I-o&rel=1\]
+{% youtube "http://www.youtube.com/watch?v=fi4fzvQ6I-o&rel=1" %}

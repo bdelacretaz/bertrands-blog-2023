@@ -10,7 +10,7 @@ tags:
 slug: does-osgi-work-for-you
 ---
 
-[![apachecon-eu09.jpg](http://bdelacretaz.files.wordpress.com/2009/02/apachecon-eu09.jpg)](http://www.eu.apachecon.com/c/aceu2009/speakers/26)I'm looking for additional input for my [Tales from the OSGi trenches](http://www.eu.apachecon.com/c/aceu2009/sessions/189) talk, at [ApacheCon EU 2009](http://www.eu.apachecon.com/c/aceu2009) next month in Amsterdam.
+[![apachecon-eu09.jpg](/assets/images/apachecon-eu09.jpg)](http://www.eu.apachecon.com/c/aceu2009/speakers/26)I'm looking for additional input for my [Tales from the OSGi trenches](http://www.eu.apachecon.com/c/aceu2009/sessions/189) talk, at [ApacheCon EU 2009](http://www.eu.apachecon.com/c/aceu2009) next month in Amsterdam.
 
 My main angle for this talk is how the move to OSGi changes the way developers and customers work. [Day](http://www.day.com)'s complete product line is based on OSGi (using [Apache Felix](http://felix.apache.org) and [Apache Sling](http://incubator.apache.org/)), and this has a tremendous impact on how our developers work. Users of our products, depending on the level at which they decide to interact with them, can also reap big benefits from OSGi's modularity and service-oriented features.
 

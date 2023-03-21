@@ -9,7 +9,7 @@ tags:
 slug: pre-apachecon-meetups-work-for-me
 ---
 
-[![sling-18-minutes.jpg](http://bdelacretaz.files.wordpress.com/2008/04/imagessling-18-minutes.jpg)](http://www.slideshare.net/bdelacretaz/sling-demo-jcr-meetup-2008)I was at the [JCR meetup](http://wiki.apache.org/jackrabbit/JcrMeetupApril2008) last Tuesday before [ApacheCon](http://eu.apachecon.com/eu2008/), and we had a good time! Many thanks to the organizers (that's mainly [Arjé](http://blogs.hippo.nl/arje/)) and sponsors.
+[![sling-18-minutes.jpg](/assets/images/imagessling-18-minutes.jpg)](http://www.slideshare.net/bdelacretaz/sling-demo-jcr-meetup-2008)I was at the [JCR meetup](http://wiki.apache.org/jackrabbit/JcrMeetupApril2008) last Tuesday before [ApacheCon](http://eu.apachecon.com/eu2008/), and we had a good time! Many thanks to the organizers (that's mainly [Arjé](http://blogs.hippo.nl/arje/)) and sponsors.
 
 We were about 25 people at the meetup, some of them coming just for the day (which is fairly easy from most parts of Europe due to good flight connections to Amsterdam), the content was improvised on the spot in unconference mode, with audience turning into presenters as needed. Some slides are available on [slideshare](http://www.slideshare.net/tag/jcr). My own slides were created while listening to other presentations, so they might not be as polished as you'd expect...but they worked!
 
