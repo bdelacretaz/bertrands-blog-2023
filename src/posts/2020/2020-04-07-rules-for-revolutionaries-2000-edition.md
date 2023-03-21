@@ -2,7 +2,6 @@
 title: "Rules For Revolutionaries (2000 edition)"
 date: 2020-04-07
 tags: 
-  - "opensource"
   - "collaboration"
   - opensource
   - "post"
