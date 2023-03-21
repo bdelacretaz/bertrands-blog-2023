@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<article>
+    <h2>{{ title }}</h2>
+    <p class="post--time" datetime="{{ post.data.date }}">{{ date | dateFilter }}</p>
+    {{ content | safe }}
+    <div class="tags--container">
+        {% for tag in tags %} 
+        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+            <div class="tag">
+                <a href="{{ tagUrl | url }}">{{ tag }}</a>
+            </div>
+            {% endfor %}
+    </div>
+</article>

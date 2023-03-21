@@ -1,0 +1,40 @@
+header {
+    min-width: 100%;
+}
+
+#header--container {
+    width: 90%;
+    max-width: var(--max-width);
+    padding: var(--s1) 0;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: left;
+
+    color: var(--text-primary);
+}
+
+#header--title a {
+    font-size: clamp(var(--s3),3vw,var(--s4));
+    font-weight: 200;
+    background: linear-gradient(
+        to right,
+        var(--primary),
+        var(--primary) 63%,
+        var(--secondary) 63%
+    );
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 48rem) {
+    #header--container {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}

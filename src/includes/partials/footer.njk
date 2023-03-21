@@ -1,0 +1,18 @@
+<footer role="contentinfo">
+  <div id="footer--container">
+    <div id="footer--left">
+      <a href="{{ site.githubUrl }}">
+        {{ site.name | lower }} 
+      </a>
+    </div>
+    <div id="footer--middle">
+      <a href="{{ site.githubUrl }}/tree/master/{{page.inputPath}}" title="Edit this page">
+        {% svgsprite %}
+        {% icon "github" %}
+      </a>
+    </div>
+    <div id="footer--right"> 
+      &copy; {{ site.copyright }}
+    </div>
+  </div>
+</footer>

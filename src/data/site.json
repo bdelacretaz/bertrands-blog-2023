@@ -1,0 +1,13 @@
+{
+    "name": "Bertrand's brain grep",
+    "description": "cat /dev/brain | egrep 'tech|thougts|code'",
+    "url": "",
+    "lang": "en",
+    "githubUrl": "https://github.com/bdelacretaz/bertrands-blog-2023",
+    "authorName": "Bertrand Delacretaz",
+    "authorHandle": "@bdelacretaz",
+    "authorEmail": "bdelacretaz@apache.org",
+    "yearCreated": 2023,
+    "copyright": "1986 to present",
+    "socialImage": "/"
+}

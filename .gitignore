@@ -1,3 +1,4 @@
 _site
 dev
 node_modules/
+dist/

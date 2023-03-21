@@ -1,0 +1,30 @@
+nav ul {
+    padding: 0;
+    display: block;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style-type: none;
+    gap: var(--s0) var(--s2);
+    font-size: var(--s0);
+    & li::before {
+        content: '\200B';
+    }
+    & li a {
+        color: var(--text-primary);
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+.nav--active {
+    text-decoration: underline;
+}
+
+@media screen and (min-width: 48rem) {
+    nav ul {
+        font-size: var(--s1);
+    }
+}

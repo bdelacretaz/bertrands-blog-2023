@@ -1,0 +1,36 @@
+:root {
+  // COLORS
+  --background-color: #ffffff;
+  --background-color-secondary: #301e4e;
+  --background-color-tertiary: #ff6e6c;
+
+  --primary: #1f1135;
+  --secondary: #ff6e6c;
+
+  --text-primary: #1f1135;
+  --text-secondary: #ffffff;
+  --text-tertiary: #301e4e;
+
+  --link-color: #301e4e;
+
+  --tag-color: #301e4e;
+
+  --button-color: #ff636c;
+
+  // SPACING
+  --ratio: 1.2;
+  --s-5: calc(var(--s-4) / var(--ratio));
+  --s-4: calc(var(--s-3) / var(--ratio));
+  --s-3: calc(var(--s-2) / var(--ratio));
+  --s-2: calc(var(--s-1) / var(--ratio));
+  --s-1: calc(var(--s0) / var(--ratio));
+  --s0: 1rem;
+  --s1: calc(var(--s0) * var(--ratio));
+  --s2: calc(var(--s1) * var(--ratio));
+  --s3: calc(var(--s2) * var(--ratio));
+  --s4: calc(var(--s3) * var(--ratio));
+  --s5: calc(var(--s4) * var(--ratio));
+
+  --max-width: 1000px;
+
+}

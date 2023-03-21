@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang}}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>{{ title }} | {{ site.name }}</title>
+    {% include "partials/meta.njk" %}
+    <link rel="stylesheet" href="{{ '/assets/styles/main.css' | url }}">
+  </head>
+  <body>
+    <div id="layout">
+      {% include "partials/header.njk" %}
+      <div id="main-container" role="document">
+        <main role="main">
+            {{ content | safe }}
+        </main>
+      </div>
+      {% include "partials/footer.njk" %}
+    </div>
+  </body>
+</html>

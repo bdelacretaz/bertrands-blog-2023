@@ -1,22 +1,14 @@
 ---
-title: Brook HTML Template - Frontpage one
-layout: layouts/default.njk
-footer: footer1
-pagination:
-    data: collections.posts
-    size: 5
-    reverse: true
-    alias: posts
+layout: base
+title: Bertrand's brain grep
+permalink: '/'
+heading: cat /dev/brain | egrep -i 'tech|thoughts|code'
 ---
-<div class="w-100 overflow-hidden position-relative" id="top">
-  {% include "snippets/hero2.njk" %}
-</div>
-<div class="container">
-  <div class="row d-flex justify-content-center">
-    <div class="col-11 col-lg-10 col-xl-6">
-      <div class="row border-bottom">
-        {% include "snippets/loop.njk" %}
-      </div>
-    </div>
-  </div>
-</div>
+
+<article>
+    <h1>
+        {{ heading }}
+    </h1>
+
+{% include "partials/posts-list.njk" %}
+</article>
