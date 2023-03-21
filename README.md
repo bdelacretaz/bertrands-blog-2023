@@ -16,6 +16,7 @@ The theme is https://github.com/mattdecamp/eleventonia
 
 - Remove .html extensions
 - Do not require the "post" tag??
+- Put tags at the top of posts
 - Get slugs from wp export, <link>
 - Missing images?
 - Fix dates, add "post" tag, add slug
