@@ -1,8 +1,9 @@
 // const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const svgSprite = require("eleventy-plugin-svg-sprite");
-const dateFilter = require('./src/filters/dateFilter.js');
-const dateFoldersFilter = require('./src/filters/dateFoldersFilter.js');
+const dateFilter = require('./src/11ty/dateFilter.js');
+const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
+const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const slugify = require("slugify");
 
 module.exports = function (config) {
@@ -17,6 +18,9 @@ module.exports = function (config) {
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('dateFoldersFilter', dateFoldersFilter);
   config.addFilter('slugify', slugify);
+
+  // SHORTCODES //
+  config.addShortcode("youtube", youTubeEmbed);
 
   // TRANSFORMS //
   // minify HTML
