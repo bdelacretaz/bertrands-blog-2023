@@ -12,6 +12,19 @@ The theme is https://github.com/mattdecamp/eleventonia
     npm run 11ty:dev
     npm run 11ty:prod
 
+## Import TODO
+
+- Remove .html extensions
+- Do not require the "post" tag??
+- Get slugs from wp export, <link>
+- Missing images?
+- Fix dates, add "post" tag, add slug
+- Move categories to tags in front matter
+- Redirect images to `/assets`
+- Video embeds like `[embed]https://www.youtube.com/watch?v=PxjNowi02ho[/embed]`
+- Paginate posts in the list
+- Smaller tags on front page
+
 ## Links that should still work after conversion
 
 * [about page](https://grep.codeconsult.ch/about-me/)
