@@ -11,7 +11,7 @@ eleventyComputed:
     title: Tagged “{{ tag }}”
 ---
 
-<h2>Posts filed under “{{ tag }}”</h2>
+<h2>Posts tagged with "{{ tag }}”</h2>
 <ul>
     {% set postlist = collections[ tag ] %} 
     {% for post in postlist | reverse %}

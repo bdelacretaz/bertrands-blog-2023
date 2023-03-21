@@ -2,14 +2,19 @@
     padding: var(--s-1) 0;
     display: flex;
     flex-wrap: wrap;
-    gap: var(--s0);
+    gap: var(--s5);
+    font-size: 80%;
+}
+
+.tags--container-inline {
+    display: inline;
 }
 
 .tag {
     & a {
-        padding: var(--s-2) var(--s-1);
+        padding: var(--s-5) var(--s-4);
         color: var(--text-secondary);
         text-decoration: none;
-        background: var(--background-color-secondary);
+        background: var(--background-color-lighter);
     }
 }

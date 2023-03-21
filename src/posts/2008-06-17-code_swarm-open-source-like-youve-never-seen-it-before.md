@@ -3,8 +3,8 @@ title: "code_swarm - open source like you've never seen it before"
 slug: code_swarm-open-source-like-youve-never-seen-it-before
 date: 2008-06-17
 tags: 
-  - "asf"
-  - "fun"
+  - opensource
+  - visualization
   - post
 ---
 

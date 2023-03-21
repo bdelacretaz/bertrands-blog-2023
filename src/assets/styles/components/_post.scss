@@ -1,4 +1,18 @@
 .post--time {
+  display: inline;
   font-size: clamp(var(--s-1),3vw,var(--s0));
   font-weight: 200;
+}
+
+.post--header {
+  padding-bottom: var(--s-1);
+  border-bottom: dashed var(--border-very-light) 1px;
+  margin-top: var(--s-1);
+  margin-bottom: var(--s-1);
+}
+
+.post--content {
+  & img {
+    width: 100%;
+  }
 }

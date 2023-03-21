@@ -3,11 +3,9 @@ title: "How to record decent conference videos - without breaking the bank!"
 slug: how-to-record-decent-conference-videos-without-breaking-the-bank
 date: 2020-08-06
 tags: 
-  - "conferences"
-  - "content"
+  - conferences
+  - media
   - post
-  - audio
-  - video
 ---
 
 This being the year of COVID-19, many of us are recording videos for online conferences.
