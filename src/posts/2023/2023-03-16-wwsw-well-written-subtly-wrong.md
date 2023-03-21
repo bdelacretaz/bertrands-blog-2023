@@ -10,6 +10,10 @@ tags:
 slug: wwsw-well-written-subtly-wrong
 ---
 
+Generative AI is great - but we shouldn't believe everything it tells us.
+
+<!-- excerpt -->
+
 I just asked [ChatGPT](https://chat.openai.com/chat) _who were the initial committers of the [Apache Sling](https://sling.apache.org/) project_ (I was there), and here’s the answer that I got:
 
 > The initial committers of the Apache Sling project were listed in the project's first announcement on the Apache Sling website in September 2009. The initial committers listed were:

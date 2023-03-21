@@ -1,29 +1,11 @@
 <div id="posts--list">
     {%- for post in collections.post | reverse -%}
-    <article>
-        <a class="post--link" href="{{ post.url }}">
-            <p class="post--time" datetime="{{ post.data.date }}">
-                {{ post.data.date | dateFilter }}
-            </p>
-            <h2>
-                {{ post.data.title }}
-            </h2>
-            <p>
-                {{ post.data.page.excerpt }}
-            </p>
-        </a>
-        
-        <!--
-        <div class="tags--container">
-        {% for tag in post.data.tags %} 
-        {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-            <div class="tag">
-                <a href="{{ tagUrl | url }}">{{ tag }}</a>
-            </div>
-            {% endfor %}
+    <div class="posts--list--item">
+        <a class=".post--link" href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <div class="post--info">
+            <time>{{ post.date | dateFilter }}</time>
+            <blockquote>{{ post.data.page.excerpt }}</blockquote>
         </div>
-        -->
-
-    </article>
+    </div>
     {%- endfor -%}
 </div>

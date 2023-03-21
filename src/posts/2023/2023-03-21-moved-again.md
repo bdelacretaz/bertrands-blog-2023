@@ -8,9 +8,14 @@ tags:
 slug: moved-again
 ---
 
-This blog moved again, to a new setup based on the
-[11ty](https://www.11ty.dev/) static site generator and using
-Matt DeCamp's [eleventonia](https://github.com/mattdecamp/eleventonia)
+Moving this blog to a platform where I have more 
+(as in _complete_) control has been on my mind for a while.
+
+<!-- excerpt -->
+
+With Spring arriving I took the plunge and moved thigs blog once again,
+to a new setup based on the [11ty](https://www.11ty.dev/) static site
+generator and using Matt DeCamp's [eleventonia](https://github.com/mattdecamp/eleventonia)
 starter project for the theme.
 
 I've done my best to transfer all the content, including images

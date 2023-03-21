@@ -1,8 +1,20 @@
 .post--link {
   text-decoration: dotted;
+}
 
-  & h2 {
-    font-size: 120%;
-    font-weight: normal;
-  }
+.post--info {
+  font-size: 90%;
+  color: var(--text-lighter);
+  margin-left: 1em;
+}
+
+.post--info blockquote {
+  margin-left: 0;
+  border-left: 0px;
+  padding-left: 0;
+  color: var(--text-lighter);
+}
+
+.posts--list--item {
+  margin-bottom: var(--s-4);
 }
