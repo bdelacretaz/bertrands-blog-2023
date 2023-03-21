@@ -1,12 +1,13 @@
 ---
 title: "WW;SW : Well Written, Subtly Wrong !"
-date: "2023-03-16"
-categories: 
-  - "asf"
+date: 2023-03-16
 tags: 
   - "ai"
   - "chatgpt"
   - "sling"
+  - "asf"
+  - "post"
+slug: wwsw-well-written-subtly-wrong
 ---
 
 WW;SW

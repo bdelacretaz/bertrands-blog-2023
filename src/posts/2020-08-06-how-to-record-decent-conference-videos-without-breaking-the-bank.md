@@ -1,11 +1,11 @@
 ---
 title: "How to record decent conference videos - without breaking the bank!"
-slug: how-to-record-decent-conference-videos-without-breaking-the-bank
 date: 2020-08-06
 tags: 
-  - conferences
-  - media
-  - post
+  - "conferences"
+  - "content"
+  - "post"
+slug: how-to-record-decent-conference-videos-without-breaking-the-bank
 ---
 
 This being the year of COVID-19, many of us are recording videos for online conferences.
@@ -20,7 +20,7 @@ It's far from perfect: the image quality and especially lighting are not fantast
 
 On the other hand I think the sound is good, loud and clear, which is key in efficiently delivering the message and keeping your audience engaged.
 
-{% youtube "https://www.youtube.com/watch?v=F0SmiQ3SF6Q","How to convince your left brain (or manager) to follow the Open Source path your right brain desires" %}
+https://www.youtube.com/watch?v=F0SmiQ3SF6Q
 
 Let's dig into what I consider the key elements of the recording and production process.
 
@@ -92,4 +92,4 @@ I'll have to record more videos soon, for the upcoming [ApacheCon @Home 2020](ht
 
 _Update: here's the ApacheCon talk recording that I recorded later, using a green screen processed live using OBS, the [Open Broadcaster Software](https://obsproject.com). I had a bit of trouble lighting the green screen, which causes some visual artifacts but I think that still works well. Someone mentioned that in the first video posted here I was often looking away from the audience, this new video is much better from that point of view - thanks Joerg for your comment!_
 
-{% youtube "https://www.youtube.com/watch?v=PxjNowi02ho","GraphQL in Apache Sling - but isn't it the opposite of REST?" %}
+\[embed\]https://www.youtube.com/watch?v=PxjNowi02ho\[/embed\]
