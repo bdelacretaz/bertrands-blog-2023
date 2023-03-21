@@ -10,20 +10,18 @@ tags:
 slug: wwsw-well-written-subtly-wrong
 ---
 
-<div style="font-size:400%; text-align:center;">WW;SW</div>
-
 I just asked [ChatGPT](https://chat.openai.com/chat) _who were the initial committers of the [Apache Sling](https://sling.apache.org/) project_ (I was there), and here’s the answer that I got:
 
-    The initial committers of the Apache Sling project were listed in the project's first announcement on the Apache Sling website in September 2009. The initial committers listed were:
-    
-    - Bertrand Delacretaz
-    - Felix Meschberger
-    - Carsten Ziegeler
-    - Marcel Offermans
-    - David Nuescheler
-    - Brian Moseley
-    
-    These individuals were instrumental in creating the initial codebase for Apache Sling and laying the groundwork for the project's growth and success.
+> The initial committers of the Apache Sling project were listed in the project's first announcement on the Apache Sling website in September 2009. The initial committers listed were:
+>
+> - Bertrand Delacretaz
+> - Felix Meschberger
+> - Carsten Ziegeler
+> - Marcel Offermans
+> - David Nuescheler
+> - Brian Moseley
+> 
+> These individuals were instrumental in creating the initial codebase for Apache Sling and laying the groundwork for the project's growth and success.
 
 That's a well written answer indeed, with some correct facts, but the last three people listed were _not_ initial committers of that project - actually not even committers at any time, in the ASF sense of the term. See the details below, if you care.
 
@@ -39,7 +37,11 @@ I think this deserves a new acronym – remember, you saw it here first!
 
 <div style="font-size:400%; text-align:center;">WW;SW</div>
 
-_A text that is Well Written, but Subtly Wrong, as Generative AI tools are likely to produce in early 2023._
+<div style="text-align:center">
+  <em>
+    A text that is Well Written, but Subtly Wrong, as Generative AI tools are likely to produce in early 2023.
+  </em>
+</div>
 
 * * *
 

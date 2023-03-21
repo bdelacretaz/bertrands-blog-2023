@@ -24,3 +24,16 @@ ul {
     margin-top: var(--s0);
     margin-bottom: var(--s0);
 }
+
+blockquote {
+    margin-left: 1em;
+    color: var(--text-somewhat-light);
+    border-left: double var(--text-very-light) 3px;
+    padding-left: var(--s0);
+    font-style: italic;
+}
+
+hr {
+    color: var(--border-very-light);
+    x-border-top: dashed var(--border-very-light) 3px;
+}

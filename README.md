@@ -18,6 +18,7 @@ The theme is https://github.com/mattdecamp/eleventonia
 - Fix front matter: fix dates, add "post" tag, add slug (from <link> in xml)
 - Move categories to tags in front matter
 - Redirect images to `/assets`
+- Fix http://codeconsult.ch/bertrand/ images links
 
 ### Blog
 

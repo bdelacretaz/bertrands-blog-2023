@@ -2,8 +2,9 @@
 title: "Moved to wordpress.com"
 date: 2008-02-13
 tags: 
-  - "milestones"
-  - "post"
+  - milestones
+  - blogs
+  - post
 slug: moved-to-wordpresscom
 ---
 
