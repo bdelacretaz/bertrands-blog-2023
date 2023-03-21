@@ -4,6 +4,7 @@ date: 2020-01-07
 tags: 
   - "conferences"
   - "thoughts"
+  - milestones
   - "post"
 slug: its-pretty-quiet-here-these-days
 ---

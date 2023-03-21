@@ -1,6 +1,6 @@
 {
     "name": "Bertrand's brain grep",
-    "subtitle": "cat /dev/brain | egrep 'tech|thougts|code'",
+    "subtitle": "cat /dev/brain | egrep 'tech|thoughts|code'",
     "longDescription": "This Bertrand Delacretaz's personal blog",
     "url": "",
     "lang": "en",
