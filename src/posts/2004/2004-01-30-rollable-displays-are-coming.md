@@ -4,6 +4,7 @@ date: 2004-01-30
 tags: 
   - "tools"
   - "post"
+  - motorcycle
 slug: rollable-displays-are-coming
 ---
 

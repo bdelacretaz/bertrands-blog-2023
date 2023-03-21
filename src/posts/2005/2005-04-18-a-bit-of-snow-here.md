@@ -3,6 +3,7 @@ title: "A bit of snow here"
 date: 2005-04-18
 tags: 
   - "post"
+  - motorcycle
 slug: a-bit-of-snow-here
 ---
 

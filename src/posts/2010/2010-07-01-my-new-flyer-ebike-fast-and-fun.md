@@ -4,7 +4,7 @@ date: 2010-07-01
 tags: 
   - "ebike"
   - "flyer"
-  - "cycling"
+  - cycling
   - "fun"
   - "post"
 slug: my-new-flyer-ebike-fast-and-fun

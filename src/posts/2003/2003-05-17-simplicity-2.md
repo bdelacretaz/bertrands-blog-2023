@@ -4,6 +4,7 @@ date: 2003-05-17
 tags: 
   - "thoughts"
   - "post"
+  - motorcycle
 slug: simplicity-2
 ---
 

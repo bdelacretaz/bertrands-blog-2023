@@ -3,6 +3,7 @@ title: "Apache Bikers - will they want me and my Flyer?"
 date: 2007-01-10
 tags: 
   - "post"
+  - cycling
 slug: apache-bikers-will-they-want-me-and-my-flyer
 ---
 

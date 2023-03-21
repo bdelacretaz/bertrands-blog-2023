@@ -4,6 +4,7 @@ date: 2004-03-15
 tags: 
   - "fun"
   - "post"
+  - motorcycle
 slug: biking-fun
 ---
 
