@@ -14,17 +14,20 @@ The theme is https://github.com/mattdecamp/eleventonia
 
 ## Import TODO
 
-- Remove .html extensions
-- Do not require the "post" tag??
-- Put tags at the top of posts
-- Get slugs from wp export, <link>
-- Missing images?
-- Fix dates, add "post" tag, add slug
+### Wordpress conversion
+- Fix front matter: fix dates, add "post" tag, add slug (from <link> in xml)
 - Move categories to tags in front matter
 - Redirect images to `/assets`
-- One embed to fix, like `[embed]https://www.youtube.com/watch?v=PxjNowi02ho[/embed]`
-- Paginate posts in the list
-- Smaller tags on front page
+
+### Blog
+
+- Do not require the "post" tag??
+- Missing images?
+
+## Import DONE
+
+- Remove .html extensions
+- Put tags at the top of posts
 
 ## Links that should still work after conversion
 
