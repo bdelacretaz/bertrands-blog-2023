@@ -24,12 +24,14 @@ module.exports = function (config) {
 
   // TRANSFORMS //
   // minify HTML
+  /*
   const htmlMinTransform = require("./src/transforms/html-min.js");
   const isProduction = process.env.ELEVENTY_ENV === "production";
   // html min only in production
   if (isProduction) {
     config.addTransform("htmlmin", htmlMinTransform);
   }
+  */
 
   // PLUG-INS //
   config.addPlugin(pluginRss);
