@@ -14,6 +14,7 @@ header {
     align-items: left;
 
     color: var(--text-primary);
+    border-bottom: dashed var(--border-very-light) 1px;
 }
 
 #header--title a {
@@ -29,6 +30,10 @@ header {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
+}
+
+#header--subtitle {
+    color: var(--text-lighter);
 }
 
 @media screen and (min-width: 48rem) {
