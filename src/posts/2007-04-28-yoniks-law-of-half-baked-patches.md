@@ -3,7 +3,7 @@ title: "Yonik's Law of Half Baked Patches"
 date: 2007-04-28
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: yoniks-law-of-half-baked-patches

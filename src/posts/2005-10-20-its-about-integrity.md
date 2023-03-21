@@ -2,7 +2,7 @@
 title: "It's about integrity"
 date: 2005-10-20
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: its-about-integrity
 ---

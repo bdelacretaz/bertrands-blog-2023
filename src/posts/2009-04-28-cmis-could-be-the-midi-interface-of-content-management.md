@@ -4,7 +4,7 @@ date: 2009-04-28
 tags: 
   - "cmis"
   - "content"
-  - "day-software"
+  - "day"
   - "jcr"
   - "post"
 slug: cmis-could-be-the-midi-interface-of-content-management

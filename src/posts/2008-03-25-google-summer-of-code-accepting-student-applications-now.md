@@ -3,7 +3,7 @@ title: "Google Summer of Code: accepting student applications now"
 date: 2008-03-25
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: google-summer-of-code-accepting-student-applications-now
 ---

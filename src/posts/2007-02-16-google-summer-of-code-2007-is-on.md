@@ -2,7 +2,7 @@
 title: "Google Summer Of Code 2007 is on!"
 date: 2007-02-16
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: google-summer-of-code-2007-is-on
 ---

@@ -2,7 +2,7 @@
 title: "Internationalized domain names - really?"
 date: 2004-03-01
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: internationalized-domain-names-really
 ---

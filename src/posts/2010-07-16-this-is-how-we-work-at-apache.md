@@ -2,10 +2,9 @@
 title: "This is how we work at Apache"
 date: 2010-07-16
 tags: 
-  - "opensource"
   - "asf"
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: this-is-how-we-work-at-apache
 ---

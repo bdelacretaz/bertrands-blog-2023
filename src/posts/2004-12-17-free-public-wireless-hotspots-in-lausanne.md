@@ -2,7 +2,7 @@
 title: "Free public wireless hotspots in Lausanne"
 date: 2004-12-17
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: free-public-wireless-hotspots-in-lausanne
 ---

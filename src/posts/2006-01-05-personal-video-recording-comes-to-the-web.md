@@ -2,9 +2,9 @@
 title: "Personal video recording comes to the web"
 date: 2006-01-05
 tags: 
-  - "the-web"
+  - "web"
   - "post"
-slug: personal-video-recording-comes-to-the-web
+slug: personal-video-recording-comes-to-web
 ---
 
 I won't go into extensive predictions for the new year (wishing my readers a most happy and blessed year BTW), but an easy one is that 2006 will be remembered as the Year When Personal Video Came To The Web.

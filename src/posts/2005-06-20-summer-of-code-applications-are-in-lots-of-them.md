@@ -2,7 +2,7 @@
 title: "Summer of Code applications are in - lots of them!"
 date: 2005-06-20
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: summer-of-code-applications-are-in-lots-of-them
 ---

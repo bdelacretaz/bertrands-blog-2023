@@ -4,7 +4,7 @@ date: 2010-07-02
 tags: 
   - "innovation"
   - "opensource"
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: open-innovation-in-software-means-open-source-2

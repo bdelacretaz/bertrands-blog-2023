@@ -2,7 +2,7 @@
 title: "The solution is...open source applications"
 date: 2004-11-15
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: the-solution-isopen-source-applications
 ---

@@ -2,7 +2,7 @@
 title: "HP Volksputer"
 date: 2003-05-12
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: hp-volksputer
 ---

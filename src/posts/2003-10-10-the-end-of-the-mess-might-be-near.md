@@ -2,7 +2,7 @@
 title: "The end of the mess might be near..."
 date: 2003-10-10
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: the-end-of-the-mess-might-be-near
 ---

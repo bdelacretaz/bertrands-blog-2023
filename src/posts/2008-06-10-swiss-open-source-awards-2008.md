@@ -2,7 +2,7 @@
 title: "Swiss open source awards 2008"
 date: 2008-06-10
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: swiss-open-source-awards-2008
 ---

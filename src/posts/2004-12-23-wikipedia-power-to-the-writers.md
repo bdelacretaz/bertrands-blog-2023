@@ -2,7 +2,7 @@
 title: "Wikipedia - power to the writers"
 date: 2004-12-23
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: wikipedia-power-to-the-writers
 ---

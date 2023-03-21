@@ -3,7 +3,7 @@ title: "Updated ASF Source Header and Copyright Notice Policy"
 date: 2006-07-17
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: updated-asf-source-header-and-copyright-notice-policy
 ---

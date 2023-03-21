@@ -3,7 +3,6 @@ title: "Great software is like a great music teacher"
 date: 2018-01-03
 tags: 
   - "music"
-  - "software"
   - "thoughts"
   - "post"
 slug: great-software-is-like-a-great-music-teacher

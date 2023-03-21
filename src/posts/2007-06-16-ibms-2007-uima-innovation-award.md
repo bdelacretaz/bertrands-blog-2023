@@ -3,7 +3,7 @@ title: "IBM's 2007 UIMA Innovation Award"
 date: 2007-06-16
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "tools"
   - "post"
 slug: ibms-2007-uima-innovation-award

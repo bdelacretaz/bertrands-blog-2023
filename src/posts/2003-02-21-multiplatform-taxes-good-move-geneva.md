@@ -2,7 +2,7 @@
 title: "Multiplatform taxes - good move Geneva!"
 date: 2003-02-21
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: multiplatform-taxes-good-move-geneva
 ---

@@ -2,7 +2,7 @@
 title: "Web disservices"
 date: 2003-09-25
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: web-disservices
 ---

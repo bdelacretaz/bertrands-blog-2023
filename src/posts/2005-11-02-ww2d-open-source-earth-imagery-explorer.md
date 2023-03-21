@@ -3,7 +3,7 @@ title: "WW2D - Open Source Earth imagery explorer"
 date: 2005-11-02
 tags: 
   - "fun"
-  - "open-source"
+  - opensource
   - "tools"
   - "post"
 slug: ww2d-open-source-earth-imagery-explorer

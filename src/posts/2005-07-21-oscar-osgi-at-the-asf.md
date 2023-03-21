@@ -3,7 +3,7 @@ title: "Oscar OSGI at the ASF?"
 date: 2005-07-21
 tags: 
   - "cocoon"
-  - "open-source"
+  - opensource
   - "osgi"
   - "post"
 slug: oscar-osgi-at-the-asf

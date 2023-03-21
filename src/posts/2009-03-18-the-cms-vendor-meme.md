@@ -3,7 +3,7 @@ title: "The CMS vendor meme"
 date: 2009-03-18
 tags: 
   - "content"
-  - "day-software"
+  - "day"
   - "post"
 slug: the-cms-vendor-meme
 ---

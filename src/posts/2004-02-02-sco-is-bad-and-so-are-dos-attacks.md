@@ -2,7 +2,7 @@
 title: "SCO is bad, and so are DOS attacks"
 date: 2004-02-02
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: sco-is-bad-and-so-are-dos-attacks
 ---

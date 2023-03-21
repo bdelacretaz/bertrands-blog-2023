@@ -3,7 +3,7 @@ title: "The Venice Project opens up"
 date: 2006-11-16
 tags: 
   - "milestones"
-  - "the-web"
+  - "web"
   - "post"
 slug: the-venice-project-opens-up
 ---

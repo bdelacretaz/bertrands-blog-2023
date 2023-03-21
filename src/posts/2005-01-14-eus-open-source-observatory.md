@@ -2,7 +2,7 @@
 title: "EU's Open Source Observatory"
 date: 2005-01-14
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: eus-open-source-observatory
 ---

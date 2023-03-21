@@ -2,7 +2,7 @@
 title: "Geronimo: newbiesitting required"
 date: 2003-08-08
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: geronimo-newbiesitting-required
 ---

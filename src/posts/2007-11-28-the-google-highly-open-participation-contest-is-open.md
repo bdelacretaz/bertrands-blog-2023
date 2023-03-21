@@ -3,7 +3,7 @@ title: "The Google Highly Open Participation Contest is open"
 date: 2007-11-28
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: the-google-highly-open-participation-contest-is-open
 ---

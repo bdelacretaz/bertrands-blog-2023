@@ -4,7 +4,7 @@ date: 2009-05-29
 tags: 
   - "conferences"
   - "content"
-  - "iks-project"
+  - iks
   - "post"
 slug: back-from-a-great-iks-project-meeting
 ---

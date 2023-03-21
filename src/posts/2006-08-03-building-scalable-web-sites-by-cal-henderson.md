@@ -2,7 +2,7 @@
 title: "\"Building scalable web sites\" by Cal Henderson"
 date: 2006-08-03
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: building-scalable-web-sites-by-cal-henderson

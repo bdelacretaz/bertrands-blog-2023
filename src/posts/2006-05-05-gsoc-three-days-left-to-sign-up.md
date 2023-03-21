@@ -3,7 +3,7 @@ title: "GSoC: three days left to sign up!"
 date: 2006-05-05
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: gsoc-three-days-left-to-sign-up
 ---

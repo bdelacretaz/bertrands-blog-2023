@@ -2,7 +2,7 @@
 title: "I've finally got a del.icio.us account as well"
 date: 2004-12-08
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: ive-finally-got-a-delicious-account-as-well
 ---

@@ -3,7 +3,7 @@ title: "Open Source Collaboration Tools are Good For You!"
 date: 2007-11-30
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-collaboration-tools-are-good-for-you
 ---

@@ -4,7 +4,7 @@ date: 2009-04-01
 tags: 
   - "conferences"
   - "content"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-collaboration-tools-are-good-for-you-relooked-and-live-tomorrow
 ---

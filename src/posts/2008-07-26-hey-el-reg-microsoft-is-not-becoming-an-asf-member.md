@@ -3,7 +3,7 @@ title: "Hey, El Reg - Microsoft is *not* becoming an ASF member!"
 date: 2008-07-26
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: hey-el-reg-microsoft-is-not-becoming-an-asf-member
 ---

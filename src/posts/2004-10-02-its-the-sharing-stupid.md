@@ -2,7 +2,7 @@
 title: "It's the sharing, stupid!"
 date: 2004-10-02
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: its-the-sharing-stupid
 ---

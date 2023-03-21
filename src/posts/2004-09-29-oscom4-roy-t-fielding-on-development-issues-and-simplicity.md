@@ -2,7 +2,7 @@
 title: "OSCOM4: Roy T. Fielding on development issues - and simplicity"
 date: 2004-09-29
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: oscom4-roy-t-fielding-on-development-issues-and-simplicity
 ---

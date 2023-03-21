@@ -2,10 +2,7 @@
 title: "RESTful services as intelligent websites"
 date: 2012-03-27
 tags: 
-  - "http"
-  - "rest"
-  - "services"
-  - "the-web"
+  - "web"
   - "thoughts"
   - "post"
 slug: restful-services-as-intelligent-websites

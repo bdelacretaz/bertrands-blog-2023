@@ -2,7 +2,7 @@
 title: "Gmail as a general-purpose storage appliance"
 date: 2004-09-07
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: gmail-as-a-general-purpose-storage-appliance
 ---

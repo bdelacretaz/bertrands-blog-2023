@@ -2,7 +2,7 @@
 title: "Reuters RSS feeds"
 date: 2004-05-08
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: reuters-rss-feeds
 ---

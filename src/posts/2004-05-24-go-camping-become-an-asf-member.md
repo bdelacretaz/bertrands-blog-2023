@@ -2,7 +2,7 @@
 title: "Go camping, become an ASF member!"
 date: 2004-05-24
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: go-camping-become-an-asf-member
 ---

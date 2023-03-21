@@ -3,7 +3,7 @@ title: "Like the test drive? keep the car!"
 date: 2006-06-27
 tags: 
   - "fun"
-  - "open-source"
+  - opensource
   - "post"
 slug: like-the-test-drive-keep-the-car
 ---

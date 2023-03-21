@@ -3,7 +3,7 @@ title: "Open Source Communites are like gardens, says Leslie Hawthorn"
 date: 2012-06-04
 tags: 
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-communites-are-like-gardens-says-leslie-hawhthorn
 ---

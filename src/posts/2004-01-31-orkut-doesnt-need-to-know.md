@@ -2,7 +2,7 @@
 title: "Orkut doesn't need to know"
 date: 2004-01-31
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: orkut-doesnt-need-to-know
 ---

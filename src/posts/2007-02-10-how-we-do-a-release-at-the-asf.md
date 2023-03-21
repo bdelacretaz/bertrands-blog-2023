@@ -3,7 +3,7 @@ title: "How we do a release at the ASF"
 date: 2007-02-10
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: how-we-do-a-release-at-the-asf
 ---

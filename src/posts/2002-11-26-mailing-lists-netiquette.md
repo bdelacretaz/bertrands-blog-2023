@@ -2,7 +2,7 @@
 title: "Mailing lists netiquette"
 date: 2002-11-26
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: mailing-lists-netiquette
 ---

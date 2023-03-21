@@ -3,7 +3,7 @@ title: "Open Source VC - in France!"
 date: 2004-12-06
 tags: 
   - "cocoon"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-vc-in-france
 ---

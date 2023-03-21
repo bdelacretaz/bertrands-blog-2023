@@ -3,7 +3,7 @@ title: "Swiss Blog Awards - 5.5.06, Bienne"
 date: 2006-02-23
 tags: 
   - "blogs"
-  - "the-web"
+  - "web"
   - "post"
 slug: swiss-blog-awards-5506-bienne
 ---

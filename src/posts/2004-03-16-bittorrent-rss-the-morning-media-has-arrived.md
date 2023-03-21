@@ -2,7 +2,7 @@
 title: "BitTorrent + RSS: the morning media has arrived"
 date: 2004-03-16
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: bittorrent-rss-the-morning-media-has-arrived
 ---

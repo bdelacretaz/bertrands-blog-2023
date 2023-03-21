@@ -2,7 +2,7 @@
 title: "Vadim's Interactive Apache Stats"
 date: 2004-05-13
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: vadims-interactive-apache-stats
 ---

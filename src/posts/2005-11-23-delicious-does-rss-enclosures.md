@@ -2,7 +2,7 @@
 title: "del.icio.us does RSS enclosures"
 date: 2005-11-23
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: delicious-does-rss-enclosures

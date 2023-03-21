@@ -2,7 +2,7 @@
 title: "All your CVS access belong to us"
 date: 2003-08-08
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: all-your-cvs-access-belong-to-us
 ---

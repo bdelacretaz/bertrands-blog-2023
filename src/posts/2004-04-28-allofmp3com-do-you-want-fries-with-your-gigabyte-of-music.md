@@ -2,7 +2,7 @@
 title: "allofmp3.com - do you want fries with your gigabyte of music?"
 date: 2004-04-28
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: allofmp3com-do-you-want-fries-with-your-gigabyte-of-music
 ---

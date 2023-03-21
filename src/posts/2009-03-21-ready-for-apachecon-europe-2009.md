@@ -5,7 +5,7 @@ tags:
   - "apachecon"
   - "conferences"
   - "content"
-  - "iks-project"
+  - iks
   - "post"
 slug: ready-for-apachecon-europe-2009
 ---

@@ -2,7 +2,7 @@
 title: "ApacheCon Europe 2004 - not really, but close..."
 date: 2004-06-15
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: apachecon-europe-2004-not-really-but-close
 ---

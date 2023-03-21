@@ -2,7 +2,7 @@
 title: "New Open Source Marketing Consultancy by Sandro Groganz"
 date: 2008-01-07
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: new-open-source-marketing-consultancy-by-sandro-groganz
 ---

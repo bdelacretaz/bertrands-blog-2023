@@ -3,7 +3,7 @@ title: "What Open Development brings"
 date: 2007-11-14
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: what-open-development-brings
 ---

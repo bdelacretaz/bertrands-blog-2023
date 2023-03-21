@@ -5,7 +5,7 @@ tags:
   - "asf"
   - "content"
   - "gsoc"
-  - "open-source"
+  - opensource
   - "sling"
   - "post"
 slug: google-summer-of-code-2009-real-soon-now

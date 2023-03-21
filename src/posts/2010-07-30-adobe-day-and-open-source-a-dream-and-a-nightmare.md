@@ -6,8 +6,8 @@ tags:
   - "day"
   - "opensource"
   - "adobe"
-  - "day-software"
-  - "open-source"
+  - "day"
+  - opensource
   - "thoughts"
   - "post"
 slug: adobe-day-and-open-source-a-dream-and-a-nightmare

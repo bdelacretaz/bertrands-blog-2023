@@ -3,7 +3,6 @@ title: "Would you hire an open source developer?"
 date: 2018-01-03
 tags: 
   - "development"
-  - "software"
   - "thoughts"
   - "post"
 slug: would-you-hire-an-open-source-developer

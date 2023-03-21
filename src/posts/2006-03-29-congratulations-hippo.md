@@ -3,7 +3,7 @@ title: "Congratulations Hippo!"
 date: 2006-03-29
 tags: 
   - "cocoon"
-  - "open-source"
+  - opensource
   - "post"
 slug: congratulations-hippo
 ---

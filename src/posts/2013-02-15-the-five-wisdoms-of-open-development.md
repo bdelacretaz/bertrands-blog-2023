@@ -3,7 +3,7 @@ title: "The Five Wisdoms of Open Development"
 date: 2013-02-15
 tags: 
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: the-five-wisdoms-of-open-development
 ---

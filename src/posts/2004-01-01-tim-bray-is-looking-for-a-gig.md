@@ -2,7 +2,7 @@
 title: "Tim Bray is looking for a gig"
 date: 2004-01-01
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: tim-bray-is-looking-for-a-gig
 ---

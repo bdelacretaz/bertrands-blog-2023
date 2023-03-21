@@ -2,7 +2,7 @@
 title: "New Korg keyboard powered by Linux"
 date: 2005-01-21
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: new-korg-keyboard-powered-by-linux
 ---

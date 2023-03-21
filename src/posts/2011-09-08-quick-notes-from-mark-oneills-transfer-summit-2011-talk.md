@@ -2,7 +2,7 @@
 title: "Quick notes from Mark O'Neill's Transfer Summit 2011 talk"
 date: 2011-09-08
 tags: 
-  - "innovation-government"
+  - "innovation"
   - "conferences"
   - "post"
 slug: quick-notes-from-mark-oneills-transfer-summit-2011-talk

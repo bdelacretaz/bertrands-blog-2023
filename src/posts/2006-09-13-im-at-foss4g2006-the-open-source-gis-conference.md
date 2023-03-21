@@ -2,7 +2,7 @@
 title: "I'm at foss4g2006, the Open Source GIS conference"
 date: 2006-09-13
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: im-at-foss4g2006-the-open-source-gis-conference
 ---

@@ -2,7 +2,7 @@
 title: "Student's videoconference"
 date: 2006-03-31
 tags: 
-  - "the-web"
+  - "web"
   - "thoughts"
   - "post"
 slug: students-videoconference

@@ -2,7 +2,7 @@
 title: "Google is down, and so are Yahoo,  Microsoft, Fedex, Xerox, Apple and more"
 date: 2004-06-15
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: google-is-down-and-so-are-yahoo-microsoft-fedex-xerox-apple-and-more
 ---

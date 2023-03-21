@@ -2,7 +2,7 @@
 title: "Behold, Internet Explorer 7 is upon us"
 date: 2006-10-19
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: behold-internet-explorer-7-is-upon-us

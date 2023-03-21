@@ -2,7 +2,7 @@
 title: "More (SUSE) Linux in Switzerland"
 date: 2005-12-17
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: more-suse-linux-in-switzerland
 ---

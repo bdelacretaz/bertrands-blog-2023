@@ -2,7 +2,7 @@
 title: "Yes, the GPL and ASL licenses go together."
 date: 2004-05-26
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: yes-the-gpl-and-asl-licenses-go-together
 ---

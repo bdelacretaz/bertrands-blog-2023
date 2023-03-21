@@ -2,7 +2,7 @@
 title: "Google homepage portlets, aka modules"
 date: 2005-12-15
 tags: 
-  - "the-web"
+  - "web"
   - "thoughts"
   - "post"
 slug: google-homepage-portlets-aka-modules

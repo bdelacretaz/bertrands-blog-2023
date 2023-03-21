@@ -2,7 +2,7 @@
 title: "Open vs.licensed software"
 date: 2002-11-07
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: open-vslicensed-software
 ---

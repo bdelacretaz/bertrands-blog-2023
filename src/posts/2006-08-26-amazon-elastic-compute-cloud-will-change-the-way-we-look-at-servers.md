@@ -2,7 +2,7 @@
 title: "Amazon Elastic Compute Cloud will change the way we look at servers"
 date: 2006-08-26
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: amazon-elastic-compute-cloud-will-change-the-way-we-look-at-servers

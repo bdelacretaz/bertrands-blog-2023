@@ -2,7 +2,7 @@
 title: "The eBay architecture"
 date: 2006-12-19
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: the-ebay-architecture

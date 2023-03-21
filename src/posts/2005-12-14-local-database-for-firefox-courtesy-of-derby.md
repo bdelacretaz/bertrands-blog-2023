@@ -3,7 +3,7 @@ title: "Local database for Firefox, courtesy of Derby"
 date: 2005-12-14
 tags: 
   - "apachecon"
-  - "the-web"
+  - "web"
   - "post"
 slug: local-database-for-firefox-courtesy-of-derby
 ---

@@ -3,7 +3,7 @@ title: "Now even I can understand HTTP error codes"
 date: 2007-09-20
 tags: 
   - "fun"
-  - "the-web"
+  - "web"
   - "post"
 slug: now-even-i-can-understand-http-error-codes
 ---

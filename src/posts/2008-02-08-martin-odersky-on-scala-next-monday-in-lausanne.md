@@ -3,7 +3,7 @@ title: "Martin Odersky on Scala, next Monday in Lausanne"
 date: 2008-02-08
 tags: 
   - "epfl"
-  - "open-source"
+  - opensource
   - "scala"
   - "post"
 slug: martin-odersky-on-scala-next-monday-in-lausanne

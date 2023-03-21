@@ -3,7 +3,7 @@ title: "The ASF has grown"
 date: 2005-07-20
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: the-asf-has-grown
 ---

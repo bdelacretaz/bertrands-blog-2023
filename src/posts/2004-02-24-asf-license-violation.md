@@ -2,7 +2,7 @@
 title: "ASF license violation"
 date: 2004-02-24
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: asf-license-violation
 ---

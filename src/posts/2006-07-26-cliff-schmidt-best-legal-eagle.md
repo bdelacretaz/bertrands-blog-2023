@@ -3,7 +3,7 @@ title: "Cliff Schmidt - Best Legal Eagle!"
 date: 2006-07-26
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: cliff-schmidt-best-legal-eagle
 ---

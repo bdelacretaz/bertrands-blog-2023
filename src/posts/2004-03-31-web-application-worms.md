@@ -2,7 +2,7 @@
 title: "Web Application Worms"
 date: 2004-03-31
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: web-application-worms
 ---

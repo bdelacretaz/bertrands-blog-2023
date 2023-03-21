@@ -3,7 +3,7 @@ title: "Dear Oracle, can we have our nice javadoc URLs back?"
 date: 2010-07-21
 tags: 
   - "java"
-  - "the-web"
+  - "web"
   - "post"
 slug: dear-oracle-can-we-have-our-nice-javadoc-urls-back
 ---

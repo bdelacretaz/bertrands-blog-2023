@@ -2,7 +2,7 @@
 title: "ApacheCon Europe 2005, Stuttgart"
 date: 2004-12-06
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: apachecon-europe-2005-stuttgart
 ---

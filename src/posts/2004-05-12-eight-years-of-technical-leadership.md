@@ -2,7 +2,7 @@
 title: "Eight years of technical leadership"
 date: 2004-05-12
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: eight-years-of-technical-leadership
 ---

@@ -2,7 +2,7 @@
 title: "Free gigabyte, for real!"
 date: 2004-04-02
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: free-gigabyte-for-real
 ---

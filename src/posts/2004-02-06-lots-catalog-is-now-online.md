@@ -2,7 +2,7 @@
 title: "LOTS catalog is now online"
 date: 2004-02-06
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: lots-catalog-is-now-online
 ---

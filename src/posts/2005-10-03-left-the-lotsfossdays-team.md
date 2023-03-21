@@ -2,7 +2,7 @@
 title: "Left the LOTS/fossdays team"
 date: 2005-10-03
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: left-the-lotsfossdays-team
 ---

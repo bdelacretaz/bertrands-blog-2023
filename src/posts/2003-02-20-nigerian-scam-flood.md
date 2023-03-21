@@ -2,7 +2,7 @@
 title: "Nigerian scam flood"
 date: 2003-02-20
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: nigerian-scam-flood
 ---

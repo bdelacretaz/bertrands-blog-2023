@@ -3,7 +3,7 @@ title: "javadocs.org"
 date: 2004-05-13
 tags: 
   - "java"
-  - "the-web"
+  - "web"
   - "post"
 slug: javadocsorg
 ---

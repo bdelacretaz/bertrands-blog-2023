@@ -3,8 +3,8 @@ title: "Looking for use cases for a semantically enhanced CMS"
 date: 2009-03-10
 tags: 
   - "content"
-  - "day-software"
-  - "iks-project"
+  - "day"
+  - iks
   - "post"
 slug: looking-for-use-cases-for-a-semantically-enhanced-cms
 ---

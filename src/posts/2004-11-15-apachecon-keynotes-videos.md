@@ -2,7 +2,7 @@
 title: "ApacheCon keynotes videos"
 date: 2004-11-15
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: apachecon-keynotes-videos
 ---

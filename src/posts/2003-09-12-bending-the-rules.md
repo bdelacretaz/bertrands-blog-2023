@@ -2,7 +2,7 @@
 title: "Bending the rules"
 date: 2003-09-12
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: bending-the-rules
 ---

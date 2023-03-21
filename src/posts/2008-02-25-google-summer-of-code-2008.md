@@ -3,7 +3,7 @@ title: "Google Summer of Code 2008!"
 date: 2008-02-25
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: google-summer-of-code-2008
 ---

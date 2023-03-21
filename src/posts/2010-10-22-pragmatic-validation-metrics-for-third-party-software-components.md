@@ -2,7 +2,7 @@
 title: "Pragmatic validation metrics for third-party software components"
 date: 2010-10-22
 tags: 
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: pragmatic-validation-metrics-for-third-party-software-components

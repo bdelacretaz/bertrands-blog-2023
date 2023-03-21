@@ -3,7 +3,7 @@ title: "Nominate your favorite Open Source CMS"
 date: 2006-07-25
 tags: 
   - "cocoon"
-  - "open-source"
+  - opensource
   - "tools"
   - "post"
 slug: nominate-your-favorite-open-source-cms

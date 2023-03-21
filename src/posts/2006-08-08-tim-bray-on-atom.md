@@ -2,7 +2,7 @@
 title: "Tim Bray on Atom"
 date: 2006-08-08
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: tim-bray-on-atom

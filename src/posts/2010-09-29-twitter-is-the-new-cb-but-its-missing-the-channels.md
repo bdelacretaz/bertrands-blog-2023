@@ -4,7 +4,7 @@ date: 2010-09-29
 tags: 
   - "twitter"
   - "collaboration"
-  - "the-web"
+  - "web"
   - "post"
 slug: twitter-is-the-new-cb-but-its-missing-the-channels
 ---

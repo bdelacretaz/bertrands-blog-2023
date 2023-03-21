@@ -2,7 +2,7 @@
 title: "Google spreadsheets are here, bloated office suites will soon be dead!"
 date: 2006-06-14
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: google-spreadsheets-are-here-bloated-office-suites-will-soon-be-dead

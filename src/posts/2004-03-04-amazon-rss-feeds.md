@@ -2,7 +2,7 @@
 title: "Amazon RSS feeds"
 date: 2004-03-04
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: amazon-rss-feeds
 ---

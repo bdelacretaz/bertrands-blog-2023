@@ -2,9 +2,9 @@
 title: "+1! (tm) - a rosy financial future for the Apache Software Foundation"
 date: 2011-04-01
 tags: 
-  - "apache-asf-plusone"
   - "asf"
-  - "open-source"
+  - "asf"
+  - opensource
   - "post"
 slug: 1-tm-a-rosy-financial-future-for-the-apache-software-foundation
 ---

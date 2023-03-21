@@ -2,7 +2,7 @@
 title: "European Commission and Linux"
 date: 2002-11-07
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: european-commission-and-linux
 ---

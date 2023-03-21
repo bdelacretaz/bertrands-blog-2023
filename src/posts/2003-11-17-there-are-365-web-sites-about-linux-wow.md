@@ -2,7 +2,7 @@
 title: "There are 365 web sites about Linux. Wow."
 date: 2003-11-17
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: there-are-365-web-sites-about-linux-wow
 ---

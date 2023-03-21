@@ -2,7 +2,7 @@
 title: "Opting out of surveys of OSS developers (1962030919860111OptingOut)"
 date: 2007-11-27
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: opting-out-of-surveys-of-oss-developers-1962030919860111optingout
 ---

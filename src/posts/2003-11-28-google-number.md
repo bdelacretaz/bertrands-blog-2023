@@ -2,7 +2,7 @@
 title: "Google Number"
 date: 2003-11-28
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: google-number
 ---

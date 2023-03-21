@@ -3,7 +3,7 @@ title: "Registered on list.blogug.ch"
 date: 2005-12-21
 tags: 
   - "blogs"
-  - "the-web"
+  - "web"
   - "post"
 slug: registered-on-listblogugch
 ---

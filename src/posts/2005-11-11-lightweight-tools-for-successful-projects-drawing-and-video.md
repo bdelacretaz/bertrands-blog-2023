@@ -2,7 +2,7 @@
 title: "Lightweight Tools for successful Projects: drawing and video"
 date: 2005-11-11
 tags: 
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: lightweight-tools-for-successful-projects-drawing-and-video

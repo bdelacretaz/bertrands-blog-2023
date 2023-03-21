@@ -3,7 +3,7 @@ title: "Open Source Collaboration Tools - at OpenExpo, Bern, April 2nd"
 date: 2009-02-26
 tags: 
   - "conferences"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-collaboration-tools-at-openexpo-bern-april-2nd
 ---

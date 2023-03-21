@@ -2,7 +2,7 @@
 title: "IKS project, months 4 to 6: a community is born!"
 date: 2009-07-17
 tags: 
-  - "iks-project"
+  - iks
   - "post"
 slug: iks-project-months-4-to-6
 ---

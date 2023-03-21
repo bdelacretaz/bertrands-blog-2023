@@ -2,7 +2,7 @@
 title: "Crowbar: scrape javascript-generated pages via Gecko and REST!"
 date: 2007-02-24
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: crowbar-scrape-javascript-generated-pages-via-gecko-and-rest

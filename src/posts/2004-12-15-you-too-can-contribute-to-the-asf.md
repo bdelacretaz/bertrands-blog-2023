@@ -2,7 +2,7 @@
 title: "You too can contribute to the ASF!"
 date: 2004-12-15
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: you-too-can-contribute-to-the-asf
 ---

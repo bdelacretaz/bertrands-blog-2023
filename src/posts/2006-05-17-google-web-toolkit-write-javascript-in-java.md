@@ -2,7 +2,7 @@
 title: "Google Web Toolkit - write javascript in java!"
 date: 2006-05-17
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: google-web-toolkit-write-javascript-in-java

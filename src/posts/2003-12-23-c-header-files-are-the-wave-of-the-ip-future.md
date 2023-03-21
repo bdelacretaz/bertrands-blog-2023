@@ -2,7 +2,7 @@
 title: "C header files are the wave of the (IP) future"
 date: 2003-12-23
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: c-header-files-are-the-wave-of-the-ip-future
 ---

@@ -3,7 +3,7 @@ title: "A Sling-based blog in 46 lines of code"
 date: 2008-12-15
 tags: 
   - "content"
-  - "day-software"
+  - "day"
   - "jcr"
   - "sling"
   - "post"

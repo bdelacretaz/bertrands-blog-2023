@@ -2,7 +2,7 @@
 title: "GHOP Grand Prize Winners @google"
 date: 2008-07-26
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: ghop-grand-prize-winners-google
 ---

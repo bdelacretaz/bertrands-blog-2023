@@ -2,7 +2,7 @@
 title: "Missing LIFT once again...aaarrghh"
 date: 2007-02-07
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: missing-lift-once-againaaarrghh
 ---

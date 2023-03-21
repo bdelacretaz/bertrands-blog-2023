@@ -2,7 +2,7 @@
 title: "LOTS 2005 - call for participation"
 date: 2004-09-17
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: lots-2005-call-for-participation
 ---

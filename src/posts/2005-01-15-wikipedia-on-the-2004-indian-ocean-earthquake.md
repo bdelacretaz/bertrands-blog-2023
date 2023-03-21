@@ -2,7 +2,7 @@
 title: "Wikipedia on the 2004 Indian Ocean earthquake"
 date: 2005-01-15
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: wikipedia-on-the-2004-indian-ocean-earthquake
 ---

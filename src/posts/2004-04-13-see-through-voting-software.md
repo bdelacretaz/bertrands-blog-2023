@@ -2,7 +2,7 @@
 title: "See-Through Voting Software"
 date: 2004-04-13
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: see-through-voting-software
 ---

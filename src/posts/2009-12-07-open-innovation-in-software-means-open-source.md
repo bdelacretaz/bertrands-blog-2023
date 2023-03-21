@@ -3,7 +3,7 @@ title: "Open Innovation in Software means Open Source"
 date: 2009-12-07
 tags: 
   - "conferences"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-innovation-in-software-means-open-source
 ---

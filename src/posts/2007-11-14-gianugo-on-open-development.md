@@ -3,7 +3,7 @@ title: "Gianugo on Open Development"
 date: 2007-11-14
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: gianugo-on-open-development
 ---

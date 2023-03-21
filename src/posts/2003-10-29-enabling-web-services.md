@@ -2,7 +2,7 @@
 title: "Enabling Web Services"
 date: 2003-10-29
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: enabling-web-services
 ---

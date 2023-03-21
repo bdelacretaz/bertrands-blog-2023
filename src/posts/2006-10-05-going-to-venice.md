@@ -2,7 +2,7 @@
 title: "Going to Venice"
 date: 2006-10-05
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: going-to-venice
 ---

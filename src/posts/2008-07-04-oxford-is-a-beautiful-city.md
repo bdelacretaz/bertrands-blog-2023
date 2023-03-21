@@ -2,7 +2,7 @@
 title: "Oxford is a beautiful city"
 date: 2008-07-04
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: oxford-is-a-beautiful-city
 ---

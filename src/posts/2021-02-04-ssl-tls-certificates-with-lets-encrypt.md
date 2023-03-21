@@ -3,6 +3,7 @@ title: "SSL/TLS certificates with Let's Encrypt"
 date: 2021-02-04
 tags: 
   - "ssl"
+  - security
   - "post"
 slug: ssl-tls-certificates-with-lets-encrypt
 ---
@@ -21,7 +22,7 @@ Here's the command that I used to generate a Let's Encrypt certificate using [ce
 
 This required setting up a DNS TXT record for validation, and waiting for it to be active by checking the domains DNS servers,, using `dig NS codeconsult.ch` to find them and then `dig @thednsserver.xx TXT <domain>` to verify that the TXT records are live.
 
-`sudo certbot certonly --manual --preferred-challenges dns -d *.thedomain.ch -d thedomain.ch`
+    sudo certbot certonly --manual --preferred-challenges dns -d *.thedomain.ch -d thedomain.ch
 
 ## Checking the certificate's Subject Alternative Names
 
@@ -29,10 +30,10 @@ Before sending traffic to your website, once the certificate is installed on it 
 
 Running the below command produces a text dump of the certificate, and grepping that for DNS lists those names:
 
-`openssl s_client -showcerts -connect codeconsult.ch:443 < /dev/null | openssl x509 -text | grep DNS`
+    openssl s_client -showcerts -connect codeconsult.ch:443 < /dev/null | openssl x509 -text | grep DNS
 
 which outputs
 
-`DNS:codeconsult.ch, DNS:www.codeconsult.ch`
+    DNS:codeconsult.ch, DNS:www.codeconsult.ch
 
 That's it! At this point the certificate is installed and verified, we can send traffic to the website. Just remember to renew the certificate before it expires, either automatically if your setup allows it, or manually using similar commands than what we saw here.

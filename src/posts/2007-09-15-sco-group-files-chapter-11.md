@@ -2,7 +2,7 @@
 title: "SCO Group files Chapter 11"
 date: 2007-09-15
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: sco-group-files-chapter-11
 ---

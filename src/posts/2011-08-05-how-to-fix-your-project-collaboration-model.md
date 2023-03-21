@@ -2,10 +2,9 @@
 title: "How to fix your project collaboration model?"
 date: 2011-08-05
 tags: 
-  - "apache"
-  - "asf"
+  - asf
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: how-to-fix-your-project-collaboration-model
 ---

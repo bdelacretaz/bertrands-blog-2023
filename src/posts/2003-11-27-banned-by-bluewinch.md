@@ -2,7 +2,7 @@
 title: "Banned by bluewin.ch"
 date: 2003-11-27
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: banned-by-bluewinch
 ---

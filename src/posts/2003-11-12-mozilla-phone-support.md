@@ -2,7 +2,7 @@
 title: "Mozilla phone support"
 date: 2003-11-12
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: mozilla-phone-support
 ---

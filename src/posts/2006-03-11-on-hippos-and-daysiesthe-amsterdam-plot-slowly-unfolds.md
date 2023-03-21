@@ -2,7 +2,7 @@
 title: "On hippos and daysies...the Amsterdam plot slowly unfolds"
 date: 2006-03-11
 tags: 
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: on-hippos-and-daysiesthe-amsterdam-plot-slowly-unfolds

@@ -2,7 +2,7 @@
 title: "Swiss government publishes Open-Source strategy"
 date: 2004-03-09
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: swiss-government-publishes-open-source-strategy
 ---

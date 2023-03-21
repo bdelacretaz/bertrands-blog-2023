@@ -2,7 +2,7 @@
 title: "The hidden benefits of Open Source"
 date: 2006-03-28
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: the-hidden-benefits-of-open-source
 ---

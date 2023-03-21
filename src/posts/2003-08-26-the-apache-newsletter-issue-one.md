@@ -2,7 +2,7 @@
 title: "The Apache newsletter, issue one"
 date: 2003-08-26
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: the-apache-newsletter-issue-one
 ---

@@ -2,7 +2,7 @@
 title: "Is Java Desktop happening?"
 date: 2003-12-09
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: is-java-desktop-happening
 ---

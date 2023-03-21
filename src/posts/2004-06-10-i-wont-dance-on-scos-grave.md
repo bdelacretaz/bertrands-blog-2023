@@ -2,7 +2,7 @@
 title: "I won't dance on SCO's grave"
 date: 2004-06-10
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: i-wont-dance-on-scos-grave
 ---

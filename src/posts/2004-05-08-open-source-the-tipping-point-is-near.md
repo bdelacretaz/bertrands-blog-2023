@@ -2,7 +2,7 @@
 title: "Open Source: the tipping point is near"
 date: 2004-05-08
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-the-tipping-point-is-near
 ---

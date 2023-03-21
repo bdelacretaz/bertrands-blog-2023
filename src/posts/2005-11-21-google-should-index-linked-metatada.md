@@ -2,7 +2,7 @@
 title: "Google should index linked metatada"
 date: 2005-11-21
 tags: 
-  - "the-web"
+  - "web"
   - "thoughts"
   - "post"
 slug: google-should-index-linked-metatada
@@ -15,7 +15,7 @@ Look for example at what [PiggyBank](http://simile.mit.edu/piggy-bank/enable.htm
 <link
 rel="alternate" type="application/rdf+xml"
 title="Metadata about this page"
-href="http://somewhere-on-the-web.com/page224/metadata.rdf">
+href="http://somewhere-on-web.com/page224/metadata.rdf">
 
 would have its metadata indexed.
 
@@ -24,7 +24,7 @@ And of course it doesn't have to be RDF. Talking about this with [Sylvain](http:
 <link
 rel="alternate" type="application/googlebase+xml"
 title="Metadata about this page"
-href="http://somewhere-on-the-web.com/page224/metadata.xml">
+href="http://somewhere-on-web.com/page224/metadata.xml">
 
 Where Google might accept the same formats as the Google Base bulk upload does.
 

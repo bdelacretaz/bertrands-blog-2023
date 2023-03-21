@@ -2,7 +2,7 @@
 title: "Bye bye SCO"
 date: 2004-01-31
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: bye-bye-sco
 ---

@@ -3,7 +3,7 @@ title: "Google Calendar is here"
 date: 2006-04-13
 tags: 
   - "milestones"
-  - "the-web"
+  - "web"
   - "post"
 slug: google-calendar-is-here
 ---

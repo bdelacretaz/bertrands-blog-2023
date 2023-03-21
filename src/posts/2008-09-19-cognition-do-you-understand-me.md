@@ -2,7 +2,7 @@
 title: "Cognition, do you understand me?"
 date: 2008-09-19
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: cognition-do-you-understand-me

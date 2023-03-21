@@ -2,7 +2,7 @@
 title: "Verbose planet"
 date: 2004-01-21
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: verbose-planet
 ---

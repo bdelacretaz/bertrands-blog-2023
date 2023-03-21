@@ -2,7 +2,7 @@
 title: "ApacheCon presentations"
 date: 2003-11-18
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: apachecon-presentations
 ---

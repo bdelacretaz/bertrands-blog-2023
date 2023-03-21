@@ -2,7 +2,7 @@
 title: "What is source code, anyway?"
 date: 2005-01-28
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: what-is-source-code-anyway
 ---

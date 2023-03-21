@@ -2,7 +2,7 @@
 title: "Open Source but Closed Data - pay at the gate, please..."
 date: 2004-12-07
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-but-closed-data-pay-at-the-gate-please
 ---

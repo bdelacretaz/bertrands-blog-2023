@@ -2,7 +2,7 @@
 title: "No more IE for MacOSX"
 date: 2005-12-19
 tags: 
-  - "the-web"
+  - "web"
   - "tools"
   - "post"
 slug: no-more-ie-for-macosx

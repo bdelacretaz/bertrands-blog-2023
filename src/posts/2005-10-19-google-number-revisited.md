@@ -3,7 +3,7 @@ title: "Google Number - revisited"
 date: 2005-10-19
 tags: 
   - "fun"
-  - "the-web"
+  - "web"
   - "post"
 slug: google-number-revisited
 ---

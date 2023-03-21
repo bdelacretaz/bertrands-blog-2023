@@ -2,7 +2,7 @@
 title: "Brian Behlendorf goes to Davos!"
 date: 2006-01-25
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: brian-behlendorf-goes-to-davos
 ---

@@ -4,7 +4,7 @@ date: 2020-04-07
 tags: 
   - "opensource"
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: rules-for-revolutionaries-2000-edition
 ---

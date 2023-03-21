@@ -3,7 +3,7 @@ title: "What Makes Apache Tick?"
 date: 2009-11-17
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: what-makes-apache-tick
 ---

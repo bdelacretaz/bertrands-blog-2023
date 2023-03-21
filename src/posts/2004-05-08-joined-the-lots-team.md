@@ -2,7 +2,7 @@
 title: "Joined the LOTS team"
 date: 2004-05-08
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: joined-the-lots-team
 ---

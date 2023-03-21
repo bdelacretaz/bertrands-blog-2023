@@ -2,7 +2,7 @@
 title: "QOTD: on compiling open source projects"
 date: 2008-09-26
 tags: 
-  - "open-source"
+  - opensource
   - "thoughts"
   - "post"
 slug: qotd-on-compiling-open-source-projects

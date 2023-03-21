@@ -2,7 +2,7 @@
 title: "A much more healthy computer industry?"
 date: 2004-02-26
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: a-much-more-healthy-computer-industry
 ---

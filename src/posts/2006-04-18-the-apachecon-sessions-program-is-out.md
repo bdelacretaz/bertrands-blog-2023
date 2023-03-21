@@ -3,7 +3,7 @@ title: "The ApacheCon sessions program is out"
 date: 2006-04-18
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: the-apachecon-sessions-program-is-out
 ---

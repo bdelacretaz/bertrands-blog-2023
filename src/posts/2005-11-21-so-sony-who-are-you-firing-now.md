@@ -2,7 +2,7 @@
 title: "So, Sony, who are you firing now?"
 date: 2005-11-21
 tags: 
-  - "the-web"
+  - "web"
   - "thoughts"
   - "post"
 slug: so-sony-who-are-you-firing-now

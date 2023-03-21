@@ -2,7 +2,7 @@
 title: "Coming soon from a Google container near you"
 date: 2005-11-21
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: coming-soon-from-a-google-container-near-you
 ---

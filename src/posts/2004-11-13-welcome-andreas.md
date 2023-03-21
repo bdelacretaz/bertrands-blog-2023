@@ -2,7 +2,7 @@
 title: "Welcome Andreas"
 date: 2004-11-13
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: welcome-andreas
 ---

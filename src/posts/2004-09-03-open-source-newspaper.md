@@ -2,7 +2,7 @@
 title: "Open Source Newspaper"
 date: 2004-09-03
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-newspaper
 ---

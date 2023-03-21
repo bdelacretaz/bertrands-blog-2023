@@ -2,7 +2,7 @@
 title: "Hibernate sellout"
 date: 2003-09-18
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: hibernate-sellout
 ---

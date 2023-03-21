@@ -2,7 +2,7 @@
 title: "Geronimo talks"
 date: 2003-08-06
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: geronimo-talks
 ---

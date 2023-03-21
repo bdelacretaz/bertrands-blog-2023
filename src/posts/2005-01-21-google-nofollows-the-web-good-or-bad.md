@@ -2,9 +2,9 @@
 title: "Google nofollows the web - good or bad?"
 date: 2005-01-21
 tags: 
-  - "the-web"
+  - "web"
   - "post"
-slug: google-nofollows-the-web-good-or-bad
+slug: google-nofollows-web-good-or-bad
 ---
 
 There's been much discussion about [this](http://www.google.com/googleblog/2005/01/preventing-comment-spam.html) in the last few days. [Bernhard Seefeld](http://www.bernhardseefeld.ch/archives/000102.html) (the man behind the great [map.search.ch](http://map.search.ch/Immensee/Artherstrasse-60)) has a good point in saying that some community request for comments could have made this much better.

@@ -3,7 +3,7 @@ title: "Open source is done. Welcome to Open Development!"
 date: 2017-12-14
 tags: 
   - "collaboration"
-  - "open-source"
+  - opensource
   - "post"
 slug: open-source-is-done-welcome-to-open-development
 ---

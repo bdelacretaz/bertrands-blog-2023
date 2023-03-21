@@ -2,7 +2,7 @@
 title: "Nice and honest people, right?"
 date: 2004-05-19
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: nice-and-honest-people-right
 ---

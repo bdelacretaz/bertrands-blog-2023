@@ -3,7 +3,7 @@ title: "Greg Stein mugged - accepting donations"
 date: 2007-08-28
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: greg-stein-mugged-accepting-donations
 ---

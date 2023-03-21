@@ -2,7 +2,7 @@
 title: "Yell if you know this boy"
 date: 2005-01-10
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: yell-if-you-know-this-boy
 ---

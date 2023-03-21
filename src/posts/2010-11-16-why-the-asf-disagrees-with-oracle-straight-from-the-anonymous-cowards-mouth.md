@@ -3,7 +3,7 @@ title: "Why the ASF disagrees with Oracle, straight from the Anonymous Coward's 
 date: 2010-11-16
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "oracle"
   - "post"
 slug: why-the-asf-disagrees-with-oracle-straight-from-the-anonymous-cowards-mouth

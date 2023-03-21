@@ -2,7 +2,7 @@
 title: "lift06 - February 2-3 2006, Geneva"
 date: 2005-11-11
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: lift06-february-2-3-2006-geneva
 ---

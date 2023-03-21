@@ -2,7 +2,7 @@
 title: "Whaddyamean, burn my Open Source Stack Shrink Wrapper Company brochures?"
 date: 2005-01-13
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: whaddyamean-burn-my-open-source-stack-shrink-wrapper-company-brochures
 ---

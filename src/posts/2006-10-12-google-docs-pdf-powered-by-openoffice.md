@@ -2,7 +2,7 @@
 title: "Google Docs PDF - powered by OpenOffice"
 date: 2006-10-12
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: google-docs-pdf-powered-by-openoffice
 ---

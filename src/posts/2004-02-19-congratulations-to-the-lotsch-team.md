@@ -2,7 +2,7 @@
 title: "Congratulations to the LOTS.ch team!"
 date: 2004-02-19
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: congratulations-to-the-lotsch-team
 ---

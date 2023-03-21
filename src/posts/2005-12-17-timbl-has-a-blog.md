@@ -2,7 +2,7 @@
 title: "timbl has a blog!"
 date: 2005-12-17
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: timbl-has-a-blog
 ---

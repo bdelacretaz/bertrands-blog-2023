@@ -2,7 +2,7 @@
 title: "On kasher OSS licenses"
 date: 2004-04-28
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: on-kasher-oss-licenses
 ---

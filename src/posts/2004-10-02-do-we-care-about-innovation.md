@@ -2,7 +2,7 @@
 title: "Do we care about innovation?"
 date: 2004-10-02
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: do-we-care-about-innovation
 ---

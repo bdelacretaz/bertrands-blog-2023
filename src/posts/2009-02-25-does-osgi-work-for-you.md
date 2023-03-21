@@ -4,7 +4,7 @@ date: 2009-02-25
 tags: 
   - "apachecon"
   - "content"
-  - "day-software"
+  - "day"
   - "osgi"
   - "post"
 slug: does-osgi-work-for-you

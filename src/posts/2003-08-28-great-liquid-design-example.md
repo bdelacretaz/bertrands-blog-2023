@@ -2,7 +2,7 @@
 title: "Great liquid design example"
 date: 2003-08-28
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: great-liquid-design-example
 ---

@@ -2,7 +2,7 @@
 title: "2005 will be The Year Open Source Became Mainstream"
 date: 2005-01-12
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: 2005-will-be-the-year-open-source-became-mainstream
 ---

@@ -3,7 +3,7 @@ title: "The ASF live in Kathmandu, Nepal"
 date: 2008-01-14
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: the-asf-live-in-kathmandu-nepal
 ---

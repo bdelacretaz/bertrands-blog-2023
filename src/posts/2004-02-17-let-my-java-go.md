@@ -2,7 +2,7 @@
 title: "Let my Java Go"
 date: 2004-02-17
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: let-my-java-go
 ---

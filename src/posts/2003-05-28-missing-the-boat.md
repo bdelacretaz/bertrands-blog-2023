@@ -2,7 +2,7 @@
 title: "Missing the boat?"
 date: 2003-05-28
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: missing-the-boat
 ---

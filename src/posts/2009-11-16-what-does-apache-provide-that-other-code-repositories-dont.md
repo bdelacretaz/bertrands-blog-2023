@@ -3,7 +3,7 @@ title: "What does Apache provide that other code repositories don't?"
 date: 2009-11-16
 tags: 
   - "asf"
-  - "open-source"
+  - opensource
   - "post"
 slug: what-does-apache-provide-that-other-code-repositories-dont
 ---

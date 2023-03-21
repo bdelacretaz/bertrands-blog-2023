@@ -2,7 +2,7 @@
 title: "Erik Abele on Apache 2 Basics at LOTS"
 date: 2005-01-21
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: erik-abele-on-apache-2-basics-at-lots
 ---

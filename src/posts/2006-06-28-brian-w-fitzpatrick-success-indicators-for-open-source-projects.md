@@ -3,7 +3,7 @@ title: "Brian W. Fitzpatrick: success indicators for Open Source projects"
 date: 2006-06-28
 tags: 
   - "apachecon"
-  - "open-source"
+  - opensource
   - "post"
 slug: brian-w-fitzpatrick-success-indicators-for-open-source-projects
 ---

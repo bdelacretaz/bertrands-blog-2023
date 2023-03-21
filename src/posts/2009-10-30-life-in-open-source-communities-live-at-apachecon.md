@@ -5,7 +5,7 @@ tags:
   - "apachecon"
   - "asf"
   - "conferences"
-  - "open-source"
+  - opensource
   - "post"
 slug: life-in-open-source-communities-live-at-apachecon
 ---

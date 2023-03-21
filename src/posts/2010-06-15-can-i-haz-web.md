@@ -3,7 +3,7 @@ title: "Can I haz web?"
 date: 2010-06-15
 tags: 
   - "collaboration"
-  - "the-web"
+  - "web"
   - "post"
 slug: can-i-haz-web
 ---

@@ -2,9 +2,9 @@
 title: "Becoming an Apache project is a process, not just a decision"
 date: 2011-06-01
 tags: 
-  - "apache-opensource"
   - "asf"
-  - "open-source"
+  - "asf"
+  - opensource
   - "post"
 slug: becoming-an-apache-project-is-a-process-not-just-a-decision
 ---

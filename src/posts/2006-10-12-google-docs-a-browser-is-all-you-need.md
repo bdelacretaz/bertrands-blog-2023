@@ -2,7 +2,7 @@
 title: "Google Docs -  a browser is all you need"
 date: 2006-10-12
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: google-docs-a-browser-is-all-you-need
 ---

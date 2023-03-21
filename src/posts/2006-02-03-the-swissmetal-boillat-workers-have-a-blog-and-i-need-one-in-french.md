@@ -2,7 +2,7 @@
 title: "The Swissmetal Boillat workers have a blog - and I need one in french"
 date: 2006-02-03
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: the-swissmetal-boillat-workers-have-a-blog-and-i-need-one-in-french
 ---

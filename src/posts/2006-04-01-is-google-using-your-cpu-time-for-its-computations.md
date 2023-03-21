@@ -2,7 +2,7 @@
 title: "Is Google using your CPU time for its computations?"
 date: 2006-04-01
 tags: 
-  - "the-web"
+  - "web"
   - "post"
 slug: is-google-using-your-cpu-time-for-its-computations
 ---

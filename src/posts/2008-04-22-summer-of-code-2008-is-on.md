@@ -4,7 +4,7 @@ date: 2008-04-22
 tags: 
   - "asf"
   - "gsoc"
-  - "open-source"
+  - opensource
   - "scala"
   - "sling"
   - "post"

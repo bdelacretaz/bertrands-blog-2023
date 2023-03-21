@@ -3,7 +3,7 @@ title: "So what is a Hackathon?"
 date: 2006-09-27
 tags: 
   - "cocoon"
-  - "open-source"
+  - opensource
   - "post"
 slug: so-what-is-a-hackathon
 ---

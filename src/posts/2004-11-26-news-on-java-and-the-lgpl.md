@@ -2,7 +2,7 @@
 title: "News on Java and the LGPL"
 date: 2004-11-26
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: news-on-java-and-the-lgpl
 ---

@@ -2,7 +2,7 @@
 title: "Eric Raymond and Bruce Perens answer to SCO"
 date: 2003-09-11
 tags: 
-  - "open-source"
+  - opensource
   - "post"
 slug: eric-raymond-and-bruce-perens-answer-to-sco
 ---
