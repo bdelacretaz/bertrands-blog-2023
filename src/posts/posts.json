@@ -1,0 +1,9 @@
+{
+    "layout": "layouts/post.njk",
+    "navbar": "navbar1",
+    "footer": "footer1",
+    "permalink": "{{ date | dateFolders }}/{{ title | slugify }}.html",
+    "tags": [
+      "posts"
+    ]
+}
