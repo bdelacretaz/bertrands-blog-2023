@@ -13,9 +13,9 @@ Moving this blog to a platform where I have more
 
 <!-- excerpt -->
 
-With Spring arriving I took the plunge and moved thigs blog once again,
+With Spring arriving I took the plunge and moved this blog
 to a new setup based on the [11ty](https://www.11ty.dev/) static site
-generator and using Matt DeCamp's [eleventonia](https://github.com/mattdecamp/eleventonia)
+generator, using Matt DeCamp's [eleventonia](https://github.com/mattdecamp/eleventonia)
 starter project for the theme.
 
 I've done my best to transfer all the content, including images
@@ -26,14 +26,19 @@ I _did_ dig out some missing images from a very old
 archive of the first version of this blog, the content of which has been
 kept (mostly) intact over the years!
 
-The magic of the _real_
-Web is being able to move content over three platforms, losing
-almost nothing and with very reasonable effort. Run away from
-people who tell you otherwise.
-
 I haven't "ported" the comments however, as nowadays commenting
 happens elsewhere and I didn't feel the need to install a specific
 commenting service.
+
+The magic of the _real_
+Web is being able to move content over three platforms, losing
+almost nothing and with very reasonable effort. Run away from
+people who tell you otherwise!
+
+I'm _so_ happy to see the Open
+Web becoming more important again, with all the activity around
+the Fediverse nowadays, personal blogs being important again and
+RSS feeds being back!
 
 The homepage has the _complete_ list of posts, close to a thousand
 of them, starting back in 2002. Looks like I missed the opportunity
