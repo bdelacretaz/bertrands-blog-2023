@@ -5,6 +5,7 @@ tags:
   - "content"
   - "jcr"
   - "post"
+  - oracle
 slug: oracle-buys-mysql-as-part-of-sun-a-great-time-to-have-another-look-at-content-repositories
 ---
 
