@@ -4,6 +4,16 @@ title: Home
 permalink: '/'
 ---
 
+<div id="#search">
+  <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+  <div id="search"></div>
+  <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          new PagefindUI({ element: "#search" });
+      });
+  </script>
+</div>
 
 <img src="/assets/images/bertrands-bike-wins.jpg" style="width: 50%; float:right;"/>
 

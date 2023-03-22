@@ -4,7 +4,8 @@
   "description": "Bertrand Delacretaz's blog",
   "scripts": {
     "11ty:dev": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve",
-    "11ty:prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy"
+    "11ty:prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy  && npm run create-search-index",
+    "create-search-index": "npx pagefind --source dist --glob \"20*/**/*.html\""
   },
   "author": "Bertrand Delacretaz",
   "license": "MIT",
@@ -16,5 +17,8 @@
     "eleventy-plugin-svg-sprite": "^1.2.1",
     "html-minifier": "^4.0.0",
     "node-sass": "^8.0.0"
+  },
+  "dependencies": {
+    "pagefind": "^0.12.0"
   }
 }
