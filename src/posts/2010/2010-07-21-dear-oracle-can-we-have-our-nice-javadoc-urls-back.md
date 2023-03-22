@@ -5,6 +5,7 @@ tags:
   - "java"
   - "web"
   - "post"
+  - oracle
 slug: dear-oracle-can-we-have-our-nice-javadoc-urls-back
 ---
 
