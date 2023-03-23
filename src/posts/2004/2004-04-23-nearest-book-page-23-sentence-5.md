@@ -7,7 +7,7 @@ tags:
 slug: nearest-book-page-23-sentence-5
 ---
 
-[![cover](http://codeconsult.ch/bertrand/archives/images/0060523794.01.MZZZZZZZ.jpg)](http://www.amazon.com/exec/obidos/ASIN/0060523794/bertrandswebl-20)Let's see how quickly [this](http://blogs.cocoondev.org/mpo/archives/001873.html) goes round the weblog world:
+[![cover](/assets/images/movable-type-blog-archives/0060523794.01.MZZZZZZZ.jpg)](http://www.amazon.com/exec/obidos/ASIN/0060523794/bertrandswebl-20)Let's see how quickly [this](http://blogs.cocoondev.org/mpo/archives/001873.html) goes round the weblog world:
 
 _Grab the nearest book. Open the book to page 23. Find the fifth sentence. Post the text of the sentence in your journal along with these instructions._
 

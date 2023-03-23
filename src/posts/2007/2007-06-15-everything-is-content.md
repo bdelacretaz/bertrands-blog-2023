@@ -7,7 +7,7 @@ tags:
 slug: everything-is-content
 ---
 
-[![david-nuescheler-tss-video-shots.jpg](http://codeconsult.ch/bertrand/archives/images/david-nuescheler-tss-video-shots.jpg)](http://www.theserverside.com/news/thread.tss?thread_id=45763)If your applications have to do with content (and they do - read on), you shouldn't miss TSS's video interview of [David Nuescheler](http://www.theserverside.com/news/thread.tss?thread_id=45763), the [JSR-170](http://jcp.org/en/jsr/detail?id=170) and [JSR 283](http://jcp.org/en/jsr/detail?id=283) spec lead.
+[![david-nuescheler-tss-video-shots.jpg](/assets/images/movable-type-blog-archives/david-nuescheler-tss-video-shots.jpg)](http://www.theserverside.com/news/thread.tss?thread_id=45763)If your applications have to do with content (and they do - read on), you shouldn't miss TSS's video interview of [David Nuescheler](http://www.theserverside.com/news/thread.tss?thread_id=45763), the [JSR-170](http://jcp.org/en/jsr/detail?id=170) and [JSR 283](http://jcp.org/en/jsr/detail?id=283) spec lead.
 
 David explains his _everything is content_ mantra, and the more I work with [this technology](http://jackrabbit.apache.org/), the more I agree.
 

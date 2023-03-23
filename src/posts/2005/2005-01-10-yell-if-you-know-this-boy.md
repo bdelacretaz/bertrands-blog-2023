@@ -7,7 +7,7 @@ tags:
 slug: yell-if-you-know-this-boy
 ---
 
-![](http://codeconsult.ch/bertrand/archives/images/tsunami-boy.jpg)This poor guy is said to be stranded in a Phuket hospital without his parents, and the people there don't even know where he comes from (I assume because he doesn't speak - one should recognize the language otherwise).
+![](/assets/images/movable-type-blog-archives/tsunami-boy.jpg)This poor guy is said to be stranded in a Phuket hospital without his parents, and the people there don't even know where he comes from (I assume because he doesn't speak - one should recognize the language otherwise).
 
 _(I have removed the contact information, see the update below)_
 

@@ -7,7 +7,7 @@ tags:
 slug: mac-mini-looks-like-a-winner
 ---
 
-![](http://codeconsult.ch/bertrand/archives/images/mac-mini.jpg)Doesn't it?. [This](http://www.apple.com/macmini/) should help many people with aging (or even virus infected) boxes make a decision to switch.
+![](/assets/images/movable-type-blog-archives/mac-mini.jpg)Doesn't it?. [This](http://www.apple.com/macmini/) should help many people with aging (or even virus infected) boxes make a decision to switch.
 
 The specs look strangely like my powerbook's, the performance should be more than decent for day-to-day work or play.
 

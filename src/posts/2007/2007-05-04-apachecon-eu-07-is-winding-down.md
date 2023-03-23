@@ -11,7 +11,7 @@ Not much blogging for me this time, I've been too busy meeting people, making ne
 
 Here are some random thoughts, as much as a journal for me to compare with my next ApacheCon as to motivate you to join next time if you weren't here!
 
-[![](http://codeconsult.ch/bertrand/archives/images/apachecon-eu-2007-header.gif)](http://www.apachecon.com)
+[![](/assets/images/movable-type-blog-archives/apachecon-eu-2007-header.gif)](http://www.apachecon.com)
 
 The [pictures over at flickr](http://flickr.com/photos/tags/apacheconeu07/) will give you a feel for the excellent vibe of this edition, and several [presentations](http://wiki.apache.org/apachecon/Eu2007OnlineSessionSlides) are available for download.
 

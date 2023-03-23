@@ -11,4 +11,4 @@ You will need to understand French to get this one.
 
 Man, this new server is _noisy_ - and our "server room" is the other end of the bathroom. People have been scared to go in there lately ;-)
 
-![noisy-dell-server.jpg](http://codeconsult.ch/bertrand/archives/images/noisy-dell-server.jpg)
+![noisy-dell-server.jpg](/assets/images/movable-type-blog-archives/noisy-dell-server.jpg)

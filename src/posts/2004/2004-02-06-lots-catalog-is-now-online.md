@@ -4,6 +4,7 @@ date: 2004-02-06
 tags: 
   - opensource
   - "post"
+  - conferences
 slug: lots-catalog-is-now-online
 ---
 

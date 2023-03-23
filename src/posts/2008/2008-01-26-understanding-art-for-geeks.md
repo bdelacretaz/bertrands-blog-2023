@@ -7,7 +7,7 @@ tags:
 slug: understanding-art-for-geeks
 ---
 
-[![2198607725_0e015f5f45.jpg](http://codeconsult.ch/bertrand/archives/images/2198607725_0e015f5f45.jpg)](http://www.flickr.com/photos/paulthewineguy/2198607725/in/set-72157603619920398/)Picture by [www.paulthewineguy.com](http://www.paulthewineguy.com) and Auguste Rodin. Lol. Geek creativity factor++!
+[![2198607725_0e015f5f45.jpg](/assets/images/movable-type-blog-archives/2198607725_0e015f5f45.jpg)](http://www.flickr.com/photos/paulthewineguy/2198607725/in/set-72157603619920398/)Picture by [www.paulthewineguy.com](http://www.paulthewineguy.com) and Auguste Rodin. Lol. Geek creativity factor++!
 
 Find more of those at [Flickr](http://www.flickr.com/photos/paulthewineguy/sets/72157603619920398/).
 

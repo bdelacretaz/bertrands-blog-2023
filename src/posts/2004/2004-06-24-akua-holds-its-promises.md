@@ -7,7 +7,7 @@ tags:
 slug: akua-holds-its-promises
 ---
 
-![](http://codeconsult.ch/bertrand/archives/images/akua.jpg)We went to see the [akua](http://www.akua.ch) show yesterday evening and we had a ball - as [expected](http://www.codeconsult.ch/bertrand/archives/000272.html).
+![](/assets/images/movable-type-blog-archives/akua.jpg)We went to see the [akua](http://www.akua.ch) show yesterday evening and we had a ball - as [expected](http://www.codeconsult.ch/bertrand/archives/000272.html).
 
 These guys are just plain crazy: the show includes completely sinking a big part of the stage, burning in flames while actors are seemingly fighting for their life. Not to mention that a big construction crane is one of the main props, used to carry actors and monsters around the aquatic stage.
 

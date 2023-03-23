@@ -4,10 +4,11 @@ date: 2005-06-25
 tags: 
   - "fun"
   - "post"
+  - recipe
 slug: creme-brulee
 ---
 
-![creme-brulee.jpg](http://codeconsult.ch/bertrand/archives/images/creme-brulee.jpg)It works!
+![creme-brulee.jpg](/assets/images/movable-type-blog-archives/creme-brulee.jpg)It works!
 
 If your wife or partner is as nice as mine, you might get a _\[2\]_ for your birthday. Make some _\[1\]_ and apply _\[2\]_ to it to get a delicious _\[3\]_.
 

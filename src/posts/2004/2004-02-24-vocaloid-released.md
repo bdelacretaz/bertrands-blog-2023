@@ -7,7 +7,7 @@ tags:
 slug: vocaloid-released
 ---
 
- ![cover](http://codeconsult.ch/bertrand/archives/images/0140282025.01.MZZZZZZZ.jpg) A while ago I wrote about the [Vocaloid](http://codeconsult.ch/bertrand/archives/000183.html) technology from Yamaha.
+ ![cover](/assets/images/movable-type-blog-archives/0140282025.01.MZZZZZZZ.jpg) A while ago I wrote about the [Vocaloid](http://codeconsult.ch/bertrand/archives/000183.html) technology from Yamaha.
 
 Software packages have now been [released](http://www.zero-g.co.uk/) by Zero-G.
 

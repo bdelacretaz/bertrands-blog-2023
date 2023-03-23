@@ -7,7 +7,7 @@ tags:
 slug: meeting-the-forresters
 ---
 
-![meeting-forrest.jpg](http://codeconsult.ch/bertrand/archives/images/meeting-forrest.jpg)
+![meeting-forrest.jpg](/assets/images/movable-type-blog-archives/meeting-forrest.jpg)
 
 The great thing about being at ApacheCon is the opportunity for high-bandwidth talks _between_ projects, not only within our own cosy [community](http://cocoon.apache.org).
 

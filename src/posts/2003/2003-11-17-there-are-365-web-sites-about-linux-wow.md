@@ -11,7 +11,7 @@ According to MSN there are [365 web sites](http://search.msn.com/results.aspx?q=
 
 The page ranking seems to use amazing technology as well, look at the fourth link:
 
-![](http://codeconsult.ch/bertrand/archives/images/msn-4.jpg)
+![](/assets/images/movable-type-blog-archives/msn-4.jpg)
 
 Looks like they're using the FOERA algorithm here (Forces Of Evil Ranking Algorithm).
 

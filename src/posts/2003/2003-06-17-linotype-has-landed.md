@@ -10,7 +10,7 @@ slug: linotype-has-landed
 
 I've always been reluctant to use client-side javascript because of browser incompabilities. Obviously Linotype is heavily dependent on having the right version of Mozilla, but at least it is clever enough to tell me precisely what's wrong with Firebird 0.6:
 
-![linotype-exception.jpg](http://codeconsult.ch/bertrand/archives/images/linotype-exception.jpg)
+![linotype-exception.jpg](/assets/images/movable-type-blog-archives/linotype-exception.jpg)
 
 I like that - _transparent systems_, when something goes wrong, let them know instead of hiding it! (but obviously I will like javascript even more when it works reliably everywhere ;-)
 

@@ -7,7 +7,7 @@ tags:
 slug: the-new-tsrch-video-player-powered-by-solr
 ---
 
-[![tsr-video-200702.jpg](http://codeconsult.ch/bertrand/archives/images/tsr-video-200702.jpg)](http://www.tsr.ch/tsr/index.html?siteSect=500000)It took some time (mostly for the front-end devlopers to polish the Ajaxish user interface, I hope you don't find too many bugs in it!), but the new [tsr.ch video page](http://www.tsr.ch/tsr/index.html?siteSect=500000) is now online, powered by a [Solr](http://lucene.apache.org/solr/) search server. It's all in French there, but I'm sure you'll find your way around.
+[![tsr-video-200702.jpg](/assets/images/movable-type-blog-archives/tsr-video-200702.jpg)](http://www.tsr.ch/tsr/index.html?siteSect=500000)It took some time (mostly for the front-end devlopers to polish the Ajaxish user interface, I hope you don't find too many bugs in it!), but the new [tsr.ch video page](http://www.tsr.ch/tsr/index.html?siteSect=500000) is now online, powered by a [Solr](http://lucene.apache.org/solr/) search server. It's all in French there, but I'm sure you'll find your way around.
 
 This is a rather unusual client for what is usually perceived as a full-text search server. But, like all Lucene-based software, Solr is also very capable of doing "structured" searches like you would do in a database. Combined with (very simple in this case) full-text search features, you get a very powerful and fast search system.
 

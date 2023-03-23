@@ -8,7 +8,7 @@ tags:
 slug: carsten-ziegeler-on-portals
 ---
 
-![carsten-ziegeler-on-portals.jpg](http://codeconsult.ch/bertrand/archives/images/carsten-ziegeler-on-portals.jpg)Carsten is making the news on this weblog these days! I'm sitting in his packed _One Hour Portal_ session.
+![carsten-ziegeler-on-portals.jpg](/assets/images/movable-type-blog-archives/carsten-ziegeler-on-portals.jpg)Carsten is making the news on this weblog these days! I'm sitting in his packed _One Hour Portal_ session.
 
 Memorable quotes:
 

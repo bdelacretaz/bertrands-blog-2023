@@ -8,7 +8,7 @@ tags:
 slug: the-google-highly-open-participation-contest-is-open
 ---
 
-[![ghoplogosm.jpg](http://codeconsult.ch/bertrand/archives/images/ghoplogosm.jpg)](http://code.google.com/opensource/ghop/2007-8/)The [Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/2007-8/) just went live.
+[![ghoplogosm.jpg](/assets/images/movable-type-blog-archives/ghoplogosm.jpg)](http://code.google.com/opensource/ghop/2007-8/)The [Google Highly Open Participation Contest](http://code.google.com/opensource/ghop/2007-8/) just went live.
 
 With this program, somewhat similar to the [Google Summer Of Code](http://code.google.com/soc/), high school students all over the world can help open source projects, and get rewards for doing so.
 

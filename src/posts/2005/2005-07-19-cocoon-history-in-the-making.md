@@ -8,7 +8,7 @@ tags:
 slug: cocoon-history-in-the-making
 ---
 
-![cocoon-goals.jpg](http://codeconsult.ch/bertrand/archives/images/cocoon-goals.jpg)To me, definining the goals for the next major release of Cocoon sounds like history in the making. Today we have agreed on what to focus on, irrelevant of the technology used.
+![cocoon-goals.jpg](/assets/images/movable-type-blog-archives/cocoon-goals.jpg)To me, definining the goals for the next major release of Cocoon sounds like history in the making. Today we have agreed on what to focus on, irrelevant of the technology used.
 
 I know you can't read this, but it's a historical document ;-)
 

@@ -2,12 +2,13 @@
 title: "Danese Cooper on open source in the developing world"
 date: 2005-07-21
 tags: 
-  - "apachecon"
+  - apachecon
   - "post"
+  - opensource
 slug: danese-cooper-on-open-source-in-the-developing-world
 ---
 
-![danese-cooper-apachecon-2005.jpg](http://codeconsult.ch/bertrand/archives/images/danese-cooper-apachecon-2005.jpg)We're sitting with Jeremias (who took the picture, thanks) and Joerg Heinicke in [Danese Cooper's](http://danesecooper.blogs.com/divablog/) keynote called _Strategic Commons: Open Source in the Developing World_.
+![danese-cooper-apachecon-2005.jpg](/assets/images/movable-type-blog-archives/danese-cooper-apachecon-2005.jpg)We're sitting with Jeremias (who took the picture, thanks) and Joerg Heinicke in [Danese Cooper's](http://danesecooper.blogs.com/divablog/) keynote called _Strategic Commons: Open Source in the Developing World_.
 
 Once again, here are my random notes - just my personal view of her keynote.
 

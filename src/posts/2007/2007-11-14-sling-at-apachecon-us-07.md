@@ -5,10 +5,11 @@ tags:
   - "apachecon"
   - "content"
   - "post"
+  - sling
 slug: sling-at-apachecon-us-07
 ---
 
-[![sling-logo.png](http://codeconsult.ch/bertrand/archives/images/sling-logo.png)](http://incubator.apache.org/sling)If you're here, don't miss the Sling and microsling action!
+[![sling-logo.png](/assets/images/movable-type-blog-archives/sling-logo.png)](http://incubator.apache.org/sling)If you're here, don't miss the Sling and microsling action!
 
 Tonight at 8:30 PM, [Sling BOF](http://wiki.apache.org/apachecon/BirdsOfaFeatherUs07) in the Atlanta A & B room.
 

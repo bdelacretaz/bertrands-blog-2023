@@ -19,6 +19,6 @@ mpo       you don't know what he's like when sane :-)
 
 And apart from that there was a lot of more serious communication going on, between IRC, IM, SubEthaEdit and (very little) mail. Makes for a busy screen!
 
-![ghent-bertrand-screenshot.jpg](http://codeconsult.ch/bertrand/archives/images/ghent-bertrand-screenshot.jpg)
+![ghent-bertrand-screenshot.jpg](/assets/images/movable-type-blog-archives/ghent-bertrand-screenshot.jpg)
 
 _Update: [Tom](http://blogs.cocoondev.org/tomk/archives/001191.html) is (jokingly) wondering about the social skills of the Cocoon team. I should have mentioned that all this happened **in addition** to serious F2F time. Who says men cannot multitask?_

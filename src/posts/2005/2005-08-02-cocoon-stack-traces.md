@@ -9,7 +9,7 @@ slug: cocoon-stack-traces
 
 Cocoon's recurrent hero [Sylvain](http://www.anyware-tech.com/blogs/sylvain/) has added [Cocoon Stack Traces](http://marc.theaimsgroup.com/?l=xml-cocoon-dev&m=112290184904128&w=2) to Cocoon error reports and logs.
 
-![cocoon-stack-traces-2005.jpg](http://codeconsult.ch/bertrand/archives/images/cocoon-stack-traces-2005.jpg)
+![cocoon-stack-traces-2005.jpg](/assets/images/movable-type-blog-archives/cocoon-stack-traces-2005.jpg)
 
 The screenshot is from the `samples/errorhandling/exception/generror` page.
 

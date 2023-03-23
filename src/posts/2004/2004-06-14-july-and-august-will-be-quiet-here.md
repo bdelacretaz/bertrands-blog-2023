@@ -4,6 +4,8 @@ date: 2004-06-14
 tags: 
   - "fun"
   - "post"
+  - travel
+  - australia
 slug: july-and-august-will-be-quiet-here
 ---
 

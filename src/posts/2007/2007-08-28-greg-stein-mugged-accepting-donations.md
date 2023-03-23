@@ -8,7 +8,7 @@ tags:
 slug: greg-stein-mugged-accepting-donations
 ---
 
-![greg-stein.jpg](http://codeconsult.ch/bertrand/archives/images/greg-stein.jpg)
+![greg-stein.jpg](/assets/images/movable-type-blog-archives/greg-stein.jpg)
 
 Last Friday, our [very own](http://apache.org/foundation/board/) Greg Stein was mugged, for a grand total of one credit card and hundred dollars, according to Kevin Burton who's got [all the details](http://feedblog.org/2007/08/27/greg-stein-director-of-the-apache-software-foundation-was-mugged-accepting-donations/).
 

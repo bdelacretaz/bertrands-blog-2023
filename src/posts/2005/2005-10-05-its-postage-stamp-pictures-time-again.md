@@ -7,7 +7,7 @@ tags:
 slug: its-postage-stamp-pictures-time-again
 ---
 
-![gt2005-starts.jpg](http://codeconsult.ch/bertrand/archives/images/gt2005-starts.jpg)The [Cocoon GetTogether 2005](http://www.cocoongt.org/) has officially started with the [Hackathon](http://wiki.apache.org/cocoon/GT2005Hackaton).
+![gt2005-starts.jpg](/assets/images/movable-type-blog-archives/gt2005-starts.jpg)The [Cocoon GetTogether 2005](http://www.cocoongt.org/) has officially started with the [Hackathon](http://wiki.apache.org/cocoon/GT2005Hackaton).
 
 It's good to meet all these people again, including quite a few new ones (hi Paul!).
 

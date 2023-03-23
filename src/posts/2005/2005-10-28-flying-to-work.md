@@ -2,12 +2,12 @@
 title: "Flying to work"
 date: 2005-10-28
 tags: 
-  - "tools"
   - "post"
+  - cycling
 slug: flying-to-work
 ---
 
-![biketec-flyer.jpg](http://codeconsult.ch/bertrand/archives/images/biketec-flyer.jpg)Today I finally received my Flyer electric bicycle!
+![biketec-flyer.jpg](/assets/images/movable-type-blog-archives/biketec-flyer.jpg)Today I finally received my Flyer electric bicycle!
 
 It's not that the delivery took that long, but the first time that I tried one was 1999, and I've been looking to buy one since then.
 

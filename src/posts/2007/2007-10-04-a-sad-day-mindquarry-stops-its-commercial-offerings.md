@@ -6,4 +6,4 @@ tags:
 slug: a-sad-day-mindquarry-stops-its-commercial-offerings
 ---
 
-[![mindquarry-closing.jpg](http://codeconsult.ch/bertrand/archives/images/mindquarry-closing.jpg)](http://www.mindquarry.com)It is sad to see [Mindquarry](http://www.mindquarry.com/) closing down its commercial activities: it feels like many companies would deserve to be closed down before them...life's not always fair.
+[![mindquarry-closing.jpg](/assets/images/movable-type-blog-archives/mindquarry-closing.jpg)](http://www.mindquarry.com)It is sad to see [Mindquarry](http://www.mindquarry.com/) closing down its commercial activities: it feels like many companies would deserve to be closed down before them...life's not always fair.

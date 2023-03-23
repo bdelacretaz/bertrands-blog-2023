@@ -7,7 +7,7 @@ tags:
 slug: my-procmail-rules-ide
 ---
 
-[![kevinrosseel-mailboxes.jpg](http://codeconsult.ch/bertrand/archives/images/kevinrosseel-mailboxes.jpg)](http://www.procmail.org/) Well, IDE maybe not...but now that I've got your attention, here's a useful shell recipe to debug procmail rule files:
+[![kevinrosseel-mailboxes.jpg](/assets/images/movable-type-blog-archives/kevinrosseel-mailboxes.jpg)](http://www.procmail.org/) Well, IDE maybe not...but now that I've got your attention, here's a useful shell recipe to debug procmail rule files:
 
 export RULEFILE=./not-bd.rc
 export OUTPUT\_FOLDER=/tmp/mailout

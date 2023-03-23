@@ -9,7 +9,7 @@ tags:
 slug: microsling-yet-another-cool-web-applications-framework
 ---
 
-[![sling-logo.png](http://codeconsult.ch/bertrand/archives/images/sling-logo.png)](http://incubator.apache.org/sling/)From the _new and improved_ department: I spent part of this week writing a "reduced to the max" version of the [Sling](http://incubator.apache.org/sling) core that I've called _microsling_.
+[![sling-logo.png](/assets/images/movable-type-blog-archives/sling-logo.png)](http://incubator.apache.org/sling/)From the _new and improved_ department: I spent part of this week writing a "reduced to the max" version of the [Sling](http://incubator.apache.org/sling) core that I've called _microsling_.
 
 That's been a lot of fun of course, and I think the results are fairly impressive in terms of power per line of code, thanks to the power of the JCR API. Using "modern" Java, with scripting in the right places, helps a lot as well, but that's [nothing new](http://codeconsult.ch/bertrand/archives/000182.html).
 

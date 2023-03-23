@@ -7,7 +7,7 @@ tags:
 slug: apachecon-2005-conference-has-started
 ---
 
-![apachecon-2005-has-started.jpg](http://codeconsult.ch/bertrand/archives/images/apachecon-2005-has-started.jpg)I'm currently sitting with the Pflieger Cocoonistas in the opening plenary. We could use more sleep but we had a great time yesterday night in two successive outdoor cafes. The price/quality ratio of food is really impressive in this town. And the beer is good (even in decent amounts, hint ;-)
+![apachecon-2005-has-started.jpg](/assets/images/movable-type-blog-archives/apachecon-2005-has-started.jpg)I'm currently sitting with the Pflieger Cocoonistas in the opening plenary. We could use more sleep but we had a great time yesterday night in two successive outdoor cafes. The price/quality ratio of food is really impressive in this town. And the beer is good (even in decent amounts, hint ;-)
 
 Yesterday after the [Blockathon](http://wiki.apache.org/cocoon/Blockathon2005Report) I had the pleasure of meeting Ross Gardler, Giacomo Pati, Gregor J. Rothfuss and Brian McCallister, all of whom I knew only in writing until now. As usual, people are even nicer in real life!
 

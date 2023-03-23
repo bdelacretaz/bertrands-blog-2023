@@ -7,7 +7,7 @@ tags:
 slug: ready-for-apachecon-eu
 ---
 
-[![bdelacretaz-apachecon-eu-2006  slide](http://codeconsult.ch/bertrand/archives/images/bdelacretaz-apachecon-eu-2006-slide.jpg)](http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,8,nodeid,,_language,uk.html#session-bts4)My _Open Source project tools for corporate projects_ [presentation](http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,8,nodeid,,_language,uk.html#session-bts4) is ready.
+[![bdelacretaz-apachecon-eu-2006  slide](/assets/images/movable-type-blog-archives/bdelacretaz-apachecon-eu-2006-slide.jpg)](http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,8,nodeid,,_language,uk.html#session-bts4)My _Open Source project tools for corporate projects_ [presentation](http://www.eu.apachecon.com/konferenzen/psecom,id,488,track,8,nodeid,,_language,uk.html#session-bts4) is ready.
 
 It's a rework of the one I did at the [Cocoon GetTogether 2003](http://www.codeconsult.ch/bertrand/archives/000593.html). Things haven't changed much since then, except that business types are finally starting to be interested in this: why is it that (apparently) chaotic Open Source projects succeed, while (apparently) well-structured corporate projects fail? You'll find out if you're there ;-)
 
