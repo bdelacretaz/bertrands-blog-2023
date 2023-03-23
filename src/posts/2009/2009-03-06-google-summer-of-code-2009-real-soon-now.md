@@ -21,4 +21,4 @@ Assuming we're accepted as an organization, projects of the [Apache Software Fou
 
 Philip Johnson's video presentation (below) gives a good overview of the program and of its requirements, for students.
 
-\[youtube=http://www.youtube.com/watch?v=vBRRR0BQyz0\]
+{% youtube "http://www.youtube.com/watch?v=vBRRR0BQyz0" %}

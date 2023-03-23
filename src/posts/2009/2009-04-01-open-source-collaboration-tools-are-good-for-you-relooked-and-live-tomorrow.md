@@ -19,4 +19,4 @@ Talking to attendees last week at ApacheCon shows that people often struggle to 
 
 _Update: the video is available on YouTube as part of the [OpenExpo channel](http://www.youtube.com/openexpo)_.
 
-\[youtube=http://www.youtube.com/watch?v=XdNyzNCRLd8\]
+{% youtube "http://www.youtube.com/watch?v=XdNyzNCRLd8" %}
