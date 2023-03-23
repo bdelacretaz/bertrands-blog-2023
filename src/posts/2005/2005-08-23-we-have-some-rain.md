@@ -3,6 +3,7 @@ title: "We have some rain"
 date: 2005-08-23
 tags: 
   - "post"
+  - weather
 slug: we-have-some-rain
 ---
 
