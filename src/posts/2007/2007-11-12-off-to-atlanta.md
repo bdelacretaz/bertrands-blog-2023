@@ -4,6 +4,7 @@ date: 2007-11-12
 tags: 
   - "apachecon"
   - "post"
+  - travel
 slug: off-to-atlanta
 ---
 
