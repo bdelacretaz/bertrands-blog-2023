@@ -5,6 +5,7 @@ const dateFilter = require('./src/11ty/dateFilter.js');
 const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const slugify = require("slugify");
+const htmlMinTransform = require('./src/11ty/htmlMinTransform.js');
 
 module.exports = function (config) {
   // PASSTHROUGHS
@@ -23,15 +24,11 @@ module.exports = function (config) {
   config.addShortcode("youtube", youTubeEmbed);
 
   // TRANSFORMS //
-  // minify HTML
-  /*
-  const htmlMinTransform = require("./src/transforms/html-min.js");
+  // minify HTML, only for production
   const isProduction = process.env.ELEVENTY_ENV === "production";
-  // html min only in production
   if (isProduction) {
     config.addTransform("htmlmin", htmlMinTransform);
   }
-  */
 
   // PLUG-INS //
   config.addPlugin(pluginRss);
