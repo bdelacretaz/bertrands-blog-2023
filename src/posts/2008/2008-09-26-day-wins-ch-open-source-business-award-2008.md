@@ -2,8 +2,9 @@
 title: "Day wins CH Open Source business Award 2008"
 date: 2008-09-26
 tags: 
-  - "content"
-  - "milestones"
+  - milestones
+  - opensource
+  - day
   - "post"
 slug: day-wins-ch-open-source-business-award-2008
 ---
