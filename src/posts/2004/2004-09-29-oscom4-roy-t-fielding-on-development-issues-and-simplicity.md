@@ -4,6 +4,7 @@ date: 2004-09-29
 tags: 
   - "web"
   - "post"
+  - simplicity
 slug: oscom4-roy-t-fielding-on-development-issues-and-simplicity
 ---
 

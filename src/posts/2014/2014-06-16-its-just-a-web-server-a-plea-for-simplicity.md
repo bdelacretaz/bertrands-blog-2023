@@ -6,6 +6,7 @@ tags:
   - "thoughts"
   - "post"
   - favorite
+  - simplicity
 slug: its-just-a-web-server-a-plea-for-simplicity
 ---
 

@@ -4,6 +4,7 @@ date: 2003-02-12
 tags: 
   - "thoughts"
   - "post"
+  - simplicity
 slug: less-is-more
 ---
 
