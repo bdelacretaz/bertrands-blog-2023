@@ -41,6 +41,5 @@ Web becoming more important again, with all the activity around
 the Fediverse nowadays, personal blogs being important again and
 RSS feeds being back!
 
-The homepage has the _complete_ list of posts, close to a thousand
-of them, starting back in 2002. Looks like I missed the opportunity
+The content goes back to 2002, it looks like I missed the opportunity
 to celebrate my twenty years of blogging last year!
