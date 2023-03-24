@@ -6,9 +6,9 @@
             "title": "Blog"
         },
         {
-            "name": "All posts",
-            "url": "/all-posts/",
-            "title": "All posts"
+            "name": "History",
+            "url": "/history/",
+            "title": "History - all posts"
         },
         {
             "name": "Who?",

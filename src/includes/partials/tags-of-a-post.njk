@@ -1,5 +1,5 @@
 <span class="tags--container-inline tags--container">
-  {% for tag in tags %} 
+  {% for tag in tags | sort | uniq %} 
     {% if tag != "post" %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <span class="tag">

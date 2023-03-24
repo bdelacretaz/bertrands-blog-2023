@@ -1,0 +1,11 @@
+<div class="posts--list">
+  {% for post in postlist | reverse %}
+    <div class="posts--list--item">
+        <a class=".post--link" href="{{ post.url | url }}">{{ post.data.title }}</a>
+        <div class="post--info">
+            <time>{{ post.date | dateFilter }}</time>
+            <blockquote>{{ post.data.page.excerpt }}</blockquote>
+        </div>
+    </div>
+  {%- endfor -%}
+</div>

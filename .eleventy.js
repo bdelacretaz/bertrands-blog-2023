@@ -3,6 +3,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const dateFilter = require('./src/11ty/dateFilter.js');
 const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
+const uniqFilter = require('./src/11ty/uniqFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const slugify = require("slugify");
 const htmlMinTransform = require('./src/11ty/htmlMinTransform.js');
@@ -19,6 +20,7 @@ module.exports = function (config) {
   config.addFilter('dateFilter', dateFilter);
   config.addFilter('dateFoldersFilter', dateFoldersFilter);
   config.addFilter('slugify', slugify);
+  config.addFilter('uniq', uniqFilter);
 
   // SHORTCODES //
   config.addShortcode("youtube", youTubeEmbed);

@@ -2,8 +2,6 @@
 title: "Status meetings are a waste of time and money"
 date: 2017-11-23
 tags: 
-  - "meetings"
-  - "opendevelopment"
   - "collaboration"
   - "post"
   - favorite

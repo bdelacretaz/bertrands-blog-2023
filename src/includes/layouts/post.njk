@@ -7,9 +7,8 @@ layout: base
 <article>
     <h2>{{ title }}</h2>
     <div class="post--header">
-        <span class="post--time" datetime="{{ post.data.date }}">{{ date | dateFilter }}</span>
-        -
-        {% include "partials/tags-list.njk" %}
+        <time datetime="{{ post.data.date }}">{{ date | dateFilter }}</time>
+        <span class="tags">{% include "partials/tags-of-a-post.njk" %}</span>
     </div>
     <div class="post--content">
         {{ content | safe }}

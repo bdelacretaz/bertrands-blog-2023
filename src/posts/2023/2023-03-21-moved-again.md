@@ -5,7 +5,7 @@ tags:
   - milestones
   - blogs
   - post
-  - homepage
+  - current
 slug: moved-again
 ---
 

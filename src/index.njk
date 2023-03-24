@@ -8,13 +8,16 @@ permalink: '/'
 
 <h2>Current Affairs</h2>
 
+<img
+  src="/assets/images/190904_AdaptTo_7121.jpg" 
+  style="float:right; width:50%;"
+  alt="At the adaptTo() conference, Berlin, September 2019"
+/>
+
 <article>
-<div id="posts--list">
-    {% set postlist = collections[ "homepage" ] %} 
-    {% for post in postlist | reverse %}
-      {% include "partials/post-in-list.njk" %}
-    {%- endfor -%}
-</div>
+  {% set postlist = collections[ "current" ] %} 
+  {% include "partials/list-of-posts.njk" %}
+</article>
 
 <h2>Favorite posts</h2>
 
@@ -24,10 +27,6 @@ permalink: '/'
 <p>
 
 <article>
-<div id="posts--list">
-    {% set postlist = collections[ "favorite" ] %} 
-    {% for post in postlist | reverse %}
-      {% include "partials/post-in-list.njk" %}
-    {%- endfor -%}
-</div>
+  {% set postlist = collections[ "favorite" ] %} 
+  {% include "partials/list-of-posts.njk" %}
 </article>

@@ -9,13 +9,19 @@ pagination:
 permalink: /tags/{{ tag | slug }}/
 ---
 
+{% set postlist = collections[ tag ] %} 
+
 {% include "partials/search.njk" %}
 
-<h2>Posts tagged with "{{ tag }}”</h2>
+<h2>
+  <em class="tag--current--in-context">{{ tag }}</em>
+  {% if postlist.length > 1 %}
+  - {{postlist.length}} posts
+  {% elif postlist.length == 1 %}
+  - a single post, for now
+  {% endif %}
+</h2>
 
-<div id="posts--list">
-    {% set postlist = collections[ tag ] %} 
-    {% for post in postlist | reverse %}
-      {% include "partials/post-in-list.njk" %}
-    {%- endfor -%}
-</div>
+<article>
+  {% include "partials/list-of-posts.njk" %}
+</article>

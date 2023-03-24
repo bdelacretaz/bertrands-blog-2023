@@ -1,0 +1,31 @@
+---
+layout: base
+title: "History: all posts"
+permalink: /history/
+---
+
+{% include "partials/search.njk" %}
+
+<h2>From 2002 to present: {{ collections.post.length }} posts</h2>
+
+<img
+  src="/assets/images/grep-codeconsult-ch-february-2008.jpg" 
+  style="float:right; width:50%;"
+  alt="grep.codeconsult.ch, February 2008"
+/>
+
+<p>
+This content goes back to my very first tech blog, which was running on my own rented server
+using <a href="https://en.wikipedia.org/wiki/Movable_type">Movable Type</a>.
+</p>
+
+<p>
+I've mostly been able to keep that content intact, but please expect
+a few dead links in there as many websites have since
+disappeared or have been "reorganized".
+</p>
+
+<article>
+  {% set postlist = collections.post %} 
+  {% include "partials/list-of-posts.njk" %}
+</article>

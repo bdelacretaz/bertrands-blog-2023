@@ -15,6 +15,13 @@
         padding: var(--s-5) var(--s-4);
         color: var(--text-secondary);
         text-decoration: none;
+        font-style: italic;
         background: var(--background-color-lighter);
     }
+}
+
+.tag--current--in-context {
+    background: var(--background-color-lighter);
+    padding: var(--s-5) var(--s-4);
+    color: var(--text-secondary);
 }
