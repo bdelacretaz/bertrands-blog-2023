@@ -17,3 +17,5 @@ I'm replacing [Henri Yandell](http://blog.generationjava.com/) who decided not t
 Apart from him the board is unchanged. That will probably make the transition easier than last year, when several directors were replaced at once. It feels good to be the newbie when you're 46 years old ;-)
 
 Am I looking forward to it? Am I crazy? I guess yes and yes...
+
+_Update: this was the first of many terms of the ASF's Board of Directors, see the [timeline](https://www.apache.org/history/directors.html) on the ASF's website._
