@@ -1,4 +1,3 @@
-// const { DateTime } = require("luxon");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const svgSprite = require("eleventy-plugin-svg-sprite");
 const dateFilter = require('./src/11ty/dateFilter.js');
@@ -6,7 +5,6 @@ const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
 const uniqFilter = require('./src/11ty/uniqFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const slugify = require("slugify");
-const htmlMinTransform = require('./src/11ty/htmlMinTransform.js');
 
 module.exports = function (config) {
   // PASSTHROUGHS
@@ -24,13 +22,6 @@ module.exports = function (config) {
 
   // SHORTCODES //
   config.addShortcode("youtube", youTubeEmbed);
-
-  // TRANSFORMS //
-  // minify HTML, only for production
-  const isProduction = process.env.ELEVENTY_ENV === "production";
-  if (isProduction) {
-    config.addTransform("htmlmin", htmlMinTransform);
-  }
 
   // PLUG-INS //
   config.addPlugin(pluginRss);
