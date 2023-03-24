@@ -5,6 +5,7 @@ tags:
   - "mozilla"
   - "web"
   - "post"
+  - simplicity
 slug: glow-mozilla-org-smoke-and-mirrors-and-restful-design
 ---
 

@@ -4,6 +4,7 @@ date: 2004-09-25
 tags: 
   - "cocoon"
   - "post"
+  - simplicity
 slug: its-nouvo-and-it-runs-on-cocoon
 ---
 

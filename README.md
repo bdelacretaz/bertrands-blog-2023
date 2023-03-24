@@ -12,6 +12,10 @@ The theme is https://github.com/mattdecamp/eleventonia
     npm run 11ty:dev
     npm run 11ty:prod
 
+To debug template syntax problems use
+
+    export DEBUG="Eleventy:Template" ; npx @11ty/eleventy
+
 ## Links that should still work after conversion
 
 * [about page](https://grep.codeconsult.ch/about-me/)

@@ -4,6 +4,7 @@ date: 2005-09-15
 tags: 
   - "cocoon"
   - "post"
+  - simplicity
 slug: archivestsrch-runs-on-cocoon-market-share-doubled
 ---
 
