@@ -11,5 +11,6 @@
     "authorEmail": "bdelacretaz@apache.org",
     "yearCreated": 2023,
     "copyright": "1962 to present",
-    "socialImage": "/"
+    "socialImage": "/",
+    "statsBaseURL": "https://codeconsult.ch/stats/grep.codeconsult.ch"
 }
