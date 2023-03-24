@@ -4,6 +4,7 @@ date: 2017-01-30
 tags: 
   - "post"
   - favorite
+  - collaboration
 slug: shared-neurons-and-the-shadoks-first-law-of-failure
 ---
 
