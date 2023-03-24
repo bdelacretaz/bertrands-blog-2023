@@ -6,6 +6,7 @@ tags:
   - "opendevelopment"
   - "collaboration"
   - "post"
+  - favorite
 slug: status-meetings-are-a-waste-of-time-and-money
 ---
 

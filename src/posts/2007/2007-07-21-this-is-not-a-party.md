@@ -5,6 +5,7 @@ tags:
   - "fun"
   - "post"
   - recipe
+  - favorite
 slug: this-is-not-a-party
 ---
 

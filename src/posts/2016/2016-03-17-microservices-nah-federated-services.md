@@ -5,6 +5,7 @@ tags:
   - "milestones"
   - "thoughts"
   - "post"
+  - favorite
 slug: microservices-nah-federated-services
 ---
 

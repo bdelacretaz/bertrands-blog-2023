@@ -3,6 +3,7 @@ title: "Shared neurons and the Shadok's First Law of Failure"
 date: 2017-01-30
 tags: 
   - "post"
+  - favorite
 slug: shared-neurons-and-the-shadoks-first-law-of-failure
 ---
 

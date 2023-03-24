@@ -4,6 +4,7 @@ date: 2014-08-21
 tags: 
   - "conferences"
   - "post"
+  - favorite
 slug: so-you-want-to-talk-at-this-conference
 ---
 

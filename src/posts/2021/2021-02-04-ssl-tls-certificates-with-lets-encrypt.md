@@ -5,10 +5,13 @@ tags:
   - "ssl"
   - security
   - "post"
+  - favorite
 slug: ssl-tls-certificates-with-lets-encrypt
 ---
 
 This is mostly a _notes to self_ post, about something that I rarely do and that has become much easier than what I remembered.
+
+<!-- excerpt -->
 
 I recently created a [website for a community project](https://avenir-cheyres-chables.ch/) in my spare time, using [React](https://reactjs.org/), which is a lot of fun and also shows how things have evolved since I last did any substantial front-end work, which is a long time.
 

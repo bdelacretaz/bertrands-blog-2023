@@ -4,6 +4,7 @@ date: 2004-10-16
 tags: 
   - "tools"
   - "post"
+  - favorite
 slug: way-cool-urls-at-mapsearchch
 ---
 

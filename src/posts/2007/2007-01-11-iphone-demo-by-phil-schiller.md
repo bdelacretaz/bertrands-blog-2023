@@ -5,6 +5,7 @@ tags:
   - "milestones"
   - "tools"
   - "post"
+  - favorite
 slug: iphone-demo-by-phil-schiller
 ---
 

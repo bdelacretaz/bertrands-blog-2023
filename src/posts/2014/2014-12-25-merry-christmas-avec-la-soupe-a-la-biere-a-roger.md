@@ -5,6 +5,7 @@ tags:
   - "fun"
   - recipe
   - "post"
+  - favorite
 slug: merry-christmas-avec-la-soupe-a-la-biere-a-roger
 ---
 

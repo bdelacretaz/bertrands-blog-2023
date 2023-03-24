@@ -4,6 +4,7 @@ date: 2008-07-26
 tags: 
   - "people"
   - "post"
+  - favorite
 slug: rip-randy-pausch
 ---
 

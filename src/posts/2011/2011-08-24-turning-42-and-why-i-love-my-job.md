@@ -5,6 +5,7 @@ tags:
   - "milestones"
   - "thoughts"
   - "post"
+  - favorite
 slug: turning-42-and-why-i-love-my-job
 ---
 

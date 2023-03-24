@@ -5,6 +5,7 @@ tags:
   - "collaboration"
   - opensource
   - "post"
+  - favorite
 slug: the-five-wisdoms-of-open-development
 ---
 

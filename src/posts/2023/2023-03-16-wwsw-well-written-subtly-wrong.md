@@ -7,6 +7,7 @@ tags:
   - "sling"
   - "asf"
   - "post"
+  - favorite
 slug: wwsw-well-written-subtly-wrong
 ---
 

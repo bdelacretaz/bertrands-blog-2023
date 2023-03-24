@@ -5,6 +5,7 @@ tags:
   - "collaboration"
   - "web"
   - "post"
+  - favorite
 slug: can-i-haz-web
 ---
 

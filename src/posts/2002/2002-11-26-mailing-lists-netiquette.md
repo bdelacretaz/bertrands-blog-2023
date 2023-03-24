@@ -4,15 +4,16 @@ date: 2002-11-26
 tags: 
   - "web"
   - "post"
+  - favorite
+  - netiquette
 slug: mailing-lists-netiquette
 ---
 
 Looking for a good explanation of why people should use "reply to" to avoid breaking mailing lists threads when replying.  
 I didn't find what I was looking for, but here are some good "mailing lists netiquette" links:  
 
-> [Apache Jakarta Project - mailing lists guildelines](http://jakarta.apache.org/site/mail.html)  
-> [One Northwest - Guidelines for Participating in an Email List](http://www.onenw.org/bin/page.cfm?pageid=32)  
-> [Howard Rheingold - The Art of Hosting Good Conversations Online](http://www.rheingold.com/texts/artonlinehost.html)  
+* [Apache Jakarta Project - mailing lists guildelines](http://jakarta.apache.org/site/mail.html)   
+* [Howard Rheingold - The Art of Hosting Good Conversations Online](http://www.rheingold.com/texts/artonlinehost.html)  
 
 Does anyone have a good explanation or reference about the "reply-to" thing? I'd like to add it here.  
 

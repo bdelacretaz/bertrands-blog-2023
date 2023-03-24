@@ -7,17 +7,13 @@ pagination:
     filter: all
     alias: tag
 permalink: /tags/{{ tag | slug }}/
-eleventyComputed:
-    title: Tagged “{{ tag }}”
 ---
 
 <h2>Posts tagged with "{{ tag }}”</h2>
-<ul>
+
+<div id="posts--list">
     {% set postlist = collections[ tag ] %} 
     {% for post in postlist | reverse %}
-    <li>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-        <time>{{ post.date | dateFilter }}</time>
-    </li>
-    {% endfor %}
-</ul>
+      {% include "partials/post-in-list.njk" %}
+    {%- endfor -%}
+</div>

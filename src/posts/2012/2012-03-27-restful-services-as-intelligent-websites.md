@@ -5,6 +5,7 @@ tags:
   - "web"
   - "thoughts"
   - "post"
+  - favorite  
 slug: restful-services-as-intelligent-websites
 ---
 

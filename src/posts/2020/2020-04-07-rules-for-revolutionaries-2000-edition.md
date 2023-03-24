@@ -5,12 +5,15 @@ tags:
   - "collaboration"
   - opensource
   - "post"
+  - favorite
 slug: rules-for-revolutionaries-2000-edition
 ---
 
 The below message is from 2000 but I think it still applies to open source collaboration in the 21st century.
 
-I wasn't part of the Apache Jakarta story myself but have heard of that a few times ;-)
+I wasn't part of the Apache Jakarta story myself but have heard of that a few times over the years...
+
+<!-- excerpt -->
 
 It was written by [James Duncan Davidson](https://en.wikipedia.org/wiki/James_Duncan_Davidson), I don't take any credit for what follows - I just copied it back here from [a public archive](http://servlets.com/archive/servlet/ReadMsg?msgId=11422&raw=true&listName=general-jakarta), to make it easier to find it next time I need to quote it.
 

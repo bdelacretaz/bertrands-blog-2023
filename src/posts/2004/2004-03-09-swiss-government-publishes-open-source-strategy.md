@@ -4,6 +4,7 @@ date: 2004-03-09
 tags: 
   - opensource
   - "post"
+  - favorite
 slug: swiss-government-publishes-open-source-strategy
 ---
 

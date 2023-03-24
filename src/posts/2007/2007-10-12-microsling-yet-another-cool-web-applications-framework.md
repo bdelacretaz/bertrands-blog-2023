@@ -7,6 +7,7 @@ tags:
   - "osgi"
   - "post"
   - microsling
+  - favorite
 slug: microsling-yet-another-cool-web-applications-framework
 ---
 

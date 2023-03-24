@@ -5,6 +5,7 @@ tags:
   - "adobe"
   - "sling"
   - "post"
+  - devops
 slug: continous-deployment-with-apache-sling
 ---
 

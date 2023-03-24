@@ -4,7 +4,9 @@ date: 2009-11-17
 tags: 
   - "asf"
   - opensource
+  - collaboration
   - "post"
+  - favorite
 slug: what-makes-apache-tick
 ---
 

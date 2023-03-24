@@ -4,6 +4,7 @@ date: 2005-01-21
 tags: 
   - opensource
   - "post"
+  - favorite
 slug: new-korg-keyboard-powered-by-linux
 ---
 

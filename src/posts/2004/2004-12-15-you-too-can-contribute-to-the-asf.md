@@ -4,6 +4,7 @@ date: 2004-12-15
 tags: 
   - opensource
   - "post"
+  - favorite
 slug: you-too-can-contribute-to-the-asf
 ---
 

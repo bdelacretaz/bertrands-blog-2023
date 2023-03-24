@@ -4,6 +4,7 @@ date: 2008-02-19
 tags: 
   - "developer-usability"
   - "post"
+  - favorite
 slug: bertrands-tentative-rules-for-maintainable-documentation
 ---
 

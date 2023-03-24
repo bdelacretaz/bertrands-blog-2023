@@ -3,6 +3,7 @@ title: "Software patents are very good...for shameless people"
 date: 2006-03-11
 tags: 
   - "post"
+  - favorite
 slug: software-patents-are-very-goodfor-shameless-people
 ---
 

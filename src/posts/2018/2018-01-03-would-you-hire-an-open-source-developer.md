@@ -5,6 +5,7 @@ tags:
   - "development"
   - "thoughts"
   - "post"
+  - favorite  
 slug: would-you-hire-an-open-source-developer
 ---
 

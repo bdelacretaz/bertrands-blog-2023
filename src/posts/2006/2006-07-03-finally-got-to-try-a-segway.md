@@ -4,6 +4,7 @@ date: 2006-07-03
 tags: 
   - "fun"
   - "post"
+  - milestones
 slug: finally-got-to-try-a-segway
 ---
 

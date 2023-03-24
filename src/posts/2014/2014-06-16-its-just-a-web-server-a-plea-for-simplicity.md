@@ -5,6 +5,7 @@ tags:
   - "conferences"
   - "thoughts"
   - "post"
+  - favorite
 slug: its-just-a-web-server-a-plea-for-simplicity
 ---
 

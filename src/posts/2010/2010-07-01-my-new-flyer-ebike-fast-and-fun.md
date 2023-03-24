@@ -7,6 +7,7 @@ tags:
   - cycling
   - "fun"
   - "post"
+  - favorite  
 slug: my-new-flyer-ebike-fast-and-fun
 ---
 

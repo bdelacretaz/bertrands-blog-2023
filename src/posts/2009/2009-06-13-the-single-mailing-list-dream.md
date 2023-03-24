@@ -6,6 +6,7 @@ tags:
   - "collaboration"
   - "thoughts"
   - "post"
+  - favorite
 slug: the-single-mailing-list-dream
 ---
 

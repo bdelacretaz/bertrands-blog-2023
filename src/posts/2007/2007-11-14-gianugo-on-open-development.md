@@ -5,6 +5,7 @@ tags:
   - "apachecon"
   - opensource
   - "post"
+  - milestones
 slug: gianugo-on-open-development
 ---
 

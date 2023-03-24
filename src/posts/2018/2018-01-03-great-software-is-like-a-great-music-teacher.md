@@ -5,6 +5,7 @@ tags:
   - "music"
   - "thoughts"
   - "post"
+  - favorite
 slug: great-software-is-like-a-great-music-teacher
 ---
 

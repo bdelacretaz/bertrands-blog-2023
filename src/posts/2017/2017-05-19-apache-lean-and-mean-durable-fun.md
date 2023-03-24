@@ -3,6 +3,7 @@ title: "Apache: lean and mean, durable, fun!"
 date: 2017-05-19
 tags: 
   - "post"
+  - favorite
 slug: apache-lean-and-mean-durable-fun
 ---
 

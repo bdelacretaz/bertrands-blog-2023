@@ -5,6 +5,7 @@ tags:
   - "collaboration"
   - opensource
   - "post"
+  - favorite
 slug: open-source-is-done-welcome-to-open-development
 ---
 

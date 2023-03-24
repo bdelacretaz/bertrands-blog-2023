@@ -4,6 +4,7 @@ date: 2004-06-24
 tags: 
   - "fun"
   - "post"
+  - favorite
 slug: akua-holds-its-promises
 ---
 

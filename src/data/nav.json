@@ -1,9 +1,14 @@
 {
     "items": [
         {
-            "name": "Home",
+            "name": "Blog",
             "url": "/",
-            "title": "Home"
+            "title": "Blog"
+        },
+        {
+            "name": "All posts",
+            "url": "/tags/post/",
+            "title": "All posts"
         },
         {
             "name": "Who?",

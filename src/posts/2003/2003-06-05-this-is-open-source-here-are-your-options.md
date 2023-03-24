@@ -4,6 +4,7 @@ date: 2003-06-05
 tags: 
   - "post"
   - opensource
+  - favorite
 slug: this-is-open-source-here-are-your-options
 ---
 

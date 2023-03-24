@@ -3,6 +3,7 @@ title: "It just doesn't matter"
 date: 2006-02-18
 tags: 
   - "post"
+  - favorite
 slug: it-just-doesnt-matter
 ---
 

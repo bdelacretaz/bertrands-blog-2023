@@ -5,6 +5,7 @@ tags:
   - milestones
   - blogs
   - post
+  - homepage
 slug: moved-again
 ---
 

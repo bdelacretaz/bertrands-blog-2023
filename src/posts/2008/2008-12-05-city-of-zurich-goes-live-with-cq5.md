@@ -5,6 +5,7 @@ tags:
   - "day"
   - sling
   - "post"
+  - favorite
 slug: city-of-zurich-goes-live-with-cq5
 ---
 

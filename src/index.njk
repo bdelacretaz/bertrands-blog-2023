@@ -15,15 +15,34 @@ permalink: '/'
   </script>
 </div>
 
+<!--
 <img src="/assets/images/bertrands-bike-wins.jpg" style="width: 50%; float:right;"/>
+-->
 
-<div>
-<em>
-The complete list of this blog's posts is shown below. It's not that big, but it 
-goes back quite some time. Some content is likely to be outdated...but kept <em>for historical reasons</em>.
-</em>
-</div>
-<hr/>
+<blockquote>
+  <p>
+    Here's a list of my favorite posts. Milestones, writings that I'm proud of, etc., going all
+    the way back to the early 2000s, when I started my first tech blog.
+  <p>
+  <p>
+    I've been able to keep most of my URLs stable over the years, but you'll probably
+    find some dead links in older posts, as websites come and go.
+  </p>
+</blockquote>
+
 <article>
-{% include "partials/posts-list.njk" %}
+<div id="posts--list">
+    {% set postlist = collections[ "homepage" ] %} 
+    {% for post in postlist | reverse %}
+      {% include "partials/post-in-list.njk" %}
+    {%- endfor -%}
+</div>
+
+<article>
+<div id="posts--list">
+    {% set postlist = collections[ "favorite" ] %} 
+    {% for post in postlist | reverse %}
+      {% include "partials/post-in-list.njk" %}
+    {%- endfor -%}
+</div>
 </article>

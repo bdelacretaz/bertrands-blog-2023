@@ -4,6 +4,7 @@ date: 2005-10-28
 tags: 
   - "fun"
   - "post"
+  - favorite
 slug: richandstupidcom
 ---
 
