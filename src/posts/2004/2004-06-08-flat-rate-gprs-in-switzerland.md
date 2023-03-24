@@ -3,6 +3,7 @@ title: "Flat-rate GPRS in Switzerland"
 date: 2004-06-08
 tags: 
   - "post"
+  - switzerland  
 slug: flat-rate-gprs-in-switzerland
 ---
 

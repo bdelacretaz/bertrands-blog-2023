@@ -3,6 +3,7 @@ title: "But where's the lots.ch website?"
 date: 2006-02-01
 tags: 
   - "post"
+  - switzerland  
 slug: but-wheres-the-lotsch-website
 ---
 

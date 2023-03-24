@@ -4,6 +4,7 @@ date: 2006-02-03
 tags: 
   - "web"
   - "post"
+  - switzerland  
 slug: the-swissmetal-boillat-workers-have-a-blog-and-i-need-one-in-french
 ---
 

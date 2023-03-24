@@ -5,6 +5,7 @@ tags:
   - "conferences"
   - opensource
   - "post"
+  - switzerland  
 slug: open-source-collaboration-tools-at-openexpo-bern-april-2nd
 ---
 

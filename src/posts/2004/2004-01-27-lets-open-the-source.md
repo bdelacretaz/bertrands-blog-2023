@@ -4,6 +4,7 @@ date: 2004-01-27
 tags: 
   - "cocoon"
   - "post"
+  - switzerland  
 slug: lets-open-the-source
 ---
 

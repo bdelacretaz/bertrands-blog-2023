@@ -4,6 +4,7 @@ date: 2004-02-19
 tags: 
   - opensource
   - "post"
+  - switzerland
 slug: congratulations-to-the-lotsch-team
 ---
 

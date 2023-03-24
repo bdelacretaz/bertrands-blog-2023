@@ -5,6 +5,7 @@ tags:
   - opensource
   - "post"
   - favorite
+  - switzerland
 slug: swiss-government-publishes-open-source-strategy
 ---
 

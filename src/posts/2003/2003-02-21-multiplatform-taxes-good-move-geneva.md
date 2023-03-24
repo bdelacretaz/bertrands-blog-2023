@@ -4,6 +4,7 @@ date: 2003-02-21
 tags: 
   - opensource
   - "post"
+  - switzerland
 slug: multiplatform-taxes-good-move-geneva
 ---
 

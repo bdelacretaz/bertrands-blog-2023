@@ -4,6 +4,7 @@ date: 2004-04-15
 tags: 
   - "milestones"
   - "post"
+  - switzerland  
 slug: switzerland-gets-bigger
 ---
 

@@ -4,6 +4,7 @@ date: 2004-05-08
 tags: 
   - opensource
   - "post"
+  - switzerland  
 slug: joined-the-lots-team
 ---
 

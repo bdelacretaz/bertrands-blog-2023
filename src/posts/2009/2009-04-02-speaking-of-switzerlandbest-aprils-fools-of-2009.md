@@ -4,6 +4,7 @@ date: 2009-04-02
 tags: 
   - "fun"
   - "post"
+  - switzerland  
 slug: speaking-of-switzerlandbest-aprils-fools-of-2009
 ---
 

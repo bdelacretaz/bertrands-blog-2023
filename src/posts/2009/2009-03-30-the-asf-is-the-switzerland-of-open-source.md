@@ -7,6 +7,7 @@ tags:
   - "fun"
   - "post"
   - favorite
+  - switzerland  
 slug: the-asf-is-the-switzerland-of-open-source
 ---
 
