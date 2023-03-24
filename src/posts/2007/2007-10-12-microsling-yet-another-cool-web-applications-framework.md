@@ -6,6 +6,7 @@ tags:
   - "jcr"
   - "osgi"
   - "post"
+  - microsling
 slug: microsling-yet-another-cool-web-applications-framework
 ---
 

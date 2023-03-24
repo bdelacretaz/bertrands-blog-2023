@@ -2,8 +2,8 @@
 title: "City of Zurich goes live with CQ5 and Sling"
 date: 2008-12-05
 tags: 
-  - "content"
   - "day"
+  - sling
   - "post"
 slug: city-of-zurich-goes-live-with-cq5
 ---

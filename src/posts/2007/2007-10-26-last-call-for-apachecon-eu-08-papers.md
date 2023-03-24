@@ -4,6 +4,7 @@ date: 2007-10-26
 tags: 
   - "osgi"
   - "post"
+  - microsling
 slug: last-call-for-apachecon-eu-08-papers
 ---
 

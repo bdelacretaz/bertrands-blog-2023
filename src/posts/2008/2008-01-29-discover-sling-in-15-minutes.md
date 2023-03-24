@@ -7,6 +7,7 @@ tags:
   - "milestones"
   - "sling"
   - "post"
+  - microsling
 slug: discover-sling-in-15-minutes
 ---
 

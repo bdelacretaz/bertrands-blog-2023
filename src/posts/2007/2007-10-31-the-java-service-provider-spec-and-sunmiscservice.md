@@ -5,6 +5,7 @@ tags:
   - "java"
   - "tools"
   - "post"
+  - microsling
 slug: the-java-service-provider-spec-and-sunmiscservice
 ---
 

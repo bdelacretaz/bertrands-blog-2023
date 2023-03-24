@@ -6,6 +6,7 @@ tags:
   - "milestones"
   - "sling"
   - "post"
+  - microsling
 slug: apache-sling-wins-prize-at-jax-innovation-award
 ---
 
