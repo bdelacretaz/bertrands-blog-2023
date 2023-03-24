@@ -4,7 +4,7 @@ date: 2003-11-28
 tags: 
   - "cocoon"
   - "post"
-slug: the-year-of-web-application
+slug: the-year-of-the-web-application
 ---
 
 Well, it wasn't hard to predict but I [told you](http://codeconsult.ch/bertrand/archives/000030.html) that 2003 was going to be the Year of the Web Application for Cocoon.

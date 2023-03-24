@@ -1,6 +1,6 @@
 ---
 title: "Trackbacks disabled"
-date: 2005-02-04
+date: 2005-02-05
 tags: 
   - "post"
 slug: trackbacks-disabled

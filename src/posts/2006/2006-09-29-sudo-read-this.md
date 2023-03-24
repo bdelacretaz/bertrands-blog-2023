@@ -1,6 +1,6 @@
 ---
 title: "sudo read this"
-date: 2006-09-29
+date: 2006-09-30
 tags: 
   - "fun"
   - "post"

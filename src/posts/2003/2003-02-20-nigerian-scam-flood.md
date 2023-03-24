@@ -1,6 +1,6 @@
 ---
 title: "Nigerian scam flood"
-date: 2003-02-20
+date: 2003-02-21
 tags: 
   - "web"
   - "post"
