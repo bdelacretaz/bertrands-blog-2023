@@ -19,8 +19,7 @@ to a new setup based on the [11ty](https://www.11ty.dev/) static site
 generator, using Matt DeCamp's [eleventonia](https://github.com/mattdecamp/eleventonia)
 starter project for the theme.
 
-I've done my best to transfer all the content, including images
-and files, but if you see something missing please let me know!
+I've been able to keep most of my URLs stable over the years, but you'll probably find some dead links in older posts, as websites come and go. 
 
 I _did_ dig out some missing images from a very old
 [Movable Type](https://en.wikipedia.org/wiki/Movable_Type)
