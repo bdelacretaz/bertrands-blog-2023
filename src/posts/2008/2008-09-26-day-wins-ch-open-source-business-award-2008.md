@@ -9,7 +9,12 @@ tags:
 slug: day-wins-ch-open-source-business-award-2008
 ---
 
-[![The Golden Keyboard](/assets/images/golden.jpg)](http://dev.day.com/microsling/content/blogs/main/chopenaward.html)[Day](http://www.day.com) has won the [CH Open Source Award 2008 in the business category](http://dev.day.com/microsling/content/blogs/main/chopenaward.html). We got a Golden Keyboard!
+[Day](http://www.day.com) has won the CH Open Source Award 2008 in the business category.
+We got a Golden Keyboard!
+
+<!-- excerpt -->
+
+[![The Golden Keyboard](/assets/images/golden.jpg)](http://dev.day.com/microsling/content/blogs/main/chopenaward.html)
 
 I'm very happy that the jury recognized our important contributions to open source, even though some people would give us bad marks due to us selling our products.
 
