@@ -4,6 +4,7 @@ date: 2006-01-05
 tags: 
   - "web"
   - "post"
+  - video
 slug: personal-video-recording-comes-to-the-web
 ---
 

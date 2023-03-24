@@ -4,6 +4,7 @@ date: 2006-07-11
 tags: 
   - "tools"
   - "post"
+  - video
 slug: streaming-flash-video-without-the-flash-media-server
 ---
 

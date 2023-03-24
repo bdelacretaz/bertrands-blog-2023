@@ -21,12 +21,13 @@ permalink: '/'
 
 <h2>Favorite posts</h2>
 
+{% set postlist = collections[ "favorite" ] %} 
+
 <p>
-  Here's a list of my favorite posts. Milestones, writings that I'm proud of, etc., going all
+  Here's a list of my {{ postlist.length }} favorite posts. Milestones, writings that I'm proud of, etc., going all
   the way back to the early 2000s, when I started my first tech blog.
 <p>
 
 <article>
-  {% set postlist = collections[ "favorite" ] %} 
   {% include "partials/list-of-posts.njk" %}
 </article>

@@ -4,6 +4,7 @@ date: 2005-12-15
 tags: 
   - "fun"
   - "post"
+  - music
 slug: google-does-music-and-funny-urls
 ---
 

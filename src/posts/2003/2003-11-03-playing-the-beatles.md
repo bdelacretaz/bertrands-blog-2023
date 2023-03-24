@@ -4,6 +4,7 @@ date: 2003-11-03
 tags: 
   - "fun"
   - "post"
+  - music
 slug: playing-the-beatles
 ---
 

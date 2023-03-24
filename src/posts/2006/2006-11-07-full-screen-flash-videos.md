@@ -5,6 +5,7 @@ tags:
   - "tools"
   - "post"
   - adobe
+  - video
 slug: full-screen-flash-videos
 ---
 
