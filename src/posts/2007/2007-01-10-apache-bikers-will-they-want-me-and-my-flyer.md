@@ -4,6 +4,7 @@ date: 2007-01-10
 tags: 
   - "post"
   - cycling
+  - ebike
 slug: apache-bikers-will-they-want-me-and-my-flyer
 ---
 
