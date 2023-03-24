@@ -7,14 +7,7 @@ layout: base
     <div class="post--header">
         <span class="post--time" datetime="{{ post.data.date }}">{{ date | dateFilter }}</span>
         -
-        <span class="tags--container-inline tags--container">
-            {% for tag in tags %} 
-            {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-                <span class="tag">
-                    <a href="{{ tagUrl | url }}">{{ tag }}</a>
-                </span>
-                {% endfor %}
-        </span>
+        {% include "partials/tags-list.njk" %}
     </div>
     <div class="post--content">
         {{ content | safe }}

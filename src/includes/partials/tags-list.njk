@@ -1,0 +1,10 @@
+<span class="tags--container-inline tags--container">
+  {% for tag in tags %} 
+    {% if tag != "post" %}
+      {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+      <span class="tag">
+        <a href="{{ tagUrl | url }}">{{ tag }}</a>
+      </span>
+    {% endif %}
+  {% endfor %}
+</span>

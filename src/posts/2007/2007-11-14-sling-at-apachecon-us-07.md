@@ -6,7 +6,7 @@ tags:
   - "content"
   - "post"
   - sling
-- microsling
+  - microsling
 slug: sling-at-apachecon-us-07
 ---
 
