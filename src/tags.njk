@@ -9,6 +9,8 @@ pagination:
 permalink: /tags/{{ tag | slug }}/
 ---
 
+{% include "partials/search.njk" %}
+
 <h2>Posts tagged with "{{ tag }}”</h2>
 
 <div id="posts--list">

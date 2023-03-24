@@ -16,6 +16,12 @@ h4 {
     text-transform: uppercase;
 }
 
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    border-bottom: dashed var(--border-very-light) 1px;
+    margin-bottom: var(--s0);
+}
+
 p {
     margin-bottom: var(--s1);
 }
