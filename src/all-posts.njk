@@ -1,0 +1,14 @@
+---
+layout: base
+title: All posts
+permalink: /all-posts/
+---
+
+<h2>All posts, from 2002 to present</h2>
+
+<div id="posts--list">
+    {% set postlist = collections.post %} 
+    {% for post in postlist | reverse %}
+      {% include "partials/post-in-list.njk" %}
+    {%- endfor -%}
+</div>

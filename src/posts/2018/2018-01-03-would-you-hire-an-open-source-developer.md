@@ -9,11 +9,13 @@ tags:
 slug: would-you-hire-an-open-source-developer
 ---
 
-_This blog post of mine was initially published by [Computerworld UK](https://www.computerworlduk.com/it-business/would-you-hire-an-open-source-developer-3570399/) in 2010_.
-
 As open source comes of age and becomes mainstream, more and more job postings include "open source skills" in their requirements.
 
 But do you really want to hire someone who spends their time exchanging flames with members of their own community in public forums? Someone who greets newcomers with "I have forwarded your question to /dev/null, thanks" and other RTFM answers?
+
+<!-- excerpt -->
+
+> This blog post of mine was initially published by [Computerworld UK](https://www.computerworlduk.com/it-business/would-you-hire-an-open-source-developer-3570399/) back in 2010.
 
 Luckily, open source communities are not just about being rude and unwelcoming to strangers. Most of them are not like that at all, and the skills you learn in an open source community can make a big difference in a corporate environment as well.
 

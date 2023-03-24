@@ -6,12 +6,17 @@ tags:
   - "post"
   - audio
   - video
+  - favorite
 slug: how-to-record-decent-conference-videos-without-breaking-the-bank
 ---
 
 This being the year of COVID-19, many of us are recording videos for online conferences.
 
-While I cannot claim being a professional video producer, by far, I _did_ work for a video studio during my studies (a long time ago - Betacam days, yes) and have been doing audio recording and [remixing](https://metapop.com/bertrand-delacretaz) on and off since then, moving from analog tools to the incredibly powerful software and cheap but decent microphones of today.
+While I cannot claim to be a professional video producer, by far, I _did_ work for a video studio during my studies (a long time ago - Betacam days, yes) 
+
+<!-- excerpt -->
+
+and have been doing audio recording and [remixing](https://metapop.com/bertrand-delacretaz) on and off since then, moving from analog tools to the incredibly powerful software and cheap but decent microphones of today.
 
 And feeling like time traveling while doing that...but I digress. Let's see if I can provide some useful advice about recording videos for conference talks.
 

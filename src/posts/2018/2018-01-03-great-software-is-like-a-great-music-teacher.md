@@ -9,11 +9,13 @@ tags:
 slug: great-software-is-like-a-great-music-teacher
 ---
 
-_This blog post of mine was initially published by [Computerworld UK](https://www.computerworlduk.com/it-business/great-software-is-like-a-great-music-teacher-3570403/) in 2010_.
-
 I'm amazed at how many so-called "enterprise software systems" do not embrace the Web model in 2010, making them way much harder and much less fun to use than they should be.
 
 I have recently started making parallels between this and music teachers, and the analogy seems to work. Don't ask where the parallel comes from...weird connections in my brain I guess.
+
+<!-- excerpt -->
+
+> This blog post of mine was initially published by [Computerworld UK](https://www.computerworlduk.com/it-business/great-software-is-like-a-great-music-teacher-3570403/) back in 2010.
 
 Say you want to learn to play the guitar. Someone recommended Joe, who's teaching in his downtown studio.
 

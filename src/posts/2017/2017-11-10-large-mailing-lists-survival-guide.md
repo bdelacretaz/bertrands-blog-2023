@@ -10,9 +10,12 @@ tags:
 slug: large-mailing-lists-survival-guide
 ---
 
-_I initially published this blog post on the Adobe Open Development blog at http://blogs.adobe.com/ but that's been archived so I'm re-publishing it here for convenience. Thanks to Adobe for allowing me to spend a portion on my time reflecting on such topics!_
-
 Here’s a “survival guide” that we use at Adobe to help our colleagues make sense of our busy Open Development mailing lists.
+
+<!-- excerpt -->
+
+> I initially published this blog post on the Adobe Open Development blog at http://blogs.adobe.com/ but that's been archived so I'm re-publishing it here for convenience. Thanks to Adobe for allowing me to spend a portion on my time reflecting on such topics!
+
 
 **To send or not to send**
 

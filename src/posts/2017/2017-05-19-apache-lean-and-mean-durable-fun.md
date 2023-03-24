@@ -7,9 +7,9 @@ tags:
 slug: apache-lean-and-mean-durable-fun
 ---
 
-_Here's another blog post of mine that was initially published by [Computerworld UK](http://www.computerworlduk.com/it-business/apache-lean-and-mean-durable-fun--3570408/)._
-
 My current Fiat Punto Sport is the second Diesel car that I own, and I love those engines. Very smooth yet quite powerful acceleration, good fuel savings, a discount on state taxes thanks to low pollution, and it's very reliable and durable. And fun to drive. How often does Grandma go "wow" when you put the throttle down in your car? That happens here, and that Grandma is not usually a car freak.
+
+<!-- excerpt -->
 
 Diesel engines used to be boring, but they have made incredible progress in the last few years - while staying true to their basic principles of simplicity, robustness and reliability.
 
@@ -24,3 +24,6 @@ A Japanese 4-cylinder 600cc gasoline-powered sports bike might be more exciting 
 Open Source communities are not one-size-fits-all: there's space for different types of communities, and by exposing each community's positive aspects, instead of trying to get them to fight each other, we might just grow the collective pie and live happily ever after (there's a not-so-hidden message to sensationalistic bloggers in that last paragraph).
 
 I'm very happy with the ASF being the turbocharged Diesel engine of Open Source - it does have to stay on its toes to make sure it doesn't turn into a boring old-style Diesel, but there's no need to rush evolution. There's space for different styles.
+
+> This blog post of mine that was initially published by [Computerworld UK](http://www.computerworlduk.com/it-business/apache-lean-and-mean-durable-fun--3570408/).
+

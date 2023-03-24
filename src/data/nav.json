@@ -7,7 +7,7 @@
         },
         {
             "name": "All posts",
-            "url": "/tags/post/",
+            "url": "/all-posts/",
             "title": "All posts"
         },
         {

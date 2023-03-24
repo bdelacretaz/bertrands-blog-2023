@@ -13,6 +13,8 @@ I originally published this article on SD Times, republishing it to keep it arou
 
 If you’re looking at embracing open source today, you might be a bit late to the game. Using open-source software is mainstream now, and being involved in open-source projects is nothing to write home about either. Everybody does it, we know how it works, its value is proven.
 
+<!-- excerpt -->
+
 But what’s next? Sharing source code openly is a given in open-source projects, but in the end it’s only about sharing lines of text. The real long-term power of successful open-source projects lies in how their communities operate, and that’s where open development comes in.
 
 Shared communications channels. Meritocracy. Commit early, commit often. Back your work by issues in a shared tracker. Archive all discussions, decisions and issues about your project, and make that searchable. All simple principles that, when combined, make a huge difference to the efficiency of our corporate projects.

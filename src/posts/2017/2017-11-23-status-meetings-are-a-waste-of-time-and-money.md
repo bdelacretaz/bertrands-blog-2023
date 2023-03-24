@@ -10,13 +10,13 @@ tags:
 slug: status-meetings-are-a-waste-of-time-and-money
 ---
 
+> How would you feel if you had to regularly expense $1200 so you could “tell a few teammates something”. Think that would go over well? (Jason Fried)
+
+<!-- excerpt -->
+
 Last Monday I presented on [Asynchronous Decision Making](https://www.slideshare.net/bdelacretaz/asynchronous-decision-making-foss-backstage-2017) at the (excellent) [FOSS Backstage](https://foss-backstage.de/) Micro Summit in Berlin and there were some questions about me saying that status meetings are a waste of time.
 
 My opinion on status meetings hasn't changed in a long time and I'm very happy to see Jason Fried loudly confirm it in his _[status meetings are the scourge](https://m.signalvnoise.com/status-meetings-are-the-scourge-39f49267ca90)_ post.
-
-Quoting him:
-
-> How would you feel if you had to regularly expense $1200 so you could “tell a few teammates something”. Think that would go over well?
 
 If your team shape allows you to run status meetings, you should first reflect on their actual cost. And if you still want to run them after that I suggest:
 

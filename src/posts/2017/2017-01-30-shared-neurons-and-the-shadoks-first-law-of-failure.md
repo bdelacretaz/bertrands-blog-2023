@@ -7,9 +7,9 @@ tags:
 slug: shared-neurons-and-the-shadoks-first-law-of-failure
 ---
 
-This blog post of mine was originally published by [Computerworld UK in 2010](http://www.computerworlduk.com/it-business/shared-neurons-and-the-shadoks-first-law-of-failure-3570396/).
-
 French-speaking fortysomethings might remember the Shadoks, a two-minute TV comics show that aired on ORTF when I was a kid.
+
+<!-- excerpt -->
 
 Those silly (and funny) creatures need to get to Earth as their own planet, on the left of the sky, is falling into pieces. They spend their time pumping on bicycle-like contraptions to produce Cosmogol 999 fuel to power their rocket towards Earth, while respected Professor Shadoko keeps them motivated with his motto: "the more you fail, the more likely your are to eventually succeed". So they keep failing, every single time, hoping that statistics will prove them right some day.
 
@@ -28,3 +28,5 @@ Some people are afraid of exposing their unfinished ideas to their communities s
 In my opinion, being ready to accept such failures makes you a much more efficient contributor to open communities. Although you don't need to fail as consistently as the Shadoks, being ready to fall on your face once in a while allows you to contribute your wildest ideas to the discussion. Combined with respect for other's crazy ideas, and with the ability to explain nicely when people are wrong, we have a recipe for efficient sharing of neurons, where the sum is definitely greater than its parts.
 
 I'm seeing this neuron sharing in action on our Apache mailing lists all the time, and I think accepting the risk of being wrong when exposing one’s ideas on our public lists makes a big difference. We’re not Shadoks after all - our failure stats are way too low.
+
+> This blog post of mine was originally published by [Computerworld UK in 2010](http://www.computerworlduk.com/it-business/shared-neurons-and-the-shadoks-first-law-of-failure-3570396/).
