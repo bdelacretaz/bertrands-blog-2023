@@ -4,6 +4,7 @@ const dateFilter = require('./src/11ty/dateFilter.js');
 const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
 const uniqFilter = require('./src/11ty/uniqFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
+const vimeoEmbed = require("./src/11ty/vimeoEmbed.js");
 const slugify = require("slugify");
 
 module.exports = function (config) {
@@ -22,6 +23,7 @@ module.exports = function (config) {
 
   // SHORTCODES //
   config.addShortcode("youtube", youTubeEmbed);
+  config.addShortcode("vimeo", vimeoEmbed);
 
   // PLUG-INS //
   config.addPlugin(pluginRss);
