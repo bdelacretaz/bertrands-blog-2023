@@ -5,6 +5,7 @@ tags:
   - "people"
   - "post"
   - favorite
+  - teaching
 slug: rip-randy-pausch
 ---
 

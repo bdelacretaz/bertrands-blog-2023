@@ -4,6 +4,7 @@ date: 2008-05-19
 tags: 
   - "thoughts"
   - "post"
+  - teaching
 slug: qotd-albert-einstein-on-the-teaching-power-of-examples
 ---
 
