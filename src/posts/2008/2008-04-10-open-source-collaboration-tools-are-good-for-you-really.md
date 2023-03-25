@@ -11,7 +11,10 @@ slug: open-source-collaboration-tools-are-good-for-you-really
 
 Really? Well my [talk](http://eu.apachecon.com/eu2008/program/talk/2481) at ApacheCon is done and went well, so that's real at least.
 
-\[slideshare id=345982&doc=opensourcetoolsaregoodforyou-1207835716470176-8&w=425\]
+{% pdf
+ "https://files.codeconsult.ch/slides/opensourcetoolsaregoodforyou-1207835716470176-8.pdf",
+ "Open Source tools are good for you!"
+%}
 
 Someone commented that it was good and depressing at the same time. Their company has all the tools in place but doesn't get any added value, due to using them in the wrong way, or not consistently enough. Good to hear that my talk at least maps to real life ;-)
 

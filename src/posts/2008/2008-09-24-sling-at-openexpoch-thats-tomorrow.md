@@ -15,6 +15,9 @@ A number of Apache folk are talking there today and tomorrow, see the [program](
 
 Here are our slides, but it's _much_ better live on stage, so be there anyway!
 
-\[slideshare id=615053&doc=tamingjcrwithsling-1222241310505130-9&w=425\]
+{% pdf
+ "https://files.codeconsult.ch/slides/taming-jcr-with-sling.pdf",
+ "Taming JCR with Apache Sling"
+%}
 
 _Update: the demo code is available at [SLING-673](https://issues.apache.org/jira/browse/SLING-673)_.

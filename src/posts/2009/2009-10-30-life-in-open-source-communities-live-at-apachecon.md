@@ -17,5 +17,3 @@ slug: life-in-open-source-communities-live-at-apachecon
 ![allabout.jpg](/assets/images/allabout.jpg)I'll post the slides here later, for now they are super secret, so you'll just get the teasers...images courtesy of morguefile.com (_update: slides added now_).
 
 Hope to see you next week! In any case I have collected a number of useful links in my [delicious bookmarks](http://delicious.com/bdelacretaz/losc), I'll point people to them in the presentation.
-
-\[slideshare id=2383686&doc=open-source-collab-tools-bdelacretaz-april09-091030080502-phpapp01\]

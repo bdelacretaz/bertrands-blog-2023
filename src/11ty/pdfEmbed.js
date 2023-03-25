@@ -5,7 +5,7 @@ module.exports = function (pdfURL, caption) {
     canvas-width="600"
     url="${pdfURL}"
     />
-    <caption>${caption}</caption>
+    <figcaption>${caption}</figcaption>
   </figure>
   `;
 }

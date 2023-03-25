@@ -16,4 +16,7 @@ I also quite liked Steve Yen's ["horseless carriage"](http://blog.northscale.com
 
 I gave a short talk about JCR, find the slides below. Of course, as usual, they're not as good as when I'm here to talk about them ;-)
 
-\[slideshare id=2408369&doc=jcr-in-10-minutes-091102225734-phpapp01\]
+{% pdf
+ "https://files.codeconsult.ch/slides/jcr-in-10-minutes-091102225734-phpapp01.pdf",
+ "JCR in 15 minutes"
+%}

@@ -16,6 +16,9 @@ The funny thing is that the above abstract was written by Ross Gardler while wai
 
 The event is covered by a [live blog](http://www.coveritlive.com/index2.php/option=com_altcaster/task=viewaltcast/altcast_code=a3264d23fa/height=550/width=470), and you can ask questions there.
 
-\[slideshare id=2649029&doc=open-innovation-bdelacretaz-200912-091204073350-phpapp02\]
+{% pdf
+ "https://files.codeconsult.ch/slides/open-innovation-bdelacretaz-200912-091204073350-phpapp02.pdf",
+ "Open Innovation in software"
+%}
 
 To put it simply, my conclusion is that quick feedback from users and customers is key to open innovation - and open source. if done right, provides _lots_ of feedback, fast.

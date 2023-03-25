@@ -9,9 +9,14 @@ tags:
 slug: xslt-and-xpath-without-the-pain
 ---
 
-Here are my slides from last week's [ApacheCon](http://www.us.apachecon.com). That's mostly an excuse to play with the cool [slideshare](http://www.slideshare.net/bdelacretaz/xslt-without-the-pain) embedding widget, as the slides aren't really standalone: you might need me to make sense of them ;-)
+Here are my slides from last week's [ApacheCon](http://www.us.apachecon.com).
 
-\[slideshare id=70335&doc=xslt-without-the-pain995&w=425\]
+They are not really standalone: you might need me to make sense of them ;-)
+
+{% pdf
+ "https://files.codeconsult.ch/slides/xslt-without-the-pain995.pdf",
+ "XSLT - without the pain!"
+%}
 
 The talk went well, including some challenging questions and feedback, which is cool.
 

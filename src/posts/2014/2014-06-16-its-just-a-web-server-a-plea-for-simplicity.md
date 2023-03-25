@@ -18,7 +18,10 @@ We like to think of what we build with [AEM](adobe.com/go/aem "AEM") as large en
 
 However, when you think about it, our systems are “just” HTTP request processors, that manipulate atomic pieces of content in a content repository.
 
-\[slideshare id=36275660&doc=x8kwnzlyrkym3sfue0gd-140625011026-phpapp02\]
+{% pdf
+ "https://files.codeconsult.ch/slides/x8kwnzlyrkym3sfue0gd-140625011026-phpapp02.pdf",
+ "It's just a Web Server - a plea for simplicity"
+%}
 
 What if you wanted to manage the Whole World Wide Web with a single system? The architecture of that 4WCMS might be quite similar to what [Apache Sling](http://sling.apache.org/ "Apache Sling") provides for AEM: mostly independent dynamic HTTP request processors, selected by path and resource type, that render and/or process resources from a huge tree of content.
 

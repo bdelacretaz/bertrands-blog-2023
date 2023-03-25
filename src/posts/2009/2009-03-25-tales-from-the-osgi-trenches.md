@@ -15,4 +15,7 @@ People can certainly relate to the issues that we've been facing with OSGi, and 
 
 Things will get better, but my conclusions page already has a lot more smileys than monsters!
 
-\[slideshare id=1195683&doc=osgi-tales-bdelacretaz-aceu09-090325082551-phpapp01\]
+{% pdf
+ "https://files.codeconsult.ch/slides/osgi-tales-bdelacretaz-aceu09-090325082551-phpapp01.pdf",
+ "Tales from the OSGi trenches"
+%}

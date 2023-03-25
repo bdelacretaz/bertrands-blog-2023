@@ -13,7 +13,10 @@ I have relooked and slightly expanded this presentation for [tomorrow at OpenExp
 
 Talking to attendees last week at ApacheCon shows that people often struggle to introduce these tools and the open way of working in their companies. It seems like that fear can be an important blocking factor, and people are rarely explicitely aware of it.
 
-\[slideshare id=1221963&doc=openexpo-2009-bertrand-ostools-090330105659-phpapp02\]
+{% pdf
+ "https://files.codeconsult.ch/slides/opensourcetoolsaregoodforyou-1207835716470176-8.pdf",
+ "Open Source tools are good for you!"
+%}
 
 (See how serious I am? This is April 1st and I'm not even making [lame jokes](http://tinyurl.com/rrbd09)!)
 
