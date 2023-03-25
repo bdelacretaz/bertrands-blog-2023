@@ -6,6 +6,12 @@ module.exports = function (pdfURL, caption) {
     url="${pdfURL}"
     />
     <figcaption>${caption}</figcaption>
+    <noscript>
+      We're unable to show this preview, but
+      you can find the document at
+      <br/>
+      <a href="${pdfURL}">${pdfURL}</a>
+    </noscript>
   </figure>
   `;
 }
