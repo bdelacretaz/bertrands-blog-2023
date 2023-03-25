@@ -2,10 +2,10 @@
 title: "FOP 0.90 alpha 1 released, congratulations!"
 date: 2005-11-23
 tags: 
-  - opensource
-  - "tools"
   - "xml"
   - "post"
+  - fop
+  - jfor
 slug: fop-090-alpha-1-released-congratulations
 ---
 

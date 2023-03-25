@@ -5,6 +5,7 @@ tags:
   - "post"
   - apachecon
   - conferences
+  - solr
 slug: speaking-at-apachecon-eu-2007
 ---
 

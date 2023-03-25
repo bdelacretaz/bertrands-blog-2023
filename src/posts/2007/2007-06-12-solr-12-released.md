@@ -4,6 +4,7 @@ date: 2007-06-12
 tags: 
   - "tools"
   - "post"
+  - solr
 slug: solr-12-released
 ---
 

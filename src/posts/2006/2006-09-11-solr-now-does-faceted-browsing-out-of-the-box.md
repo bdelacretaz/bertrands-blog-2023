@@ -4,6 +4,7 @@ date: 2006-09-11
 tags: 
   - "tools"
   - "post"
+  - solr
 slug: solr-now-does-faceted-browsing-out-of-the-box
 ---
 

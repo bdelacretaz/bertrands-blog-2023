@@ -3,6 +3,9 @@ title: "Cliff Schmidt on licensing"
 date: 2005-07-20
 tags: 
   - "post"
+  - opensource
+  - asf
+  - licenses
 slug: cliff-schmidt-on-licensing
 ---
 

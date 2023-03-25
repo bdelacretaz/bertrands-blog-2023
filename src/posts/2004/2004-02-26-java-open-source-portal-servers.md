@@ -4,6 +4,7 @@ date: 2004-02-26
 tags: 
   - "cocoon"
   - "post"
+  - java
 slug: java-open-source-portal-servers
 ---
 

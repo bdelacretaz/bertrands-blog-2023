@@ -4,6 +4,7 @@ date: 2004-11-26
 tags: 
   - opensource
   - "post"
+  - java
 slug: news-on-java-and-the-lgpl
 ---
 

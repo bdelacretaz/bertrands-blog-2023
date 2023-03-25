@@ -2,8 +2,9 @@
 title: "Sun Java Desktop review"
 date: 2003-09-20
 tags: 
-  - "operating-systems"
+  - linux
   - "post"
+  - java
 slug: sun-java-desktop-review
 ---
 

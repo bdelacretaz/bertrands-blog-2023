@@ -5,6 +5,7 @@ tags:
   - "cocoon"
   - "post"
   - simplicity
+  - nouvo
 slug: its-nouvo-and-it-runs-on-cocoon
 ---
 

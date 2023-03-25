@@ -4,6 +4,7 @@ date: 2004-09-30
 tags: 
   - "cocoon"
   - "post"
+  - nouvo
 slug: cocoon-jungle-talk-gets-attention
 ---
 

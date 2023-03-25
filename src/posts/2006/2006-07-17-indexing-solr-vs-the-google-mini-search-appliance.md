@@ -4,6 +4,7 @@ date: 2006-07-17
 tags: 
   - "tools"
   - "post"
+  - solr
 slug: indexing-solr-vs-the-google-mini-search-appliance
 ---
 

@@ -4,10 +4,11 @@ date: 2007-01-10
 tags: 
   - "apachecon"
   - "post"
+  - solr
 slug: my-apachecon-eu-2007-proposals
 ---
 
-This might inspire you for some last-minute [proposals](http://codeconsult.ch/bertrand/archives/000749.html). And later allow you to find out which ones were not accepted ;-)
+This might inspire you for some last-minute proposals. And later allow you to find out which ones were not accepted ;-)
 
 Beyond technical skills: what makes open source developers sucessful?
 

@@ -4,6 +4,7 @@ date: 2004-02-26
 tags: 
   - "thoughts"
   - "post"
+  - archimob
 slug: storytelling-power-to-the-people
 ---
 

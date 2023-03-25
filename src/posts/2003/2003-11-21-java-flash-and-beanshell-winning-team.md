@@ -4,6 +4,10 @@ date: 2003-11-21
 tags: 
   - "thoughts"
   - "post"
+  - archimob
+  - flash
+  - java
+  - linux
 slug: java-flash-and-beanshell-winning-team
 ---
 
@@ -15,22 +19,24 @@ From the kind of project and the team's organisation, I felt early on that the s
 
 That's where [BeanShell](http://www.beanshell.org/) comes in: being able to glue robust java components with a few lines of script to define the interactions between the various mechanical and multimedia components has been a _big_ help.
 
-I've been thinking a lot about how to best combine compiled and interpreted code lately, and this is it! First you build your java components, quickly play with them with small scripts to get the interfaces right, and finally you write interpreted stuff like:
+I've been thinking a lot about how to best combine compiled and interpreted code lately, and this is it!
 
-// display choices and vote
-flashDisplay.showScreen("screen-1 selection=12");
-filmName = votingRules.vote();
+First you build your java components, quickly play with them with small scripts to get the interfaces right, and finally you write interpreted stuff like:
 
-// prepare to play film
-video.loadFilm(filmName);
-flashDisplay.fadeToBlack(FADEOUT\_TIME);
-lights.setScene(FILM\_PLAYING\_SCENE);
-displaySwitch.select(FILM\_DISPLAY);
+    // display choices and vote
+    flashDisplay.showScreen("screen-1 selection=12");
+    filmName = votingRules.vote();
 
-// play film and wait for end
-video.play();
-video.waitForEnd();
-. . .
+    // prepare to play film
+    video.loadFilm(filmName);
+    flashDisplay.fadeToBlack(FADEOUT\_TIME);
+    lights.setScene(FILM\_PLAYING\_SCENE);
+    displaySwitch.select(FILM\_DISPLAY);
+
+    // play film and wait for end
+    video.play();
+    video.waitForEnd();
+    . . .
 
 This is the kind of code that you can even show to your customers to discuss the details, but all the critical machinery is safely defined in java code.
 

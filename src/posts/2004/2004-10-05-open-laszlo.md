@@ -4,6 +4,7 @@ date: 2004-10-05
 tags: 
   - "tools"
   - "post"
+  - flash
 slug: open-laszlo
 ---
 

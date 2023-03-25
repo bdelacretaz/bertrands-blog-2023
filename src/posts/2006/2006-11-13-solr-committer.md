@@ -2,8 +2,11 @@
 title: "Solr committer!"
 date: 2006-11-13
 tags: 
-  - "tools"
   - "post"
+  - solr
+  - opensource
+  - asf
+  - milestones
 slug: solr-committer
 ---
 

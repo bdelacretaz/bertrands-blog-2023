@@ -4,6 +4,8 @@ date: 2006-10-20
 tags: 
   - "tools"
   - "post"
+  - solr
+  - xslt
 slug: solr-does-xslt
 ---
 

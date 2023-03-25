@@ -4,6 +4,7 @@ date: 2004-04-29
 tags: 
   - "java"
   - "post"
+  - java
 slug: eclipse-rich-client-platform
 ---
 

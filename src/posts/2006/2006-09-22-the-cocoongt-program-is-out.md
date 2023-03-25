@@ -4,6 +4,7 @@ date: 2006-09-22
 tags: 
   - "cocoon"
   - "post"
+  - solr
 slug: the-cocoongt-program-is-out
 ---
 

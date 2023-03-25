@@ -4,6 +4,7 @@ date: 2004-02-19
 tags: 
   - "thoughts"
   - "post"
+  - fop
 slug: meeting-jeremias-irl
 ---
 

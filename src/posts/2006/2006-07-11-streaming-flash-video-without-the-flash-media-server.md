@@ -5,6 +5,7 @@ tags:
   - "tools"
   - "post"
   - video
+  - flash
 slug: streaming-flash-video-without-the-flash-media-server
 ---
 

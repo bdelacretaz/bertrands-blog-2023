@@ -3,6 +3,8 @@ title: "is jfor dead?"
 date: 2003-06-04
 tags: 
   - "post"
+  - fop
+  - jfor
 slug: is-jfor-dead
 ---
 

@@ -5,6 +5,8 @@ tags:
   - "java"
   - "web"
   - "post"
+  - java
+  - javadoc
 slug: javadocsorg
 ---
 

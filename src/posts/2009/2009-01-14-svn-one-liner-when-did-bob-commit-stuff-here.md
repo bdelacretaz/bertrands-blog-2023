@@ -4,19 +4,20 @@ date: 2009-01-14
 tags: 
   - "tools"
   - "post"
+  - svn
 slug: svn-one-liner-when-did-bob-commit-stuff-here
 ---
 
 From the _blogging this to remember next time_ department:
 
-find src -type f \\
-| grep -v svn \\
-| while read f
-do 
-  echo "FILE:$f" 
-  svn log -q
-done \\
-| egrep 'FILE|bob'
+    find src -type f \\
+    | grep -v svn \\
+    | while read f
+    do 
+      echo "FILE:$f" 
+      svn log -q
+    done \\
+    | egrep 'FILE|bob'
 
 Additional `svn log` options like `-r` can be used to restrict the range.
 

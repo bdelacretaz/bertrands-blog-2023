@@ -5,6 +5,7 @@ tags:
   - "cocoon"
   - "post"
   - simplicity
+  - nouvo
 slug: archivestsrch-runs-on-cocoon-market-share-doubled
 ---
 

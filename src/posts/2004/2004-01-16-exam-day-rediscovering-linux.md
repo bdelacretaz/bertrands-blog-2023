@@ -4,6 +4,8 @@ date: 2004-01-16
 tags: 
   - "thoughts"
   - "post"
+  - linux
+  - archimob
 slug: exam-day-rediscovering-linux
 ---
 

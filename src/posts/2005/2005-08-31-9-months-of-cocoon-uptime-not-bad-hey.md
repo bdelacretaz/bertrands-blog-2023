@@ -4,6 +4,7 @@ date: 2005-08-31
 tags: 
   - "cocoon"
   - "post"
+  - nouvo
 slug: 9-months-of-cocoon-uptime-not-bad-hey
 ---
 

@@ -3,6 +3,8 @@ title: "JOX - bidirectional Java to XML mapping"
 date: 2003-05-13
 tags: 
   - "post"
+  - java
+  - xml
 slug: jox-bidirectional-java-to-xml-mapping
 ---
 

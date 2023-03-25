@@ -4,6 +4,7 @@ date: 2003-09-12
 tags: 
   - opensource
   - "post"
+  - fop 
 slug: bending-the-rules
 ---
 

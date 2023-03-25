@@ -4,6 +4,8 @@ date: 2007-02-10
 tags: 
   - "tools"
   - "post"
+  - flash
+  - solr
 slug: the-new-tsrch-video-player-powered-by-solr
 ---
 

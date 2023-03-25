@@ -4,6 +4,7 @@ date: 2004-05-18
 tags: 
   - "tools"
   - "post"
+  - javascript
 slug: xmlhttprequest-rocks
 ---
 

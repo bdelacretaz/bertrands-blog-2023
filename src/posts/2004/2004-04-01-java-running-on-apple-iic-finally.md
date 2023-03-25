@@ -4,6 +4,7 @@ date: 2004-04-01
 tags: 
   - "fun"
   - "post"
+  - java
 slug: java-running-on-apple-iic-finally
 ---
 

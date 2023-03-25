@@ -3,6 +3,8 @@ title: "Solr graduates from the Apache Incubator"
 date: 2007-01-17
 tags: 
   - "post"
+  - solr
+  - asf
 slug: solr-graduates-from-the-apache-incubator
 ---
 

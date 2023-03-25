@@ -5,6 +5,7 @@ tags:
   - "tools"
   - "post"
   - video
+  - flash
 slug: handling-flv-video-outside-of-flash-no-fun
 ---
 

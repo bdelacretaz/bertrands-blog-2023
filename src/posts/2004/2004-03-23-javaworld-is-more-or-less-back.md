@@ -3,6 +3,7 @@ title: "JavaWorld is (more or less) back"
 date: 2004-03-23
 tags: 
   - "post"
+  - java
 slug: javaworld-is-more-or-less-back
 ---
 

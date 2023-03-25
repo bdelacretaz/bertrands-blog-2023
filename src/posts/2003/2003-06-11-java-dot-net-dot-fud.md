@@ -3,6 +3,7 @@ title: "java dot net dot fud?"
 date: 2003-06-11
 tags: 
   - "post"
+  - java
 slug: java-dot-net-dot-fud
 ---
 

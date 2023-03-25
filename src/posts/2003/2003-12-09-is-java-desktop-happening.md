@@ -4,6 +4,7 @@ date: 2003-12-09
 tags: 
   - opensource
   - "post"
+  - java
 slug: is-java-desktop-happening
 ---
 

@@ -4,6 +4,7 @@ date: 2004-02-20
 tags: 
   - "cocoon"
   - "post"
+  - java
 slug: business-logic-in-cocoon-how
 ---
 

@@ -4,6 +4,7 @@ date: 2003-05-12
 tags: 
   - "cocoon"
   - "post"
+  - java
 slug: cocoon-flow-in-java
 ---
 

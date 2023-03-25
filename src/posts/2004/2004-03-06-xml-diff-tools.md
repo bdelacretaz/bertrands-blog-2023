@@ -4,6 +4,7 @@ date: 2004-03-06
 tags: 
   - "xml"
   - "post"
+  - java
 slug: xml-diff-tools
 ---
 

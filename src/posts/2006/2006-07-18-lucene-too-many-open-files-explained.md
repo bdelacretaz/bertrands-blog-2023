@@ -4,6 +4,7 @@ date: 2006-07-18
 tags: 
   - "tools"
   - "post"
+  - solr
 slug: lucene-too-many-open-files-explained
 ---
 

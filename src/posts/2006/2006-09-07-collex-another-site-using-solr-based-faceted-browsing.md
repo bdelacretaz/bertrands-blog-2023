@@ -4,6 +4,7 @@ date: 2006-09-07
 tags: 
   - "tools"
   - "post"
+  - solr
 slug: collex-another-site-using-solr-based-faceted-browsing
 ---
 

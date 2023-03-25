@@ -4,6 +4,7 @@ date: 2008-03-25
 tags: 
   - "fun"
   - "post"
+  - svn
 slug: svn-delete-cvs
 ---
 

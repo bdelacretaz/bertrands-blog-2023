@@ -5,6 +5,7 @@ tags:
   - "web"
   - "post"
   - video
+  - flash
 slug: personal-video-recording-comes-to-the-web
 ---
 

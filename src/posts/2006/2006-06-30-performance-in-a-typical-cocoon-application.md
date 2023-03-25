@@ -4,6 +4,7 @@ date: 2006-06-30
 tags: 
   - "cocoon"
   - "post"
+  - nouvo
 slug: performance-in-a-typical-cocoon-application
 ---
 

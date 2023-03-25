@@ -4,8 +4,8 @@ date: 2006-11-07
 tags: 
   - "tools"
   - "post"
-  - adobe
   - video
+  - flash
 slug: full-screen-flash-videos
 ---
 

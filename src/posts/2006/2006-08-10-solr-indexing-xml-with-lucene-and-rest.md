@@ -5,6 +5,7 @@ tags:
   - "tools"
   - "xml"
   - "post"
+  - solr
 slug: solr-indexing-xml-with-lucene-and-rest
 ---
 

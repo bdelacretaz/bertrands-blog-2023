@@ -3,6 +3,8 @@ title: "Linotype has landed"
 date: 2003-06-17
 tags: 
   - "post"
+  - javascript
+  - cocoon
 slug: linotype-has-landed
 ---
 
@@ -16,19 +18,19 @@ I like that - _transparent systems_, when something goes wrong, let them know in
 
 On the server side, it's javascript again, but this time driving the Cocoon flow. How about this:
 
-/\*
-\* ...This method checks the flowscript to see if the
-\* called action exists as a flowscript function. If so, it's called with
-\* the given arguments. If not, the appropriate admin screen is sent
-\* to the user.
-\*/
-function invoke(action, args) {
-func = this\[action\];
-if (func != undefined) {
-func.apply(this,args);
-} else {
-sendPage("screen/" + action, {"user" : username});
-}
-}
+    /*
+     * This method checks the flowscript to see if the
+     * called action exists as a flowscript function. If so, it's called with
+     * the given arguments. If not, the appropriate admin screen is sent
+     * to the user.
+     */
+    function invoke(action, args) {
+      func = this\[action\];
+      if (func != undefined) {
+        func.apply(this,args);
+      } else {
+        sendPage("screen/" + action, {"user" : username});
+      }
+    }
 
 Wow. If you haven't looked at the Cocoon flow yet [start here](http://wiki.cocoondev.org/Wiki.jsp?page=GettingStartedWithFlow).

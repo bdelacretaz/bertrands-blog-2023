@@ -5,6 +5,7 @@ tags:
   - "tools"
   - "xml"
   - "post"
+  - xslt
 slug: dax-xslt-like-transforms-in-java
 ---
 

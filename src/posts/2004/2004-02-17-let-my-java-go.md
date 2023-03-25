@@ -4,6 +4,7 @@ date: 2004-02-17
 tags: 
   - opensource
   - "post"
+  - java
 slug: let-my-java-go
 ---
 

@@ -3,6 +3,7 @@ title: "Big Bad Bug Labels from Jira - the recipe"
 date: 2006-10-02
 tags: 
   - "post"
+  - fop
 slug: big-bad-bug-labels-from-jira-the-recipe
 ---
 
