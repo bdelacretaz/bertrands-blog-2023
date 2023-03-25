@@ -10,4 +10,7 @@ slug: open-source-collaboration-tools-are-good-for-you
 
 That's what I'm going to talk about at [ApacheCon EU 2008](http://www.eu.apachecon.com/). I'm going to rewrite my previous _Open Source Project Tools for Corporate Projects_ presentation (below), from a more analytic and results-oriented angle.
 
-\[slideshare id=129420&doc=opensource-project-tools-for-corporate-projects827&w=425\]
+{% pdf 
+  "https://files.codeconsult.ch/slides/opensource-project-tools-for-corporate-projects827.pdf",
+  "Open Source project tools for corporate projects?"
+%}

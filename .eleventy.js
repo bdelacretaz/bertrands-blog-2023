@@ -5,11 +5,13 @@ const dateFoldersFilter = require('./src/11ty/dateFoldersFilter.js');
 const uniqFilter = require('./src/11ty/uniqFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const vimeoEmbed = require("./src/11ty/vimeoEmbed.js");
+const pdfEmbed = require("./src/11ty/pdfEmbed.js");
 const slugify = require("slugify");
 
 module.exports = function (config) {
   // PASSTHROUGHS
   config.addPassthroughCopy("src/assets/images/");
+  config.addPassthroughCopy("src/assets/js/");
 
   // LAYOUTS //
   config.addLayoutAlias("base", "layouts/base.njk");
@@ -24,6 +26,7 @@ module.exports = function (config) {
   // SHORTCODES //
   config.addShortcode("youtube", youTubeEmbed);
   config.addShortcode("vimeo", vimeoEmbed);
+  config.addShortcode("pdf", pdfEmbed);
 
   // PLUG-INS //
   config.addPlugin(pluginRss);

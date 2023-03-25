@@ -1,0 +1,1 @@
+import{p as e,b as a}from"./p-b498dd0b.js";e().then(e=>a([["p-qfajoh5i",[[0,"pdf-viewer",{canvasWidth:[2,"canvas-width"],url:[1],currentPage:[32],totalPages:[32],error:[32]},[[0,"activePageEvent","setActivePage"]]],[0,"error-message",{message:[1]}],[0,"pdf-toolbar",{url:[1],totalPages:[2,"total-pages"],currentPage:[2,"current-page"],activePage:[32]}]]]],e));
