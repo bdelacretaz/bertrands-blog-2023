@@ -9,9 +9,13 @@ tags:
 slug: vanilla-js-web-platform
 ---
 
-Speaking at the Very Tech Trip conference in Paris in February was nice!
+Speaking (in French) at the Very Tech Trip conference in Paris in February was nice!
 
 <!-- excerpt -->
+
+{% vimeo
+  "https://vimeo.com/804412002"
+%}
 
 Although the conference is very clearly vendor-driven, being organized by OVHCloud, a major European cloud provider, the vibe was very nice with lots of great technical content. Attendance was free, including food and beverages, which is a nice touch.
 
@@ -21,12 +25,8 @@ I'm hoping to do more talks around the Web Platform, as I'm spending a good amou
 
 This particular topic is not very popular right now, as many developers still believe they cannot create a website without a client-side JavaScript framework, but things are changing. I'm hopeful.
 
-The video recording (in French) and slides can be found below, and there's more on the
+The slides can be found below, and there's more on the
 [Very Tech Trip](https://verytechtrip.com/) website.
-
-{% vimeo
-  "https://vimeo.com/804412002"
-%}
 
 {% pdf 
   "https://files.codeconsult.ch/slides/very-tech-trip-web-platform-bertrand-2023.pdf",
