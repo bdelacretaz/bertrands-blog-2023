@@ -3,11 +3,10 @@ title: "Teaching programming: Sonic Pi for the win!"
 date: 2023-03-24
 tags: 
   - post
-  - current
+  - favorite
   - music
   - teaching
-  - favorite
-  - adobe
+  - sonicpi
 slug: teaching-programming-sonic-pi-ftw
 ---
 
