@@ -7,6 +7,7 @@ tags:
   - "maven"
   - "osgi"
   - "post"
+  - groovy
 slug: transforming-maven-pom-properties-with-groovy
 ---
 
@@ -20,6 +21,7 @@ One of these headers is `Bundle-Version`, which does not support values like `5.
 
 To avoid having a separate `bundle.version` property in your POM, which if you're like me you'll forget to update before a release, here's how to transform the value using a bit of Groovy scripting:
 
+```xml
     <plugin>
       <groupId>org.codehaus.groovy.maven</groupId>
       <artifactId>gmaven-plugin</artifactId>
@@ -35,7 +37,8 @@ To avoid having a separate `bundle.version` property in your POM, which if you'r
             <rawVersion>${pom.version}</rawVersion>
           </properties>
           <source>
-            // Convert POM version to valid OSGi version identifier
+            // Convert POM version to valid
+            // OSGi version identifier
             project.properties\['osgi.version'\] = 
               (project.properties\['rawVersion'\] =~ /-/).replaceAll('.')
           </source>
@@ -43,16 +46,20 @@ To avoid having a separate `bundle.version` property in your POM, which if you'r
       </execution>
     </executions>
     </plugin>  
+```
 
 As usual in Maven POMs (though I think Maven 3.x can improve on that, feedback welcome) that's a bit verbose to write, the actual Groovy code is just
 
+```groovy
     project.properties\['osgi.version'\] = 
       (project.properties\['rawVersion'\] =~ /-/).replaceAll('.')
+````
 
 But even with the verbosity it's cool to be able to do that without having to write a plugin. You can then use the `${osgi.version}` property for the `Bundle-Version` header.
 
 For the sake of completeness, here's the other interesting part of that pom, which sets the required OSGi headers to create a fragment bundle. `com.example,whatever` is the package that we need to be exported by the system bundle.
 
+```xml
     <plugin>
       <groupId>org.apache.maven.plugins</groupId>
       <artifactId>maven-jar-plugin</artifactId>
@@ -78,5 +85,6 @@ For the sake of completeness, here's the other interesting part of that pom, whi
       </archive>
     </configuration>
     </plugin>
+```
 
 _Update: a complete sample pom is available at [http://svn.apache.org/repos/asf/sling/trunk/samples/framework-fragment/pom.xml](http://svn.apache.org/repos/asf/sling/trunk/samples/framework-fragment/pom.xml)_

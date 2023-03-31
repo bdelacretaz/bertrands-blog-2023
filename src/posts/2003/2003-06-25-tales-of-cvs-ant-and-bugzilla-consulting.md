@@ -3,6 +3,7 @@ title: "Tales of CVS, ant and bugzilla consulting"
 date: 2003-06-25
 tags: 
   - "post"
+  - bugzilla
 slug: tales-of-cvs-ant-and-bugzilla-consulting
 ---
 

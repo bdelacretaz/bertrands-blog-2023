@@ -4,6 +4,7 @@ date: 2004-03-16
 tags: 
   - "java"
   - "post"
+  - groovy
 slug: groovy-jsr
 ---
 

@@ -4,6 +4,7 @@ date: 2003-12-12
 tags: 
   - "tools"
   - "post"
+  - groovy
 slug: groovy-10-beta-1-is-out
 ---
 

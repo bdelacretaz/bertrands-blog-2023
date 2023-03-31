@@ -16,6 +16,7 @@ Also, I like to keep usage of xsl:choice and xsl:if to the bare minimum in XSLT 
 
 So, here's my version of the same thing - I know Steven's version is most probably a quick hack, but if Tom needs to be "converted" to XSLT, better show him the cleanest possible thing. This version can certainly be improved too, any takers?
 
+```xml
     <?xml version="1.0"?>
     <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output encoding="ISO-8859-1" method="xml"/>
@@ -61,9 +62,12 @@ So, here's my version of the same thing - I know Steven's version is most probab
     </xsl:template>
 
     </xsl:stylesheet>
+````
 
 By the way (note to self), here's how I transformed my XSLT to insert it here:
 
+```bash
     sed 's/&/\\&amp;/g' | sed 's/</\\&lt;/g'
+```
 
 Cool - I'll be able to add a blogroll here too, thanks Steven!

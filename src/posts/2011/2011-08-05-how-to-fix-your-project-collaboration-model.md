@@ -6,6 +6,7 @@ tags:
   - "collaboration"
   - opensource
   - "post"
+  - bugzilla
 slug: how-to-fix-your-project-collaboration-model
 ---
 

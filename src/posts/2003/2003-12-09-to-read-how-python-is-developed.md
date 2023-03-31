@@ -4,6 +4,7 @@ date: 2003-12-09
 tags: 
   - "tools"
   - "post"
+  - bugzilla
 slug: to-read-how-python-is-developed
 ---
 

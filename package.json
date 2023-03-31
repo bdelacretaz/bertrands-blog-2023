@@ -12,6 +12,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "clean-css": "^5.1.5",
     "cross-env": "^7.0.3",
     "eleventy-plugin-svg-sprite": "^1.2.1",

@@ -2,7 +2,7 @@
 title: "Fixing the output of mvn eclipse:eclipse for Sling"
 date: 2008-05-26
 tags: 
-  - "tools"
+  - xslt
   - "post"
 slug: fixing-the-output-of-mvn-eclipseeclipse-for-sling
 ---
@@ -15,6 +15,7 @@ If you like to work in the same way (I know many people like go further with the
 
 This scripts "fixes" all _.project_ and _.classpath_ files under the current directory (uses _xsltproc_):
 
+```bash
 #!/bin/bash
 XSLT=$(dirname $0)/fix-eclipse-maven.xsl
 TMPF=/tmp/$$.tmp
@@ -35,9 +36,11 @@ do
   rm -f $c
   mv $TMPF $c
 done
+```
 
 And uses this XSLT transform to get rid of the build commands in .project files:
 
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 
 <xsl:stylesheet version="1.0"
@@ -54,3 +57,4 @@ And uses this XSLT transform to get rid of the build commands in .project files:
   <!-- remove all Eclipse buildCommands -->
   <xsl:template match="buildCommand"/>
 </xsl:stylesheet>
+```

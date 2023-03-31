@@ -7,6 +7,7 @@ const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const vimeoEmbed = require("./src/11ty/vimeoEmbed.js");
 const pdfEmbed = require("./src/11ty/pdfEmbed.js");
 const slugify = require("slugify");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = function (config) {
   // PASSTHROUGHS
@@ -35,6 +36,7 @@ module.exports = function (config) {
     svgShortcode: "icon",
     globalClasses: "icon",
   });
+  config.addPlugin(syntaxHighlight);
 
   // EXTRAS //
   // Post List Excerpts

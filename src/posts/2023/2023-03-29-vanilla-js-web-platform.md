@@ -5,6 +5,7 @@ tags:
   - post
   - current
   - webplatform
+  - webcomponents
   - conferences
 slug: vanilla-js-web-platform
 ---

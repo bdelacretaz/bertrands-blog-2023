@@ -13,6 +13,7 @@ Intrigued by Lars Trieloff's _DAX - Where flowscript and XSLT meet_ talk title f
 
 See this excerpt from Mindquarry's [AnalysisTransform](https://www.mindquarry.org/repos/dax/trunk/dax-java/src/test/java/dax/examples/AnalysisTransform.java) example:
 
+```js
 /\*\*
 \* Match all romeo and juliet line elements and update speaker map
 \* @param node line element
@@ -46,8 +47,7 @@ t.execute(doc);
 assertEquals( t.lines.get("Rom."), new Integer(606));
 assertEquals( t.lines.get("Jul."), new Integer(542));
 }
-}
-
+```
 Great stuff! There's more info on the [Mindquarry wiki](https://www.mindquarry.org/work#/wiki/dax/Start), and Lars will be at the GT to tell us more.
 
 The [Transformer](https://www.mindquarry.org/repos/dax/trunk/dax-java/src/main/java/dax/Transformer.java) code is also an interesting example of how to put Java annotations to good use.

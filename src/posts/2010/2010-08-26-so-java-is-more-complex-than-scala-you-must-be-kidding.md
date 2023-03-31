@@ -14,6 +14,7 @@ My esteemed colleague Michael Duerig posts about [Scala code being simpler than 
 
 His Scala example is beautiful, no question about it:
 
+```scala
 object ScalaMain {
   case class Person(name: String, age: Int)
 
@@ -29,6 +30,7 @@ object ScalaMain {
     println (majors.mkString(", "))
   }
 }
+```
 
 Though I wonder how many Scala programmers are actually able to come up with such concise and elegant code.
 
@@ -36,6 +38,7 @@ Michi's corresponding java example, however, is...let's say _horrible_. Like mak
 
 Here's my (slightly) more elegant Java version:
 
+```java
 import java.util.List;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -73,6 +76,7 @@ public class Person extends HashMap<String, Object> {
         // \[{age=40, name=Boris}, {age=32, name=Betty}\]
     }
 }
+```
 
 Not bad hey? 37 lines all included, and although Java does require more boilerplate code, it's not too bad.
 
