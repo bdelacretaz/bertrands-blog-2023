@@ -23,6 +23,7 @@ I've been thinking a lot about how to best combine compiled and interpreted code
 
 First you build your java components, quickly play with them with small scripts to get the interfaces right, and finally you write interpreted stuff like:
 
+```js
     // display choices and vote
     flashDisplay.showScreen("screen-1 selection=12");
     filmName = votingRules.vote();
@@ -37,6 +38,7 @@ First you build your java components, quickly play with them with small scripts 
     video.play();
     video.waitForEnd();
     . . .
+```
 
 This is the kind of code that you can even show to your customers to discuss the details, but all the critical machinery is safely defined in java code.
 
