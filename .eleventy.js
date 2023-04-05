@@ -13,6 +13,7 @@ module.exports = function (config) {
   // PASSTHROUGHS
   config.addPassthroughCopy("src/assets/images/");
   config.addPassthroughCopy("src/assets/js/");
+  config.addPassthroughCopy("src/assets/css/");
 
   // LAYOUTS //
   config.addLayoutAlias("base", "layouts/base.njk");
