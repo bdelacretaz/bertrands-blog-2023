@@ -9,6 +9,8 @@ tags:
 slug: stefanos-mazzocchis-busy-list-pattern
 ---
 
+_Update: I'm re-reading this in April 2023, twelve years later, and it's impressive how well this also applies to our modern chat-based communications channels. The Basic Principles never change, really_.
+
 Since being part of a larger company, I'm hearing people saying _"we need a new mailing list for that"_ way too often.
 
 People are afraid of busy mailing lists sometimes, but in terms of fostering open collaboration and communities a busy list is excellent.
