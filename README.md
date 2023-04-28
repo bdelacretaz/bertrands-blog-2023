@@ -1,8 +1,7 @@
 bertrands-blog-2023
 ---
 
-Porting my [grep.codeconsult.ch blog](https://grep.codeconsult.ch/)
-to [11ty](https://www.11ty.dev/).
+I ported my [grep.codeconsult.ch blog](https://grep.codeconsult.ch/) personal blog to [11ty](https://www.11ty.dev/) in Spring 2023.
 
 The theme is https://github.com/mattdecamp/eleventonia
 
