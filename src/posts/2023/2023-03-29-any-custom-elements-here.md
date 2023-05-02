@@ -3,16 +3,18 @@ title: "Any custom HTML elements on this page?"
 date: 2023-03-28
 tags: 
   - post
-  - current
   - webplatform
   - webcomponents
   - javascript
+  - favorite
 slug: any-custom-elements-here
 ---
 
 Speaking of Web Components, this script lists the
 [custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 registered on a browser's current page.
+
+<!-- excerpt -->
 
 ```js
 (

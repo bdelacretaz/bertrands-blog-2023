@@ -4,6 +4,7 @@ date: 2017-11-23
 tags: 
   - "collaboration"
   - "post"
+  - async-decisions
   - favorite
 slug: status-meetings-are-a-waste-of-time-and-money
 ---
