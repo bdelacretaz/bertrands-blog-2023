@@ -43,3 +43,15 @@ hr {
     color: var(--border-very-light);
     x-border-top: dashed var(--border-very-light) 3px;
 }
+
+.small {
+    font-size: var(--font-size-small);
+}
+
+.smaller {
+    font-size: var(--font-size-smaller);
+}
+
+.nobullets {
+    list-style-type: none;
+}
