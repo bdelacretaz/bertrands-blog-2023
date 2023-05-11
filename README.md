@@ -18,4 +18,4 @@ To debug template syntax problems use
 ## Conversion notes
 
 - Export from wordpress.com, provides an XML file for the content and a tar file for images
-- Use https://github.com/lonekorean/wordpress-export-to-markdown to convert to Markdown. This required some changes to get the right front matter, including a `slug` to keep the original URLs, patch saved under `old-blog-import` .
+- Use https://github.com/lonekorean/wordpress-export-to-markdown to convert to Markdown. This required some changes to get the right front matter, including a `slug` to keep the original URLs, patch saved under `old-blog-import`  .
