@@ -3,7 +3,8 @@ title: "VanillaJS & the Web Platform, a match made in heaven?"
 date: 2023-03-29
 tags: 
   - post
-  - current
+  - favorite
+  - talk
   - webplatform
   - webcomponents
   - conferences

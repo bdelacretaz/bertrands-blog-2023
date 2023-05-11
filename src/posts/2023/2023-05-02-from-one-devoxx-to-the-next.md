@@ -5,7 +5,8 @@ tags:
   - "post"
   - devoxx
   - conferences
-  - current
+  - favorite
+  - talk
   - async-decisions
   - collaboration
 slug: from-one-devoxx-to-the-next
