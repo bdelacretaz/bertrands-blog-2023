@@ -13,6 +13,8 @@ slug: distributed-teams-that-actually-work
 
 Here are the slides and recording of my "Distributed teams that _actually_ work" talk at Devoxx UK today.
 
+<!-- excerpt -->
+
 {% youtube "https://www.youtube.com/watch?v=CELwvrsktzM" %}
 
 
@@ -26,7 +28,7 @@ timing is always a challenge when doing a talk for the first time. It worked.
 "Distributed teams that _actually_ work - Devoxx UK London, May 2023"
 %}
 
-I think the talk went well, as a compliation of thoughts and recommendations based on 
+I think the talk went well, as a compilation of thoughts and recommendations based on 
 some of [my other talks](https://pinboard.in/u:bdelacretaz/t:pressbook/).
 Lots of great questions from the audience, thank you!
 
