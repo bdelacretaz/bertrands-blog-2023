@@ -8,6 +8,7 @@ tags:
   - webplatform
   - webcomponents
   - conferences
+  - current
 slug: vanilla-js-web-platform
 ---
 

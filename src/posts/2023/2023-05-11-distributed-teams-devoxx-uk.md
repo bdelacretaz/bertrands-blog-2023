@@ -7,7 +7,6 @@ tags:
   - "conferences"
   - "talk"
   - "post"
-  - current
 slug: distributed-teams-that-actually-work
 ---
 
