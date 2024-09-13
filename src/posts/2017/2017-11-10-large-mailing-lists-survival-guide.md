@@ -5,6 +5,7 @@ tags:
   - "adobe"
   - "collaboration"
   - "post"
+  - "mailing-lists"
   - favorite
   - netiquette
 slug: large-mailing-lists-survival-guide

@@ -5,6 +5,7 @@ tags:
   - "opensource"
   - "collaboration"
   - "post"
+  - "mailing-lists"
   - favorite  
 slug: stefanos-mazzocchis-busy-list-pattern
 ---

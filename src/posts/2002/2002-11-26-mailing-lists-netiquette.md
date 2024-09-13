@@ -6,6 +6,7 @@ tags:
   - "post"
   - favorite
   - netiquette
+  - "mailing-lists"
 slug: mailing-lists-netiquette
 ---
 

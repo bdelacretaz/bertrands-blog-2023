@@ -5,6 +5,7 @@ tags:
   - "asf"
   - "collaboration"
   - opensource
+  - "mailing-lists"
   - "post"
 slug: this-is-how-we-work-at-apache
 ---

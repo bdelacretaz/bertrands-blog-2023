@@ -5,6 +5,7 @@ tags:
   - "asf"
   - "collaboration"
   - "thoughts"
+  - "mailing-lists"
   - "post"
   - favorite
 slug: the-single-mailing-list-dream
