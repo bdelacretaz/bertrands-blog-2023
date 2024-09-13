@@ -11,20 +11,18 @@ tags:
 slug: surviving-large-mailing-lists-2024
 ---
 
-![Collaboration is key](/assets/images/adobe-firefly-people-around-a-bonfire.webp)
-
-It'll soon be 25 years since I started being collaborating via 
-[mailing lists](/tags/mailing-lists)
-in open source communities.
-
-The [best practices](/2017/11/10/large-mailing-lists-survival-guide/)
-haven't changed much since I started doing that: using mailing lists
-efficiently requires discipline from everyone involved, and if that's
-lacking you get a big mess, misunderstandings and a waste of time.
-
-How to avoid that? Read on!
+It'll soon be 25 years since I started collaborating via 
+mailing lists in open source communities.
 
 <!-- excerpt -->
+
+![Image of people chatting around a bonfire, generated using Adobe Firefly, as the Content Credentials will tell you](/assets/images/adobe-firefly-people-around-a-bonfire.webp)
+
+The [best practices](/2017/11/10/large-mailing-lists-survival-guide/)
+for using [mailing lists](/tags/mailing-lists)
+haven't changed much since I started doing that: using mailing lists efficiently requires discipline from everyone involved, and if that's lacking you get a big mess, misunderstandings and a waste of time.
+
+How to avoid that? Read on!
 
 ## One Topic Per Thread
 
@@ -131,5 +129,3 @@ a mailing list that's used without the required discipline.
 Creating a nicer and more productive collaboration environment requires
 some effort from everyone involved. I hope this article inspires you
 to do your part!
-
-_Image generated using [Adobe Firefly](https://firefly.adobe.com/), as the [Content Credentials](https://contentauthenticity.org/) will tell you._
