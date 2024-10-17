@@ -6,11 +6,6 @@
             "title": "Blog"
         },
         {
-            "name": "History",
-            "url": "/history/",
-            "title": "History - all posts"
-        },
-        {
             "name": "Pressbook",
             "url": "/pressbook/",
             "title": "Pressbook: all ze links!"
@@ -19,6 +14,11 @@
             "name": "Who?",
             "url": "/about-me/",
             "title": "Who's this guy?"
+        },
+        {
+            "name": "History",
+            "url": "/history/",
+            "title": "History - all posts"
         }
     ]
 }

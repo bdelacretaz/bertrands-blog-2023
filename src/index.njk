@@ -6,6 +6,14 @@ permalink: '/'
 
 {% include "partials/search.njk" %}
 
+<h2>VOTD - Video Of The Day</h2>
+{% set link = highlights[0] %}
+<div class="video">
+  <h4>{{link.title}}</h4>
+  {% youtube link.video  %} 
+  <p>{{link.description}}</p>
+</div>
+
 <h2>Current Affairs</h2>
 
 <img

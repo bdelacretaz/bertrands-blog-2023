@@ -6,10 +6,28 @@ permalink: /pressbook/
 
 {% include "partials/search.njk" %}
 
+<section class="pressbook">
+
 <h2>Pressbook</h2>
 
-Here is a list of links to recordings of my talks, interviews
-and the like. 
+Here is a list of recordings of my conference talks, as well as interviews
+and articles that I wrote or participated in.
+
+Some in French, some in English as I present in both languages.
+
+<h3>Conference Talks Highlights</h3>
+
+<div class="videos">
+{% for link in highlights %}
+  <div class="video">
+    <h4>{{link.title}}</h4>
+    {% youtube link.video  %} 
+    <p>{{link.description}}</p>
+  </div>
+{% endfor %}
+</div>
+
+<h3>The Big List of recordings, interviews and articles</h3>
 
 It is a long list indeed, going back quite some time in reverse
 chronological order.
@@ -23,3 +41,5 @@ chronological order.
   {% endif %}
 {% endfor %}
 </ul>
+
+</section>
