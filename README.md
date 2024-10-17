@@ -8,7 +8,7 @@ The theme is https://github.com/mattdecamp/eleventonia
 ## How to build the site
 
     npm install
-    npm run 11ty:dev
+    npm run 11ty:dev # and open http://localhost:8080/
     npm run 11ty:prod
 
 To debug template syntax problems use

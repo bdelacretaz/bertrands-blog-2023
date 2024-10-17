@@ -8,22 +8,18 @@ permalink: /pressbook/
 
 <h2>Pressbook</h2>
 
-Oops...my pressbook is currently broken, working on it!
-<!--
-<p>
-What I call my pressbook is
-<a href="https://pinboard.in/u:bdelacretaz/t:pressbook/">a set of links on pinboard.in</a>.
-</p>
+Here is a list of links to recordings of my talks, interviews
+and the like. 
 
-<p>
-It lists recordings of my conference talks, interviews,
-guest blog posts and other things that you might find useful.
-</p>
+It is a long list indeed, going back quite some time in reverse
+chronological order.
 
-<a href="https://pinboard.in/u:bdelacretaz/t:pressbook/">
-  <img
-    src="/assets/images/pressbook-screenshot.webp" 
-    alt="Screenshot of my pressbook"
-  />
-</a>
--->
+<ul>
+{% for link in pinboard %}
+  {% if 'pressbook' in link.tags %}
+    <li>
+      <a href="{{ link.href }}">{{ link.description }}</a>
+    </li>
+  {% endif %}
+{% endfor %}
+</ul>
