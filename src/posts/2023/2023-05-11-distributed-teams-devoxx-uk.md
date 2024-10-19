@@ -28,7 +28,7 @@ timing is always a challenge when doing a talk for the first time. It worked.
 %}
 
 I think the talk went well, as a compilation of thoughts and recommendations based on 
-some of [my other talks](https://pinboard.in/u:bdelacretaz/t:pressbook/).
+some of [my other talks](/pressbook).
 Lots of great questions from the audience, thank you!
 
 Many thanks also to the organizers, great event, great venue, great organization, all positive!
