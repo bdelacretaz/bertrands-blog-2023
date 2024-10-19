@@ -6,6 +6,7 @@ const uniqFilter = require('./src/11ty/uniqFilter.js');
 const youTubeEmbed = require("./src/11ty/youtubeEmbed.js");
 const vimeoEmbed = require("./src/11ty/vimeoEmbed.js");
 const pdfEmbed = require("./src/11ty/pdfEmbed.js");
+const audioEmbed = require("./src/11ty/audioEmbed.js");
 const slugify = require("slugify");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
@@ -14,6 +15,7 @@ module.exports = function (config) {
   config.addPassthroughCopy("src/assets/images/");
   config.addPassthroughCopy("src/assets/js/");
   config.addPassthroughCopy("src/assets/css/");
+  config.addPassthroughCopy("src/assets/audio/");
 
   // LAYOUTS //
   config.addLayoutAlias("base", "layouts/base.njk");
@@ -29,6 +31,7 @@ module.exports = function (config) {
   config.addShortcode("youtube", youTubeEmbed);
   config.addShortcode("vimeo", vimeoEmbed);
   config.addShortcode("pdf", pdfEmbed);
+  config.addShortcode("audio", audioEmbed);
 
   // PLUG-INS //
   config.addPlugin(pluginRss);
