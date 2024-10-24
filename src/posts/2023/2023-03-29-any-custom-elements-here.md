@@ -7,7 +7,6 @@ tags:
   - webcomponents
   - javascript
   - favorite
-  - current
 slug: any-custom-elements-here
 ---
 
