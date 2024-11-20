@@ -6,16 +6,6 @@ permalink: '/'
 
 {% include "partials/search.njk" %}
 
-<h2>VOTD - Video Of The Day</h2>
-{% set link = highlights[0] %}
-<div class="video">
-  <h4>{{link.title}}</h4>
-  {% youtube link.video  %} 
-  <p>{{link.description}}</p>
-</div>
-
-There's more videos of my talks and interviews on the <a href="/pressbook">pressbook</a> page.
-
 <h2>Current Affairs</h2>
 
 <img
@@ -28,6 +18,16 @@ There's more videos of my talks and interviews on the <a href="/pressbook">press
   {% set postlist = collections[ "current" ] %} 
   {% include "partials/list-of-posts.njk" %}
 </article>
+
+<h2>VOTD - Video Of The Day</h2>
+{% set link = highlights[0] %}
+<div class="video">
+  <h4>{{link.title}}</h4>
+  {% youtube link.video  %} 
+  <p>{{link.description}}</p>
+</div>
+
+There's more videos of my talks and interviews on the <a href="/pressbook">pressbook</a> page.
 
 <h2>Favorite posts</h2>
 

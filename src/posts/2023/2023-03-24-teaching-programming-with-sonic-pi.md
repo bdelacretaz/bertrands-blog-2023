@@ -7,7 +7,6 @@ tags:
   - music
   - teaching
   - sonicpi
-  - current
 slug: teaching-programming-sonic-pi-ftw
 ---
 
