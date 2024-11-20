@@ -17,7 +17,7 @@ early eighties, as told by the articles linked at the end of this post.
 
 <!-- excerpt -->
 
-![A synth & drum machine in a cage](/assets/images/firefly-a-synth-and-drum-machine-in-a-cage.jpg)
+![A synth & drum machine in a cage](/assets/images/firefly-a-synth-and-drum-machine-in-a-cage.webp)
 
 Such a ban sounds funny today, we are _way_ past that fortunately. 
 
