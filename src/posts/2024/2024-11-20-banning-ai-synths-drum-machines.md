@@ -70,3 +70,14 @@ consumption of AI services. I was happy to read about
 recently, which perform well for a fraction of the energy cost, and
 I'm confident we'll progress over time. We need to take our engineers
 ethics seriously and keep the pressure so that such progress happens._
+
+## P.P.S More AI: an AI-generated podcast of this page
+
+_Update from January 31st 2025._
+
+To complete the "AI as of early 2025" picture, I have asked Google's [NotebookLM](https://notebooklm.google.com/) to
+generate an audio podcast of this page. I am quite impressed by the
+results, it makes sense and I find it reasonably enjoyable to listen to. Definitely useful for anyone who for some reason prefers getting this information in audio, assuming no hallucinations. I haven't heard
+anything really wrong in the below result.
+
+{%audio "/assets/audio/banning-ai-synths-drum-machines-notebooklm-podcast-january-2025.mp3" %}
