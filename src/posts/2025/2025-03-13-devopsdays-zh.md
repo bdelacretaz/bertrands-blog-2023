@@ -14,7 +14,11 @@ _Information for attendees of my talk at
 
 ![DevOpsDays Zürich logo](/assets/images/devops-zh-logo.png)
 
-TODO include a link to the talk's slides.
+{% pdf
+"https://files.codeconsult.ch/slides/devopsdays-zh-simplicity-bertrand-2025.pdf",
+"The Power of Simplicity - Crafting Durable Software Systems - DevOpsDays Zurich 2025"
+%}
+
 
 I will add a link to the recording here, once it's published.
 
