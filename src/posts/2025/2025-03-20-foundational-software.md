@@ -11,14 +11,14 @@ tags:
 slug: foundational-vs-application-software
 ---
 
-We often consider software engineering as one discipline, but I think _foundational_
-and _application_ software are almost two different worlds.
+We often consider software engineering as one discipline, but I think foundational
+and application software are almost two different worlds.
+
+<!-- excerpt -->
 
 The required skills and processes can be _very_ different when building foundational
 software that's expected to run for years, as opposed to application software that
 might have a much shorter lifespan.
-
-<!-- excerpt -->
 
 This is especially important when considering that large parts of our software can
 be _generated_ nowadays, as opposed to being handcrafted.
@@ -74,6 +74,9 @@ the foundations on which it is built.
 The "blast radius" of application software is also generally much smaller, as
 defects will usually impact a small percentage of the software's scope, without
 influence on other modules.
+
+So the risks in generating application software are much lower, again depending
+on how critical a given module is.
 
 ## How to treat both types of software
 
