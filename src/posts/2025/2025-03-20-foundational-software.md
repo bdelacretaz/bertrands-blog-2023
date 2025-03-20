@@ -101,8 +101,10 @@ or do you need high quality hand-crafted software throughout for that mission cr
 infrastructure?
 
 There's space for both 100% generated and 100% handcrafted software depending
-on how and how long it will be used. As generative AI progresses, we will
-certainly automate more things, but I think we have to be careful not to overuse
+on how and how long it will be used. And everything in between, of course.
+
+As generative AI progresses, we will
+certainly automate more things, but I think we have to be careful, not to overuse
 automation at the expense of the level of quality required for a given module.
 
 
