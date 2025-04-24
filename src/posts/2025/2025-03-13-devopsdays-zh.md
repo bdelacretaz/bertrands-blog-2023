@@ -41,6 +41,12 @@ are available in my [pressbook](/pressbook).
 
 <br class="float-clear"/>
 
+## Video recording (25 minutes)
+
+{% vimeo "https://vimeo.com/1072864393" %}
+
+## Slides
+
 {% pdf
 "https://files.codeconsult.ch/slides/devopsdays-zh-simplicity-bertrand-2025.pdf",
 "The Power of Simplicity - Crafting Durable Software Systems - DevOpsDays Zurich 2025"
