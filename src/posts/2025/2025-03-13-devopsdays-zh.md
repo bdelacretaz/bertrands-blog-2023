@@ -1,5 +1,5 @@
 ---
-title: "First time at DevOpsDays, enjoyed it a lot!"
+title: "The Power of Simplicity - my first time at DevOpsDays"
 date: 2025-03-13
 slug: zh
 tags: 
