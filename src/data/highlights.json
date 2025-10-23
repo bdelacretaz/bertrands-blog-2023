@@ -1,5 +1,10 @@
 [
   {
+    "video": "https://www.youtube.com/watch?v=UGSSA8MaYVI",
+    "title": "An Illustrated History of Apache Sling",
+    "description": "At adaptTo 2025 in Berlin, on how we got Sling to be reliable and maintainable over so many years."
+  },
+  {
     "video": "https://vimeo.com/1072864393",
     "title": "The Power of Simplicity - crafting durable software",
     "description": "At DevOpsDays Zürich 2025, on simplicity in software design. Also available in English elsewhere on this page."

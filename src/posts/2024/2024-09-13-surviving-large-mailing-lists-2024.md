@@ -3,7 +3,6 @@ title: "Surviving large mailing lists in 2024"
 date: 2024-09-13
 tags: 
   - "collaboration"
-  - "current"
   - "favorite"
   - "netiquette"
   - "mailing-lists"
