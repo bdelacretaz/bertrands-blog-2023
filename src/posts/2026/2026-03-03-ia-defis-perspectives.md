@@ -34,7 +34,7 @@ Face aux discours souvent contradictoires sur les enjeux et les qualités de l'I
 mieux comprendre les fondamentaux de cette technologie
 va nous aider à trouver un chemin praticable.
 
-Pour ce faire, cette conférence vous emmène « sous le capot » des Grands Modèles de Langage (Large Language Models, LLM) et des services qui propulsent cette mutation. Loin du jargon technique, nous découvrirons leurs principes de base et leurs limites à travers d'exemples concrets.
+Pour ce faire, cette conférence vous emmène « sous le capot » des Grands Modèles de Langage (Large Language Models, LLM) et des services qui propulsent cette mutation. Loin du jargon technique, nous découvrirons leurs principes de base et leurs limites au travers d'exemples concrets.
 
 Prédire l'avenir reste difficile, mais mieux comprendre comment l'IA fonctionne
 vous aidera a en tirer le meilleur parti, pour participer à cette évolution de manière
@@ -42,7 +42,7 @@ responsable et durable.
 
 ## Bertrand Delacrétaz
 
-Ingénieur retraité, [Bertrand Delacrétaz](/about-me) a consacré plus de 40 ans au développement de logiciels dans le domaine du Web, travaillant notamment pour le Parlement Fédéral Suisse, la Radio Télévision Suisse et pour Adobe en tant que Principal Scientist. Membre du comité de direction de la fondation ASF ([apache.org](https://apache.org)) pendant 14 ans, il est un acteur engagé du logiciel libre. Depuis plus de 20 ans, il intervient dans des conférences internationales, notamment pour promouvoir une approche responsable et durable face aux mutations technologiques.
+Ingénieur retraité, [Bertrand Delacrétaz](/about-me) a consacré plus de 40 ans au développement de logiciels, principalement dans le domaine du Web, travaillant notamment pour le Parlement Fédéral Suisse, la Radio Télévision Suisse et pour Adobe en tant que Principal Scientist. Membre du comité de direction de la fondation ASF ([apache.org](https://apache.org)) pendant 14 ans, il est un acteur engagé du logiciel libre. Depuis plus de 20 ans, il intervient dans des conférences internationales, notamment pour promouvoir une approche responsable et durable face aux mutations technologiques.
 
 ---
 
