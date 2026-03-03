@@ -37,7 +37,7 @@ va nous aider à trouver un chemin praticable.
 Pour ce faire, cette conférence vous emmène « sous le capot » des Grands Modèles de Langage (Large Language Models, LLM) et des services qui propulsent cette mutation. Loin du jargon technique, nous découvrirons leurs principes de base et leurs limites à travers d'exemples concrets.
 
 Prédire l'avenir reste difficile, mais mieux comprendre comment l'IA fonctionne
-vous aidera a en tirer le meilleur parti, pour partciper à cette évolution de manière
+vous aidera a en tirer le meilleur parti, pour participer à cette évolution de manière
 responsable et durable.
 
 ## Bertrand Delacrétaz
