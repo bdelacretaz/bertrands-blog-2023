@@ -42,7 +42,7 @@ responsable et durable.
 
 ## Bertrand Delacrétaz
 
-Ingénieur retraité, [Bertrand Delacrétaz](/about-me) a consacré plus de 40 ans au développement de logiciels dans le domaine du Web, travaillant notamment pour le Parlement Fédéral Suisse, la Radio Télévision Suisse et pour Adobe en tant que Principal Scientist. Membre du comité de direction de la fondation Apache pendant 14 ans, il est un acteur engagé du logiciel libre. Depuis plus de 20 ans, il intervient dans des conférences internationales, notamment pour promouvoir une approche responsable et durable face aux mutations technologiques.
+Ingénieur retraité, [Bertrand Delacrétaz](/about-me) a consacré plus de 40 ans au développement de logiciels dans le domaine du Web, travaillant notamment pour le Parlement Fédéral Suisse, la Radio Télévision Suisse et pour Adobe en tant que Principal Scientist. Membre du comité de direction de la fondation ASF ([apache.org](https://apache.org)) pendant 14 ans, il est un acteur engagé du logiciel libre. Depuis plus de 20 ans, il intervient dans des conférences internationales, notamment pour promouvoir une approche responsable et durable face aux mutations technologiques.
 
 ---
 
