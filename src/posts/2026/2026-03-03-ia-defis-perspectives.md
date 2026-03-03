@@ -16,7 +16,7 @@ comment en tirer parti de manière responsable et durable.
 
 En attendant que je la présente, voici déjà son résumé et la biographie qui va avec!
 
-Si vous voulez vous faire une idée de mon style de présentation.
+Si vous voulez vous faire une idée de mon style de présentation,
 la page [pressbook](/pressbook) présente des enregistrements de conférences passées.
 
 
