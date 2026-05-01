@@ -1,7 +1,7 @@
 ---
 title: "Engineering & Ethics: Responsibility by Design"
 date: 2026-05-06
-slug: ethics01
+slug: ethicsZH
 tags_to_add: 
   - "current"
   - "favorite"
