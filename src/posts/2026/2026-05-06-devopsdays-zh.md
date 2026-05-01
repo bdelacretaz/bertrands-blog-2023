@@ -1,12 +1,13 @@
 ---
 title: "Engineering & Ethics: Responsibility by Design"
-date: 2025-05-06
+date: 2026-05-06
 slug: ethics01
+tags_to_add: 
+  - "current"
+  - "favorite"
 tags: 
   - "talk"
   - "post"
-  - "current"
-  - "favorite"
   - "ethics"
   - "conferences"
 ---
