@@ -47,5 +47,6 @@ Here are links to material that's presented in the talk.
 - [Ethics-by-Design Canvas Paper, EPFL](https://opus.lib.uts.edu.au/bitstream/10453/190386/2/Ethics-by-Design%20Canvas_%20a%20Visual%20Inquiry%20Tool%20to%20Reduce%20Ethical.pdf)
 - [Responsible Software course videos, EPFL](https://go.epfl.ch/responsiblesoftware-videos) - available without login
 - [Responsible Software course exercises, EPFL](https://go.epfl.ch/responsiblesoftware-notebooks) - available without login
+- [Cal Newport's books](https://calnewport.com/writing/)
 
 <br class="float-clear"/>
