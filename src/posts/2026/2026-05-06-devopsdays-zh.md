@@ -44,7 +44,7 @@ Here are links to material that's presented in the talk.
  - [CNBC's article on Steve Wozniak](https://www.cnbc.com/2018/02/02/apple-co-founder-steve-wozniaks-simple-formula-for-happiness.html) - _happiness equals smiles minus frowns_
 - [Digital Ethics, EPFL](https://www.epfl.ch/education/educational-initiatives/cede/open-and-accessible-education/digital-ethics/)
 - [Digital Ethics Canvas, EPFL](https://go.epfl.ch/canvas)
-- [Ethics-by-Design Canvas, EPFL](https://aisel.aisnet.org/icis2025/ethical_is/ethical_is/1/)
+- [Ethics-by-Design Canvas Paper, EPFL](https://opus.lib.uts.edu.au/bitstream/10453/190386/2/Ethics-by-Design%20Canvas_%20a%20Visual%20Inquiry%20Tool%20to%20Reduce%20Ethical.pdf)
 - [Responsible Software course videos, EPFL](https://go.epfl.ch/responsiblesoftware-videos) - available without login
 - [Responsible Software course exercises, EPFL](https://go.epfl.ch/responsiblesoftware-notebooks) - available without login
 
