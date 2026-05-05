@@ -20,22 +20,11 @@ I am very honored to deliver the opening keynote at DevOpsDays Zürich 2026
 <img src="/assets/images/2026/devopsdays-zh-logo.webp" alt="DevOpsDays Zürich 2026">
 </a>
 
-For now this page contains the talk's abstract and relevant links.
-
-I will add slides soon after the conference, and the video recording as soon as it's available
-
-# Abstract
 As engineers, we might build systems that shape millions of lives, but it’s easy to lose sight of their broader impact. How do we balance the pressure to ship fast, or even AI-fast, with our responsibility to society?
 
-<img alt="Engineering & Ethics" src="/assets/images/2026/ethics-outline-20260501.webp">
-
-This talk draws on 40+ years in software engineering to explore practical approaches to ethical decision-making in technical roles.
-
-I’ll share concrete examples of how individual engineers can make a difference, with empathy and persistence, and discuss when it makes sense to just walk away.
-
-I’ll also discuss strategies for raising concerns effectively, how to advocate for ethics without derailing your career.
-
-There’s no magic recipe for being an ethical engineer, but you can develop your own principles and the courage to act on them. This session will help you start building that practice, whether you’re early in your career or a seasoned veteran reconsidering your path.
+That's the topic of this talk, which I think is very relevant at a time where things are
+evolving really fast in our industry. It's too easy to lose sight of the ethical aspects
+of what we are doing, as a form of _ethical blindness_ as described in the talk.
 
 ## Links
 
@@ -53,3 +42,14 @@ Here are links to material that's presented in the talk.
 - [Cal Newport's books](https://calnewport.com/writing/)
 
 <br class="float-clear"/>
+
+## Video recording
+
+I'll add the video here as soon as it's available!
+
+## Slides
+
+{% pdf
+"https://files.codeconsult.ch/slides/ethics-bertrand-devopsdays-zh-2026-05-056.pdf",
+"Ethics & Engineering: Responsibility by Design - DevOpsDays Zurich 2026"
+%}
