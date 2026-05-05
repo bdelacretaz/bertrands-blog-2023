@@ -16,6 +16,10 @@ I am very honored to deliver the opening keynote at DevOpsDays Zürich 2026
 
 <!-- excerpt -->
 
+<a target="_new" href="https://www.devopsdays.ch/">
+<img src="/assets/images/2026/devopsdays-zh-logo.webp" alt="DevOpsDays Zürich 2026">
+</a>
+
 For now this page contains the talk's abstract and relevant links.
 
 I will add slides soon after the conference, and the video recording as soon as it's available
@@ -37,7 +41,6 @@ There’s no magic recipe for being an ethical engineer, but you can develop you
 
 Here are links to material that's presented in the talk.
 
-- [DevOpsDays Zürich 2026](https://www.devopsdays.ch/), the conference
 - [Therac 25 history](https://www.tomshardware.com/software/notorious-software-bug-was-killing-people-40-years-ago-at-least-three-people-died-after-radiation-doses-that-were-100x-too-strong-from-the-buggy-therac-25-radiation-therapy-machine) by Tom's Hardware.
 - [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
 - [Infomaniak's data center](https://news.infomaniak.com/en/infomaniak-inaugurates-a-revolutionary-data-center-that-recovers-100-of-its-energy-for-building-heating/), recovers 100% of its energy to heat buildings.
