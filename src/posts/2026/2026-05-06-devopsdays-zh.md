@@ -50,7 +50,7 @@ I'll add the video here as soon as it's available!
 ## Slides
 
 {% pdf
-"https://files.codeconsult.ch/slides/ethics-bertrand-devopsdays-zh-2026-05-056.pdf",
+"https://files.codeconsult.ch/slides/ethics-bertrand-devopsdays-zh-2026-05-06.pdf",
 "Ethics & Engineering: Responsibility by Design - DevOpsDays Zurich 2026"
 %}
 
