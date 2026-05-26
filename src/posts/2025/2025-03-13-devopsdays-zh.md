@@ -5,7 +5,6 @@ slug: zh
 tags: 
   - "talk"
   - "post"
-  - "current"
   - "favorite"
   - "conferences"
 ---

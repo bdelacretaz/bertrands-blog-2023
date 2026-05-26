@@ -1,5 +1,10 @@
 [
   {
+    "video": "https://vimeo.com/1195118923",
+    "title": "Engineering & Ethics: Responsibility by Design",
+    "description": "The opening keynote of DevOpsDays Zürich 2026, in Winterthur."
+  },
+  {
     "video": "https://www.youtube.com/watch?v=UGSSA8MaYVI",
     "title": "An Illustrated History of Apache Sling",
     "description": "At adaptTo 2025 in Berlin, on how we got Sling to be reliable and maintainable, over so many years."

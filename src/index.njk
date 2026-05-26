@@ -23,7 +23,11 @@ permalink: '/'
 {% set link = highlights[0] %}
 <div class="video">
   <h4>{{link.title}}</h4>
-  {% youtube link.video  %} 
+    {% if link.video.match("vimeo") %}
+      {% vimeo link.video %}
+    {% else %}
+      {% youtube link.video %}
+    {% endif %}
   <p>{{link.description}}</p>
 </div>
 
