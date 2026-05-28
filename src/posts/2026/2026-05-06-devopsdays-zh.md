@@ -29,6 +29,26 @@ interested please get in touch.
 <img src="/assets/images/2026/devopsdays-zh-logo.webp" alt="DevOpsDays Zürich 2026" style="float:right;width:33%;">
 </a>
 
+## Questions & Answers
+
+Here are a few questions that I got after the talk.
+
+_Q: How best to report repeated "violations" of my company's values?_
+
+A: I recommend keeping a written log of things that you think don't match the organisation's values.
+Being very specific, including dates and times, people involved and factual information about what you think
+is problematic, will help have constructive discussions with leadership. Vague statements such as
+"we never really act according to our values" are generally not helpful.
+
+_Q: It's not uncommon to see a company start with noble ethical goals, and progressively forget about ethics as the company grows and progresses. What do you think happens, and how to avoid it?_
+
+A: One scenario that I see is enthusiastic company founders having high ethical standards as they start their business, and later as the company grows having to hire more people who do not share the same values and goals. And/or lacking time or energy to communicate to their
+new colleagues about their ethical goals. This can easily dilute the company's ethics.
+Having documented values and ethical standards, as mentioned in my talk,
+will help. Also, focusing on growth at all costs is likely to lead to ethics becoming less important over time. There are great
+examples of companies which are careful to grow at a sustainable pace, as opposed to as fast as possible, in order to avoid losing
+their culture as they grow.
+
 ## Links
 
 Here are links to material that's presented in the talk.
