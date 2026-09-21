@@ -42,3 +42,9 @@ Les réservations vont bon train, n'attendez pas trop pour
 prendre vos billets!
 
 Je mettrai l'enregistrement ici dès qu'il sera disponible.
+
+## Liens
+
+- [Euria](https://euria.infomaniak.com), chatbot "raisonnable" de Infomaniak, aussi en version gratuite
+- [Mono.chat](https://mono.chat/bertrand), chatbot multi-modèles, CHF 20 par mois, service suisse!
+
