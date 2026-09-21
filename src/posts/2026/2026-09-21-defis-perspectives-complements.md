@@ -27,8 +27,7 @@ a l'Azimut, Estavayer-le-Lac: "Intelligence Artificielle, défis et perspectives
   src="/assets/images/ia-defis-plan.webp"
   class="image-float-right-30pct">
 
-Cette conférence est destinée au grand public, pas besoin
-d'être spécialiste pour comprendre!
+[Cette conférence](https://l-azimut.ch/evenement/intelligence-artificielle/) est destinée au grand public, pas besoin d'être spécialiste pour comprendre!
 
 J'y relève le défi d'expliquer à tout le monde les principes
 de fonctionnement des Grands Modèles de Langages (LLM) avec
