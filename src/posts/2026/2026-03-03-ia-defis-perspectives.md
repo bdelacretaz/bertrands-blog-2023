@@ -19,6 +19,9 @@ En attendant que je la présente, voici déjà son résumé et la biographie qui
 Si vous voulez vous faire une idée de mon style de présentation,
 la page [pressbook](/pressbook) présente des enregistrements de conférences passées.
 
+Octobre 2026: la conférence a eu lieu, 
+[l'enregistrement](/2026/09/21/complements/)
+sera bientôt disponible.
 
 ## Intelligence Artificielle, défis et perspectives: le résumé
 
