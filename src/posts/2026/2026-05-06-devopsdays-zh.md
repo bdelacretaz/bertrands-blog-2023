@@ -16,6 +16,9 @@ I was very honored to deliver the opening keynote at DevOpsDays Zürich 2026
 
 <!-- excerpt -->
 
+If you attended the BaselOne presentation of this talk, your feedback
+is welcome at [https://sfeedback.com/VF57Vd](https://sfeedback.com/VF57Vd)
+
 > As engineers, we might build systems that shape millions of lives, but it’s easy to lose sight of their broader impact. How do we balance the pressure to ship fast, or even AI-fast, with our responsibility to society?
 
 I think it went well, though being a new talk some adjustments will be needed for next time!
